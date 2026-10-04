@@ -1,0 +1,16 @@
+{
+  "posterior_cases": 54,
+  "partial_transcripts": 81,
+  "max_ibp_absolute_error": 1.3509159069169385e-16,
+  "max_normalized_derivative_relative_error": 1.2205351354053047e-08,
+  "min_observed_covariance": 0.0007814566742605146,
+  "rigorous_scalar_covariance_lower_bound": 2.2697832678840545e-05,
+  "min_first_walsh_coefficient": 9.23884753433277e-06,
+  "min_projection_slack": -2.0679515313825692e-25,
+  "noncommuting_hessian_spectrum": [
+    0.42432498473971836,
+    0.5756750152602816
+  ],
+  "noncommuting_hessian_commutator_norm": 0.00425258635899856,
+  "all_checks_passed": true
+}

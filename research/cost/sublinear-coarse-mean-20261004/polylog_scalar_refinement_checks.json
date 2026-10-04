@@ -1,0 +1,456 @@
+{
+  "status": "PASS",
+  "assertions": 577,
+  "source_sha256": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+  "parameter_fixtures": [
+    {
+      "rho": 0.001,
+      "log_inverse_delta": 2.01,
+      "K": 25,
+      "B": 25,
+      "M": 608162231,
+      "complete_provider_count": 15812218006
+    },
+    {
+      "rho": 0.001,
+      "log_inverse_delta": 3.0,
+      "K": 33,
+      "B": 33,
+      "M": 1073940375,
+      "complete_provider_count": 36513972750
+    },
+    {
+      "rho": 0.001,
+      "log_inverse_delta": 5.0,
+      "K": 49,
+      "B": 49,
+      "M": 2416217731,
+      "complete_provider_count": 120810886550
+    },
+    {
+      "rho": 0.001,
+      "log_inverse_delta": 10.0,
+      "K": 89,
+      "B": 89,
+      "M": 8120723710,
+      "complete_provider_count": 730865133900
+    },
+    {
+      "rho": 0.001,
+      "log_inverse_delta": 50.0,
+      "K": 409,
+      "B": 409,
+      "M": 174552847536,
+      "complete_provider_count": 71566667489760
+    },
+    {
+      "rho": 0.001,
+      "log_inverse_delta": 100.0,
+      "K": 809,
+      "B": 809,
+      "M": 684583192309,
+      "complete_provider_count": 554512385770290
+    },
+    {
+      "rho": 0.001,
+      "log_inverse_delta": 1000.0,
+      "K": 8009,
+      "B": 8009,
+      "M": 67243265496302,
+      "complete_provider_count": 538618556625379020
+    },
+    {
+      "rho": 0.01,
+      "log_inverse_delta": 2.01,
+      "K": 25,
+      "B": 25,
+      "M": 609558363,
+      "complete_provider_count": 15848517438
+    },
+    {
+      "rho": 0.01,
+      "log_inverse_delta": 3.0,
+      "K": 33,
+      "B": 33,
+      "M": 1075821715,
+      "complete_provider_count": 36577938310
+    },
+    {
+      "rho": 0.01,
+      "log_inverse_delta": 5.0,
+      "K": 49,
+      "B": 49,
+      "M": 2419119018,
+      "complete_provider_count": 120955950900
+    },
+    {
+      "rho": 0.01,
+      "log_inverse_delta": 10.0,
+      "K": 89,
+      "B": 89,
+      "M": 8126407397,
+      "complete_provider_count": 731376665730
+    },
+    {
+      "rho": 0.01,
+      "log_inverse_delta": 50.0,
+      "K": 409,
+      "B": 409,
+      "M": 174592749223,
+      "complete_provider_count": 71583027181430
+    },
+    {
+      "rho": 0.01,
+      "log_inverse_delta": 100.0,
+      "K": 809,
+      "B": 809,
+      "M": 684695763496,
+      "complete_provider_count": 554603568431760
+    },
+    {
+      "rho": 0.01,
+      "log_inverse_delta": 1000.0,
+      "K": 8009,
+      "B": 8009,
+      "M": 67250366548271,
+      "complete_provider_count": 538675436051650710
+    },
+    {
+      "rho": 0.1,
+      "log_inverse_delta": 2.01,
+      "K": 25,
+      "B": 25,
+      "M": 628922878,
+      "complete_provider_count": 16351994828
+    },
+    {
+      "rho": 0.1,
+      "log_inverse_delta": 3.0,
+      "K": 33,
+      "B": 33,
+      "M": 1104157426,
+      "complete_provider_count": 37541352484
+    },
+    {
+      "rho": 0.1,
+      "log_inverse_delta": 5.0,
+      "K": 49,
+      "B": 49,
+      "M": 2469551338,
+      "complete_provider_count": 123477566900
+    },
+    {
+      "rho": 0.1,
+      "log_inverse_delta": 10.0,
+      "K": 89,
+      "B": 89,
+      "M": 8255334460,
+      "complete_provider_count": 742980101400
+    },
+    {
+      "rho": 0.1,
+      "log_inverse_delta": 50.0,
+      "K": 409,
+      "B": 409,
+      "M": 176545514184,
+      "complete_provider_count": 72383660815440
+    },
+    {
+      "rho": 0.1,
+      "log_inverse_delta": 100.0,
+      "K": 809,
+      "B": 809,
+      "M": 691918025720,
+      "complete_provider_count": 560453600833200
+    },
+    {
+      "rho": 0.1,
+      "log_inverse_delta": 1000.0,
+      "K": 8009,
+      "B": 8009,
+      "M": 67920482740568,
+      "complete_provider_count": 544043066751949680
+    },
+    {
+      "rho": 1.0,
+      "log_inverse_delta": 2.01,
+      "K": 27,
+      "B": 27,
+      "M": 1482309748,
+      "complete_provider_count": 41504672944
+    },
+    {
+      "rho": 1.0,
+      "log_inverse_delta": 3.0,
+      "K": 35,
+      "B": 35,
+      "M": 2497016997,
+      "complete_provider_count": 89892611892
+    },
+    {
+      "rho": 1.0,
+      "log_inverse_delta": 5.0,
+      "K": 51,
+      "B": 51,
+      "M": 5349552645,
+      "complete_provider_count": 278176737540
+    },
+    {
+      "rho": 1.0,
+      "log_inverse_delta": 10.0,
+      "K": 91,
+      "B": 91,
+      "M": 17178512245,
+      "complete_provider_count": 1580423126540
+    },
+    {
+      "rho": 1.0,
+      "log_inverse_delta": 50.0,
+      "K": 411,
+      "B": 411,
+      "M": 353402099442,
+      "complete_provider_count": 145601664970104
+    },
+    {
+      "rho": 1.0,
+      "log_inverse_delta": 100.0,
+      "K": 811,
+      "B": 811,
+      "M": 1377661359439,
+      "complete_provider_count": 1118661023864468
+    },
+    {
+      "rho": 1.0,
+      "log_inverse_delta": 1000.0,
+      "K": 8011,
+      "B": 8011,
+      "M": 134570485479382,
+      "complete_provider_count": 1078178729660808584
+    },
+    {
+      "rho": 10.0,
+      "log_inverse_delta": 2.01,
+      "K": 37,
+      "B": 37,
+      "M": 140509045212,
+      "complete_provider_count": 5339343718056
+    },
+    {
+      "rho": 10.0,
+      "log_inverse_delta": 3.0,
+      "K": 45,
+      "B": 45,
+      "M": 208255922152,
+      "complete_provider_count": 9579772418992
+    },
+    {
+      "rho": 10.0,
+      "log_inverse_delta": 5.0,
+      "K": 61,
+      "B": 61,
+      "M": 385650711489,
+      "complete_provider_count": 23910344112318
+    },
+    {
+      "rho": 10.0,
+      "log_inverse_delta": 10.0,
+      "K": 101,
+      "B": 101,
+      "M": 1066367519070,
+      "complete_provider_count": 108769486945140
+    },
+    {
+      "rho": 10.0,
+      "log_inverse_delta": 50.0,
+      "K": 421,
+      "B": 421,
+      "M": 18712493454922,
+      "complete_provider_count": 7896672237977084
+    },
+    {
+      "rho": 10.0,
+      "log_inverse_delta": 100.0,
+      "K": 821,
+      "B": 821,
+      "M": 71271129562737,
+      "complete_provider_count": 58584868500569814
+    },
+    {
+      "rho": 10.0,
+      "log_inverse_delta": 1000.0,
+      "K": 8021,
+      "B": 8021,
+      "M": 6812512530223408,
+      "complete_provider_count": 54649975517452178976
+    },
+    {
+      "rho": 100.0,
+      "log_inverse_delta": 2.01,
+      "K": 54,
+      "B": 54,
+      "M": 29608728938110,
+      "complete_provider_count": 1628480091596050
+    },
+    {
+      "rho": 100.0,
+      "log_inverse_delta": 3.0,
+      "K": 62,
+      "B": 62,
+      "M": 39092992187155,
+      "complete_provider_count": 2462858507790765
+    },
+    {
+      "rho": 100.0,
+      "log_inverse_delta": 5.0,
+      "K": 78,
+      "B": 78,
+      "M": 62266631341208,
+      "complete_provider_count": 4919063875955432
+    },
+    {
+      "rho": 100.0,
+      "log_inverse_delta": 10.0,
+      "K": 118,
+      "B": 118,
+      "M": 143691180436581,
+      "complete_provider_count": 17099250471953139
+    },
+    {
+      "rho": 100.0,
+      "log_inverse_delta": 50.0,
+      "K": 438,
+      "B": 438,
+      "M": 2003167921154767,
+      "complete_provider_count": 879390717386942713
+    },
+    {
+      "rho": 100.0,
+      "log_inverse_delta": 100.0,
+      "K": 838,
+      "B": 838,
+      "M": 7347714716940498,
+      "complete_provider_count": 6164732647513077822
+    },
+    {
+      "rho": 100.0,
+      "log_inverse_delta": 1000.0,
+      "K": 8038,
+      "B": 8038,
+      "M": 677387722319803776,
+      "complete_provider_count": 5445519899728902555264
+    },
+    {
+      "rho": 10000.0,
+      "log_inverse_delta": 2.01,
+      "K": 90,
+      "B": 90,
+      "M": 844914949503492224,
+      "complete_provider_count": 76887260404817792384
+    },
+    {
+      "rho": 10000.0,
+      "log_inverse_delta": 3.0,
+      "K": 98,
+      "B": 98,
+      "M": 1000586792881195392,
+      "complete_provider_count": 99058092495238343808
+    },
+    {
+      "rho": 10000.0,
+      "log_inverse_delta": 5.0,
+      "K": 114,
+      "B": 114,
+      "M": 1355206466434714368,
+      "complete_provider_count": 155848743639992152320
+    },
+    {
+      "rho": 10000.0,
+      "log_inverse_delta": 10.0,
+      "K": 154,
+      "B": 154,
+      "M": 2476636676667322880,
+      "complete_provider_count": 383878684883435046400
+    },
+    {
+      "rho": 10000.0,
+      "log_inverse_delta": 50.0,
+      "K": 474,
+      "B": 474,
+      "M": 23527673999324147712,
+      "complete_provider_count": 11175645149678970163200
+    },
+    {
+      "rho": 10000.0,
+      "log_inverse_delta": 100.0,
+      "K": 874,
+      "B": 874,
+      "M": 80040459754635067392,
+      "complete_provider_count": 70035402285305683968000
+    },
+    {
+      "rho": 10000.0,
+      "log_inverse_delta": 1000.0,
+      "K": 8074,
+      "B": 8074,
+      "M": 6835078532728309678080,
+      "complete_provider_count": 55193259151781100650496000
+    },
+    {
+      "rho": 1000000.0,
+      "log_inverse_delta": 2.01,
+      "K": 127,
+      "B": 127,
+      "M": 16807204968709339742208,
+      "complete_provider_count": 2151322235994795487002624
+    },
+    {
+      "rho": 1000000.0,
+      "log_inverse_delta": 3.0,
+      "K": 135,
+      "B": 135,
+      "M": 18975802158325287616512,
+      "complete_provider_count": 2580709093532239115845632
+    },
+    {
+      "rho": 1000000.0,
+      "log_inverse_delta": 5.0,
+      "K": 151,
+      "B": 151,
+      "M": 23758117588512257605632,
+      "complete_provider_count": 3611233873453863156056064
+    },
+    {
+      "rho": 1000000.0,
+      "log_inverse_delta": 10.0,
+      "K": 191,
+      "B": 191,
+      "M": 38062716403982012514304,
+      "complete_provider_count": 7308041549564546402746368
+    },
+    {
+      "rho": 1000000.0,
+      "log_inverse_delta": 50.0,
+      "K": 511,
+      "B": 511,
+      "M": 273295462127860923236352,
+      "complete_provider_count": 139927276609464792697012224
+    },
+    {
+      "rho": 1000000.0,
+      "log_inverse_delta": 100.0,
+      "K": 911,
+      "B": 911,
+      "M": 869326282283011616538624,
+      "complete_provider_count": 792825569442106594283225088
+    },
+    {
+      "rho": 1000000.0,
+      "log_inverse_delta": 1000.0,
+      "K": 8111,
+      "B": 8111,
+      "M": 68975959765133109154021376,
+      "complete_provider_count": 559532985614759781457421402112
+    }
+  ],
+  "scope": "Checks constants, sample census, and finite clipping identities only."
+}

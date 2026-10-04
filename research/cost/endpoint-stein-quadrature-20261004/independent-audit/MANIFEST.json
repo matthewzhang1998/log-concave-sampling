@@ -1,0 +1,11 @@
+{
+  "status": "PASS bounded component only",
+  "source": "../ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+  "source_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+  "artifacts": {
+    "INDEPENDENT-ENDPOINT-STEIN-AUDIT.md": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+    "check_endpoint_stein_independent.py": "60a57fad58cabe8bcbe1c5fdda66e4eb7db27527a9a7fffff3081634470465d0",
+    "endpoint_stein_independent_checks.json": "1c0c245286c4b1481a76823e159ec8606fb9670a58bae3e5155459ab291ea300"
+  },
+  "independent_assertions": 171265
+}

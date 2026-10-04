@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-04",
+  "status": "Three scoped mathematical components independently accepted; no complete all-order source or eventual-sublinear theorem.",
+  "components": [
+    {
+      "name": "uniform C2 strong posterior-mean oracle barrier",
+      "source": "STRONG-POSTERIOR-MEAN-ORACLE-BARRIER.md",
+      "audit": "independent-audit/INDEPENDENT-STRONG-MEAN-BARRIER-AUDIT.md",
+      "result": "RMS >= c A/(N+1)^(3/2); fixed strong target A^j implies c(P)>=(P-1)/3, P=2j-1; uniform black-box class only."
+    },
+    {
+      "name": "bounded scalar positive mean-law factory",
+      "source": "SCALAR-POSITIVE-HERMITE-MEAN-LAW-FACTORY.md",
+      "audit": "independent-scalar-factory-audit/AUDIT.md",
+      "result": "Positive conditional scalar density, K independent complete records, exact known normalization, finite rejection cap."
+    },
+    {
+      "name": "polylogarithmic bounded scalar mean-law refinement",
+      "source": "POLYLOG-SCALAR-MEAN-LAW-REFINEMENT.md",
+      "audit": "independent-polylog-refinement-audit/AUDIT.md",
+      "result": "W2 <= C sigma delta using O((1+(S/sigma)^2) log^3((e+S/sigma)/delta)) complete bounded-source records."
+    }
+  ],
+  "qualifications": [
+    "No fixed-potential or general law-only lower bound.",
+    "Scalar factories do not supply a vector, smooth first/adjoint, actual pair, posterior-bias, or full numerical port.",
+    "Fresh factor banks cannot be retained; pilot retention has an integrated same-pilot error guarantee.",
+    "Stein-packet compatibility retains the sigma^2 buffer covariance debt.",
+    "Original-query counts include all provider ancestors and independent replays.",
+    "No external peer manuscript or external communication used in these components."
+  ],
+  "validation": {
+    "author_barrier_assertions": 21315,
+    "independent_barrier_posterior_cases": 54,
+    "independent_barrier_partial_transcripts": 81,
+    "initial_factory_diagnostics": 20,
+    "author_refinement_assertions": 577,
+    "author_refinement_parameter_fixtures": 56,
+    "independent_refinement_parameter_checks": 30,
+    "independent_refinement_quadratic_checks": 12,
+    "all_five_scripts_rerun": "PASS"
+  },
+  "files": [
+    {
+      "path": "POLYLOG-SCALAR-MEAN-LAW-REFINEMENT.md",
+      "sha256": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+      "bytes": 9287
+    },
+    {
+      "path": "README.md",
+      "sha256": "0d8d021ebab0f005d3b8b3c1f4fdfad8cd23edfdc180a296fdd5b5783801e7cd",
+      "bytes": 3445
+    },
+    {
+      "path": "SCALAR-POSITIVE-HERMITE-MEAN-LAW-FACTORY.md",
+      "sha256": "728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+      "bytes": 9533
+    },
+    {
+      "path": "STRONG-POSTERIOR-MEAN-ORACLE-BARRIER.md",
+      "sha256": "518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+      "bytes": 12447
+    },
+    {
+      "path": "check_polylog_scalar_refinement.py",
+      "sha256": "565f3fc71cfceeee67e63408221cc82600bc910d92dd32c9e901e914efd182dc",
+      "bytes": 2629
+    },
+    {
+      "path": "check_strong_mean_barrier.out",
+      "sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "bytes": 2170
+    },
+    {
+      "path": "check_strong_mean_barrier.py",
+      "sha256": "443ff922abdbaab890b301c6137926c00f1d6b2e86ab51ae2d55c3ea7cfaa5f9",
+      "bytes": 5234
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-STRONG-MEAN-BARRIER-AUDIT.md",
+      "sha256": "67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+      "bytes": 10977
+    },
+    {
+      "path": "independent-audit/check_strong_mean.py",
+      "sha256": "52e24da835fb9e1fb7427ee5184b969cef864a844e47a49322aa5ba6adceb1b9",
+      "bytes": 4906
+    },
+    {
+      "path": "independent-audit/numerical-check-results.json",
+      "sha256": "8d4a359ab99b152167782f1083cc650d4fd31911c637bfe9d129f75ad3047a68",
+      "bytes": 587
+    },
+    {
+      "path": "independent-polylog-refinement-audit/AUDIT.md",
+      "sha256": "27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4",
+      "bytes": 13005
+    },
+    {
+      "path": "independent-polylog-refinement-audit/check_polylog_refinement.py",
+      "sha256": "0077536aef638c43447107af35584552532bdc71fc3c78c476f1e2434703e361",
+      "bytes": 2935
+    },
+    {
+      "path": "independent-polylog-refinement-audit/diagnostics.json",
+      "sha256": "74566789ff39e173faa022d68255e376541b3255b2f05c2ba50819be514171e5",
+      "bytes": 19263
+    },
+    {
+      "path": "independent-polylog-refinement-audit/diagnostics.out",
+      "sha256": "c4ac20a49d8ed2718c6193e1a708113b154f9f2ddde6edd24349354a4b58c574",
+      "bytes": 437
+    },
+    {
+      "path": "independent-scalar-factory-audit/AUDIT.md",
+      "sha256": "be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+      "bytes": 11977
+    },
+    {
+      "path": "independent-scalar-factory-audit/check_scalar_factory.py",
+      "sha256": "23035394fd4ff78275c06d4176600e8a54498d6f21d48728cb30f5171b006c1d",
+      "bytes": 4962
+    },
+    {
+      "path": "independent-scalar-factory-audit/diagnostics.json",
+      "sha256": "d3bcfb548d4ed862b05e7f52600f76eaf14a8fb3690e68dddba9ce4cf40c4268",
+      "bytes": 11760
+    },
+    {
+      "path": "independent-scalar-factory-audit/diagnostics.out",
+      "sha256": "77a276b7cccab1108eb9b3cc53ce220894f429d993618b6535af3a97502bb16c",
+      "bytes": 878
+    },
+    {
+      "path": "polylog_scalar_refinement_checks.json",
+      "sha256": "747012733239e5824cf97c3cd89d72b4f3f86963f3fa7fc79ac1f90b99bc75c4",
+      "bytes": 10102
+    },
+    {
+      "path": "strong_mean_barrier_checks.json",
+      "sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "bytes": 2170
+    }
+  ]
+}

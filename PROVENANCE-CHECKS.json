@@ -1,5 +1,5 @@
 {
-  "snapshot_utc": "2026-10-04T19:02:23.380370Z",
+  "snapshot_utc": "2026-10-04T19:50:50.817176Z",
   "policy": "Historical audits apply only to the cited original source bytes and stated mathematical scope. Public copies may contain clearly labeled nonmathematical sanitization; their distinct hashes are mapped here and in INVENTORY.json. Sanitization does not constitute a fresh mathematical audit.",
   "bindings": [
     {
@@ -3574,6 +3574,296 @@
       "matches_original_source": true,
       "public_sha256": "dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
       "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "recorded_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "source_index_id": "sha256:4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "original_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "matches_original_source": true,
+      "public_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/MANIFEST.json",
+      "recorded_sha256": "f0f3500e80c18aa561fa4120370ab9206b042815ffb40ca459cdb8c92fb9e17f",
+      "source_index_id": "sha256:f0f3500e80c18aa561fa4120370ab9206b042815ffb40ca459cdb8c92fb9e17f",
+      "original_sha256": "f0f3500e80c18aa561fa4120370ab9206b042815ffb40ca459cdb8c92fb9e17f",
+      "matches_original_source": true,
+      "public_sha256": "eb5a57e51632f050fdfe34c75dd8a35edd43213b0e94175eb06f2ff38233b051",
+      "public_copy_is_sanitized": true,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/check_stein_quadrature.py",
+      "recorded_sha256": "2d53768ff92428e3ecee596d57cff5f74679d65b7033c6bce498acf9a2aee5fb",
+      "source_index_id": "sha256:2d53768ff92428e3ecee596d57cff5f74679d65b7033c6bce498acf9a2aee5fb",
+      "original_sha256": "2d53768ff92428e3ecee596d57cff5f74679d65b7033c6bce498acf9a2aee5fb",
+      "matches_original_source": true,
+      "public_sha256": "2d53768ff92428e3ecee596d57cff5f74679d65b7033c6bce498acf9a2aee5fb",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/INDEPENDENT-ENDPOINT-STEIN-AUDIT.md",
+      "recorded_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "source_index_id": "sha256:3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "original_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "matches_original_source": true,
+      "public_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/MANIFEST.json",
+      "recorded_sha256": "b742f68cbdb17383322bb808cea1716fc60693f2f3a58de4d1e104069e46b256",
+      "source_index_id": "sha256:b742f68cbdb17383322bb808cea1716fc60693f2f3a58de4d1e104069e46b256",
+      "original_sha256": "b742f68cbdb17383322bb808cea1716fc60693f2f3a58de4d1e104069e46b256",
+      "matches_original_source": true,
+      "public_sha256": "b742f68cbdb17383322bb808cea1716fc60693f2f3a58de4d1e104069e46b256",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/check_endpoint_stein_independent.py",
+      "recorded_sha256": "60a57fad58cabe8bcbe1c5fdda66e4eb7db27527a9a7fffff3081634470465d0",
+      "source_index_id": "sha256:60a57fad58cabe8bcbe1c5fdda66e4eb7db27527a9a7fffff3081634470465d0",
+      "original_sha256": "60a57fad58cabe8bcbe1c5fdda66e4eb7db27527a9a7fffff3081634470465d0",
+      "matches_original_source": true,
+      "public_sha256": "60a57fad58cabe8bcbe1c5fdda66e4eb7db27527a9a7fffff3081634470465d0",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/endpoint_stein_independent_checks.json",
+      "recorded_sha256": "1c0c245286c4b1481a76823e159ec8606fb9670a58bae3e5155459ab291ea300",
+      "source_index_id": "sha256:1c0c245286c4b1481a76823e159ec8606fb9670a58bae3e5155459ab291ea300",
+      "original_sha256": "1c0c245286c4b1481a76823e159ec8606fb9670a58bae3e5155459ab291ea300",
+      "matches_original_source": true,
+      "public_sha256": "1c0c245286c4b1481a76823e159ec8606fb9670a58bae3e5155459ab291ea300",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/stein_quadrature_checks.json",
+      "recorded_sha256": "87a911f830e75035b16cf35676616a6bf36754ce6fd2d5aefb88aa2ddca66a7b",
+      "source_index_id": "sha256:87a911f830e75035b16cf35676616a6bf36754ce6fd2d5aefb88aa2ddca66a7b",
+      "original_sha256": "87a911f830e75035b16cf35676616a6bf36754ce6fd2d5aefb88aa2ddca66a7b",
+      "matches_original_source": true,
+      "public_sha256": "87a911f830e75035b16cf35676616a6bf36754ce6fd2d5aefb88aa2ddca66a7b",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/MANIFEST.json",
+      "recorded_sha256": "4261dae2e183f128f1454c3e45a17c1bdc4adcee5fdbbfb31a6734fa5f559fcc",
+      "source_index_id": "sha256:4261dae2e183f128f1454c3e45a17c1bdc4adcee5fdbbfb31a6734fa5f559fcc",
+      "original_sha256": "4261dae2e183f128f1454c3e45a17c1bdc4adcee5fdbbfb31a6734fa5f559fcc",
+      "matches_original_source": true,
+      "public_sha256": "4261dae2e183f128f1454c3e45a17c1bdc4adcee5fdbbfb31a6734fa5f559fcc",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/POLYLOG-SCALAR-MEAN-LAW-REFINEMENT.md",
+      "recorded_sha256": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+      "source_index_id": "sha256:f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+      "original_sha256": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+      "matches_original_source": true,
+      "public_sha256": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/README.md",
+      "recorded_sha256": "0d8d021ebab0f005d3b8b3c1f4fdfad8cd23edfdc180a296fdd5b5783801e7cd",
+      "source_index_id": "sha256:0d8d021ebab0f005d3b8b3c1f4fdfad8cd23edfdc180a296fdd5b5783801e7cd",
+      "original_sha256": "0d8d021ebab0f005d3b8b3c1f4fdfad8cd23edfdc180a296fdd5b5783801e7cd",
+      "matches_original_source": true,
+      "public_sha256": "0d8d021ebab0f005d3b8b3c1f4fdfad8cd23edfdc180a296fdd5b5783801e7cd",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/SCALAR-POSITIVE-HERMITE-MEAN-LAW-FACTORY.md",
+      "recorded_sha256": "728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+      "source_index_id": "sha256:728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+      "original_sha256": "728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+      "matches_original_source": true,
+      "public_sha256": "728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/STRONG-POSTERIOR-MEAN-ORACLE-BARRIER.md",
+      "recorded_sha256": "518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+      "source_index_id": "sha256:518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+      "original_sha256": "518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+      "matches_original_source": true,
+      "public_sha256": "518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/check_polylog_scalar_refinement.py",
+      "recorded_sha256": "565f3fc71cfceeee67e63408221cc82600bc910d92dd32c9e901e914efd182dc",
+      "source_index_id": "sha256:565f3fc71cfceeee67e63408221cc82600bc910d92dd32c9e901e914efd182dc",
+      "original_sha256": "565f3fc71cfceeee67e63408221cc82600bc910d92dd32c9e901e914efd182dc",
+      "matches_original_source": true,
+      "public_sha256": "565f3fc71cfceeee67e63408221cc82600bc910d92dd32c9e901e914efd182dc",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/check_strong_mean_barrier.out",
+      "recorded_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "source_index_id": "sha256:f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "original_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "matches_original_source": true,
+      "public_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/check_strong_mean_barrier.py",
+      "recorded_sha256": "443ff922abdbaab890b301c6137926c00f1d6b2e86ab51ae2d55c3ea7cfaa5f9",
+      "source_index_id": "sha256:443ff922abdbaab890b301c6137926c00f1d6b2e86ab51ae2d55c3ea7cfaa5f9",
+      "original_sha256": "443ff922abdbaab890b301c6137926c00f1d6b2e86ab51ae2d55c3ea7cfaa5f9",
+      "matches_original_source": true,
+      "public_sha256": "443ff922abdbaab890b301c6137926c00f1d6b2e86ab51ae2d55c3ea7cfaa5f9",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-audit/INDEPENDENT-STRONG-MEAN-BARRIER-AUDIT.md",
+      "recorded_sha256": "67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+      "source_index_id": "sha256:67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+      "original_sha256": "67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+      "matches_original_source": true,
+      "public_sha256": "67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-audit/check_strong_mean.py",
+      "recorded_sha256": "52e24da835fb9e1fb7427ee5184b969cef864a844e47a49322aa5ba6adceb1b9",
+      "source_index_id": "sha256:52e24da835fb9e1fb7427ee5184b969cef864a844e47a49322aa5ba6adceb1b9",
+      "original_sha256": "52e24da835fb9e1fb7427ee5184b969cef864a844e47a49322aa5ba6adceb1b9",
+      "matches_original_source": true,
+      "public_sha256": "52e24da835fb9e1fb7427ee5184b969cef864a844e47a49322aa5ba6adceb1b9",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-audit/numerical-check-results.json",
+      "recorded_sha256": "8d4a359ab99b152167782f1083cc650d4fd31911c637bfe9d129f75ad3047a68",
+      "source_index_id": "sha256:8d4a359ab99b152167782f1083cc650d4fd31911c637bfe9d129f75ad3047a68",
+      "original_sha256": "8d4a359ab99b152167782f1083cc650d4fd31911c637bfe9d129f75ad3047a68",
+      "matches_original_source": true,
+      "public_sha256": "8d4a359ab99b152167782f1083cc650d4fd31911c637bfe9d129f75ad3047a68",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/AUDIT.md",
+      "recorded_sha256": "27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4",
+      "source_index_id": "sha256:27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4",
+      "original_sha256": "27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4",
+      "matches_original_source": true,
+      "public_sha256": "27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/check_polylog_refinement.py",
+      "recorded_sha256": "0077536aef638c43447107af35584552532bdc71fc3c78c476f1e2434703e361",
+      "source_index_id": "sha256:0077536aef638c43447107af35584552532bdc71fc3c78c476f1e2434703e361",
+      "original_sha256": "0077536aef638c43447107af35584552532bdc71fc3c78c476f1e2434703e361",
+      "matches_original_source": true,
+      "public_sha256": "0077536aef638c43447107af35584552532bdc71fc3c78c476f1e2434703e361",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/diagnostics.json",
+      "recorded_sha256": "74566789ff39e173faa022d68255e376541b3255b2f05c2ba50819be514171e5",
+      "source_index_id": "sha256:74566789ff39e173faa022d68255e376541b3255b2f05c2ba50819be514171e5",
+      "original_sha256": "74566789ff39e173faa022d68255e376541b3255b2f05c2ba50819be514171e5",
+      "matches_original_source": true,
+      "public_sha256": "74566789ff39e173faa022d68255e376541b3255b2f05c2ba50819be514171e5",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/diagnostics.out",
+      "recorded_sha256": "c4ac20a49d8ed2718c6193e1a708113b154f9f2ddde6edd24349354a4b58c574",
+      "source_index_id": "sha256:c4ac20a49d8ed2718c6193e1a708113b154f9f2ddde6edd24349354a4b58c574",
+      "original_sha256": "c4ac20a49d8ed2718c6193e1a708113b154f9f2ddde6edd24349354a4b58c574",
+      "matches_original_source": true,
+      "public_sha256": "c4ac20a49d8ed2718c6193e1a708113b154f9f2ddde6edd24349354a4b58c574",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/AUDIT.md",
+      "recorded_sha256": "be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+      "source_index_id": "sha256:be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+      "original_sha256": "be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+      "matches_original_source": true,
+      "public_sha256": "be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/check_scalar_factory.py",
+      "recorded_sha256": "23035394fd4ff78275c06d4176600e8a54498d6f21d48728cb30f5171b006c1d",
+      "source_index_id": "sha256:23035394fd4ff78275c06d4176600e8a54498d6f21d48728cb30f5171b006c1d",
+      "original_sha256": "23035394fd4ff78275c06d4176600e8a54498d6f21d48728cb30f5171b006c1d",
+      "matches_original_source": true,
+      "public_sha256": "23035394fd4ff78275c06d4176600e8a54498d6f21d48728cb30f5171b006c1d",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/diagnostics.json",
+      "recorded_sha256": "d3bcfb548d4ed862b05e7f52600f76eaf14a8fb3690e68dddba9ce4cf40c4268",
+      "source_index_id": "sha256:d3bcfb548d4ed862b05e7f52600f76eaf14a8fb3690e68dddba9ce4cf40c4268",
+      "original_sha256": "d3bcfb548d4ed862b05e7f52600f76eaf14a8fb3690e68dddba9ce4cf40c4268",
+      "matches_original_source": true,
+      "public_sha256": "d3bcfb548d4ed862b05e7f52600f76eaf14a8fb3690e68dddba9ce4cf40c4268",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/diagnostics.out",
+      "recorded_sha256": "77a276b7cccab1108eb9b3cc53ce220894f429d993618b6535af3a97502bb16c",
+      "source_index_id": "sha256:77a276b7cccab1108eb9b3cc53ce220894f429d993618b6535af3a97502bb16c",
+      "original_sha256": "77a276b7cccab1108eb9b3cc53ce220894f429d993618b6535af3a97502bb16c",
+      "matches_original_source": true,
+      "public_sha256": "77a276b7cccab1108eb9b3cc53ce220894f429d993618b6535af3a97502bb16c",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/polylog_scalar_refinement_checks.json",
+      "recorded_sha256": "747012733239e5824cf97c3cd89d72b4f3f86963f3fa7fc79ac1f90b99bc75c4",
+      "source_index_id": "sha256:747012733239e5824cf97c3cd89d72b4f3f86963f3fa7fc79ac1f90b99bc75c4",
+      "original_sha256": "747012733239e5824cf97c3cd89d72b4f3f86963f3fa7fc79ac1f90b99bc75c4",
+      "matches_original_source": true,
+      "public_sha256": "747012733239e5824cf97c3cd89d72b4f3f86963f3fa7fc79ac1f90b99bc75c4",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/sublinear-coarse-mean-20261004/strong_mean_barrier_checks.json",
+      "recorded_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "source_index_id": "sha256:f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "original_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "matches_original_source": true,
+      "public_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+      "public_copy_is_sanitized": false,
+      "binding_kind": "exact_completed_source_snapshot"
     }
   ],
   "stale_binding_count": 1,
@@ -3619,7 +3909,7 @@
     "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
     "scope": "Read-set and cost clarification only. New proximal-chain application has external hidden depth zero; selected fixed kinetic consumer has seven external levels with its fixed inner libraries already charged. The same growing-order outer reference requires J>=ceil(R-1). Optional depth-adapter cost algebra is conditional, not a new hidden-family admission."
   },
-  "snapshot_version": "2026-10-04-public-v7-complete-fixed-and-direct-outer",
+  "snapshot_version": "2026-10-04-public-v8-strong-mean-barrier-and-scalar-law-components",
   "v7_admission": {
     "direct_main_original_sha256": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
     "elementary_source_original_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
@@ -3632,5 +3922,221 @@
       "shifted off-grid"
     ],
     "historical_status_qualification": "Earlier open intrinsic-cap and elementary verification statements are resolved by the separately pinned final audits. Remaining arbitrary-order covariance-route obligations do not apply to the completed distinct direct-mean route."
+  },
+  "v8_admission": {
+    "source_and_audit_original_pins": {
+      "research/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "research/cost/endpoint-stein-quadrature-20261004/independent-audit/INDEPENDENT-ENDPOINT-STEIN-AUDIT.md": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "research/cost/sublinear-coarse-mean-20261004/STRONG-POSTERIOR-MEAN-ORACLE-BARRIER.md": "518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+      "research/cost/sublinear-coarse-mean-20261004/independent-audit/INDEPENDENT-STRONG-MEAN-BARRIER-AUDIT.md": "67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+      "research/cost/sublinear-coarse-mean-20261004/SCALAR-POSITIVE-HERMITE-MEAN-LAW-FACTORY.md": "728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+      "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/AUDIT.md": "be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+      "research/cost/sublinear-coarse-mean-20261004/POLYLOG-SCALAR-MEAN-LAW-REFINEMENT.md": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+      "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/AUDIT.md": "27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4"
+    },
+    "source_manifests": [
+      {
+        "manifest": "research/cost/endpoint-stein-quadrature-20261004/MANIFEST.json",
+        "original_sha256": "f0f3500e80c18aa561fa4120370ab9206b042815ffb40ca459cdb8c92fb9e17f",
+        "public_sha256": "eb5a57e51632f050fdfe34c75dd8a35edd43213b0e94175eb06f2ff38233b051",
+        "verified_records": [
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/check_stein_quadrature.py",
+            "source_sha256": "2d53768ff92428e3ecee596d57cff5f74679d65b7033c6bce498acf9a2aee5fb",
+            "bundled_public_sha256": "2d53768ff92428e3ecee596d57cff5f74679d65b7033c6bce498acf9a2aee5fb",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/stein_quadrature_checks.json",
+            "source_sha256": "87a911f830e75035b16cf35676616a6bf36754ce6fd2d5aefb88aa2ddca66a7b",
+            "bundled_public_sha256": "87a911f830e75035b16cf35676616a6bf36754ce6fd2d5aefb88aa2ddca66a7b",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+            "source_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+            "bundled_public_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+            "public_equals_source": true
+          }
+        ]
+      },
+      {
+        "manifest": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/MANIFEST.json",
+        "original_sha256": "b742f68cbdb17383322bb808cea1716fc60693f2f3a58de4d1e104069e46b256",
+        "public_sha256": "b742f68cbdb17383322bb808cea1716fc60693f2f3a58de4d1e104069e46b256",
+        "verified_records": [
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/INDEPENDENT-ENDPOINT-STEIN-AUDIT.md",
+            "source_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+            "bundled_public_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/check_endpoint_stein_independent.py",
+            "source_sha256": "60a57fad58cabe8bcbe1c5fdda66e4eb7db27527a9a7fffff3081634470465d0",
+            "bundled_public_sha256": "60a57fad58cabe8bcbe1c5fdda66e4eb7db27527a9a7fffff3081634470465d0",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/endpoint_stein_independent_checks.json",
+            "source_sha256": "1c0c245286c4b1481a76823e159ec8606fb9670a58bae3e5155459ab291ea300",
+            "bundled_public_sha256": "1c0c245286c4b1481a76823e159ec8606fb9670a58bae3e5155459ab291ea300",
+            "public_equals_source": true
+          }
+        ]
+      },
+      {
+        "manifest": "research/cost/sublinear-coarse-mean-20261004/MANIFEST.json",
+        "original_sha256": "4261dae2e183f128f1454c3e45a17c1bdc4adcee5fdbbfb31a6734fa5f559fcc",
+        "public_sha256": "4261dae2e183f128f1454c3e45a17c1bdc4adcee5fdbbfb31a6734fa5f559fcc",
+        "verified_records": [
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/POLYLOG-SCALAR-MEAN-LAW-REFINEMENT.md",
+            "source_sha256": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+            "bundled_public_sha256": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/README.md",
+            "source_sha256": "0d8d021ebab0f005d3b8b3c1f4fdfad8cd23edfdc180a296fdd5b5783801e7cd",
+            "bundled_public_sha256": "0d8d021ebab0f005d3b8b3c1f4fdfad8cd23edfdc180a296fdd5b5783801e7cd",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/SCALAR-POSITIVE-HERMITE-MEAN-LAW-FACTORY.md",
+            "source_sha256": "728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+            "bundled_public_sha256": "728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/STRONG-POSTERIOR-MEAN-ORACLE-BARRIER.md",
+            "source_sha256": "518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+            "bundled_public_sha256": "518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/check_polylog_scalar_refinement.py",
+            "source_sha256": "565f3fc71cfceeee67e63408221cc82600bc910d92dd32c9e901e914efd182dc",
+            "bundled_public_sha256": "565f3fc71cfceeee67e63408221cc82600bc910d92dd32c9e901e914efd182dc",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/check_strong_mean_barrier.out",
+            "source_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+            "bundled_public_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/check_strong_mean_barrier.py",
+            "source_sha256": "443ff922abdbaab890b301c6137926c00f1d6b2e86ab51ae2d55c3ea7cfaa5f9",
+            "bundled_public_sha256": "443ff922abdbaab890b301c6137926c00f1d6b2e86ab51ae2d55c3ea7cfaa5f9",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-audit/INDEPENDENT-STRONG-MEAN-BARRIER-AUDIT.md",
+            "source_sha256": "67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+            "bundled_public_sha256": "67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-audit/check_strong_mean.py",
+            "source_sha256": "52e24da835fb9e1fb7427ee5184b969cef864a844e47a49322aa5ba6adceb1b9",
+            "bundled_public_sha256": "52e24da835fb9e1fb7427ee5184b969cef864a844e47a49322aa5ba6adceb1b9",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-audit/numerical-check-results.json",
+            "source_sha256": "8d4a359ab99b152167782f1083cc650d4fd31911c637bfe9d129f75ad3047a68",
+            "bundled_public_sha256": "8d4a359ab99b152167782f1083cc650d4fd31911c637bfe9d129f75ad3047a68",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/AUDIT.md",
+            "source_sha256": "27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4",
+            "bundled_public_sha256": "27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/check_polylog_refinement.py",
+            "source_sha256": "0077536aef638c43447107af35584552532bdc71fc3c78c476f1e2434703e361",
+            "bundled_public_sha256": "0077536aef638c43447107af35584552532bdc71fc3c78c476f1e2434703e361",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/diagnostics.json",
+            "source_sha256": "74566789ff39e173faa022d68255e376541b3255b2f05c2ba50819be514171e5",
+            "bundled_public_sha256": "74566789ff39e173faa022d68255e376541b3255b2f05c2ba50819be514171e5",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/diagnostics.out",
+            "source_sha256": "c4ac20a49d8ed2718c6193e1a708113b154f9f2ddde6edd24349354a4b58c574",
+            "bundled_public_sha256": "c4ac20a49d8ed2718c6193e1a708113b154f9f2ddde6edd24349354a4b58c574",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/AUDIT.md",
+            "source_sha256": "be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+            "bundled_public_sha256": "be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/check_scalar_factory.py",
+            "source_sha256": "23035394fd4ff78275c06d4176600e8a54498d6f21d48728cb30f5171b006c1d",
+            "bundled_public_sha256": "23035394fd4ff78275c06d4176600e8a54498d6f21d48728cb30f5171b006c1d",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/diagnostics.json",
+            "source_sha256": "d3bcfb548d4ed862b05e7f52600f76eaf14a8fb3690e68dddba9ce4cf40c4268",
+            "bundled_public_sha256": "d3bcfb548d4ed862b05e7f52600f76eaf14a8fb3690e68dddba9ce4cf40c4268",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/diagnostics.out",
+            "source_sha256": "77a276b7cccab1108eb9b3cc53ce220894f429d993618b6535af3a97502bb16c",
+            "bundled_public_sha256": "77a276b7cccab1108eb9b3cc53ce220894f429d993618b6535af3a97502bb16c",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/polylog_scalar_refinement_checks.json",
+            "source_sha256": "747012733239e5824cf97c3cd89d72b4f3f86963f3fa7fc79ac1f90b99bc75c4",
+            "bundled_public_sha256": "747012733239e5824cf97c3cd89d72b4f3f86963f3fa7fc79ac1f90b99bc75c4",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/sublinear-coarse-mean-20261004/strong_mean_barrier_checks.json",
+            "source_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+            "bundled_public_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
+            "public_equals_source": true
+          }
+        ]
+      }
+    ],
+    "companion_reference_checks": [
+      {
+        "research_path": "research/cost/growing-order-outer-20261004/direct-mean/ELEMENTARY-SEED-AND-COMPLETE-SOURCE.md",
+        "original_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
+        "original_source_verified_during_curation": true,
+        "bundled_public_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
+        "bundled_public_equals_original": true,
+        "standalone_verification": "The bundle checksum and inventory validate the bundled public copy. Where original/public hashes differ, the original pin is provenance metadata and is not reverified from unbundled original bytes."
+      },
+      {
+        "research_path": "research/cost/growing-order-outer-20261004/direct-mean/ANY-ORDER-DIRECT-MEAN-OUTER.md",
+        "original_sha256": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
+        "original_source_verified_during_curation": true,
+        "bundled_public_sha256": "cd8efe1d6fcfab6f1af3a80671a1f69dbbefaa38f9f2c4cb8f715cf44c9ded06",
+        "bundled_public_equals_original": false,
+        "standalone_verification": "The bundle checksum and inventory validate the bundled public copy. Where original/public hashes differ, the original pin is provenance metadata and is not reverified from unbundled original bytes."
+      }
+    ],
+    "source_scope": "Four independently reviewed components: uniform-C2 original-gradient strong-mean barrier, positive Stein conditional-mean quadrature packet, isolated bounded scalar Hermite mean-law factory, and pilot/batching polylog scalar extension. No new complete posterior source, vector factory, smooth first/paired scalar port, full numerical scalar port, or sublinear complete sampler theorem.",
+    "barrier_uniformity": "The hard potential may depend on heat and query budget. Error/work constants and the small-heat threshold are uniform over the stated C2 Hessian-sandwich class. No fixed-potential or posterior-sampling lower bound; no potential-value, expectation, normalization, or posterior-sample oracle.",
+    "stein_scope": "Polylog original-gradient VALUE count approximates the analytical Gaussian-conditional mean only. Actual bridge fluctuations remain O(A) in scalar scale, O(A sqrt(D)) in L2; finite-center linear tilt is separately restored and the covariance/higher-law currents remain open.",
+    "scalar_scope": "Positive marginal/conditional scalar mean-law transformers with complete independent provider costs and known anchors. Initial fresh factors cannot be retained. Refinement retains the pilot only through an integrated same-pilot coupling, not a uniform exact-target guarantee for every bad pilot. Ideal Gaussian/uniform/real-arithmetic model; numerical first/pair/vector ports remain open.",
+    "buffer_debt": "The retained-Z scalar compatibility target is Z-v_Q(Z)+sigma N; its sigma^2 covariance is charged and it is not identified with the posterior.",
+    "independent_derivation": "Both scalar constructions and their independent audits are explicitly independently derived from the included mathematical sources and independent calculations.",
+    "diagnostic_source_pin_policy": "All seven newly selected programs are portable and unchanged, and every new saved result reproduces exactly. No mathematical or source-pin check was removed. Inherited V7 LOW30/LOW31 omissions remain explicitly documented and are not silently counted."
   }
 }

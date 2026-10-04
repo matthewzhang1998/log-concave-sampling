@@ -1,30 +1,31 @@
 {
-  "verified_utc": "2026-10-04T19:08:03.240587Z",
+  "verified_utc": "2026-10-04T19:55:45.839842Z",
   "curation": "Mathematical publication snapshot; original source files remain unchanged. Edited public copies are identified in INVENTORY.json.",
-  "research_files": 341,
-  "research_bytes": 3687643,
+  "research_files": 370,
+  "research_bytes": 3919222,
   "public_copy_counts": {
-    "unchanged_source_copy": 254,
-    "sanitized_publication_copy": 87
+    "unchanged_source_copy": 282,
+    "sanitized_publication_copy": 88
   },
   "original_version_counts": {
     "historical_bytes_verified": 17,
     "reconstructed_new_version": 29,
-    "new_research_or_diagnostic": 295
+    "new_research_or_diagnostic": 324
   },
   "kinds": {
-    "mathematical_proof_audit_or_certificate": 178,
-    "diagnostic_script": 76,
-    "saved_diagnostic_result": 80,
-    "source_manifest": 6,
+    "mathematical_proof_audit_or_certificate": 187,
+    "diagnostic_script": 83,
+    "saved_diagnostic_result": 87,
+    "source_manifest": 9,
+    "saved_diagnostic_stdout": 3,
     "baseline_manuscript": 1
   },
   "diagnostics": {
-    "bundled_scripts": 76,
-    "passed": 76,
+    "bundled_scripts": 83,
+    "passed": 83,
     "failed": 0,
     "not_run": 0,
-    "isolation": "Every diagnostic ran in its own disposable research copy. V6 and selected original research bytes remain unchanged.",
+    "isolation": "Every diagnostic ran in its own disposable research copy. V7 and all selected original source file sets and bytes remain unchanged.",
     "archived_research_bytes_unchanged": true,
     "changed_saved_result_comparisons": 4,
     "comparison_differences": "Only embedded source SHA-256 values changed for sanitized source documents; mathematical result data, counts, and verdicts unchanged."
@@ -34,14 +35,14 @@
     "research/r-shear-consumer/weighted_scalar_width_checks.json",
     "research/no-copy-rank-20261004/fenchel-inverse-audit/centered_energy_extension_checks.json"
   ],
-  "tex_build": "Unchanged baseline; no new TeX build performed for V7. Previous attempt was blocked by unavailable pdflatex.fmt and format configuration. No PDF build is claimed.",
+  "tex_build": "Unchanged baseline; no new TeX build performed for V8. Previous attempt was blocked by unavailable pdflatex.fmt and format configuration. No PDF build is claimed.",
   "safety_review_findings": [],
   "safety_review_scope": "Selected plaintext, executable source, file list, and curation diffs reviewed; local-path and credential-marker scans found no release blockers. Scan results are not a universal secret-detection guarantee.",
   "incoming_payload_integrity_verified": true,
   "historical_source_index_mismatches": 1,
   "mismatch_resolution": "The earlier mixed-descendant index hash remains marked stale. Final source f805e8d3 and its separate included scoped audit 73fa9893 are explicitly identified.",
-  "proof_verification_limit": "Finite algebra and numerical diagnostics do not replace analytic proofs or execute the complete nonlinear sampler. V7 includes independently audited analytic direct-mean and fixed-integration results under their stated assumptions; generic matrix constrained-input and nonlinear no-copy endpoints remain open.",
-  "snapshot_version": "2026-10-04-public-v7-complete-fixed-and-direct-outer",
+  "proof_verification_limit": "Finite algebra and numerical diagnostics do not replace analytic proofs or execute a complete nonlinear sampler. V8 adds four independently audited bounded components under their stated contracts. It establishes no new posterior-law identification, vector law factory, smooth first/paired scalar return, full numerical scalar port, complete sublinear source, or improved end-to-end rate.",
+  "snapshot_version": "2026-10-04-public-v8-strong-mean-barrier-and-scalar-law-components",
   "fixed_seed_audit": {
     "original_sha256": "03ba0c8daee0c774d5495659938cc0c3558be7a06051e856fa41c0b4078f1395",
     "original_checker_passed": 60826,
@@ -230,6 +231,80 @@
       "new_artifacts_reviewed": 30,
       "preserved_v6_research_files": 311,
       "limitation": "Independent content and static review; execution results are recorded separately."
+    }
+  },
+  "v8_additions": {
+    "new_payload_files": 29,
+    "new_diagnostics_passed": 7,
+    "original_new_diagnostics_passed": 7,
+    "original_saved_json_results_reproduced_byte_for_byte": 7,
+    "public_saved_json_results_reproduced_byte_for_byte": 7,
+    "saved_stdout_summaries_reproduced_byte_for_byte": 3,
+    "diagnostic_census": {
+      "stein_author_assertions": 9385,
+      "stein_independent_assertions": 171265,
+      "barrier_author_assertions": 21315,
+      "barrier_independent_posterior_cases": 54,
+      "barrier_independent_partial_transcripts": 81,
+      "initial_scalar_factory_parameter_cases": 20,
+      "refinement_author_assertions": 577,
+      "refinement_author_parameter_fixtures": 56,
+      "refinement_independent_parameter_bound_checks": 30,
+      "refinement_independent_quadratic_identities": 12
+    },
+    "manifest_records_verified": 26,
+    "additional_stein_companion_reference_pins_verified_locally": 2,
+    "new_program_mathematical_or_source_hash_checks_removed": 0,
+    "inherited_external_pin_policy": "The V7 portable intrinsic programs still explicitly omit their two unbundled LOW30/LOW31 byte checks each; their full original-source runs are historical V7 validation, not freshly rerun as complete-pin checks in V8.",
+    "source_and_audit_pins": {
+      "research/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "research/cost/endpoint-stein-quadrature-20261004/independent-audit/INDEPENDENT-ENDPOINT-STEIN-AUDIT.md": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "research/cost/sublinear-coarse-mean-20261004/STRONG-POSTERIOR-MEAN-ORACLE-BARRIER.md": "518c1eb8a623acb0268873cd8579643b60b13dd4d98d37f22f2bfe233911ddc8",
+      "research/cost/sublinear-coarse-mean-20261004/independent-audit/INDEPENDENT-STRONG-MEAN-BARRIER-AUDIT.md": "67193e91de22265b04f1c5c95991b81036f5ccd839472a9abcb331ce99949b89",
+      "research/cost/sublinear-coarse-mean-20261004/SCALAR-POSITIVE-HERMITE-MEAN-LAW-FACTORY.md": "728e26f5c7de342c6cd9b4d10e8dde6e6514ee33afea20759649d2d75a90c65f",
+      "research/cost/sublinear-coarse-mean-20261004/independent-scalar-factory-audit/AUDIT.md": "be9d96584788919011e6d40d0c06172777db5924f2e01b7d2de5ca344b1951ec",
+      "research/cost/sublinear-coarse-mean-20261004/POLYLOG-SCALAR-MEAN-LAW-REFINEMENT.md": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+      "research/cost/sublinear-coarse-mean-20261004/independent-polylog-refinement-audit/AUDIT.md": "27bc7a918bc7453abc2cb57509a23f704b43b5c9bf7e11660aba45abe99250f4"
+    },
+    "scope": "Four independently reviewed components: uniform-C2 original-gradient strong-mean barrier, positive Stein conditional-mean quadrature packet, isolated bounded scalar Hermite mean-law factory, and pilot/batching polylog scalar extension. No new complete posterior source, vector factory, smooth first/paired scalar port, full numerical scalar port, or sublinear complete sampler theorem.",
+    "uniform_barrier_boundary": "The hard potential may depend on heat and query budget. Error/work constants and the small-heat threshold are uniform over the stated C2 Hessian-sandwich class. No fixed-potential or posterior-sampling lower bound; no potential-value, expectation, normalization, or posterior-sample oracle.",
+    "scalar_numerical_and_ownership_boundary": "Positive marginal/conditional scalar mean-law transformers with complete independent provider costs and known anchors. Initial fresh factors cannot be retained. Refinement retains the pilot only through an integrated same-pilot coupling, not a uniform exact-target guarantee for every bad pilot. Ideal Gaussian/uniform/real-arithmetic model; numerical first/pair/vector ports remain open.",
+    "buffer_covariance_debt": "The retained-Z scalar compatibility target is Z-v_Q(Z)+sigma N; its sigma^2 covariance is charged and it is not identified with the posterior.",
+    "preservation": {
+      "v7_file_count": 354,
+      "v7_complete_file_set_and_bytes_unchanged": true,
+      "v7_research_file_count": 341,
+      "all_v7_research_bytes_preserved_in_v8": true,
+      "selected_new_originals_unchanged": true,
+      "four_proof_audit_pairs_byte_identical": true
+    },
+    "new_sanitized_files": [
+      "research/cost/endpoint-stein-quadrature-20261004/MANIFEST.json"
+    ],
+    "sanitization_scope": "Repository-relative locations replace two local absolute source-reference paths in one manifest. All eight proof/audit files, seven scripts and numerical results retain original bytes.",
+    "independent_derivation": "Both scalar constructions and their independent audits are explicitly independently derived from the included mathematical sources and independent calculations.",
+    "python_files_parsed": 85,
+    "json_files_decoded": 100,
+    "readme_links_verified": 52,
+    "runner_archive_write_guard": {
+      "regression_cases": 3,
+      "passed": true
+    },
+    "excluded": [
+      "later active law-correction research",
+      "unreviewed drafts",
+      "compiled caches",
+      "private correspondence and confidential external manuscript material or derived commentary"
+    ],
+    "final_public_release_scope_review": {
+      "result": "PASS",
+      "selected_artifacts_reviewed": 29,
+      "proof_audit_pairs_byte_verified": 4,
+      "new_script_bytes_verified": 7,
+      "new_proof_audit_links_verified": 8,
+      "readme_sha256": "8abe47a2c1cc82f40252a88b981742b5479ca3019af821f4822a9b9bfef0e1a2",
+      "provenance_bindings_and_companion_public_hashes": "Independently checked against selected snapshot bytes; no mismatches.",
+      "scope": "Independent read-only content, disclosure-boundary, qualification and provenance review. No mathematical reproof is inferred. The full diagnostic run separately passed 83 of 83 scripts."
     }
   }
 }

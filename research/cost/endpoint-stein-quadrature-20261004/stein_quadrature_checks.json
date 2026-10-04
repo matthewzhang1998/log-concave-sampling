@@ -1,0 +1,49 @@
+{
+  "scope": "Bounded quadrature/Hermite/finite-ports diagnostics; no all-order law theorem.",
+  "assertions": 9385,
+  "rules": [
+    {
+      "K": 4,
+      "m": 4,
+      "nodes": 17,
+      "max_tested_moment_error": 0.007377762698335999,
+      "bound": 0.5932213077274805,
+      "beta_Q": 0.7863081217489899
+    },
+    {
+      "K": 8,
+      "m": 8,
+      "nodes": 65,
+      "max_tested_moment_error": 0.00045783827606325886,
+      "bound": 0.02608176608416933,
+      "beta_Q": 0.7854121417123666
+    },
+    {
+      "K": 12,
+      "m": 12,
+      "nodes": 145,
+      "max_tested_moment_error": 2.8601575757897907e-05,
+      "bound": 0.0012011195547625892,
+      "beta_Q": 0.7853983815789356
+    },
+    {
+      "K": 20,
+      "m": 20,
+      "nodes": 401,
+      "max_tested_moment_error": 1.1172351146885484e-07,
+      "bound": 2.9926013548704945e-06,
+      "beta_Q": 0.7853981634507116
+    },
+    {
+      "K": 30,
+      "m": 30,
+      "nodes": 901,
+      "max_tested_moment_error": 1.09105792306064e-10,
+      "bound": 2.1890117459033283e-09,
+      "beta_Q": 0.7853981633974499
+    }
+  ],
+  "source_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+  "quadratic_limit_B2_coefficient": 0.8668502750680849,
+  "all_passed": true
+}

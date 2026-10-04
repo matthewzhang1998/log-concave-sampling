@@ -1,0 +1,8 @@
+{
+  "source_sha256": "f135f8583def97eafbee5f0f4a9b52c9465de61329577e8145366450a3dfa239",
+  "case_count": 30,
+  "min_pilot_exponent_over_L": 128.00000000012798,
+  "max_record_count_over_claimed_order": 579668130.478774,
+  "max_W2_upper_bound_over_sigma_delta": 0.0001259086326331089,
+  "notes": "Checks deterministic analytic upper bounds in floating point. No enormous provider batch was run; no external manuscript or data was used."
+}

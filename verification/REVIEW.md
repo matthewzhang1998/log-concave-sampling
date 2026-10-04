@@ -1,19 +1,19 @@
 # Publication snapshot verification
 
-Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v7-complete-fixed-and-direct-outer`.
+Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v8-strong-mean-barrier-and-scalar-law-components`.
 
 ## Payload and provenance
 
-- 341 mathematical payload files: 178 proofs/audits/certificates (including four exact reviewed mathematical source copies), 1 baseline TeX manuscript, 76 Python diagnostics, 80 saved JSON results, and 6 source manifests.
+- 370 mathematical payload files: 187 proofs/audits/certificates (including four exact reviewed mathematical source copies), 1 baseline TeX manuscript, 83 Python diagnostics, 87 saved JSON results, 9 source manifests, and 3 saved stdout summaries.
 - All 199 initial incoming files matched the incoming inventory's byte counts and SHA-256 values before curation.
-- 254 payload files remain byte-identical. 87 are explicitly labeled sanitized publication copies. Each inventory entry records both original and public hashes and byte counts.
+- 282 payload files remain byte-identical. 88 are explicitly labeled sanitized publication copies. Each inventory entry records both original and public hashes and byte counts.
 - Edits remove nonmathematical provenance narration and local absolute paths; diagnostic outputs now use sibling-file paths. Admitted mathematical formulas, assumptions, counterexamples, and historical source/audit hash pins were retained. V7 separately labels omission of unaudited auxiliary/off-grid commentary and two portable diagnostic source-pin adaptations; all mathematical tests remain. The new same-heat report additionally incorporates explicitly identified scope clarifications from its independent audit; it is labeled as an edited publication copy. The edited copies are not represented as historically audited bytes.
 - The exact-denominator-32 TeX baseline remains byte-identical: SHA-256 `c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff`.
-- The 397 indexed source bindings include 396 matches to the original snapshot and one explicitly stale earlier mixed-descendant binding. The final mixed-descendant source is `f805e8d38a19435f03c8b10d4a008140f4972aeefe4f6a0afcb9b78edfd89845`, with its scoped audit `73fa989340ea01b7d796cf477f57967b38999110285275a215753cf157bba0a4`.
+- The 426 source/provenance bindings include 425 matches to the original snapshot and one explicitly stale earlier mixed-descendant binding. The final mixed-descendant source is `f805e8d38a19435f03c8b10d4a008140f4972aeefe4f6a0afcb9b78edfd89845`, with its scoped audit `73fa989340ea01b7d796cf477f57967b38999110285275a215753cf157bba0a4`.
 
 ## Executed checks
 
-- All 76 bundled diagnostics ran in separate disposable copies: **76 passed, 0 failed, 0 not run**. All exited zero; no stderr was emitted. The archived research bytes remained unchanged.
+- All 83 bundled diagnostics ran in separate disposable copies: **83 passed, 0 failed, 0 not run**. All exited zero; no stderr was emitted. The archived research bytes remained unchanged.
 - The detailed report records Python 3.12.14, NumPy 2.3.5, SciPy 1.17.0, mpmath 1.3.0, and SymPy 1.14.0.
 - Four rerun JSON files differ from their saved historical results only in embedded source hashes, because those source documents were sanitized. The diagnostic values, test counts, and verdicts are unchanged. Exact keys and old/new values are in `DIAGNOSTIC-RERUN.json`.
 - Three report-path safety regressions passed: existing bundled source, new path inside the archive, and external symlink alias into the archive are rejected before diagnostics. No archive bytes or file-set members changed.
@@ -114,6 +114,29 @@ The elementary source removes an inherited algebraic dimension-versus-heat guard
 The separate fixed-integration theorem keeps complete source exponent 2j−2 on R_j=j+1/2 while supplying selected covariance/pure-fourth consumers. Its original seed/reference/restoration/domain assumptions and actual expanded source cost remain explicit. It does not automatically preserve the old exterior total cost or raise the fixed covariance approximation order. The older cap-pending statements are historical and resolved by the later intrinsic audit; the elementary source's final verification qualifier is discharged by the direct audit. The fixed closure's remaining arbitrary-order discussion concerns the marked/covariance route, not the separately completed direct-mean theorem.
 
 All 324 V6 files and all 311 V6 research payloads were checked for unchanged bytes and file sets. Every selected new source original is unchanged. Curation and diagnostic execution used copies only.
+
+### V8: strong-mean barrier, Stein quadrature, and scalar law transformers
+
+All 29 selected artifacts were checked against frozen source bytes. All four proof/audit pairs remain byte-identical. The only new sanitized artifact is the Stein manifest: its two local absolute reference paths now name repository-relative mathematical sources. Original source pins remain unchanged; the original/public hash mapping is recorded separately. Twenty-six component-manifest records and two Stein companion-source references were checked against original files locally. For a companion whose public copy differs, a standalone bundle run validates that public copy and its provenance mapping; it cannot reverify unbundled original bytes.
+
+All **seven new original programs** passed in isolated copies, and all **seven public programs** passed unchanged. All seven saved JSON files and all three saved stdout summaries reproduced byte-for-byte. There are no removed mathematical checks or newly omitted source-pin checks. The inherited V7 portable LOW30/LOW31 distinction remains as documented above. The complete run is **83 passed, 0 failed, 0 not run**, with only the same four older embedded-source-hash differences; their mathematical values are unchanged.
+
+The new diagnostic census is deliberately not collapsed into a synthetic aggregate:
+
+- Stein: 9,385 author assertions and 171,265 independent assertions.
+- Strong-mean barrier: 21,315 author assertions; 54 independent normalized-posterior cases and 81 partial sign transcripts.
+- Initial scalar factory: 20 bounded-batch parameter cases, including normalization, positivity, marginal averaging and retained-record/shared-ancestor counterexamples.
+- Scalar refinement: 577 author assertions over 56 parameter fixtures plus finite clipping checks; 30 independent deterministic parameter-bound checks and 12 scalar quadratic identities. The asymptotically enormous provider batches were not simulated.
+
+The barrier is uniform over the original-gradient/first-action C² Hessian-sandwich class: RMS≥cA/(N+1)^(3/2), hence c(P)≥(P−1)/3 for the retained strong O(A^j) mean port, P=2j−1. The hard potential may vary with A,N. Potential-uniform constants and small-heat thresholds are essential. It does not lower-bound a single fixed potential, arbitrary posterior sampling, or a buffered-law consumer; additional potential-value, expectation, normalization, smoothed-score and posterior-sample oracles are excluded. The necessary slope is not asserted attainable.
+
+Stein's positive time quadrature has a polylogarithmic original-VALUE count for an analytical conditional-mean approximation. The actual common-root packet still has O(A) bridge fluctuations in scalar scale, O(A√D) in L2, and a nonzero second-order covariance defect. At a finite executed center the omitted linear tilt remains separately charged. No high-order posterior law, retained/proxy theorem, strong pair or complete sublinear source is admitted from this quadrature alone.
+
+The independently derived scalar factory has an exactly normalized positive conditional density, K complete fresh provider records and an explicit rejection cap. Its independently audited refinement uses an executed pilot, fresh independent averaged/clipped factors and rank-uniform bounds to obtain W2≤C sigma delta at complete provider census O((1+(S/sigma)^2)log^3((e+S/sigma)/delta)). Its count is literally (K+1)M; provider ancestors, anchor cost and any large S/sigma ratio remain paid. The constants are highly conservative, so no practical runtime gain is inferred.
+
+Both scalar lemmas use the stated ideal Gaussian/uniform and known real-arithmetic model, with full numerical implementation still open. Fresh factors cannot be retained after averaging. The refinement's pilot may be retained through an integrated same-pilot coupling, not a uniform exact-target bound conditional on every bad pilot. The lemmas grant no smooth first/adjoint, actual paired-caller, general-dimensional or recursive source port. Retained-Z compatibility yields Z-v_Q(Z)+sigma N; the real sigma^2 covariance debt and discrepancy from the posterior remain explicit.
+
+All 354 V7 files and all 341 V7 research payloads retain their complete file sets and bytes. Every selected source original remains unchanged. Three output-path guard regressions passed. Python/JSON syntax, relative README links and the scoped public-release content scan passed. No new TeX/PDF build is claimed, and the denominator-32 baseline remains byte-identical.
 
 ## Not rerun or not established
 
