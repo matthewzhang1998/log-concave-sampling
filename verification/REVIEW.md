@@ -1,19 +1,19 @@
 # Publication snapshot verification
 
-Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v5-relative-known-center-linear`.
+Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v6-relative-same-heat-hidden-linear`.
 
 ## Payload and provenance
 
-- 282 mathematical payload files: 155 proofs/audits/certificates (including four exact reviewed mathematical source copies), 1 baseline TeX manuscript, 62 Python diagnostics, and 64 saved JSON results.
+- 311 mathematical payload files: 169 proofs/audits/certificates (including four exact reviewed mathematical source copies), 1 baseline TeX manuscript, 69 Python diagnostics, and 72 saved JSON results.
 - All 199 initial incoming files matched the incoming inventory's byte counts and SHA-256 values before curation.
-- 212 payload files remain byte-identical. 70 are explicitly labeled sanitized publication copies. Each inventory entry records both original and public hashes and byte counts.
+- 238 payload files remain byte-identical. 73 are explicitly labeled sanitized publication copies. Each inventory entry records both original and public hashes and byte counts.
 - Edits remove nonmathematical provenance narration and local absolute paths; diagnostic outputs now use sibling-file paths. Mathematical formulas, assumptions, counterexamples, and historical source/audit hash pins were retained. The new same-heat report additionally incorporates explicitly identified scope clarifications from its independent audit; it is labeled as an edited publication copy. The edited copies are not represented as historically audited bytes.
 - The exact-denominator-32 TeX baseline remains byte-identical: SHA-256 `c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff`.
-- The 308 indexed source bindings include 307 matches to the original snapshot and one explicitly stale earlier mixed-descendant binding. The final mixed-descendant source is `f805e8d38a19435f03c8b10d4a008140f4972aeefe4f6a0afcb9b78edfd89845`, with its scoped audit `73fa989340ea01b7d796cf477f57967b38999110285275a215753cf157bba0a4`.
+- The 367 indexed source bindings include 366 matches to the original snapshot and one explicitly stale earlier mixed-descendant binding. The final mixed-descendant source is `f805e8d38a19435f03c8b10d4a008140f4972aeefe4f6a0afcb9b78edfd89845`, with its scoped audit `73fa989340ea01b7d796cf477f57967b38999110285275a215753cf157bba0a4`.
 
 ## Executed checks
 
-- All 62 bundled diagnostics ran in separate disposable copies: **62 passed, 0 failed, 0 not run**. All exited zero; no stderr was emitted. The archived research bytes remained unchanged.
+- All 69 bundled diagnostics ran in separate disposable copies: **69 passed, 0 failed, 0 not run**. All exited zero; no stderr was emitted. The archived research bytes remained unchanged.
 - The detailed report records Python 3.12.14, NumPy 2.3.5, SciPy 1.17.0, and mpmath 1.3.0.
 - Four rerun JSON files differ from their saved historical results only in embedded source hashes, because those source documents were sanitized. The diagnostic values, test counts, and verdicts are unchanged. Exact keys and old/new values are in `DIAGNOSTIC-RERUN.json`.
 - All bundled Python files were parsed and all JSON files decoded successfully. The complete checksum verifier checks the exact payload set, byte counts, provenance mappings, and bundle checksums.
@@ -65,12 +65,35 @@ This does not replace the old uniform known/hidden-family c_P ~ 2P² bill. The f
 
 The internal K3 packet audit identifies a concrete comparison cycle and a limiting paired same-potential regeneration gap: approximately 5.36×10⁻⁵ at t=3/4 and a positive unit-clock average. The finite-N threshold is not numerically certified. These are selected-word gaps, not W2 lower bounds. The smaller sufficient missing interface is a complete joint selected-word/skew producer retaining the captured caller, coarse root and incoming passive while integrating its fine records internally. A different complete mean producer remains possible.
 
+### V6: audited relative same-heat complete hidden family
+
+All 29 additions match their original source-manifest pins. The primary hidden continuation, full independent audit, empirical graph audit, consumer-admission note, scope clarification, and Fenchel main/review remain byte-identical. Three new public copies have explicit nonmathematical edits: one audit uses the external source identifier LOW30 instead of its local absolute location, and two diagnostic scripts print the sibling result filename instead of a local absolute execution path. No mathematical tests or archived result bytes were changed.
+
+All **seven new scripts passed** and reproduced every generated result byte-for-byte:
+
+- **1,980 complete hidden-telescope assertions**, including 13 full affine-Gaussian pair fixtures and 9 original-C2/non-C3 nonlinear fixtures. The exact Gaussian seed is a diagnostic fixture, not an implementation or independent reproof of CW7.
+- **272 nested-bank checks**.
+- The known-force telescope's **36 quadratic fixtures**, 9 coarse-grid-floor, 9 allocation, and 12 shared-keep displayed cases, plus its exact/rational assertions. The script does not report one aggregate assertion count; none is invented here.
+- **15 independent hidden joint-density checks**. The primary flattening script reports 12 latent-mean-mixture, 4 decoder-partition, 6 joint-whitening, and 9 quadratic-polynomial fixtures; these are displayed fixture counts rather than a synthetic total assertion count.
+- **1,880 Fenchel main checks and 1,849 independent Fenchel checks**. A separate saved result claims 400 centered-energy matrix checks, but has no bundled executable and was not freshly rerun. Thus 3,729 Fenchel checks were freshly reproduced; the source package's 4,129 figure includes those 400 historical checks.
+
+The authoritative complete hidden continuation is `83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33`; its full independent audit is `b1943d4774f7cf77cbd9d11c0e3baac7ffdb83bc269992fb7fda14a100980fa6`. The admitted result is **c(R,d) ≤ 2R−3 on R=j+1/2, j≥1**, for the explicitly rebuilt same-heat selected Picard family at fixed finite depth d, including d=O(R) after the requested R is fixed. It includes actual paired finite marginals, deterministic zeros, complete bank/tape costs, the selected full-replay consumer, and the empirical graph/numerical join. The complete record dimension has the same heat exponent times physical dimension.
+
+The original complete seed, genuine-gradient reference, matched finite restoration, actual integrated numerical caller profiles and physical-domain contracts remain hypotheses. Exact finite-center law and ideal-center history bias are separate. Fixed finite prox errors are not uniformly bounded over arbitrary unbounded callers. Constants, logarithmic degrees, precision exponents and the small-heat threshold may grow rapidly with fixed R and d. No source fine record is promoted into an external caller to remove its cost.
+
+This result supplies no new outer rate, o(R) exponent, all-consumer covariance/higher-coefficient closure, arbitrary opaque-history theorem, or smaller-power-heat adapter. The outer-radius note is an algebraic gate only, and the canonical r=A weak-source return cannot simply be treated as admission at r=A^(3/4). The optional shifted-ladder addendum and its arithmetic checker/results are excluded pending independent audit. Conservative upward rounding remains valid, giving c(R,d) ≤ 2ceil(R−1/2)−2 < 2R−1 for general R.
+
+The complementary flattening audit distinguishes exact complete-tape computation from a free original-gradient joint potential and retains the normalizer/constraint-law debt. The Fenchel result supplies a restricted signed ambient reference, original-VALUE inverse contraction 1/5, actual finite first/caller bounds and b_extra=0; it does not yield a jointly convex sampling potential or close the unmarked opposite-baseline/constrained-law gate.
+
+Before curation, 388 existing source files and all 295 V5 files were hashed. Every one retained its exact bytes, and V5's file set was unchanged after curation and diagnostics. All 282 V5 research files are preserved in V6. Source authors may add separately identified new research files; those are not silently included in this immutable selection.
+
 ## Not rerun or not established
 
-- Two saved historical JSON results have no corresponding bundled executable and were **not independently rerun**: `research/r-native-twin/common_two_twin_lift_checks.json` (historical 2,400 checks) and `research/r-shear-consumer/weighted_scalar_width_checks.json` (historical 114,270 checks). They remain labeled saved results, not fresh test passes.
-- TeX compilation was attempted in a disposable directory and was blocked by an unavailable `pdflatex.fmt` format. A retry with writable TeX configuration directories found no installed format entry. No PDF build or visual-layout verification is claimed.
+- Two older saved historical JSON results have no corresponding bundled executable and were **not independently rerun**: `research/r-native-twin/common_two_twin_lift_checks.json` (historical 2,400 checks) and `research/r-shear-consumer/weighted_scalar_width_checks.json` (historical 114,270 checks). They remain labeled saved results, not fresh test passes.
+- The new Fenchel `centered_energy_extension_checks.json` is also historical-only for this curation: its claimed 400 checks lack a bundled executable.
+- A previous TeX compilation was attempted in a disposable directory and was blocked by an unavailable `pdflatex.fmt` format. A retry with writable TeX configuration directories found no installed format entry. No PDF build or visual-layout verification is claimed.
 - This review did not independently reprove every analytic argument, run formal proof verification, or re-establish the external LOW30/LOW31 foundations. Those foundations are pinned but not bundled.
-- The general matrix same-query constrained-input construction and full nonlinear endpoint composition remain open. No all-order, subpolynomial-dimension, or new end-to-end sampler complexity theorem is certified by these tests. The best general cost certificate recorded here remains quadratic in order, c_P ~ 2P².
+- The general matrix same-query constrained-input construction and full nonlinear endpoint composition remain open. No all-order, subpolynomial-dimension, or new end-to-end sampler complexity theorem is certified by these tests. The unrestricted old general-family certificate remains quadratic, c_P ~ 2P²; V6 separately admits a linear source-relative selected same-heat family and does not promote it to all consumers or a global outer rate.
 
 ## Public-release scope
 

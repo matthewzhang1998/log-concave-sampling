@@ -1,5 +1,5 @@
 {
-  "snapshot_utc": "2026-10-04T16:46:56Z",
+  "snapshot_utc": "2026-10-04T18:08:44.977301Z",
   "policy": "Historical audits apply only to the cited original source bytes and stated mathematical scope. Public copies may contain clearly labeled nonmathematical sanitization; their distinct hashes are mapped here and in INVENTORY.json. Sanitization does not constitute a fresh mathematical audit.",
   "bindings": [
     {
@@ -2773,6 +2773,537 @@
       "matches_original_source": true,
       "public_sha256": "e37902274ac18d7f73e61345b7042bc14dd6d806daf1c9fe863adfb57c8f8402",
       "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/DETERMINISTIC-KNOWN-CENTER-SOURCE-WITH-PROTECTED-REFRESH.md",
+      "recorded_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "source_index_id": "sha256:6d9f87bbc558191d97cf670d7a4a1e72fc2cce6feeb29f9e5dced049ff0596cd",
+      "original_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "matches_original_source": true,
+      "public_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/independent-audit/INDEPENDENT-PROTECTED-SHORT-REFRESH-AUDIT.md",
+      "recorded_sha256": "43914ab982e96c73e9538851c4ac4c6bb9ed9a980b10176c3a883404223c5917",
+      "source_index_id": "sha256:6d9f87bbc558191d97cf670d7a4a1e72fc2cce6feeb29f9e5dced049ff0596cd",
+      "original_sha256": "43914ab982e96c73e9538851c4ac4c6bb9ed9a980b10176c3a883404223c5917",
+      "matches_original_source": true,
+      "public_sha256": "43914ab982e96c73e9538851c4ac4c6bb9ed9a980b10176c3a883404223c5917",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/extension-audit/INDEPENDENT-WEIGHTED-GRAPH-AND-KNOWN-CENTER-ADMISSION.md",
+      "recorded_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "source_index_id": "sha256:6d9f87bbc558191d97cf670d7a4a1e72fc2cce6feeb29f9e5dced049ff0596cd",
+      "original_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "matches_original_source": true,
+      "public_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/p-weak-mean/WEAK-29-ACTUAL-REMAINDER-AND-RETAINED-MEAN-RECONSTRUCTION.md",
+      "recorded_sha256": "e1cc994a8325c586e54511a959de57102911bf2f269c4e688090ecd107070d2f",
+      "source_index_id": "sha256:6d9f87bbc558191d97cf670d7a4a1e72fc2cce6feeb29f9e5dced049ff0596cd",
+      "original_sha256": "e1cc994a8325c586e54511a959de57102911bf2f269c4e688090ecd107070d2f",
+      "matches_original_source": true,
+      "public_sha256": "9f0bc4c056c41e5e468f7560c0c80a59ebb16f0db22ad3933380a045724c11d8",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/strong_order_telescope_checks.json",
+      "recorded_sha256": "ef2098faee9b2d0b9e04af22934e3c62f6771af6c58aa2b3bd8154fab02c3bfd",
+      "source_index_id": "sha256:6d9f87bbc558191d97cf670d7a4a1e72fc2cce6feeb29f9e5dced049ff0596cd",
+      "original_sha256": "ef2098faee9b2d0b9e04af22934e3c62f6771af6c58aa2b3bd8154fab02c3bfd",
+      "matches_original_source": true,
+      "public_sha256": "ef2098faee9b2d0b9e04af22934e3c62f6771af6c58aa2b3bd8154fab02c3bfd",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/EXACT-FINITE-KNOWN-FORCE-STRONG-ORDER-TELESCOPE.md",
+      "recorded_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "source_index_id": "sha256:6d9f87bbc558191d97cf670d7a4a1e72fc2cce6feeb29f9e5dced049ff0596cd",
+      "original_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "matches_original_source": true,
+      "public_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/check_strong_order_telescope.py",
+      "recorded_sha256": "c696b96e726919e665a5d30c81dd94e037f1ab40ccc2a162a242b2123b9c96f5",
+      "source_index_id": "sha256:6d9f87bbc558191d97cf670d7a4a1e72fc2cce6feeb29f9e5dced049ff0596cd",
+      "original_sha256": "c696b96e726919e665a5d30c81dd94e037f1ab40ccc2a162a242b2123b9c96f5",
+      "matches_original_source": true,
+      "public_sha256": "c696b96e726919e665a5d30c81dd94e037f1ab40ccc2a162a242b2123b9c96f5",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/exact-slack/exact32-proof-v2.tex",
+      "recorded_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "source_index_id": "sha256:8878ad383193195c939b4eeabe239a6bfa9cd5c7135c62c4468ae8dfeda5e156",
+      "original_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "matches_original_source": true,
+      "public_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/consumer-admission/SELECTED-PICARD-CONSUMER-AND-AMBIENT-PRIOR-GATES.md",
+      "recorded_sha256": "1be4b20452fc36b0ddd2718fafd4cfbd25309b32f3a90aa4431212fa15f372bc",
+      "source_index_id": "sha256:8878ad383193195c939b4eeabe239a6bfa9cd5c7135c62c4468ae8dfeda5e156",
+      "original_sha256": "1be4b20452fc36b0ddd2718fafd4cfbd25309b32f3a90aa4431212fa15f372bc",
+      "matches_original_source": true,
+      "public_sha256": "1be4b20452fc36b0ddd2718fafd4cfbd25309b32f3a90aa4431212fa15f372bc",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/DETERMINISTIC-KNOWN-CENTER-SOURCE-WITH-PROTECTED-REFRESH.md",
+      "recorded_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "source_index_id": "sha256:ff0152596560ae6cf6cc661f528a5a74f2b2246e5287bac45693cfdd2ee27067",
+      "original_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "matches_original_source": true,
+      "public_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/EXACT-FINITE-KNOWN-FORCE-STRONG-ORDER-TELESCOPE.md",
+      "recorded_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "source_index_id": "sha256:ff0152596560ae6cf6cc661f528a5a74f2b2246e5287bac45693cfdd2ee27067",
+      "original_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "matches_original_source": true,
+      "public_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/nested-bank-diagnostics/NESTED-BANK-GAP-AND-STRONG-COST-FIXED-POINT.md",
+      "recorded_sha256": "193453d9843d8cfd1a624a4aa3fb34aadc86cf331220ddd65bb40732b05e6291",
+      "source_index_id": "sha256:ff0152596560ae6cf6cc661f528a5a74f2b2246e5287bac45693cfdd2ee27067",
+      "original_sha256": "193453d9843d8cfd1a624a4aa3fb34aadc86cf331220ddd65bb40732b05e6291",
+      "matches_original_source": true,
+      "public_sha256": "193453d9843d8cfd1a624a4aa3fb34aadc86cf331220ddd65bb40732b05e6291",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/exact-slack/cw7/01_retained_hidden_force_certificate.md",
+      "recorded_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "source_index_id": "sha256:ff0152596560ae6cf6cc661f528a5a74f2b2246e5287bac45693cfdd2ee27067",
+      "original_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "matches_original_source": true,
+      "public_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/exact-slack/exact32-proof-v2.tex",
+      "recorded_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "source_index_id": "sha256:ff0152596560ae6cf6cc661f528a5a74f2b2246e5287bac45693cfdd2ee27067",
+      "original_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "matches_original_source": true,
+      "public_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/INDEPENDENT-EMPIRICAL-GRAPH-JOIN-AUDIT.md",
+      "recorded_sha256": "aa8a87112d99f93ffc396d8aec884a6a4f524240082debf9e485217fc8daac1e",
+      "source_index_id": "sha256:ff0152596560ae6cf6cc661f528a5a74f2b2246e5287bac45693cfdd2ee27067",
+      "original_sha256": "aa8a87112d99f93ffc396d8aec884a6a4f524240082debf9e485217fc8daac1e",
+      "matches_original_source": true,
+      "public_sha256": "aa8a87112d99f93ffc396d8aec884a6a4f524240082debf9e485217fc8daac1e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/STRONG-ALLOCATION-HIDDEN-DEPTH-CONTINUATION.md",
+      "recorded_sha256": "83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33",
+      "source_index_id": "sha256:ff0152596560ae6cf6cc661f528a5a74f2b2246e5287bac45693cfdd2ee27067",
+      "original_sha256": "83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33",
+      "matches_original_source": true,
+      "public_sha256": "83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/OUTER-RADIUS-AND-PROXY-MARK-GATE.md",
+      "recorded_sha256": "9b359ac9799e4caf0bb0b1de1470f566835e18ebb07fe123d8448bd4ff54af1d",
+      "source_index_id": "sha256:98d34033f46d930297e169ab340f215ce71bffc4872297bd62b2d325a9d30ba5",
+      "original_sha256": "9b359ac9799e4caf0bb0b1de1470f566835e18ebb07fe123d8448bd4ff54af1d",
+      "matches_original_source": true,
+      "public_sha256": "9b359ac9799e4caf0bb0b1de1470f566835e18ebb07fe123d8448bd4ff54af1d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/COMPLETE-FAMILY-SCOPE-AND-NUMERICAL-QUALIFIERS.md",
+      "recorded_sha256": "9932f2da9e0b1b1b8ea8f1404ad020fac89cc94f7af18ef14a742ccef293c6b8",
+      "source_index_id": "sha256:e3a96d3d95abb657230c87fe30c9a109d8ffaf80dccab8f0f6eabda45626be37",
+      "original_sha256": "9932f2da9e0b1b1b8ea8f1404ad020fac89cc94f7af18ef14a742ccef293c6b8",
+      "matches_original_source": true,
+      "public_sha256": "9932f2da9e0b1b1b8ea8f1404ad020fac89cc94f7af18ef14a742ccef293c6b8",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/STRONG-ALLOCATION-HIDDEN-DEPTH-CONTINUATION.md",
+      "recorded_sha256": "83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33",
+      "matches_original_source": true,
+      "public_sha256": "83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/INDEPENDENT-EMPIRICAL-GRAPH-JOIN-AUDIT.md",
+      "recorded_sha256": "aa8a87112d99f93ffc396d8aec884a6a4f524240082debf9e485217fc8daac1e",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "aa8a87112d99f93ffc396d8aec884a6a4f524240082debf9e485217fc8daac1e",
+      "matches_original_source": true,
+      "public_sha256": "aa8a87112d99f93ffc396d8aec884a6a4f524240082debf9e485217fc8daac1e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/consumer-admission/SELECTED-PICARD-CONSUMER-AND-AMBIENT-PRIOR-GATES.md",
+      "recorded_sha256": "1be4b20452fc36b0ddd2718fafd4cfbd25309b32f3a90aa4431212fa15f372bc",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "1be4b20452fc36b0ddd2718fafd4cfbd25309b32f3a90aa4431212fa15f372bc",
+      "matches_original_source": true,
+      "public_sha256": "1be4b20452fc36b0ddd2718fafd4cfbd25309b32f3a90aa4431212fa15f372bc",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/EXACT-FINITE-KNOWN-FORCE-STRONG-ORDER-TELESCOPE.md",
+      "recorded_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "matches_original_source": true,
+      "public_sha256": "817dc522b14f53aa01235d34da60071c5591f580ced24c2d9f6956d200c8ab45",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/DETERMINISTIC-KNOWN-CENTER-SOURCE-WITH-PROTECTED-REFRESH.md",
+      "recorded_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "matches_original_source": true,
+      "public_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/extension-audit/INDEPENDENT-WEIGHTED-GRAPH-AND-KNOWN-CENTER-ADMISSION.md",
+      "recorded_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "matches_original_source": true,
+      "public_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/exact-slack/cw7/01_retained_hidden_force_certificate.md",
+      "recorded_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "matches_original_source": true,
+      "public_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/exact-slack/cw7/02_same_version_batch_and_numerical_census.md",
+      "recorded_sha256": "cff71ce50596264c93b81b88dc8daf9426bbb438f1773e211e00b741f3912ce9",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "cff71ce50596264c93b81b88dc8daf9426bbb438f1773e211e00b741f3912ce9",
+      "matches_original_source": true,
+      "public_sha256": "cff71ce50596264c93b81b88dc8daf9426bbb438f1773e211e00b741f3912ce9",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/exact-slack/exact32-proof-v2.tex",
+      "recorded_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "matches_original_source": true,
+      "public_sha256": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/COMPLETE-FAMILY-SCOPE-AND-NUMERICAL-QUALIFIERS.md",
+      "recorded_sha256": "9932f2da9e0b1b1b8ea8f1404ad020fac89cc94f7af18ef14a742ccef293c6b8",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "9932f2da9e0b1b1b8ea8f1404ad020fac89cc94f7af18ef14a742ccef293c6b8",
+      "matches_original_source": true,
+      "public_sha256": "9932f2da9e0b1b1b8ea8f1404ad020fac89cc94f7af18ef14a742ccef293c6b8",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/full-independent-audit/INDEPENDENT-COMPLETE-STRONG-LAW-ZERO-AUDIT.md",
+      "recorded_sha256": "b1943d4774f7cf77cbd9d11c0e3baac7ffdb83bc269992fb7fda14a100980fa6",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "b1943d4774f7cf77cbd9d11c0e3baac7ffdb83bc269992fb7fda14a100980fa6",
+      "matches_original_source": true,
+      "public_sha256": "b1943d4774f7cf77cbd9d11c0e3baac7ffdb83bc269992fb7fda14a100980fa6",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/full-independent-audit/check_complete_hidden_telescope.py",
+      "recorded_sha256": "7ef6322878546643285828e36e0292d8f2729c538f85821e49aaa4dd885b20f7",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "7ef6322878546643285828e36e0292d8f2729c538f85821e49aaa4dd885b20f7",
+      "matches_original_source": true,
+      "public_sha256": "7ef6322878546643285828e36e0292d8f2729c538f85821e49aaa4dd885b20f7",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/full-independent-audit/complete_hidden_telescope_checks.json",
+      "recorded_sha256": "32e1dc37eb001386bccb369e6529644405c83c2b6ab11e8186418d461b1bac27",
+      "source_index_id": "sha256:0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+      "original_sha256": "32e1dc37eb001386bccb369e6529644405c83c2b6ab11e8186418d461b1bac27",
+      "matches_original_source": true,
+      "public_sha256": "32e1dc37eb001386bccb369e6529644405c83c2b6ab11e8186418d461b1bac27",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/nested-bank-diagnostics/NESTED-BANK-GAP-AND-STRONG-COST-FIXED-POINT.md",
+      "recorded_sha256": "193453d9843d8cfd1a624a4aa3fb34aadc86cf331220ddd65bb40732b05e6291",
+      "source_index_id": "sha256:abebbd1809ac766842b4d28f7cacb6fc3f6dbd8f29bfc5fce068c7e7d1ea4a4b",
+      "original_sha256": "193453d9843d8cfd1a624a4aa3fb34aadc86cf331220ddd65bb40732b05e6291",
+      "matches_original_source": true,
+      "public_sha256": "193453d9843d8cfd1a624a4aa3fb34aadc86cf331220ddd65bb40732b05e6291",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/nested-bank-diagnostics/check_nested_bank.py",
+      "recorded_sha256": "ebca95817310547f0404f2322ae67c38360912228b0709c94a877d5472e91aa5",
+      "source_index_id": "sha256:abebbd1809ac766842b4d28f7cacb6fc3f6dbd8f29bfc5fce068c7e7d1ea4a4b",
+      "original_sha256": "ebca95817310547f0404f2322ae67c38360912228b0709c94a877d5472e91aa5",
+      "matches_original_source": true,
+      "public_sha256": "ebca95817310547f0404f2322ae67c38360912228b0709c94a877d5472e91aa5",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/nested-bank-diagnostics/nested_bank_checks.json",
+      "recorded_sha256": "a05d065bf94047139cff0e1843a24c962377d4c8e1735c3f4f8d2be58eac3ac3",
+      "source_index_id": "sha256:abebbd1809ac766842b4d28f7cacb6fc3f6dbd8f29bfc5fce068c7e7d1ea4a4b",
+      "original_sha256": "a05d065bf94047139cff0e1843a24c962377d4c8e1735c3f4f8d2be58eac3ac3",
+      "matches_original_source": true,
+      "public_sha256": "a05d065bf94047139cff0e1843a24c962377d4c8e1735c3f4f8d2be58eac3ac3",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/hidden-flattening/EXACT-CW7-HIDDEN-JOINT-LAW-AND-FLATTENING-GATE.md",
+      "recorded_sha256": "f03e9e8459150e9633c0a3b62b4ef23a75f9ab3c244022d4e3531ef864a95ad1",
+      "source_index_id": "sha256:b740a9781af567b2efe2aeaedfe93068aebb692a42ea483cde530ca1438e5d2b",
+      "original_sha256": "f03e9e8459150e9633c0a3b62b4ef23a75f9ab3c244022d4e3531ef864a95ad1",
+      "matches_original_source": true,
+      "public_sha256": "f03e9e8459150e9633c0a3b62b4ef23a75f9ab3c244022d4e3531ef864a95ad1",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/hidden-flattening/check_hidden_flattening.py",
+      "recorded_sha256": "12cbe183ee5425092adca719cd7a0ee79d565da71d3d1c5e5f6bfff1952a8e8e",
+      "source_index_id": "sha256:b740a9781af567b2efe2aeaedfe93068aebb692a42ea483cde530ca1438e5d2b",
+      "original_sha256": "12cbe183ee5425092adca719cd7a0ee79d565da71d3d1c5e5f6bfff1952a8e8e",
+      "matches_original_source": true,
+      "public_sha256": "12cbe183ee5425092adca719cd7a0ee79d565da71d3d1c5e5f6bfff1952a8e8e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/hidden-flattening/hidden_flattening_checks.json",
+      "recorded_sha256": "fe26306da8399010dab2c028d844719abeb7c0261919404e49845421cd594ce1",
+      "source_index_id": "sha256:b740a9781af567b2efe2aeaedfe93068aebb692a42ea483cde530ca1438e5d2b",
+      "original_sha256": "fe26306da8399010dab2c028d844719abeb7c0261919404e49845421cd594ce1",
+      "matches_original_source": true,
+      "public_sha256": "fe26306da8399010dab2c028d844719abeb7c0261919404e49845421cd594ce1",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/hidden-flattening/independent-audit/INDEPENDENT-CW7-JOINT-DENSITY-AUDIT.md",
+      "recorded_sha256": "e18598405888cc1af5db3f96d59bd43e899295a5af508d4642d3e621b2c8ff75",
+      "source_index_id": "sha256:b740a9781af567b2efe2aeaedfe93068aebb692a42ea483cde530ca1438e5d2b",
+      "original_sha256": "e18598405888cc1af5db3f96d59bd43e899295a5af508d4642d3e621b2c8ff75",
+      "matches_original_source": true,
+      "public_sha256": "e44544c95750f915b6e9aa1fbd58948858e4bc88b95eece2b5c2a761fb33c8ef",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/COMPONENTWISE-OLD-R7-HIDDEN-MEAN.md",
+      "recorded_sha256": "38cf61f69f80371e0e0607446189213841a404fa9a89082b95fabdd1ca74a521",
+      "source_index_id": "sha256:da3f068db0046473b09a96f72b5148fdde59a4b5490a72787a80ec52f4681538",
+      "original_sha256": "38cf61f69f80371e0e0607446189213841a404fa9a89082b95fabdd1ca74a521",
+      "matches_original_source": true,
+      "public_sha256": "38cf61f69f80371e0e0607446189213841a404fa9a89082b95fabdd1ca74a521",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/exact-slack/cw7/01_retained_hidden_force_certificate.md",
+      "recorded_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "source_index_id": "sha256:da3f068db0046473b09a96f72b5148fdde59a4b5490a72787a80ec52f4681538",
+      "original_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "matches_original_source": true,
+      "public_sha256": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/ACTUAL-CW7-WEAK-E-HOST-SEPARATOR-AND-COMPARISON-ORDER.md",
+      "recorded_sha256": "d944429de8eeede42e5a97c3e01e34f52b21f23f8e7ac9eda16dc38e02c451da",
+      "source_index_id": "sha256:da3f068db0046473b09a96f72b5148fdde59a4b5490a72787a80ec52f4681538",
+      "original_sha256": "d944429de8eeede42e5a97c3e01e34f52b21f23f8e7ac9eda16dc38e02c451da",
+      "matches_original_source": true,
+      "public_sha256": "a194fa3111b797202f1b6a825455ba26df58724eb6cfc041148389220af2c333",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/DETERMINISTIC-KNOWN-CENTER-SOURCE-WITH-PROTECTED-REFRESH.md",
+      "recorded_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "source_index_id": "sha256:da3f068db0046473b09a96f72b5148fdde59a4b5490a72787a80ec52f4681538",
+      "original_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "matches_original_source": true,
+      "public_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/hidden-flattening/independent-audit/INDEPENDENT-CW7-JOINT-DENSITY-AUDIT.md",
+      "recorded_sha256": "e18598405888cc1af5db3f96d59bd43e899295a5af508d4642d3e621b2c8ff75",
+      "source_index_id": "sha256:da3f068db0046473b09a96f72b5148fdde59a4b5490a72787a80ec52f4681538",
+      "original_sha256": "e18598405888cc1af5db3f96d59bd43e899295a5af508d4642d3e621b2c8ff75",
+      "matches_original_source": true,
+      "public_sha256": "e44544c95750f915b6e9aa1fbd58948858e4bc88b95eece2b5c2a761fb33c8ef",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/hidden-flattening/independent-audit/check_cw7_joint_density.py",
+      "recorded_sha256": "c51cb4851063918468b9a9c93e0a0a578e5bb96c98609d11ab0ad6aaac7edb38",
+      "source_index_id": "sha256:da3f068db0046473b09a96f72b5148fdde59a4b5490a72787a80ec52f4681538",
+      "original_sha256": "c51cb4851063918468b9a9c93e0a0a578e5bb96c98609d11ab0ad6aaac7edb38",
+      "matches_original_source": true,
+      "public_sha256": "fb9a5ee921ddd41de393f652d66655edd903c34921c449ca859e1648282bbce0",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/hidden-flattening/independent-audit/cw7_joint_density_checks.json",
+      "recorded_sha256": "2f35bee871706533972a3fbc78a284933ec3007621b7fb86794924d84f4fbf3f",
+      "source_index_id": "sha256:da3f068db0046473b09a96f72b5148fdde59a4b5490a72787a80ec52f4681538",
+      "original_sha256": "2f35bee871706533972a3fbc78a284933ec3007621b7fb86794924d84f4fbf3f",
+      "matches_original_source": true,
+      "public_sha256": "2f35bee871706533972a3fbc78a284933ec3007621b7fb86794924d84f4fbf3f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/FENCHEL-GAP-INVERSE-AND-CONSTRAINED-LAW-AUDIT.md",
+      "recorded_sha256": "1acc76be96655ea4629f0735c2b78c3d25e0ac8fab8929ae339c1f0f05a8f9f3",
+      "source_index_id": "sha256:56ec46902cb5356b7c0efab9ed7908e1648be703df5594414dc6c9afc977b1e4",
+      "original_sha256": "1acc76be96655ea4629f0735c2b78c3d25e0ac8fab8929ae339c1f0f05a8f9f3",
+      "matches_original_source": true,
+      "public_sha256": "1acc76be96655ea4629f0735c2b78c3d25e0ac8fab8929ae339c1f0f05a8f9f3",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/INDEPENDENT-REVIEW-OF-DUAL-COMPLETED-AMBIENT-LIFT.md",
+      "recorded_sha256": "df51637885a8669503bcbac348ae3b28674cf46572fd78de3e168622a9da914e",
+      "source_index_id": "sha256:56ec46902cb5356b7c0efab9ed7908e1648be703df5594414dc6c9afc977b1e4",
+      "original_sha256": "df51637885a8669503bcbac348ae3b28674cf46572fd78de3e168622a9da914e",
+      "matches_original_source": true,
+      "public_sha256": "df51637885a8669503bcbac348ae3b28674cf46572fd78de3e168622a9da914e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/check_fenchel_inverse_audit.py",
+      "recorded_sha256": "92e6250989e93d85bb0dc537cd267ac664c2841e16c34e72edd9e4d6235d982e",
+      "source_index_id": "sha256:56ec46902cb5356b7c0efab9ed7908e1648be703df5594414dc6c9afc977b1e4",
+      "original_sha256": "92e6250989e93d85bb0dc537cd267ac664c2841e16c34e72edd9e4d6235d982e",
+      "matches_original_source": true,
+      "public_sha256": "5916c1842b0fe571c59652abe25b1bf303cbc7085338435402e7ee0066219568",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/fenchel_inverse_audit_checks.json",
+      "recorded_sha256": "46d9e27b6ac8ab3bd82bb0efd4de01a47b8be3db8546efe5cc71734aaec6c586",
+      "source_index_id": "sha256:56ec46902cb5356b7c0efab9ed7908e1648be703df5594414dc6c9afc977b1e4",
+      "original_sha256": "46d9e27b6ac8ab3bd82bb0efd4de01a47b8be3db8546efe5cc71734aaec6c586",
+      "matches_original_source": true,
+      "public_sha256": "46d9e27b6ac8ab3bd82bb0efd4de01a47b8be3db8546efe5cc71734aaec6c586",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/centered_energy_extension_checks.json",
+      "recorded_sha256": "ea3dd8c10f3f79e489ae565f3bbd06cb2b4d0c4082006f8e5b18ddd3468c324f",
+      "source_index_id": "sha256:56ec46902cb5356b7c0efab9ed7908e1648be703df5594414dc6c9afc977b1e4",
+      "original_sha256": "ea3dd8c10f3f79e489ae565f3bbd06cb2b4d0c4082006f8e5b18ddd3468c324f",
+      "matches_original_source": true,
+      "public_sha256": "ea3dd8c10f3f79e489ae565f3bbd06cb2b4d0c4082006f8e5b18ddd3468c324f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/EXPLICIT-CALLER-AND-FINITE-COST-ADDENDUM.md",
+      "recorded_sha256": "b432f8771d4252a27b506a8ac5351679fba54cae3ed4dbe40b24b45e94debb7c",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "b432f8771d4252a27b506a8ac5351679fba54cae3ed4dbe40b24b45e94debb7c",
+      "matches_original_source": true,
+      "public_sha256": "b432f8771d4252a27b506a8ac5351679fba54cae3ed4dbe40b24b45e94debb7c",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/FENCHEL-GAP-INVERSE-AND-CONSTRAINED-LAW-AUDIT.md",
+      "recorded_sha256": "1acc76be96655ea4629f0735c2b78c3d25e0ac8fab8929ae339c1f0f05a8f9f3",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "1acc76be96655ea4629f0735c2b78c3d25e0ac8fab8929ae339c1f0f05a8f9f3",
+      "matches_original_source": true,
+      "public_sha256": "1acc76be96655ea4629f0735c2b78c3d25e0ac8fab8929ae339c1f0f05a8f9f3",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/FENCHEL-INVERSE-LIFT-AND-LITERAL-K3-GRAPH-CURRENT.md",
+      "recorded_sha256": "7357f4e314c2d8024baea2a6cb1fa8021762728a6456a951f1831e7c5b78cbe4",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "7357f4e314c2d8024baea2a6cb1fa8021762728a6456a951f1831e7c5b78cbe4",
+      "matches_original_source": true,
+      "public_sha256": "7357f4e314c2d8024baea2a6cb1fa8021762728a6456a951f1831e7c5b78cbe4",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/INDEPENDENT-REVIEW-OF-DUAL-COMPLETED-AMBIENT-LIFT.md",
+      "recorded_sha256": "df51637885a8669503bcbac348ae3b28674cf46572fd78de3e168622a9da914e",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "df51637885a8669503bcbac348ae3b28674cf46572fd78de3e168622a9da914e",
+      "matches_original_source": true,
+      "public_sha256": "df51637885a8669503bcbac348ae3b28674cf46572fd78de3e168622a9da914e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/centered_energy_extension_checks.json",
+      "recorded_sha256": "ea3dd8c10f3f79e489ae565f3bbd06cb2b4d0c4082006f8e5b18ddd3468c324f",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "ea3dd8c10f3f79e489ae565f3bbd06cb2b4d0c4082006f8e5b18ddd3468c324f",
+      "matches_original_source": true,
+      "public_sha256": "ea3dd8c10f3f79e489ae565f3bbd06cb2b4d0c4082006f8e5b18ddd3468c324f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/check_fenchel_inverse_audit.py",
+      "recorded_sha256": "92e6250989e93d85bb0dc537cd267ac664c2841e16c34e72edd9e4d6235d982e",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "92e6250989e93d85bb0dc537cd267ac664c2841e16c34e72edd9e4d6235d982e",
+      "matches_original_source": true,
+      "public_sha256": "5916c1842b0fe571c59652abe25b1bf303cbc7085338435402e7ee0066219568",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/check_fenchel_k3_lift.py",
+      "recorded_sha256": "109e5c5f640d57db6a0a7bc8e678c4f64d1ba388e6022d78f3f3c8982f8c102d",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "109e5c5f640d57db6a0a7bc8e678c4f64d1ba388e6022d78f3f3c8982f8c102d",
+      "matches_original_source": true,
+      "public_sha256": "109e5c5f640d57db6a0a7bc8e678c4f64d1ba388e6022d78f3f3c8982f8c102d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/fenchel_inverse_audit_checks.json",
+      "recorded_sha256": "46d9e27b6ac8ab3bd82bb0efd4de01a47b8be3db8546efe5cc71734aaec6c586",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "46d9e27b6ac8ab3bd82bb0efd4de01a47b8be3db8546efe5cc71734aaec6c586",
+      "matches_original_source": true,
+      "public_sha256": "46d9e27b6ac8ab3bd82bb0efd4de01a47b8be3db8546efe5cc71734aaec6c586",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/fenchel-inverse-audit/fenchel_k3_lift_checks.json",
+      "recorded_sha256": "b274048f721beef4426d9a0ba7eec15dc19c2c9e435456733ae58b57ded61b6c",
+      "source_index_id": "sha256:7d92b53ee3388de43c997826128574235131f62b6f024e601a719d9b6b82eb43",
+      "original_sha256": "b274048f721beef4426d9a0ba7eec15dc19c2c9e435456733ae58b57ded61b6c",
+      "matches_original_source": true,
+      "public_sha256": "b274048f721beef4426d9a0ba7eec15dc19c2c9e435456733ae58b57ded61b6c",
+      "public_copy_is_sanitized": false
     }
   ],
   "stale_binding_count": 1,
@@ -2817,5 +3348,6 @@
   "v5_consumer_depth_scope": {
     "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
     "scope": "Read-set and cost clarification only. New proximal-chain application has external hidden depth zero; selected fixed kinetic consumer has seven external levels with its fixed inner libraries already charged. The same growing-order outer reference requires J>=ceil(R-1). Optional depth-adapter cost algebra is conditional, not a new hidden-family admission."
-  }
+  },
+  "snapshot_version": "2026-10-04-public-v6-relative-same-heat-hidden-linear"
 }

@@ -1,0 +1,281 @@
+{
+  "scope": "Deterministic identity checks, not a hidden-sampler or source-graph certificate.",
+  "all_passed": true,
+  "checks": {
+    "actual_observation_covariance": {
+      "passed": true,
+      "eigenvalues": [
+        0.07500000000000004,
+        0.09999999999999992,
+        0.09999999999999992,
+        0.09999999999999999,
+        0.1,
+        0.1,
+        0.10000000000000003
+      ]
+    },
+    "reference_observations_independent": {
+      "passed": true
+    },
+    "observation_density_jacobian": {
+      "passed": true,
+      "error": 8.326672684688674e-17
+    },
+    "gaussian_product_identity": {
+      "passed": true
+    },
+    "stationary_normalizer_cancellation": {
+      "passed": true,
+      "convolution": 0.6240446514979685,
+      "formula": 0.6240446514979692
+    },
+    "fixed_predecessor_not_stationary_tilt": {
+      "passed": true,
+      "nonstationary_Y_density": 1.2000389484301361,
+      "stationary_Y_density": 0.6240446514979692
+    },
+    "partition_score_identity": {
+      "passed": true,
+      "finite_difference": -0.30303030302339384,
+      "posterior_score": -0.30303030303030337
+    },
+    "posterior_of_mean_vs_mixture_vs_tilt": {
+      "passed": true,
+      "variances": [
+        0.5,
+        0.75,
+        0.6666666666666666
+      ]
+    },
+    "finite_decoder_nonstationarity": {
+      "passed": true,
+      "fixtures": [
+        {
+          "a": 1.0,
+          "k": 1,
+          "variance": 0.4722222222222222,
+          "formula": 0.4722222222222222,
+          "target": 0.5
+        },
+        {
+          "a": 1.0,
+          "k": 2,
+          "variance": 0.49691358024691357,
+          "formula": 0.49691358024691357,
+          "target": 0.5
+        },
+        {
+          "a": 1.0,
+          "k": 3,
+          "variance": 0.49965706447187924,
+          "formula": 0.4996570644718793,
+          "target": 0.5
+        },
+        {
+          "a": 1.0,
+          "k": 4,
+          "variance": 0.499961896052431,
+          "formula": 0.499961896052431,
+          "target": 0.5
+        },
+        {
+          "a": 1.0,
+          "k": 5,
+          "variance": 0.49999576622804787,
+          "formula": 0.49999576622804787,
+          "target": 0.5
+        },
+        {
+          "a": 1.0,
+          "k": 6,
+          "variance": 0.49999952958089416,
+          "formula": 0.4999995295808942,
+          "target": 0.5
+        },
+        {
+          "a": 0.1,
+          "k": 1,
+          "variance": 0.08903506306103709,
+          "formula": 0.08903506306103709,
+          "target": 0.09090909090909091
+        },
+        {
+          "a": 0.1,
+          "k": 2,
+          "variance": 0.09048414128368187,
+          "formula": 0.09048414128368189,
+          "target": 0.09090909090909091
+        },
+        {
+          "a": 0.1,
+          "k": 3,
+          "variance": 0.09081273044981447,
+          "formula": 0.09081273044981449,
+          "target": 0.09090909090909091
+        },
+        {
+          "a": 0.1,
+          "k": 4,
+          "variance": 0.09088724046481053,
+          "formula": 0.09088724046481055,
+          "target": 0.09090909090909091
+        },
+        {
+          "a": 0.1,
+          "k": 5,
+          "variance": 0.09090413615982099,
+          "formula": 0.09090413615982099,
+          "target": 0.09090909090909091
+        },
+        {
+          "a": 0.1,
+          "k": 6,
+          "variance": 0.09090796738317936,
+          "formula": 0.09090796738317937,
+          "target": 0.09090909090909091
+        },
+        {
+          "a": 0.001,
+          "k": 1,
+          "variance": 0.000998751747565746,
+          "formula": 0.000998751747565746,
+          "target": 0.0009990009990009992
+        },
+        {
+          "a": 0.001,
+          "k": 2,
+          "variance": 0.0009989387484083412,
+          "formula": 0.0009989387484083412,
+          "target": 0.0009990009990009992
+        },
+        {
+          "a": 0.001,
+          "k": 3,
+          "variance": 0.0009989854519038186,
+          "formula": 0.0009989854519038186,
+          "target": 0.0009990009990009992
+        },
+        {
+          "a": 0.001,
+          "k": 4,
+          "variance": 0.0009989971161105651,
+          "formula": 0.0009989971161105653,
+          "target": 0.0009990009990009992
+        },
+        {
+          "a": 0.001,
+          "k": 5,
+          "variance": 0.0009990000292483857,
+          "formula": 0.0009990000292483857,
+          "target": 0.0009990009990009992
+        },
+        {
+          "a": 0.001,
+          "k": 6,
+          "variance": 0.0009990007568051022,
+          "formula": 0.0009990007568051022,
+          "target": 0.0009990009990009992
+        }
+      ]
+    },
+    "small_heat_rational_fixture": {
+      "passed": true
+    },
+    "omitted_normalizer_parent_tilt": {
+      "passed": true,
+      "parent_variance": 0.8571428571428571,
+      "true_child_variance": 0.4444444444444444,
+      "omitted_z_child_variance": 0.42857142857142855
+    },
+    "affine_decoder_path_convexity": {
+      "passed": true,
+      "fixtures": [
+        {
+          "k": 1,
+          "base_min_eigenvalue": 7.192235935955849,
+          "ideal_min_eigenvalue": 7.405817152713721,
+          "proved_lower_bound": 2.0
+        },
+        {
+          "k": 2,
+          "base_min_eigenvalue": 5.66314472715493,
+          "ideal_min_eigenvalue": 5.989556512882314,
+          "proved_lower_bound": 2.0
+        },
+        {
+          "k": 5,
+          "base_min_eigenvalue": 3.8919712101262354,
+          "ideal_min_eigenvalue": 4.294804384661714,
+          "proved_lower_bound": 2.0
+        },
+        {
+          "k": 16,
+          "base_min_eigenvalue": 3.0797091071033185,
+          "ideal_min_eigenvalue": 3.5026159581315945,
+          "proved_lower_bound": 2.0
+        },
+        {
+          "k": 40,
+          "base_min_eigenvalue": 2.956846298556588,
+          "ideal_min_eigenvalue": 3.3832479874066994,
+          "proved_lower_bound": 2.0
+        }
+      ]
+    },
+    "matrix_quadratic_decoder_covariance": {
+      "passed": true,
+      "last_covariance": [
+        [
+          0.07645917530769558,
+          -0.0004788480990227222,
+          -0.001318048140956373,
+          0.00020979067654825786,
+          1.5880949359105073e-05
+        ],
+        [
+          -0.0004788480990227221,
+          0.07651090110852976,
+          -0.0015053646528450384,
+          0.00020740645448355267,
+          -0.00035333355721764616
+        ],
+        [
+          -0.0013180481409563731,
+          -0.0015053646528450381,
+          0.0763680247088205,
+          -0.00013179315763046755,
+          -0.0007663277687545736
+        ],
+        [
+          0.00020979067654825783,
+          0.00020740645448355267,
+          -0.00013179315763046757,
+          0.07522647879838759,
+          -0.00020069403576446681
+        ],
+        [
+          1.5880949359105073e-05,
+          -0.00035333355721764616,
+          -0.0007663277687545734,
+          -0.00020069403576446676,
+          0.07911046898552487
+        ]
+      ]
+    },
+    "matrix_free_quadratic_polynomial_actions": {
+      "passed": true,
+      "degree": 5,
+      "mean_error": 7.84338735018134e-09,
+      "mean_bound": 6.243149804227369e-08,
+      "gaussian_L2_noise_error": 1.611298629617718e-08,
+      "noise_bound": 1.8021132933634344e-07
+    },
+    "nonlinear_center_can_destroy_joint_convexity": {
+      "passed": true,
+      "ancestor_h": 4.967294132898051,
+      "child_x": 100.03161983573649,
+      "second_directional_derivative": -1.0,
+      "center_second_derivative": 0.0010000000000000002
+    }
+  }
+}

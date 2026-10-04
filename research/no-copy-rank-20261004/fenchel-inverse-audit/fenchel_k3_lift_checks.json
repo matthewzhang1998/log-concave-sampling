@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "checks": 1880,
+  "max_inverse_error_fraction_of_bound": 0.5815040193747378,
+  "max_inverse_first": 2.3972259184925746,
+  "max_ambient_gradient_finite_difference_error": 4.310773960014558e-12,
+  "max_common_mode_identity_error": 7.774209668055481e-18,
+  "max_native_physical_identity_error": 0.0,
+  "finite_inverse_skew": [
+    [
+      0.0,
+      -0.000998334166468287
+    ],
+    [
+      0.000998334166468287,
+      0.0
+    ]
+  ],
+  "scope": "Finite identity diagnostics; reference inverse in diagnostics only. No finite-output gradient or new graph law is inferred."
+}

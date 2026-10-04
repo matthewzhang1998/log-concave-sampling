@@ -1,10 +1,10 @@
 # Log-concave sampling: mathematical research snapshot
 
-Snapshot version: 2026-10-04-public-v5-relative-known-center-linear, updated 4 October 2026. This is a curated research archive of proofs, scoped audits, source certificates, and diagnostic code. Inclusion is not an assertion that every proposed construction is proved.
+Snapshot version: 2026-10-04-public-v6-relative-same-heat-hidden-linear, updated 4 October 2026. This is a curated research archive of proofs, scoped audits, source certificates, and diagnostic code. Inclusion is not an assertion that every proposed construction is proved.
 
 ## Progress in brief
 
-The source-relative exact **1/32** baseline remains the best end-to-end reference in this collection. A new independently audited **relative standalone known-center posterior source family has a linear query exponent**. Its complete source assumptions are stated below. The old uniform hidden-family cost and generic no-copy matrix endpoint remain separate open problems; no subpolynomial-dimension or improved end-to-end sampler bound is claimed.
+The source-relative exact **1/32** baseline remains the best end-to-end reference in this collection. An independently audited **relative complete same-heat hidden source family now has a linear original-query exponent**, c(R,d) ≤ 2R−3 on R=j+1/2. This concerns the explicitly rebuilt selected Picard family with its original seed/restoration/domain ports. It does not cover arbitrary opaque hidden programs or establish a new outer sampler rate, a sublinear-in-order exponent, or subpolynomial dimension dependence.
 
 ### Baseline
 
@@ -12,7 +12,26 @@ The source-relative exact **1/32** baseline remains the best end-to-end referenc
 
 Its theorem is relative to the pinned LOW30/LOW31 foundational constructors, assumes a supplied initialization, and counts original gradient and directional Hessian-vector queries. It does not claim dimension-free arithmetic/storage or a differentiable return for the new packet. Those foundations are referenced rather than silently treated as included, independently reproved sources. The historical componentwise R7 and fourth-VALUE source certificates are under `research/exact-slack/`.
 
-### New milestone: a relative linear known-center source family
+### New milestone: complete relative same-heat hidden family
+
+The [strong-allocation continuation](research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/STRONG-ALLOCATION-HIDDEN-DEPTH-CONTINUATION.md) has a [full independent scoped PASS](research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/full-independent-audit/INDEPENDENT-COMPLETE-STRONG-LAW-ZERO-AUDIT.md):
+
+    c(R,d) ≤ 2R−3,  R=j+1/2,  j≥1.
+
+This is a complete original gradient-VALUE / directional first-or-adjoint query exponent for the literal same-heat selected Picard family, at every fixed finite depth d, including d=O(R) after R is fixed. The complete Gaussian record obeys the same heat exponent times physical dimension. Every complete bank, pair, zero, changed original query, finite restoration, and paid replay remains charged. The construction preserves each level's named finite marginal and its own grid. Its force and deterministic-zero pair gaps have order A^j. The refreshed base K0=K1 supplies actual g=1 and the fixed protected weak-source return.
+
+The result is relative to the supplied complete CW7 seed, genuine-gradient reference, matched finite-restoration, numerical caller profiles, and physical-domain ports. The [scope clarification](research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/COMPLETE-FAMILY-SCOPE-AND-NUMERICAL-QUALIFIERS.md) separates exact finite-center targeting from ideal-center history bias. Finite prox residuals are integrated under their actual caller profiles; no uniform bound over unbounded callers is substituted. Constants, logarithmic degrees, precision exponents, and small-heat thresholds may depend rapidly on the fixed R and d. Heat-dependent growing depth is not hidden in a prefactor.
+
+The [selected consumer/source read](research/cost/same-heat-refinement-20261004/strong-order-telescope/consumer-admission/SELECTED-PICARD-CONSUMER-AND-AMBIENT-PRIOR-GATES.md) verifies the full-replay same-heat LOW30/Exact32 Picard topology. The [graph/numerical join audit](research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/INDEPENDENT-EMPIRICAL-GRAPH-JOIN-AUDIT.md) and the full audit retain all original source ports. This is not a blanket theorem for arbitrary opaque histories, genuinely smaller-power heat calls, or all stronger covariance/higher-coefficient interfaces. The [outer-radius gate](research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/OUTER-RADIUS-AND-PROXY-MARK-GATE.md) is an algebraic qualification, not an independent new outer normalizer proof; the canonical r=A result cannot simply be reused at r=A^(3/4).
+
+The authoritative main and full-audit source bytes are preserved, respectively SHA-256 `83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33` and `b1943d4774f7cf77cbd9d11c0e3baac7ffdb83bc269992fb7fda14a100980fa6`. For off-grid R, conservative upward rounding gives c(R,d) ≤ 2ceil(R−1/2)−2 < 2R−1. The optional shifted-ladder claim of exact off-grid 2R−3 is pending independent audit and is excluded from this snapshot.
+
+### Complementary flattening and inverse audits
+
+- [Exact CW7 hidden joint-law audit](research/cost/same-heat-refinement-20261004/hidden-flattening/independent-audit/INDEPENDENT-CW7-JOINT-DENSITY-AUDIT.md): flattening the complete Gaussian tape preserves the actual computation, but does not itself yield a cheap original-gradient joint potential. Hidden-mean mixtures, conditional normalizers, deterministic constraints, and original nonlinear graph costs remain distinct. The favorable affine/quadratic subcase is scoped separately; no universal impossibility theorem is claimed.
+- [Fenchel inverse/ambient lift](research/no-copy-rank-20261004/fenchel-inverse-audit/FENCHEL-INVERSE-LIFT-AND-LITERAL-K3-GRAPH-CURRENT.md), with [independent review](research/no-copy-rank-20261004/fenchel-inverse-audit/INDEPENDENT-REVIEW-OF-DUAL-COMPLETED-AMBIENT-LIFT.md): for the restricted strongly monotone near-identity source, the inverse has contraction 1/5, finite actual first/caller control, and no extra inverse-heat copy exponent. The positive result is a bounded-first signed ambient gradient reference with common companion a M*E. It is not a jointly convex sampling potential or a finite exact gradient oracle. The unmarked opposite baseline and nonlinear constrained-input/current law remain open.
+
+### Previously admitted relative linear known-center source family
 
 The [protected short-refresh construction](research/cost/same-heat-refinement-20261004/protected-short-refresh/DETERMINISTIC-KNOWN-CENTER-SOURCE-WITH-PROTECTED-REFRESH.md) has [independent relative admission](research/cost/same-heat-refinement-20261004/protected-short-refresh/extension-audit/INDEPENDENT-WEIGHTED-GRAPH-AND-KNOWN-CENTER-ADMISSION.md) for a standalone known-center law/source/query induction:
 
@@ -22,9 +41,9 @@ Starting from the completed CW7 known-center seed k_7=0, the displayed rebuilt f
 
 Admission depends on the checked seed's genuine-gradient-reference and arbitrarily accurate finite-restoration ports at the actual consuming widths, consistent caller/anchor treatment, and matching finite row/coisometry encodings. The extension audit resolves the weighted-global-normalization premise left open in the [original short-refresh audit](research/cost/same-heat-refinement-20261004/protected-short-refresh/independent-audit/INDEPENDENT-PROTECTED-SHORT-REFRESH-AUDIT.md). It does not independently reprove the seed.
 
-The old uniform known/hidden-family c_P ~ 2P² is **not replaced**: hidden-service calls retain their separate explicit bill. The simple known-center-only outer application has exponent (R−1/2)/(2(R−1)) on Dim/ε², tending to 1/2. It does not beat the denominator-32 baseline. Sublinear-order cost remains open.
+That known-center result alone did not replace the old uniform known/hidden-family c_P ~ 2P²: its hidden-service calls retain their separate explicit bill. The new complete same-heat result above supplies a separately scoped linear hidden-family theorem. The simple known-center-only outer application has exponent (R−1/2)/(2(R−1)) on Dim/ε², tending to 1/2. It does not beat the denominator-32 baseline. Sublinear-order cost remains open.
 
-The [consumer-depth clarification](research/cost/same-heat-refinement-20261004/protected-short-refresh/CONSUMER-DEPTH-AND-ACTUAL-REPLAY-AUDIT.md) distinguishes the new proximal chain's external hidden depth zero from the selected fixed kinetic consumer's seven levels. The same growing-order kinetic reference needs J≥ceil(R−1); its hidden cost can consequently become quadratic again. Fixed inner RAW7/A8 histories and actual replay remain charged. The optional depth-adapter formula is conditional, not a new hidden-family theorem.
+The [consumer-depth clarification](research/cost/same-heat-refinement-20261004/protected-short-refresh/CONSUMER-DEPTH-AND-ACTUAL-REPLAY-AUDIT.md) distinguishes the new proximal chain's external hidden depth zero from the selected fixed kinetic consumer's seven levels. The same growing-order kinetic reference needs J≥ceil(R−1); using the old hidden-service adapter can consequently restore a quadratic cost. The separately audited same-heat continuation above now handles its selected full-replay topology with a linear exponent. Fixed inner RAW7/A8 histories and actual replay remain charged. The optional depth-adapter formula is conditional, not a new hidden-family theorem.
 
 ### Closed bounded modules
 
@@ -64,9 +83,9 @@ The [matrix same-query word contract](research/p-native-twin/MATRIX-K3-SAME-QUER
 
 Counterexamples and obstruction audits are retained because they rule out shortcuts such as replacing common nonlinear queries by independently heated factors, ignoring companion fields, or inferring marked energy from an ordinary first bound. The cost reconstructions also retain the unresolved growing-order efficiency boundary.
 
-### Separate hidden-family cost and next target
+### General hidden-family cost and remaining efficiency target
 
-The old uniform known/hidden-family cost certificate remains **c_P asymptotic to 2P²** under the source-relative suffix-splice recurrence, with the work convention Q_P(A) ≤ Λ_P A^(−c_P). See [cost optimization](research/cost/COST-OPTIMIZATION-PROOFS-RECONSTRUCTED.md) and [growth analysis](research/cost/GROWTH-AND-SUBCRITICAL-TARGETS-RECONSTRUCTED.md). This is quadratic growth in the cost exponent; it does not prove a subpolynomial-dimension sampler. The next target is to remove the linear-in-P replication cost per upgrade while preserving the complete source, retained/caller, and endpoint contracts. Restricted repairs and the scalar K3 closure do not yet achieve that general target.
+Outside the newly rebuilt same-heat selected family, the old uniform known/hidden-family cost certificate remains **c_P asymptotic to 2P²** under the source-relative suffix-splice recurrence, with the work convention Q_P(A) ≤ Λ_P A^(−c_P). See [cost optimization](research/cost/COST-OPTIMIZATION-PROOFS-RECONSTRUCTED.md) and [growth analysis](research/cost/GROWTH-AND-SUBCRITICAL-TARGETS-RECONSTRUCTED.md). This is quadratic growth in the cost exponent; it does not prove a subpolynomial-dimension sampler. The next target is to remove the linear-in-P replication cost per upgrade while preserving the complete source, retained/caller, and endpoint contracts. Restricted repairs and the scalar K3 closure do not yet achieve that general target.
 
 The [fixed-seed rank and sharing audit](research/cost/recurrence-audit-20261004/FIXED-SEED-RANK-CORRECTIONS-AND-SHARING-AUDIT.md) sharpens the priority: rebuild a complete all-rank no-copy compiler from the cheap c_7=0 seed. Conditional on that still-open source construction, finite fixed-target duplication and the existing finer-heat terminal preserve c_P=0. Same-heat additive posterior refinement is a separate alternative. Perfect sharing of the old empirical core alone still gives c_P=P−5.4 in the optimistic certificate, which is linear and misses the sublinear target. These are cost implications and research directions, not a completed all-order theorem.
 
@@ -75,7 +94,7 @@ The [fixed-seed rank and sharing audit](research/cost/recurrence-audit-20261004/
 - `INVENTORY.json` records each mathematical file's public SHA-256, original SHA-256, original/public byte counts, version type, and whether it is a sanitized publication copy.
 - `unchanged_source_copy` means the public bytes equal the source snapshot bytes. `sanitized_publication_copy` means local paths, nonmathematical context, and/or explicitly identified independent-audit scope clarifications were edited. Mathematical formulas and historical source/audit pins were retained; those pins do not silently become hashes of the edited files.
 - `historical_bytes_verified`, `reconstructed_new_version`, and `new_research_or_diagnostic` describe the original version. A reconstructed document is new work rather than a byte-identical historical source.
-- `PROVENANCE-CHECKS.json` records 308 source-index bindings, with original and public hashes. One older binding names the pre-correction mixed-descendant source. Its final source and scoped audit are explicitly identified. Source-index identifiers are checksums of external provenance records, not additional bundled sources.
+- `PROVENANCE-CHECKS.json` records 367 source-index bindings, with original and public hashes. One older binding names the pre-correction mixed-descendant source. Its final source and scoped audit are explicitly identified. Source-index identifiers are checksums of external provenance records, not additional bundled sources.
 - `SHA256SUMS` covers every bundled file except itself. Run `python verify_integrity.py` before use.
 
 Private correspondence, external confidential manuscripts and derivative commentary, personal data, credentials, and unrelated material are excluded. No publication license is assigned.
@@ -84,4 +103,4 @@ Private correspondence, external confidential manuscripts and derivative comment
 
 This is mathematical research, not a production sampler. Install `requirements.txt` in an appropriate Python environment, then run `python run_diagnostics.py`. The runner executes each script in its own disposable copy and never overwrites research source or saved results. Its default invocation only prints results. Use `--report /your/chosen/report.json` to save an additional report.
 
-`verification/DIAGNOSTIC-RERUN.json` records an independent fresh run of the publication copies, environment versions, exact outcomes, and any differences from saved outputs. `verification/REVIEW.md` states the public-release and verification limits. Passing arithmetic and numerical checks supports the stated identities and test cases; it does not replace analytic proof or discharge any open interface.
+`verification/DIAGNOSTIC-RERUN.json` records an independent fresh run of all **69 diagnostics: 69 passed, 0 failed, 0 not run**. It records the run of the publication copies, environment versions, exact outcomes, and any differences from saved outputs. `verification/REVIEW.md` states the public-release and verification limits. Passing arithmetic and numerical checks supports the stated identities and test cases; it does not replace analytic proof or discharge any open interface.

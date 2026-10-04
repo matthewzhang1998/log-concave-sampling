@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "count": 400,
+  "random_seed": 202610041739,
+  "minimum_observed_symmetric_eigenvalue": 0.0693432516637165,
+  "proven_uniform_bound": 0.034,
+  "reviewed_main_artifact_sha256": "7357f4e314c2d8024baea2a6cb1fa8021762728a6456a951f1831e7c5b78cbe4"
+}

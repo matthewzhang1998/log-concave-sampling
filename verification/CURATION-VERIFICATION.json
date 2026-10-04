@@ -1,45 +1,46 @@
 {
-  "verified_utc": "2026-10-04T16:52:11Z",
+  "verified_utc": "2026-10-04T18:11:54.653791Z",
   "curation": "Mathematical publication snapshot; original source files remain unchanged. Edited public copies are identified in INVENTORY.json.",
-  "research_files": 282,
-  "research_bytes": 1965678,
+  "research_files": 311,
+  "research_bytes": 2704242,
   "public_copy_counts": {
-    "unchanged_source_copy": 212,
-    "sanitized_publication_copy": 70
+    "unchanged_source_copy": 238,
+    "sanitized_publication_copy": 73
   },
   "original_version_counts": {
     "historical_bytes_verified": 17,
     "reconstructed_new_version": 29,
-    "new_research_or_diagnostic": 236
+    "new_research_or_diagnostic": 265
   },
   "kinds": {
-    "mathematical_proof_audit_or_certificate": 155,
-    "diagnostic_script": 62,
-    "saved_diagnostic_result": 64,
+    "mathematical_proof_audit_or_certificate": 169,
+    "diagnostic_script": 69,
+    "saved_diagnostic_result": 72,
     "baseline_manuscript": 1
   },
   "diagnostics": {
-    "bundled_scripts": 62,
-    "passed": 62,
+    "bundled_scripts": 69,
+    "passed": 69,
     "failed": 0,
     "not_run": 0,
-    "isolation": "Separate disposable research copy per script; final complete bundle also rerun from a separate copy with checksum verification before and after.",
+    "isolation": "Every diagnostic ran in its own disposable research copy; final bundle integrity separately verified. Original research and V5 bytes remain unchanged.",
     "archived_research_bytes_unchanged": true,
     "changed_saved_result_comparisons": 4,
     "comparison_differences": "Only embedded source SHA-256 values changed for sanitized source documents; mathematical result data, counts, and verdicts unchanged."
   },
   "historical_results_not_rerun": [
     "research/r-native-twin/common_two_twin_lift_checks.json",
-    "research/r-shear-consumer/weighted_scalar_width_checks.json"
+    "research/r-shear-consumer/weighted_scalar_width_checks.json",
+    "research/no-copy-rank-20261004/fenchel-inverse-audit/centered_energy_extension_checks.json"
   ],
-  "tex_build": "Attempted; blocked because pdflatex.fmt and its format configuration entry are unavailable. No PDF build is claimed.",
+  "tex_build": "Unchanged baseline; no new TeX build performed for V6. Previous attempt was blocked because pdflatex.fmt and its format configuration entry were unavailable. No PDF build is claimed.",
   "safety_review_findings": [],
   "safety_review_scope": "Selected plaintext, executable source, file list, and curation diffs reviewed; local-path and credential-marker scans found no release blockers. Scan results are not a universal secret-detection guarantee.",
   "incoming_payload_integrity_verified": true,
   "historical_source_index_mismatches": 1,
   "mismatch_resolution": "The earlier mixed-descendant index hash remains marked stale. Final source f805e8d3 and its separate included scoped audit 73fa9893 are explicitly identified.",
   "proof_verification_limit": "Numerical/algebraic diagnostics are not analytic proof verification. General matrix constrained-input and nonlinear endpoint joins remain open.",
-  "snapshot_version": "2026-10-04-public-v5-relative-known-center-linear",
+  "snapshot_version": "2026-10-04-public-v6-relative-same-heat-hidden-linear",
   "fixed_seed_audit": {
     "original_sha256": "03ba0c8daee0c774d5495659938cc0c3558be7a06051e856fa41c0b4078f1395",
     "original_checker_passed": 60826,
@@ -106,6 +107,55 @@
     "consumer_depth_clarification": {
       "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
       "scope": "Read-set and cost clarification only. New proximal-chain application has external hidden depth zero; selected fixed kinetic consumer has seven external levels with its fixed inner libraries already charged. The same growing-order outer reference requires J>=ceil(R-1). Optional depth-adapter cost algebra is conditional, not a new hidden-family admission."
+    }
+  },
+  "v6_additions": {
+    "new_payload_files": 29,
+    "new_diagnostics_passed": 7,
+    "new_diagnostic_results_reproduced_byte_for_byte": true,
+    "main_hidden_continuation_sha256": "83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33",
+    "full_independent_audit_sha256": "b1943d4774f7cf77cbd9d11c0e3baac7ffdb83bc269992fb7fda14a100980fa6",
+    "full_independent_audit_manifest_sha256": "0044b3a0c3ddf89db26bc4aa075d3a4746e18b8096a8d28dda929cc9165c71ef",
+    "final_same_heat_aggregate_manifest_sha256": "79c48685537bf128dab4c50a73844af4fa0067d00700b1534080a363205e7a52",
+    "complete_hidden_checks": 1980,
+    "complete_hidden_quadratic_fixtures": 13,
+    "complete_hidden_nonlinear_C2_nonC3_fixtures": 9,
+    "nested_bank_checks": 272,
+    "known_force_quadratic_fixtures": 36,
+    "known_force_additional_displayed_fixtures": {
+      "coarse_grid_floor": 9,
+      "allocation": 9,
+      "shared_keep": 12
+    },
+    "hidden_flattening_independent_checks": 15,
+    "hidden_flattening_primary_displayed_fixtures": {
+      "latent_mean_mixture": 12,
+      "decoder_partition_drop": 4,
+      "favorable_joint_whitening": 6,
+      "quadratic_polynomials": 9
+    },
+    "fenchel_main_checks": 1880,
+    "fenchel_independent_checks": 1849,
+    "fenchel_additional_centered_energy_checks": {
+      "saved_claimed_count": 400,
+      "freshly_rerun": false,
+      "reason": "The source package includes a saved result but no corresponding executable. It is not counted in fresh passes."
+    },
+    "milestone_scope": "Relative complete original-query source family c(R,d)<=2R-3 for R=j+1/2>=3/2 and fixed finite d, including d=O(R) after R is fixed. Literal selected same-heat full-replay family with original complete seed, gradient-reference, matched finite-restoration, numerical caller-profile and physical-domain ports.",
+    "qualification": "No arbitrary opaque-history, genuinely smaller-power heat, general covariance/higher-coefficient closure, new outer sampler rate, uniform growing-order constant, arithmetic exponent, or o(R) claim.",
+    "off_grid_status": "Optional shifted-ladder addendum, script, and saved results excluded pending independent audit. Conservative upward rounding remains admitted.",
+    "outer_radius_note_status": "Included as algebraic qualification only; no new outer normalizer proof.",
+    "fenchel_scope": "Restricted near-identity inverse contracts; signed ambient gradient reference, original-VALUE contraction q=1/5 and b_extra=0. Unmarked opposite baseline and constrained-input/current law remain open.",
+    "unchanged_original_files_verified": 388,
+    "unchanged_v5_files_verified": 295,
+    "selected_new_original_files_unchanged": true,
+    "all_preexisting_v5_research_bytes_unchanged": true,
+    "python_files_parsed": 71,
+    "json_files_decoded": 76,
+    "independent_public_scope_review": {
+      "result": "No release blockers found",
+      "scope": "Read-only review of all 29 new research payload files and README, provenance/public-original hashes, privacy exclusions, local paths, theorem limitations and README links. Aggregate verification files not independently reviewed.",
+      "new_research_files_reviewed": 29
     }
   }
 }

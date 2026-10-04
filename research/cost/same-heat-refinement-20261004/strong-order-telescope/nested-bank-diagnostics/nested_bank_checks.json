@@ -1,0 +1,2234 @@
+{
+  "status": "PASS",
+  "checks": 272,
+  "scope": "Exact algebraic diagnostics, not a complete hidden-source admission theorem",
+  "rows": [
+    {
+      "name": "nested_mean_variance",
+      "passed": true,
+      "M": 1,
+      "N": 2,
+      "coefficient": "1/2"
+    },
+    {
+      "name": "nested_mean_variance",
+      "passed": true,
+      "M": 2,
+      "N": 8,
+      "coefficient": "3/8"
+    },
+    {
+      "name": "nested_mean_variance",
+      "passed": true,
+      "M": 8,
+      "N": 64,
+      "coefficient": "7/64"
+    },
+    {
+      "name": "nested_mean_variance",
+      "passed": true,
+      "M": 17,
+      "N": 101,
+      "coefficient": "84/1717"
+    },
+    {
+      "name": "nested_mean_variance",
+      "passed": true,
+      "M": 64,
+      "N": 1024,
+      "coefficient": "15/1024"
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.5,
+      "M": 4,
+      "N": 16,
+      "law_error": 0.0023224519180680137,
+      "nested_strong": 0.11811389781538352,
+      "asymptotic_ratio": 0.9988401209226911
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.5,
+      "N": 16,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0023224519180678
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.5,
+      "M": 16,
+      "N": 64,
+      "law_error": 0.00058111835311081,
+      "nested_strong": 0.05905694890769176,
+      "asymptotic_ratio": 0.9997095252235884
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.5,
+      "N": 64,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0005811183531108
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.5,
+      "M": 64,
+      "N": 256,
+      "law_error": 0.00014531124291661257,
+      "nested_strong": 0.02952847445384588,
+      "asymptotic_ratio": 0.9999273496572276
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.5,
+      "N": 256,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0001453112429166
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.25,
+      "M": 4,
+      "N": 16,
+      "law_error": 0.0006596219764509748,
+      "nested_strong": 0.06292088017631478,
+      "asymptotic_ratio": 0.9996702977509812
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.25,
+      "N": 16,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0006596219764512
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.25,
+      "M": 16,
+      "N": 64,
+      "law_error": 0.00016494627811947105,
+      "nested_strong": 0.03146044008815739,
+      "asymptotic_ratio": 0.9999175336624829
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.25,
+      "N": 64,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0001649462781195
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.25,
+      "M": 64,
+      "N": 256,
+      "law_error": 4.1239120106562055e-05,
+      "nested_strong": 0.015730220044078695,
+      "asymptotic_ratio": 0.9999793808623507
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.25,
+      "N": 256,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0000412391201068
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.125,
+      "M": 4,
+      "N": 16,
+      "law_error": 0.00017689784995211788,
+      "nested_strong": 0.032580377196417924,
+      "asymptotic_ratio": 0.9999115588973474
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.125,
+      "N": 16,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0001768978499521
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.125,
+      "M": 16,
+      "N": 64,
+      "law_error": 4.4227396063023505e-05,
+      "nested_strong": 0.016290188598208962,
+      "asymptotic_ratio": 0.9999778867932766
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.125,
+      "N": 64,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0000442273960628
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.125,
+      "M": 64,
+      "N": 256,
+      "law_error": 1.1057032394568012e-05,
+      "nested_strong": 0.008145094299104481,
+      "asymptotic_ratio": 0.9999944715143648
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.125,
+      "N": 256,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0000110570323946
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.0625,
+      "M": 4,
+      "N": 16,
+      "law_error": 4.589004197685931e-05,
+      "nested_strong": 0.016593570126674735,
+      "asymptotic_ratio": 0.9999770555059877
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.0625,
+      "N": 16,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0000458900419769
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.0625,
+      "M": 16,
+      "N": 64,
+      "law_error": 1.1472707919679692e-05,
+      "nested_strong": 0.008296785063337368,
+      "asymptotic_ratio": 0.9999942636780907
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.0625,
+      "N": 64,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0000114727079197
+    },
+    {
+      "name": "quadratic_exact_law_and_nested_strong",
+      "passed": true,
+      "A": 0.0625,
+      "M": 64,
+      "N": 256,
+      "law_error": 2.8681893196047525e-06,
+      "nested_strong": 0.004148392531668684,
+      "asymptotic_ratio": 0.9999985659279629
+    },
+    {
+      "name": "quadratic_carrier_rotation",
+      "passed": true,
+      "A": 0.0625,
+      "N": 256,
+      "cross_covariance": 0.0,
+      "combined_U": 1.0000028681893196
+    },
+    {
+      "name": "nonlinear_C2_envelope",
+      "passed": true,
+      "A": 0.5,
+      "hessian_min": 0.25,
+      "hessian_max": 0.75,
+      "variance": 0.000140221967162724,
+      "first_bound": 0.125
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.5,
+      "M": 1,
+      "N": 4,
+      "exact_rms": 0.010255070715116645
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.5,
+      "M": 4,
+      "N": 16,
+      "exact_rms": 0.005127535357558322
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.5,
+      "M": 16,
+      "N": 64,
+      "exact_rms": 0.002563767678779161
+    },
+    {
+      "name": "nonlinear_C2_envelope",
+      "passed": true,
+      "A": 0.25,
+      "hessian_min": 0.25,
+      "hessian_max": 0.75,
+      "variance": 6.291904023994897e-07,
+      "first_bound": 0.06249999999999999
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.25,
+      "M": 1,
+      "N": 4,
+      "exact_rms": 0.0006869445405559442
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.25,
+      "M": 4,
+      "N": 16,
+      "exact_rms": 0.0003434722702779721
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.25,
+      "M": 16,
+      "N": 64,
+      "exact_rms": 0.00017173613513898604
+    },
+    {
+      "name": "nonlinear_C2_envelope",
+      "passed": true,
+      "A": 0.125,
+      "hessian_min": 0.25,
+      "hessian_max": 0.75,
+      "variance": 2.8232421102195953e-09,
+      "first_bound": 0.03125
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.125,
+      "M": 1,
+      "N": 4,
+      "exact_rms": 4.6015558050127964e-05
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.125,
+      "M": 4,
+      "N": 16,
+      "exact_rms": 2.3007779025063982e-05
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.125,
+      "M": 16,
+      "N": 64,
+      "exact_rms": 1.1503889512531991e-05
+    },
+    {
+      "name": "nonlinear_C2_envelope",
+      "passed": true,
+      "A": 0.0625,
+      "hessian_min": 0.25,
+      "hessian_max": 0.75,
+      "variance": 1.2668177999092216e-11,
+      "first_bound": 0.015625
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.0625,
+      "M": 1,
+      "N": 4,
+      "exact_rms": 3.0823908738703405e-06
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.0625,
+      "M": 4,
+      "N": 16,
+      "exact_rms": 1.5411954369351702e-06
+    },
+    {
+      "name": "nonlinear_nested_identity",
+      "passed": true,
+      "A": 0.0625,
+      "M": 16,
+      "N": 64,
+      "exact_rms": 7.705977184675851e-07
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 1,
+      "count_exponent": 0,
+      "variance_exponent": 2
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 1,
+      "ell": 1,
+      "count_exponent": 0,
+      "variance_exponent": 2,
+      "work_exponent": 0
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 1,
+      "normalized_coarse_error": 0,
+      "state_exponent": "1/2",
+      "force_exponent": 1
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 2,
+      "count_exponent": 2,
+      "variance_exponent": 4
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 2,
+      "ell": 1,
+      "count_exponent": 2,
+      "variance_exponent": 4,
+      "work_exponent": 2
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 2,
+      "ell": 2,
+      "count_exponent": 0,
+      "variance_exponent": 4,
+      "work_exponent": 2
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 2,
+      "normalized_coarse_error": 1,
+      "state_exponent": "3/2",
+      "force_exponent": 2
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 3,
+      "count_exponent": 4,
+      "variance_exponent": 6
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 3,
+      "ell": 1,
+      "count_exponent": 4,
+      "variance_exponent": 6,
+      "work_exponent": 4
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 3,
+      "ell": 2,
+      "count_exponent": 2,
+      "variance_exponent": 6,
+      "work_exponent": 4
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 3,
+      "ell": 3,
+      "count_exponent": 0,
+      "variance_exponent": 6,
+      "work_exponent": 4
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 3,
+      "normalized_coarse_error": 2,
+      "state_exponent": "5/2",
+      "force_exponent": 3
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 4,
+      "count_exponent": 6,
+      "variance_exponent": 8
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 4,
+      "ell": 1,
+      "count_exponent": 6,
+      "variance_exponent": 8,
+      "work_exponent": 6
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 4,
+      "ell": 2,
+      "count_exponent": 4,
+      "variance_exponent": 8,
+      "work_exponent": 6
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 4,
+      "ell": 3,
+      "count_exponent": 2,
+      "variance_exponent": 8,
+      "work_exponent": 6
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 4,
+      "ell": 4,
+      "count_exponent": 0,
+      "variance_exponent": 8,
+      "work_exponent": 6
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 4,
+      "normalized_coarse_error": 3,
+      "state_exponent": "7/2",
+      "force_exponent": 4
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 5,
+      "count_exponent": 8,
+      "variance_exponent": 10
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 5,
+      "ell": 1,
+      "count_exponent": 8,
+      "variance_exponent": 10,
+      "work_exponent": 8
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 5,
+      "ell": 2,
+      "count_exponent": 6,
+      "variance_exponent": 10,
+      "work_exponent": 8
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 5,
+      "ell": 3,
+      "count_exponent": 4,
+      "variance_exponent": 10,
+      "work_exponent": 8
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 5,
+      "ell": 4,
+      "count_exponent": 2,
+      "variance_exponent": 10,
+      "work_exponent": 8
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 5,
+      "ell": 5,
+      "count_exponent": 0,
+      "variance_exponent": 10,
+      "work_exponent": 8
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 5,
+      "normalized_coarse_error": 4,
+      "state_exponent": "9/2",
+      "force_exponent": 5
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 6,
+      "count_exponent": 10,
+      "variance_exponent": 12
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 6,
+      "ell": 1,
+      "count_exponent": 10,
+      "variance_exponent": 12,
+      "work_exponent": 10
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 6,
+      "ell": 2,
+      "count_exponent": 8,
+      "variance_exponent": 12,
+      "work_exponent": 10
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 6,
+      "ell": 3,
+      "count_exponent": 6,
+      "variance_exponent": 12,
+      "work_exponent": 10
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 6,
+      "ell": 4,
+      "count_exponent": 4,
+      "variance_exponent": 12,
+      "work_exponent": 10
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 6,
+      "ell": 5,
+      "count_exponent": 2,
+      "variance_exponent": 12,
+      "work_exponent": 10
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 6,
+      "ell": 6,
+      "count_exponent": 0,
+      "variance_exponent": 12,
+      "work_exponent": 10
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 6,
+      "normalized_coarse_error": 5,
+      "state_exponent": "11/2",
+      "force_exponent": 6
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 7,
+      "count_exponent": 12,
+      "variance_exponent": 14
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 7,
+      "ell": 1,
+      "count_exponent": 12,
+      "variance_exponent": 14,
+      "work_exponent": 12
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 7,
+      "ell": 2,
+      "count_exponent": 10,
+      "variance_exponent": 14,
+      "work_exponent": 12
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 7,
+      "ell": 3,
+      "count_exponent": 8,
+      "variance_exponent": 14,
+      "work_exponent": 12
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 7,
+      "ell": 4,
+      "count_exponent": 6,
+      "variance_exponent": 14,
+      "work_exponent": 12
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 7,
+      "ell": 5,
+      "count_exponent": 4,
+      "variance_exponent": 14,
+      "work_exponent": 12
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 7,
+      "ell": 6,
+      "count_exponent": 2,
+      "variance_exponent": 14,
+      "work_exponent": 12
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 7,
+      "ell": 7,
+      "count_exponent": 0,
+      "variance_exponent": 14,
+      "work_exponent": 12
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 7,
+      "normalized_coarse_error": 6,
+      "state_exponent": "13/2",
+      "force_exponent": 7
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 8,
+      "count_exponent": 14,
+      "variance_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 8,
+      "ell": 1,
+      "count_exponent": 14,
+      "variance_exponent": 16,
+      "work_exponent": 14
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 8,
+      "ell": 2,
+      "count_exponent": 12,
+      "variance_exponent": 16,
+      "work_exponent": 14
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 8,
+      "ell": 3,
+      "count_exponent": 10,
+      "variance_exponent": 16,
+      "work_exponent": 14
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 8,
+      "ell": 4,
+      "count_exponent": 8,
+      "variance_exponent": 16,
+      "work_exponent": 14
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 8,
+      "ell": 5,
+      "count_exponent": 6,
+      "variance_exponent": 16,
+      "work_exponent": 14
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 8,
+      "ell": 6,
+      "count_exponent": 4,
+      "variance_exponent": 16,
+      "work_exponent": 14
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 8,
+      "ell": 7,
+      "count_exponent": 2,
+      "variance_exponent": 16,
+      "work_exponent": 14
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 8,
+      "ell": 8,
+      "count_exponent": 0,
+      "variance_exponent": 16,
+      "work_exponent": 14
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 8,
+      "normalized_coarse_error": 7,
+      "state_exponent": "15/2",
+      "force_exponent": 8
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 9,
+      "count_exponent": 16,
+      "variance_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 1,
+      "count_exponent": 16,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 2,
+      "count_exponent": 14,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 3,
+      "count_exponent": 12,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 4,
+      "count_exponent": 10,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 5,
+      "count_exponent": 8,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 6,
+      "count_exponent": 6,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 7,
+      "count_exponent": 4,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 8,
+      "count_exponent": 2,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 9,
+      "ell": 9,
+      "count_exponent": 0,
+      "variance_exponent": 18,
+      "work_exponent": 16
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 9,
+      "normalized_coarse_error": 8,
+      "state_exponent": "17/2",
+      "force_exponent": 9
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 10,
+      "count_exponent": 18,
+      "variance_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 1,
+      "count_exponent": 18,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 2,
+      "count_exponent": 16,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 3,
+      "count_exponent": 14,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 4,
+      "count_exponent": 12,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 5,
+      "count_exponent": 10,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 6,
+      "count_exponent": 8,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 7,
+      "count_exponent": 6,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 8,
+      "count_exponent": 4,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 9,
+      "count_exponent": 2,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 10,
+      "ell": 10,
+      "count_exponent": 0,
+      "variance_exponent": 20,
+      "work_exponent": 18
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 10,
+      "normalized_coarse_error": 9,
+      "state_exponent": "19/2",
+      "force_exponent": 10
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 11,
+      "count_exponent": 20,
+      "variance_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 1,
+      "count_exponent": 20,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 2,
+      "count_exponent": 18,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 3,
+      "count_exponent": 16,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 4,
+      "count_exponent": 14,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 5,
+      "count_exponent": 12,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 6,
+      "count_exponent": 10,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 7,
+      "count_exponent": 8,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 8,
+      "count_exponent": 6,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 9,
+      "count_exponent": 4,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 10,
+      "count_exponent": 2,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 11,
+      "ell": 11,
+      "count_exponent": 0,
+      "variance_exponent": 22,
+      "work_exponent": 20
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 11,
+      "normalized_coarse_error": 10,
+      "state_exponent": "21/2",
+      "force_exponent": 11
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 12,
+      "count_exponent": 22,
+      "variance_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 1,
+      "count_exponent": 22,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 2,
+      "count_exponent": 20,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 3,
+      "count_exponent": 18,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 4,
+      "count_exponent": 16,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 5,
+      "count_exponent": 14,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 6,
+      "count_exponent": 12,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 7,
+      "count_exponent": 10,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 8,
+      "count_exponent": 8,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 9,
+      "count_exponent": 6,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 10,
+      "count_exponent": 4,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 11,
+      "count_exponent": 2,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 12,
+      "ell": 12,
+      "count_exponent": 0,
+      "variance_exponent": 24,
+      "work_exponent": 22
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 12,
+      "normalized_coarse_error": 11,
+      "state_exponent": "23/2",
+      "force_exponent": 12
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 13,
+      "count_exponent": 24,
+      "variance_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 1,
+      "count_exponent": 24,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 2,
+      "count_exponent": 22,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 3,
+      "count_exponent": 20,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 4,
+      "count_exponent": 18,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 5,
+      "count_exponent": 16,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 6,
+      "count_exponent": 14,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 7,
+      "count_exponent": 12,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 8,
+      "count_exponent": 10,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 9,
+      "count_exponent": 8,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 10,
+      "count_exponent": 6,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 11,
+      "count_exponent": 4,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 12,
+      "count_exponent": 2,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 13,
+      "ell": 13,
+      "count_exponent": 0,
+      "variance_exponent": 26,
+      "work_exponent": 24
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 13,
+      "normalized_coarse_error": 12,
+      "state_exponent": "25/2",
+      "force_exponent": 13
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 14,
+      "count_exponent": 26,
+      "variance_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 1,
+      "count_exponent": 26,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 2,
+      "count_exponent": 24,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 3,
+      "count_exponent": 22,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 4,
+      "count_exponent": 20,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 5,
+      "count_exponent": 18,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 6,
+      "count_exponent": 16,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 7,
+      "count_exponent": 14,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 8,
+      "count_exponent": 12,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 9,
+      "count_exponent": 10,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 10,
+      "count_exponent": 8,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 11,
+      "count_exponent": 6,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 12,
+      "count_exponent": 4,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 13,
+      "count_exponent": 2,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 14,
+      "ell": 14,
+      "count_exponent": 0,
+      "variance_exponent": 28,
+      "work_exponent": 26
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 14,
+      "normalized_coarse_error": 13,
+      "state_exponent": "27/2",
+      "force_exponent": 14
+    },
+    {
+      "name": "base_allocation",
+      "passed": true,
+      "j": 15,
+      "count_exponent": 28,
+      "variance_exponent": 30
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 1,
+      "count_exponent": 28,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 2,
+      "count_exponent": 26,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 3,
+      "count_exponent": 24,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 4,
+      "count_exponent": 22,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 5,
+      "count_exponent": 20,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 6,
+      "count_exponent": 18,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 7,
+      "count_exponent": 16,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 8,
+      "count_exponent": 14,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 9,
+      "count_exponent": 12,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 10,
+      "count_exponent": 10,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 11,
+      "count_exponent": 8,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 12,
+      "count_exponent": 6,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 13,
+      "count_exponent": 4,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 14,
+      "count_exponent": 2,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "strong_level_fixed_point",
+      "passed": true,
+      "j": 15,
+      "ell": 15,
+      "count_exponent": 0,
+      "variance_exponent": 30,
+      "work_exponent": 28
+    },
+    {
+      "name": "adjacent_offset_restored",
+      "passed": true,
+      "j": 15,
+      "normalized_coarse_error": 14,
+      "state_exponent": "29/2",
+      "force_exponent": 15
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 1,
+      "work": "0"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 2,
+      "work": "2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 3,
+      "work": "4"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 4,
+      "work": "6"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 5,
+      "work": "8"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 6,
+      "work": "10"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 7,
+      "work": "12"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 8,
+      "work": "14"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 9,
+      "work": "16"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 10,
+      "work": "18"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "0",
+      "j": 11,
+      "work": "20"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 1,
+      "work": "0"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 2,
+      "work": "2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 3,
+      "work": "4"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 4,
+      "work": "6"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 5,
+      "work": "8"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 6,
+      "work": "10"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 7,
+      "work": "12"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 8,
+      "work": "14"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 9,
+      "work": "16"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 10,
+      "work": "18"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1/2",
+      "j": 11,
+      "work": "20"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 1,
+      "work": "0"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 2,
+      "work": "2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 3,
+      "work": "4"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 4,
+      "work": "6"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 5,
+      "work": "8"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 6,
+      "work": "10"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 7,
+      "work": "12"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 8,
+      "work": "14"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 9,
+      "work": "16"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 10,
+      "work": "18"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "1",
+      "j": 11,
+      "work": "20"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 1,
+      "work": "0"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 2,
+      "work": "2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 3,
+      "work": "4"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 4,
+      "work": "6"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 5,
+      "work": "8"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 6,
+      "work": "10"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 7,
+      "work": "12"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 8,
+      "work": "14"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 9,
+      "work": "16"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 10,
+      "work": "18"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3/2",
+      "j": 11,
+      "work": "20"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 1,
+      "work": "0"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 2,
+      "work": "2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 3,
+      "work": "4"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 4,
+      "work": "6"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 5,
+      "work": "8"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 6,
+      "work": "10"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 7,
+      "work": "12"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 8,
+      "work": "14"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 9,
+      "work": "16"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 10,
+      "work": "18"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "2",
+      "j": 11,
+      "work": "20"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 1,
+      "work": "0"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 2,
+      "work": "5/2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 3,
+      "work": "5"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 4,
+      "work": "15/2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 5,
+      "work": "10"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 6,
+      "work": "25/2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 7,
+      "work": "15"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 8,
+      "work": "35/2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 9,
+      "work": "20"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 10,
+      "work": "45/2"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "5/2",
+      "j": 11,
+      "work": "25"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 1,
+      "work": "0"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 2,
+      "work": "3"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 3,
+      "work": "6"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 4,
+      "work": "9"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 5,
+      "work": "12"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 6,
+      "work": "15"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 7,
+      "work": "18"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 8,
+      "work": "21"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 9,
+      "work": "24"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 10,
+      "work": "27"
+    },
+    {
+      "name": "general_cost_slope",
+      "passed": true,
+      "beta": "3",
+      "j": 11,
+      "work": "30"
+    }
+  ]
+}

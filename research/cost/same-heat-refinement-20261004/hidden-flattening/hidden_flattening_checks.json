@@ -1,0 +1,232 @@
+{
+  "status": "PASS: hidden-mean mixture mismatch, decoder normalization tilt, conditioned Gaussian whitening, and quadratic matrix-free actions",
+  "scope": "No universal impossibility theorem; affine/quadratic simplification requires a separately certified source graph.",
+  "latent_mean_mixture": [
+    {
+      "a": 0.2,
+      "replicas": 1,
+      "target_variance": 0.18181818181818182,
+      "mixture_variance": 0.1884297520661157,
+      "w2": 0.007683526791081752,
+      "n_w2_over_a_2p5": 0.4295222052949905
+    },
+    {
+      "a": 0.2,
+      "replicas": 4,
+      "target_variance": 0.18181818181818182,
+      "mixture_variance": 0.1834710743801653,
+      "w2": 0.0019338032665880966,
+      "n_w2_over_a_2p5": 0.43241155592021313
+    },
+    {
+      "a": 0.2,
+      "replicas": 16,
+      "target_variance": 0.18181818181818182,
+      "mixture_variance": 0.18223140495867768,
+      "w2": 0.0004842720841934933,
+      "n_w2_over_a_2p5": 0.43314611994486096
+    },
+    {
+      "a": 0.1,
+      "replicas": 1,
+      "target_variance": 0.09523809523809523,
+      "mixture_variance": 0.09614512471655329,
+      "w2": 0.001466073334858209,
+      "n_w2_over_a_2p5": 0.4636130954990669
+    },
+    {
+      "a": 0.1,
+      "replicas": 4,
+      "target_variance": 0.09523809523809523,
+      "mixture_variance": 0.09546485260770975,
+      "w2": 0.0003671705045463769,
+      "n_w2_over_a_2p5": 0.46443803359990393
+    },
+    {
+      "a": 0.1,
+      "replicas": 16,
+      "target_variance": 0.09523809523809523,
+      "mixture_variance": 0.09529478458049886,
+      "w2": 9.183356844366664e-05,
+      "n_w2_over_a_2p5": 0.46464518710872127
+    },
+    {
+      "a": 0.05,
+      "replicas": 1,
+      "target_variance": 0.04878048780487806,
+      "mixture_variance": 0.04889946460440215,
+      "w2": 0.0002691811506608244,
+      "n_w2_over_a_2p5": 0.48152588091137255
+    },
+    {
+      "a": 0.05,
+      "replicas": 4,
+      "target_variance": 0.04878048780487806,
+      "mixture_variance": 0.048810232004759084,
+      "w2": 6.73260348360849e-05,
+      "n_w2_over_a_2p5": 0.48174588975681515
+    },
+    {
+      "a": 0.05,
+      "replicas": 16,
+      "target_variance": 0.04878048780487806,
+      "mixture_variance": 0.048787923854848314,
+      "w2": 1.6833432603224896e-05,
+      "n_w2_over_a_2p5": 0.481800954822043
+    },
+    {
+      "a": 0.025,
+      "replicas": 1,
+      "target_variance": 0.02469135802469136,
+      "mixture_variance": 0.02470659960371895,
+      "w2": 4.849092547573597e-05,
+      "n_w2_over_a_2p5": 0.49069366512899065
+    },
+    {
+      "a": 0.025,
+      "replicas": 4,
+      "target_variance": 0.02469135802469136,
+      "mixture_variance": 0.024695168419448257,
+      "w2": 1.212413413814728e-05,
+      "n_w2_over_a_2p5": 0.4907504452345337
+    },
+    {
+      "a": 0.025,
+      "replicas": 16,
+      "target_variance": 0.02469135802469136,
+      "mixture_variance": 0.024692310623380585,
+      "w2": 3.0311212329825477e-06,
+      "n_w2_over_a_2p5": 0.4907646443685244
+    }
+  ],
+  "decoder_partition_drop": [
+    {
+      "a": 0.2,
+      "finite_mode_steps": 8,
+      "exact_normalized_path_variance": 0.17807012619703527,
+      "dropped_partition_variance": 0.17461814074393295,
+      "w2_over_a_1p5": 0.04595350695713228
+    },
+    {
+      "a": 0.1,
+      "finite_mode_steps": 8,
+      "exact_normalized_path_variance": 0.09415894059397012,
+      "dropped_partition_variance": 0.09312758425000622,
+      "w2_over_a_1p5": 0.053289559109752783
+    },
+    {
+      "a": 0.05,
+      "finite_mode_steps": 8,
+      "exact_normalized_path_variance": 0.04849034471809481,
+      "dropped_partition_variance": 0.04820702241993022,
+      "w2_over_a_1p5": 0.05762406517265076
+    },
+    {
+      "a": 0.025,
+      "finite_mode_steps": 8,
+      "exact_normalized_path_variance": 0.024616093871474613,
+      "dropped_partition_variance": 0.024541741802208594,
+      "w2_over_a_1p5": 0.05998902402195327
+    }
+  ],
+  "favorable_joint_whitening": [
+    {
+      "decoder_steps": 1,
+      "latent_scalar_dimension": 2,
+      "gaussian_map_condition": 1.9663058539321205,
+      "normalized_joint_precision_min": 0.9910894554171432,
+      "normalized_joint_precision_max": 1.0342154226316371
+    },
+    {
+      "decoder_steps": 2,
+      "latent_scalar_dimension": 4,
+      "gaussian_map_condition": 2.641092707958822,
+      "normalized_joint_precision_min": 0.9893544913305888,
+      "normalized_joint_precision_max": 1.0483451113923918
+    },
+    {
+      "decoder_steps": 4,
+      "latent_scalar_dimension": 8,
+      "gaussian_map_condition": 3.335549564620632,
+      "normalized_joint_precision_min": 0.9877685895248649,
+      "normalized_joint_precision_max": 1.064962153971253
+    },
+    {
+      "decoder_steps": 8,
+      "latent_scalar_dimension": 16,
+      "gaussian_map_condition": 3.8275733246807344,
+      "normalized_joint_precision_min": 0.9869258154133804,
+      "normalized_joint_precision_max": 1.078622179854432
+    },
+    {
+      "decoder_steps": 16,
+      "latent_scalar_dimension": 32,
+      "gaussian_map_condition": 4.064176099560266,
+      "normalized_joint_precision_min": 0.9866210231757829,
+      "normalized_joint_precision_max": 1.0861324912689336
+    },
+    {
+      "decoder_steps": 32,
+      "latent_scalar_dimension": 64,
+      "gaussian_map_condition": 4.147853410301807,
+      "normalized_joint_precision_min": 0.9865315672807202,
+      "normalized_joint_precision_max": 1.0890647293216733
+    }
+  ],
+  "quadratic_polynomials": [
+    {
+      "b": 0.1,
+      "degree": 2,
+      "inverse_error": 0.0003533190328085425,
+      "square_root_error": 0.00011136289735683033
+    },
+    {
+      "b": 0.1,
+      "degree": 4,
+      "inverse_error": 1.8500024736116919e-06,
+      "square_root_error": 4.578719448809211e-07
+    },
+    {
+      "b": 0.1,
+      "degree": 8,
+      "inverse_error": 5.0720415460488327e-11,
+      "square_root_error": 9.439384658589513e-12
+    },
+    {
+      "b": 0.03,
+      "degree": 2,
+      "inverse_error": 1.0012552304069614e-05,
+      "square_root_error": 3.137286053758608e-06
+    },
+    {
+      "b": 0.03,
+      "degree": 4,
+      "inverse_error": 4.718376362219943e-09,
+      "square_root_error": 1.1632285599281833e-09
+    },
+    {
+      "b": 0.03,
+      "degree": 8,
+      "inverse_error": 9.967008025687875e-16,
+      "square_root_error": 4.653715171984236e-16
+    },
+    {
+      "b": 0.01,
+      "degree": 2,
+      "inverse_error": 3.761634936399809e-07,
+      "square_root_error": 1.1765688221781196e-07
+    },
+    {
+      "b": 0.01,
+      "degree": 4,
+      "inverse_error": 1.9696266646450085e-11,
+      "square_root_error": 4.8501652995232425e-12
+    },
+    {
+      "b": 0.01,
+      "degree": 8,
+      "inverse_error": 1.1102314949223176e-16,
+      "square_root_error": 2.320761431808662e-16
+    }
+  ]
+}
