@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-04",
+  "verdict": "PASS_SCOPED",
+  "assertions": 429,
+  "scope": "Specific polynomial VALUE graph, every fixed m>=1, fixed standardized u_eta and U_A=A u_eta; uniform general-C2 counterexample, not a fixed unscaled physical V claim",
+  "files": [
+    {
+      "path": "NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+      "sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+      "bytes": 7886
+    },
+    {
+      "path": "POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "bytes": 15844
+    },
+    {
+      "path": "separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+      "sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+      "bytes": 12298
+    },
+    {
+      "path": "separator-independent-audit/check_separator_independent.py",
+      "sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "bytes": 7155
+    },
+    {
+      "path": "separator-independent-audit/separator_independent_checks.json",
+      "sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+      "bytes": 18146
+    }
+  ]
+}

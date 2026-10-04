@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-04",
+  "package": "positive_endpoint_law_components",
+  "complete_cost_claim": "No general c(P)/P -> 0 theorem; high-order positive same-endpoint closure remains open.",
+  "excluded_work_in_progress": [
+    "reverse-ou-curvature/",
+    "variance-gluing/covariance-action/",
+    "Any file not in the explicit frozen included_files list"
+  ],
+  "independent_assertions_total": 4901,
+  "verified_audit_manifest_entries": 26,
+  "components": [
+    {
+      "id": "positive_endpoint_law",
+      "status": "PASS_SCOPED",
+      "source": "POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "audit": "independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+      "independent_assertions": 793,
+      "scope": "General C2 marginal standardized W2 order 2 / physical order 5/2; reusable conditional-decoupling lemma; exact all-order matrix-quadratic VALUE amplifier. No general nonlinear higher-order source or sublinear recurrence.",
+      "source_pin": {
+        "path": "POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+        "sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+        "bytes": 15844
+      },
+      "audit_pin": {
+        "path": "independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+        "sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+        "bytes": 22089
+      },
+      "audit_manifest_pin": {
+        "path": "independent-audit/MANIFEST.json",
+        "sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+        "bytes": 1477
+      }
+    },
+    {
+      "id": "nonlinear_amplifier_separator",
+      "status": "PASS_SCOPED",
+      "source": "NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+      "audit": "separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+      "independent_assertions": 429,
+      "scope": "The particular quadratic polynomial graph retains order-A^2 error on a fixed-standardized-shape 2D genuinely C2 noncommuting potential. Not an impossibility for all algorithms or one fixed unscaled physical potential.",
+      "source_pin": {
+        "path": "NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+        "sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+        "bytes": 7886
+      },
+      "audit_pin": {
+        "path": "separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+        "sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+        "bytes": 12298
+      },
+      "audit_manifest_pin": {
+        "path": "separator-independent-audit/MANIFEST.json",
+        "sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+        "bytes": 1240
+      }
+    },
+    {
+      "id": "conditional_ou_velocity",
+      "status": "PASS_GUARDED_SCOPED",
+      "source": "conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+      "audit": "conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+      "independent_assertions": 1685,
+      "scope": "Original-VALUE conditional fixed-unit-buffer law for the exact OU velocity with third-order error, under imported radius/covariance-gap/public-log guards. No strong mean oracle or same-endpoint posterior composition.",
+      "source_pin": {
+        "path": "conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+        "sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+        "bytes": 19496
+      },
+      "audit_pin": {
+        "path": "conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+        "sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+        "bytes": 17681
+      },
+      "audit_manifest_pin": {
+        "path": "conditional-ou-velocity/independent-audit/MANIFEST.json",
+        "sha256": "0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+        "bytes": 2705
+      }
+    },
+    {
+      "id": "variance_gluing",
+      "status": "PASS_BOUNDED_SCOPED",
+      "source": "variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+      "audit": "variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+      "independent_assertions": 1994,
+      "scope": "Exact reverse-OU mean/covariance/higher-current ledger and positive fixed-step buffer gluing. No high-order time approximation or general nonlinear all-order transition.",
+      "source_pin": {
+        "path": "variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+        "sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+        "bytes": 10970
+      },
+      "audit_pin": {
+        "path": "variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+        "sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+        "bytes": 16600
+      },
+      "audit_manifest_pin": {
+        "path": "variance-gluing/independent-audit/MANIFEST.json",
+        "sha256": "fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+        "bytes": 2816
+      }
+    }
+  ],
+  "external_prerequisites": [
+    {
+      "path": "cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "bytes": 12317,
+      "included_in_this_subdirectory": false
+    },
+    {
+      "path": "cost/endpoint-stein-quadrature-20261004/independent-audit/INDEPENDENT-ENDPOINT-STEIN-AUDIT.md",
+      "sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "bytes": 17108,
+      "included_in_this_subdirectory": false
+    },
+    {
+      "path": "no-copy-rank-20261004/host-observer-audit/COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md",
+      "sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+      "bytes": 13294,
+      "included_in_this_subdirectory": false
+    },
+    {
+      "path": "no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md",
+      "sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+      "bytes": 7052,
+      "included_in_this_subdirectory": false
+    },
+    {
+      "path": "external:LOW30",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "bytes": 680050,
+      "included_in_this_subdirectory": false
+    }
+  ],
+  "files": [
+    {
+      "path": "NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+      "sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+      "bytes": 7886
+    },
+    {
+      "path": "POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "bytes": 15844
+    },
+    {
+      "path": "README.md",
+      "sha256": "b48e99730ed5ecde1e698254c8509d367d9fe037271dc4919b2fe0a4dda1db33",
+      "bytes": 4791
+    },
+    {
+      "path": "check_nonlinear_amplifier_separator.py",
+      "sha256": "076beb22fba63b8f4c869afcb0051373bc3fc1d18ed6be65a62fa8feb6316862",
+      "bytes": 3176
+    },
+    {
+      "path": "check_positive_stein_law.py",
+      "sha256": "e671ea9c0ca500a1cdcab98db2568cd35e2de52773196bc90e70a1b30267920b",
+      "bytes": 7477
+    },
+    {
+      "path": "conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+      "sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "bytes": 19496
+    },
+    {
+      "path": "conditional-ou-velocity/check_conditional_velocity_ports.py",
+      "sha256": "2dc47583515eeade2785be81d2a8add8f82918ba7fc51e5a78eb592018705007",
+      "bytes": 5994
+    },
+    {
+      "path": "conditional-ou-velocity/conditional_velocity_ports_checks.json",
+      "sha256": "348ce5bb12a15c2b8373fd31b24ca78f8b5d4942ee7e8cabd028de5089c1c17b",
+      "bytes": 7358
+    },
+    {
+      "path": "conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+      "sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "bytes": 17681
+    },
+    {
+      "path": "conditional-ou-velocity/independent-audit/MANIFEST.json",
+      "sha256": "0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "bytes": 2705
+    },
+    {
+      "path": "conditional-ou-velocity/independent-audit/check_conditional_velocity_independent.py",
+      "sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+      "bytes": 11459
+    },
+    {
+      "path": "conditional-ou-velocity/independent-audit/conditional_velocity_independent_checks.json",
+      "sha256": "d2d31083d490b4f5d3c39831d1b01fbc53011dea6b15fd3375a17cea09d447e2",
+      "bytes": 26082
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+      "sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "bytes": 22089
+    },
+    {
+      "path": "independent-audit/MANIFEST.json",
+      "sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "bytes": 1477
+    },
+    {
+      "path": "independent-audit/check_positive_law_independent.py",
+      "sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "bytes": 14591
+    },
+    {
+      "path": "independent-audit/positive_law_independent_checks.json",
+      "sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+      "bytes": 21378
+    },
+    {
+      "path": "nonlinear_amplifier_separator_checks.json",
+      "sha256": "04004ca428c115288467e5cac99bbb5f94a8b730533d203bf1f087d1598a2b6f",
+      "bytes": 5090
+    },
+    {
+      "path": "positive_stein_law_checks.json",
+      "sha256": "8b7dee85e5a4b59c22c0e178c7fd1fab62b1c09a0ca6e6d61477f7763f9d4605",
+      "bytes": 14544
+    },
+    {
+      "path": "regenerate_package_manifest.py",
+      "sha256": "5e7efeaf3543f4d919bd77452ed1c51239700516f58a9016baa9b79fda3a11dd",
+      "bytes": 7772
+    },
+    {
+      "path": "separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+      "sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+      "bytes": 12298
+    },
+    {
+      "path": "separator-independent-audit/MANIFEST.json",
+      "sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "bytes": 1240
+    },
+    {
+      "path": "separator-independent-audit/check_separator_independent.py",
+      "sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "bytes": 7155
+    },
+    {
+      "path": "separator-independent-audit/separator_independent_checks.json",
+      "sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+      "bytes": 18146
+    },
+    {
+      "path": "variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+      "sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+      "bytes": 10970
+    },
+    {
+      "path": "variance-gluing/check_variance_gluing.py",
+      "sha256": "f49aa8a3aeb34c01984051e86287294106a8728f0a093dd7138ae883bdc977e2",
+      "bytes": 3685
+    },
+    {
+      "path": "variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+      "sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+      "bytes": 16600
+    },
+    {
+      "path": "variance-gluing/independent-audit/MANIFEST.json",
+      "sha256": "fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "bytes": 2816
+    },
+    {
+      "path": "variance-gluing/independent-audit/check_variance_gluing_independent.py",
+      "sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+      "bytes": 16931
+    },
+    {
+      "path": "variance-gluing/independent-audit/variance_gluing_independent_checks.json",
+      "sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+      "bytes": 1940
+    },
+    {
+      "path": "variance-gluing/variance_gluing_checks.json",
+      "sha256": "90f67f324d0f3e56fd585bbb425f0c7cc196161b7f483c25d4c2bc284871b615",
+      "bytes": 25486
+    }
+  ],
+  "publication_copy_notice": "This is a labeled publication copy of source manifest 5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c. All listed hashes and byte counts pin original reviewed source files. Public-copy hashes, byte counts and edits are separately recorded in root INVENTORY.json. The standalone public conditional checker executes 1684 rather than 1685 assertions because LOW30 is external; all mathematical tests remain. The other three independent checkers retain their original counts, for 4900 public assertions versus 4901 original assertions. The portable generator validates this mapping and does not overwrite the archive."
+}

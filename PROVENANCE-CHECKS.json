@@ -1,5 +1,5 @@
 {
-  "snapshot_utc": "2026-10-04T19:50:50.817176Z",
+  "snapshot_utc": "2026-10-04T21:16:49.093337Z",
   "policy": "Historical audits apply only to the cited original source bytes and stated mathematical scope. Public copies may contain clearly labeled nonmathematical sanitization; their distinct hashes are mapped here and in INVENTORY.json. Sanitization does not constitute a fresh mathematical audit.",
   "bindings": [
     {
@@ -3864,6 +3864,510 @@
       "public_sha256": "f2f4f32d2de88b0b010a2f7c18a16f928cdb3eced7dc36bce74f85174b031b0e",
       "public_copy_is_sanitized": false,
       "binding_kind": "exact_completed_source_snapshot"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/MANIFEST.json",
+      "recorded_sha256": "5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c",
+      "matches_original_source": true,
+      "public_sha256": "3ab069b9b2010540ff56d3ee2987107410f176225826c1fbd6397e5e12c62e60",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+      "recorded_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+      "matches_original_source": true,
+      "public_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "recorded_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "matches_original_source": true,
+      "public_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/README.md",
+      "recorded_sha256": "b48e99730ed5ecde1e698254c8509d367d9fe037271dc4919b2fe0a4dda1db33",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "b48e99730ed5ecde1e698254c8509d367d9fe037271dc4919b2fe0a4dda1db33",
+      "matches_original_source": true,
+      "public_sha256": "74b3f4dd5fde9d4f809b8a0a664014fd1bab5bee146cd8c7fefdd834d1181841",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/check_nonlinear_amplifier_separator.py",
+      "recorded_sha256": "076beb22fba63b8f4c869afcb0051373bc3fc1d18ed6be65a62fa8feb6316862",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "076beb22fba63b8f4c869afcb0051373bc3fc1d18ed6be65a62fa8feb6316862",
+      "matches_original_source": true,
+      "public_sha256": "076beb22fba63b8f4c869afcb0051373bc3fc1d18ed6be65a62fa8feb6316862",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/check_positive_stein_law.py",
+      "recorded_sha256": "e671ea9c0ca500a1cdcab98db2568cd35e2de52773196bc90e70a1b30267920b",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "e671ea9c0ca500a1cdcab98db2568cd35e2de52773196bc90e70a1b30267920b",
+      "matches_original_source": true,
+      "public_sha256": "e671ea9c0ca500a1cdcab98db2568cd35e2de52773196bc90e70a1b30267920b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+      "recorded_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "matches_original_source": true,
+      "public_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/check_conditional_velocity_ports.py",
+      "recorded_sha256": "2dc47583515eeade2785be81d2a8add8f82918ba7fc51e5a78eb592018705007",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "2dc47583515eeade2785be81d2a8add8f82918ba7fc51e5a78eb592018705007",
+      "matches_original_source": true,
+      "public_sha256": "2dc47583515eeade2785be81d2a8add8f82918ba7fc51e5a78eb592018705007",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/conditional_velocity_ports_checks.json",
+      "recorded_sha256": "348ce5bb12a15c2b8373fd31b24ca78f8b5d4942ee7e8cabd028de5089c1c17b",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "348ce5bb12a15c2b8373fd31b24ca78f8b5d4942ee7e8cabd028de5089c1c17b",
+      "matches_original_source": true,
+      "public_sha256": "348ce5bb12a15c2b8373fd31b24ca78f8b5d4942ee7e8cabd028de5089c1c17b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+      "recorded_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "matches_original_source": true,
+      "public_sha256": "15e54edd0f4febbe38a84fe4b10ff15ecebc3d8cf779e4812076dfa507f132a2",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/MANIFEST.json",
+      "recorded_sha256": "0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "matches_original_source": true,
+      "public_sha256": "aa2d474a9fd2747b51243bf29edbd6473b24e64216497e2679aaee0f3970115a",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/check_conditional_velocity_independent.py",
+      "recorded_sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+      "matches_original_source": true,
+      "public_sha256": "8baa07dfd4bc0041e8bb25151a33579c207b1b1bf4db8011e76f18783760515d",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/conditional_velocity_independent_checks.json",
+      "recorded_sha256": "d2d31083d490b4f5d3c39831d1b01fbc53011dea6b15fd3375a17cea09d447e2",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "d2d31083d490b4f5d3c39831d1b01fbc53011dea6b15fd3375a17cea09d447e2",
+      "matches_original_source": true,
+      "public_sha256": "f4913b2ea7eb9bc0a2f0bf8147d685178c338a8900ab8c23af1bae55ad03785f",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+      "recorded_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "matches_original_source": true,
+      "public_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/MANIFEST.json",
+      "recorded_sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "matches_original_source": true,
+      "public_sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/check_positive_law_independent.py",
+      "recorded_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "matches_original_source": true,
+      "public_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/positive_law_independent_checks.json",
+      "recorded_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+      "matches_original_source": true,
+      "public_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/nonlinear_amplifier_separator_checks.json",
+      "recorded_sha256": "04004ca428c115288467e5cac99bbb5f94a8b730533d203bf1f087d1598a2b6f",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "04004ca428c115288467e5cac99bbb5f94a8b730533d203bf1f087d1598a2b6f",
+      "matches_original_source": true,
+      "public_sha256": "04004ca428c115288467e5cac99bbb5f94a8b730533d203bf1f087d1598a2b6f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/positive_stein_law_checks.json",
+      "recorded_sha256": "8b7dee85e5a4b59c22c0e178c7fd1fab62b1c09a0ca6e6d61477f7763f9d4605",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "8b7dee85e5a4b59c22c0e178c7fd1fab62b1c09a0ca6e6d61477f7763f9d4605",
+      "matches_original_source": true,
+      "public_sha256": "8b7dee85e5a4b59c22c0e178c7fd1fab62b1c09a0ca6e6d61477f7763f9d4605",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/regenerate_package_manifest.py",
+      "recorded_sha256": "5e7efeaf3543f4d919bd77452ed1c51239700516f58a9016baa9b79fda3a11dd",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "5e7efeaf3543f4d919bd77452ed1c51239700516f58a9016baa9b79fda3a11dd",
+      "matches_original_source": true,
+      "public_sha256": "3044f1fef725368c39f34fc73ac5484dd3e9ebc4cf47f58a76f1e08e6b4d17ad",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+      "recorded_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+      "matches_original_source": true,
+      "public_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/MANIFEST.json",
+      "recorded_sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "matches_original_source": true,
+      "public_sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/check_separator_independent.py",
+      "recorded_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "matches_original_source": true,
+      "public_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/separator_independent_checks.json",
+      "recorded_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+      "matches_original_source": true,
+      "public_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+      "recorded_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+      "matches_original_source": true,
+      "public_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/check_variance_gluing.py",
+      "recorded_sha256": "f49aa8a3aeb34c01984051e86287294106a8728f0a093dd7138ae883bdc977e2",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "f49aa8a3aeb34c01984051e86287294106a8728f0a093dd7138ae883bdc977e2",
+      "matches_original_source": true,
+      "public_sha256": "f49aa8a3aeb34c01984051e86287294106a8728f0a093dd7138ae883bdc977e2",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+      "recorded_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+      "matches_original_source": true,
+      "public_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/MANIFEST.json",
+      "recorded_sha256": "fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "matches_original_source": true,
+      "public_sha256": "e56e1fd652e427fd0b8b1b76f91cc26ad44ee8f904a3410993930137d146ed8f",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/check_variance_gluing_independent.py",
+      "recorded_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+      "matches_original_source": true,
+      "public_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/variance_gluing_independent_checks.json",
+      "recorded_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+      "matches_original_source": true,
+      "public_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/variance_gluing_checks.json",
+      "recorded_sha256": "90f67f324d0f3e56fd585bbb425f0c7cc196161b7f483c25d4c2bc284871b615",
+      "source_index_id": "sha256:06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "original_sha256": "90f67f324d0f3e56fd585bbb425f0c7cc196161b7f483c25d4c2bc284871b615",
+      "matches_original_source": true,
+      "public_sha256": "90f67f324d0f3e56fd585bbb425f0c7cc196161b7f483c25d4c2bc284871b615",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+      "recorded_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "source_index_id": "sha256:0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "original_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "matches_original_source": true,
+      "public_sha256": "15e54edd0f4febbe38a84fe4b10ff15ecebc3d8cf779e4812076dfa507f132a2",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/check_conditional_velocity_independent.py",
+      "recorded_sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+      "source_index_id": "sha256:0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "original_sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+      "matches_original_source": true,
+      "public_sha256": "8baa07dfd4bc0041e8bb25151a33579c207b1b1bf4db8011e76f18783760515d",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/conditional_velocity_independent_checks.json",
+      "recorded_sha256": "d2d31083d490b4f5d3c39831d1b01fbc53011dea6b15fd3375a17cea09d447e2",
+      "source_index_id": "sha256:0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "original_sha256": "d2d31083d490b4f5d3c39831d1b01fbc53011dea6b15fd3375a17cea09d447e2",
+      "matches_original_source": true,
+      "public_sha256": "f4913b2ea7eb9bc0a2f0bf8147d685178c338a8900ab8c23af1bae55ad03785f",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+      "recorded_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "source_index_id": "sha256:0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "original_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "matches_original_source": true,
+      "public_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "recorded_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "source_index_id": "sha256:0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "original_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "matches_original_source": true,
+      "public_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+      "recorded_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "source_index_id": "sha256:0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "original_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "matches_original_source": true,
+      "public_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md",
+      "recorded_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+      "source_index_id": "sha256:0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "original_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+      "matches_original_source": true,
+      "public_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md",
+      "recorded_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+      "source_index_id": "sha256:0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+      "original_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+      "matches_original_source": true,
+      "public_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "recorded_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "source_index_id": "sha256:806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "original_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "matches_original_source": true,
+      "public_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "recorded_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "source_index_id": "sha256:806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "original_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "matches_original_source": true,
+      "public_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/INDEPENDENT-ENDPOINT-STEIN-AUDIT.md",
+      "recorded_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "source_index_id": "sha256:806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "original_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "matches_original_source": true,
+      "public_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+      "recorded_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "source_index_id": "sha256:806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "original_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "matches_original_source": true,
+      "public_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/check_positive_law_independent.py",
+      "recorded_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "source_index_id": "sha256:806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "original_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "matches_original_source": true,
+      "public_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/positive_law_independent_checks.json",
+      "recorded_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+      "source_index_id": "sha256:806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+      "original_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+      "matches_original_source": true,
+      "public_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+      "recorded_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+      "source_index_id": "sha256:d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "original_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+      "matches_original_source": true,
+      "public_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "recorded_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "source_index_id": "sha256:d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "original_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "matches_original_source": true,
+      "public_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+      "recorded_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+      "source_index_id": "sha256:d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "original_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+      "matches_original_source": true,
+      "public_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/check_separator_independent.py",
+      "recorded_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "source_index_id": "sha256:d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "original_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "matches_original_source": true,
+      "public_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/separator_independent_checks.json",
+      "recorded_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+      "source_index_id": "sha256:d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+      "original_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+      "matches_original_source": true,
+      "public_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+      "recorded_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+      "source_index_id": "sha256:fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "original_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+      "matches_original_source": true,
+      "public_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+      "recorded_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "source_index_id": "sha256:fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "original_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "matches_original_source": true,
+      "public_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+      "recorded_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "source_index_id": "sha256:fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "original_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "matches_original_source": true,
+      "public_sha256": "15e54edd0f4febbe38a84fe4b10ff15ecebc3d8cf779e4812076dfa507f132a2",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+      "recorded_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+      "source_index_id": "sha256:fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "original_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+      "matches_original_source": true,
+      "public_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/check_variance_gluing_independent.py",
+      "recorded_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+      "source_index_id": "sha256:fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "original_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+      "matches_original_source": true,
+      "public_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/variance_gluing_independent_checks.json",
+      "recorded_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+      "source_index_id": "sha256:fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+      "original_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+      "matches_original_source": true,
+      "public_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+      "public_copy_is_sanitized": false
     }
   ],
   "stale_binding_count": 1,
@@ -3909,7 +4413,7 @@
     "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
     "scope": "Read-set and cost clarification only. New proximal-chain application has external hidden depth zero; selected fixed kinetic consumer has seven external levels with its fixed inner libraries already charged. The same growing-order outer reference requires J>=ceil(R-1). Optional depth-adapter cost algebra is conditional, not a new hidden-family admission."
   },
-  "snapshot_version": "2026-10-04-public-v8-strong-mean-barrier-and-scalar-law-components",
+  "snapshot_version": "2026-10-04-public-v9-positive-endpoint-law-components",
   "v7_admission": {
     "direct_main_original_sha256": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
     "elementary_source_original_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
@@ -4138,5 +4642,499 @@
     "buffer_debt": "The retained-Z scalar compatibility target is Z-v_Q(Z)+sigma N; its sigma^2 covariance is charged and it is not identified with the posterior.",
     "independent_derivation": "Both scalar constructions and their independent audits are explicitly independently derived from the included mathematical sources and independent calculations.",
     "diagnostic_source_pin_policy": "All seven newly selected programs are portable and unchanged, and every new saved result reproduces exactly. No mathematical or source-pin check was removed. Inherited V7 LOW30/LOW31 omissions remain explicitly documented and are not silently counted."
+  },
+  "v9_admission": {
+    "frozen_archive": {
+      "filename": "positive-endpoint-law-components-20261004.zip",
+      "sha256": "9e004cf8b5882e5b3a04eb4c9e1e73a515b61374c34f24019d27db6e2e765d2f",
+      "bytes": 376807,
+      "members": 38,
+      "archive_manifest_sha256": "06aa0ceff7b1202de24e5aeb5af216ce76212245d3d3d64b9153cf562024dde7",
+      "all_member_hashes_verified": true,
+      "archive_container_not_published": true
+    },
+    "original_package_manifest_sha256": "5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c",
+    "components": [
+      {
+        "id": "positive_endpoint_law",
+        "status": "PASS_SCOPED",
+        "source": "POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+        "audit": "independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+        "independent_assertions": 793,
+        "scope": "General C2 marginal standardized W2 order 2 / physical order 5/2; reusable conditional-decoupling lemma; exact all-order matrix-quadratic VALUE amplifier. No general nonlinear higher-order source or sublinear recurrence.",
+        "source_pin": {
+          "path": "POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+          "sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+          "bytes": 15844
+        },
+        "audit_pin": {
+          "path": "independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+          "sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+          "bytes": 22089
+        },
+        "audit_manifest_pin": {
+          "path": "independent-audit/MANIFEST.json",
+          "sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+          "bytes": 1477
+        }
+      },
+      {
+        "id": "nonlinear_amplifier_separator",
+        "status": "PASS_SCOPED",
+        "source": "NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+        "audit": "separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+        "independent_assertions": 429,
+        "scope": "The particular quadratic polynomial graph retains order-A^2 error on a fixed-standardized-shape 2D genuinely C2 noncommuting potential. Not an impossibility for all algorithms or one fixed unscaled physical potential.",
+        "source_pin": {
+          "path": "NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+          "sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+          "bytes": 7886
+        },
+        "audit_pin": {
+          "path": "separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+          "sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+          "bytes": 12298
+        },
+        "audit_manifest_pin": {
+          "path": "separator-independent-audit/MANIFEST.json",
+          "sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+          "bytes": 1240
+        }
+      },
+      {
+        "id": "conditional_ou_velocity",
+        "status": "PASS_GUARDED_SCOPED",
+        "source": "conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+        "audit": "conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+        "independent_assertions": 1685,
+        "scope": "Original-VALUE conditional fixed-unit-buffer law for the exact OU velocity with third-order error, under imported radius/covariance-gap/public-log guards. No strong mean oracle or same-endpoint posterior composition.",
+        "source_pin": {
+          "path": "conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+          "sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+          "bytes": 19496
+        },
+        "audit_pin": {
+          "path": "conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+          "sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+          "bytes": 17681
+        },
+        "audit_manifest_pin": {
+          "path": "conditional-ou-velocity/independent-audit/MANIFEST.json",
+          "sha256": "0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+          "bytes": 2705
+        }
+      },
+      {
+        "id": "variance_gluing",
+        "status": "PASS_BOUNDED_SCOPED",
+        "source": "variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+        "audit": "variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+        "independent_assertions": 1994,
+        "scope": "Exact reverse-OU mean/covariance/higher-current ledger and positive fixed-step buffer gluing. No high-order time approximation or general nonlinear all-order transition.",
+        "source_pin": {
+          "path": "variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+          "sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+          "bytes": 10970
+        },
+        "audit_pin": {
+          "path": "variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+          "sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+          "bytes": 16600
+        },
+        "audit_manifest_pin": {
+          "path": "variance-gluing/independent-audit/MANIFEST.json",
+          "sha256": "fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+          "bytes": 2816
+        }
+      }
+    ],
+    "source_manifests": [
+      {
+        "manifest": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/MANIFEST.json",
+        "original_sha256": "5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c",
+        "public_sha256": "3ab069b9b2010540ff56d3ee2987107410f176225826c1fbd6397e5e12c62e60",
+        "verified_records": [
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+            "source_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+            "public_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+            "source_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+            "public_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/README.md",
+            "source_sha256": "b48e99730ed5ecde1e698254c8509d367d9fe037271dc4919b2fe0a4dda1db33",
+            "public_sha256": "74b3f4dd5fde9d4f809b8a0a664014fd1bab5bee146cd8c7fefdd834d1181841",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/check_nonlinear_amplifier_separator.py",
+            "source_sha256": "076beb22fba63b8f4c869afcb0051373bc3fc1d18ed6be65a62fa8feb6316862",
+            "public_sha256": "076beb22fba63b8f4c869afcb0051373bc3fc1d18ed6be65a62fa8feb6316862",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/check_positive_stein_law.py",
+            "source_sha256": "e671ea9c0ca500a1cdcab98db2568cd35e2de52773196bc90e70a1b30267920b",
+            "public_sha256": "e671ea9c0ca500a1cdcab98db2568cd35e2de52773196bc90e70a1b30267920b",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+            "source_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+            "public_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/check_conditional_velocity_ports.py",
+            "source_sha256": "2dc47583515eeade2785be81d2a8add8f82918ba7fc51e5a78eb592018705007",
+            "public_sha256": "2dc47583515eeade2785be81d2a8add8f82918ba7fc51e5a78eb592018705007",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/conditional_velocity_ports_checks.json",
+            "source_sha256": "348ce5bb12a15c2b8373fd31b24ca78f8b5d4942ee7e8cabd028de5089c1c17b",
+            "public_sha256": "348ce5bb12a15c2b8373fd31b24ca78f8b5d4942ee7e8cabd028de5089c1c17b",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+            "source_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+            "public_sha256": "15e54edd0f4febbe38a84fe4b10ff15ecebc3d8cf779e4812076dfa507f132a2",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/MANIFEST.json",
+            "source_sha256": "0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+            "public_sha256": "aa2d474a9fd2747b51243bf29edbd6473b24e64216497e2679aaee0f3970115a",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/check_conditional_velocity_independent.py",
+            "source_sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+            "public_sha256": "8baa07dfd4bc0041e8bb25151a33579c207b1b1bf4db8011e76f18783760515d",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/conditional_velocity_independent_checks.json",
+            "source_sha256": "d2d31083d490b4f5d3c39831d1b01fbc53011dea6b15fd3375a17cea09d447e2",
+            "public_sha256": "f4913b2ea7eb9bc0a2f0bf8147d685178c338a8900ab8c23af1bae55ad03785f",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+            "source_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+            "public_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/MANIFEST.json",
+            "source_sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+            "public_sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/check_positive_law_independent.py",
+            "source_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+            "public_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/positive_law_independent_checks.json",
+            "source_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+            "public_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/nonlinear_amplifier_separator_checks.json",
+            "source_sha256": "04004ca428c115288467e5cac99bbb5f94a8b730533d203bf1f087d1598a2b6f",
+            "public_sha256": "04004ca428c115288467e5cac99bbb5f94a8b730533d203bf1f087d1598a2b6f",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/positive_stein_law_checks.json",
+            "source_sha256": "8b7dee85e5a4b59c22c0e178c7fd1fab62b1c09a0ca6e6d61477f7763f9d4605",
+            "public_sha256": "8b7dee85e5a4b59c22c0e178c7fd1fab62b1c09a0ca6e6d61477f7763f9d4605",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/regenerate_package_manifest.py",
+            "source_sha256": "5e7efeaf3543f4d919bd77452ed1c51239700516f58a9016baa9b79fda3a11dd",
+            "public_sha256": "3044f1fef725368c39f34fc73ac5484dd3e9ebc4cf47f58a76f1e08e6b4d17ad",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+            "source_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+            "public_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/MANIFEST.json",
+            "source_sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+            "public_sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/check_separator_independent.py",
+            "source_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+            "public_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/separator_independent_checks.json",
+            "source_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+            "public_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+            "source_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+            "public_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/check_variance_gluing.py",
+            "source_sha256": "f49aa8a3aeb34c01984051e86287294106a8728f0a093dd7138ae883bdc977e2",
+            "public_sha256": "f49aa8a3aeb34c01984051e86287294106a8728f0a093dd7138ae883bdc977e2",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+            "source_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+            "public_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/MANIFEST.json",
+            "source_sha256": "fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+            "public_sha256": "e56e1fd652e427fd0b8b1b76f91cc26ad44ee8f904a3410993930137d146ed8f",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/check_variance_gluing_independent.py",
+            "source_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+            "public_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/variance_gluing_independent_checks.json",
+            "source_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+            "public_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/variance_gluing_checks.json",
+            "source_sha256": "90f67f324d0f3e56fd585bbb425f0c7cc196161b7f483c25d4c2bc284871b615",
+            "public_sha256": "90f67f324d0f3e56fd585bbb425f0c7cc196161b7f483c25d4c2bc284871b615",
+            "public_equals_source": true
+          }
+        ]
+      },
+      {
+        "manifest": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/MANIFEST.json",
+        "original_sha256": "0bb346e9518821454bb4e740fe64005f1390d4b33a180cca9df73f3e47c7e61c",
+        "public_sha256": "aa2d474a9fd2747b51243bf29edbd6473b24e64216497e2679aaee0f3970115a",
+        "verified_records": [
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+            "source_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+            "public_sha256": "15e54edd0f4febbe38a84fe4b10ff15ecebc3d8cf779e4812076dfa507f132a2",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/check_conditional_velocity_independent.py",
+            "source_sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+            "public_sha256": "8baa07dfd4bc0041e8bb25151a33579c207b1b1bf4db8011e76f18783760515d",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/conditional_velocity_independent_checks.json",
+            "source_sha256": "d2d31083d490b4f5d3c39831d1b01fbc53011dea6b15fd3375a17cea09d447e2",
+            "public_sha256": "f4913b2ea7eb9bc0a2f0bf8147d685178c338a8900ab8c23af1bae55ad03785f",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+            "source_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+            "public_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+            "source_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+            "public_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+            "source_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+            "public_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/no-copy-rank-20261004/host-observer-audit/COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md",
+            "source_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+            "public_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md",
+            "source_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+            "public_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+            "public_equals_source": true
+          },
+          {
+            "path": "external:LOW30",
+            "original_sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+            "source_bytes_verified_during_curation": true,
+            "standalone_status": "external_not_reverified"
+          }
+        ]
+      },
+      {
+        "manifest": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/MANIFEST.json",
+        "original_sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+        "public_sha256": "806f691ae2326a5327c13c0cf36f5e5e95019b69b68be303c620fe75cbc08020",
+        "verified_records": [
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+            "source_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+            "public_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+            "source_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+            "public_sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/independent-audit/INDEPENDENT-ENDPOINT-STEIN-AUDIT.md",
+            "source_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+            "public_sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+            "source_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+            "public_sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/check_positive_law_independent.py",
+            "source_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+            "public_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/positive_law_independent_checks.json",
+            "source_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+            "public_sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+            "public_equals_source": true
+          }
+        ]
+      },
+      {
+        "manifest": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/MANIFEST.json",
+        "original_sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+        "public_sha256": "d1395231085d694261b75afa8608992ddbf43d464dd358a8da675ec19036e7d7",
+        "verified_records": [
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/NONLINEAR-SEPARATOR-FOR-THE-QUADRATIC-AMPLIFIER.md",
+            "source_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+            "public_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+            "source_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+            "public_sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/INDEPENDENT-NONLINEAR-SEPARATOR-AUDIT.md",
+            "source_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+            "public_sha256": "34dd25567d8280e9d7a5d6d6574c40400602a502f6701c2167ca79e0a205760f",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/check_separator_independent.py",
+            "source_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+            "public_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/separator_independent_checks.json",
+            "source_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+            "public_sha256": "11f2bedb505c176f60de28fae9b4102e169c8d3289f87db268728b15903697f7",
+            "public_equals_source": true
+          }
+        ]
+      },
+      {
+        "manifest": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/MANIFEST.json",
+        "original_sha256": "fae571854125f9b5f3638f7d51de9a223e4fa722c298c822e2de2c9eb3f82ed0",
+        "public_sha256": "e56e1fd652e427fd0b8b1b76f91cc26ad44ee8f904a3410993930137d146ed8f",
+        "verified_records": [
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+            "source_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+            "public_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+            "source_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+            "public_sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+            "source_sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+            "public_sha256": "15e54edd0f4febbe38a84fe4b10ff15ecebc3d8cf779e4812076dfa507f132a2",
+            "public_equals_source": false
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+            "source_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+            "public_sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/check_variance_gluing_independent.py",
+            "source_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+            "public_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+            "public_equals_source": true
+          },
+          {
+            "research_path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/variance_gluing_independent_checks.json",
+            "source_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+            "public_sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2",
+            "public_equals_source": true
+          }
+        ]
+      }
+    ],
+    "new_payload_files": 31,
+    "original_independent_assertions": 4901,
+    "public_independent_assertions": 4900,
+    "external_hash_checks_omitted": 1,
+    "audit_manifest_original_entries_verified": 26,
+    "audit_manifest_public_mappings_verified": 25,
+    "audit_manifest_external_entries": 1,
+    "prerequisite_policy": "Four existing prerequisite public copies are byte-identical to their reviewed originals. LOW30 original bytes were verified during local curation but remain externally pinned and excluded from publication. Its pin is not reverified by default standalone public diagnostics.",
+    "excluded_work_in_progress": [
+      "reverse-ou-curvature/",
+      "variance-gluing/covariance-action/",
+      "Any file not in the explicit frozen included_files list"
+    ],
+    "scope": "General-C2 marginal order-two law/physical order 5/2; exact matrix-quadratic amplifier and specific nonlinear separator; guarded fixed-unit-buffer conditional OU velocity law; bounded positive buffer gluing and exact covariance/cumulant ledger. No general nonlinear all-order posterior transition, strong mean oracle, high-order time discretization or sublinear complete-cost recurrence.",
+    "proof_copy_policy": "All four main proof documents are byte-identical. Historical review-pending introductions are superseded only by their separately pinned completed audit verdicts; no proof introduction is silently rewritten."
   }
 }

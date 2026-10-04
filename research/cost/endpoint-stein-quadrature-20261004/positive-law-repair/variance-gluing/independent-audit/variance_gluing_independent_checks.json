@@ -1,0 +1,35 @@
+{
+  "assertions": 1994,
+  "assertions_by_group": {
+    "buffer_positivity_and_actual_graph": 630,
+    "conditional_law_gluing_and_negative_controls": 28,
+    "density_score_continuity_and_FP": 36,
+    "noncommuting_nonlinear_matrix": 61,
+    "nonlinear_C2_conditional_identities": 218,
+    "quadratic_block_conditioning": 1020,
+    "source_integrity": 1
+  },
+  "metrics": {
+    "buffer_positivity_and_actual_graph_max_absolute_comparison_error": 2.8264168783209698e-11,
+    "conditional_law_gluing_and_negative_controls_max_absolute_comparison_error": 0.005941050585212659,
+    "density_score_continuity_and_FP_max_absolute_comparison_error": 3.761976841154535e-08,
+    "max_actual_fresh_first_over_sqrt_h": 1.4142129302331465,
+    "max_noncommuting_Hessian_commutator_norm": 0.0319180524748935,
+    "max_nonlinear_bridge_fourth_cumulant": 0.0035541623492891805,
+    "max_nonlinear_bridge_third_cumulant": 0.00490677680710544,
+    "max_numerical_reserve_variance_over_h": 1.9999969999917326,
+    "max_retained_scalar_covariance_of_force": 0.10539369419326994,
+    "noncommuting_nonlinear_matrix_max_absolute_comparison_error": 2.4872559567512553e-10,
+    "nonlinear_C2_conditional_identities_max_absolute_comparison_error": 3.225725520028533e-10,
+    "nonlinear_scalar_cases": 24,
+    "quadratic_block_conditioning_max_absolute_comparison_error": 6.661338147750939e-16,
+    "quadratic_cases": 84,
+    "random_caller_certified_squared_coupling_bound": 4.660323034622326e-05,
+    "random_caller_observed_squared_coupling_error": 1.8360313661811094e-05
+  },
+  "program_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+  "scope": "Finite diagnostics only. No author checkers imported. No numerical time-order, all-order nonlinear closure, original compiler execution, or c(P)/P claim.",
+  "seed": 610042114,
+  "source_sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+  "status": "PASS"
+}

@@ -1,48 +1,49 @@
 {
-  "verified_utc": "2026-10-04T19:55:45.839842Z",
+  "verified_utc": "2026-10-04T21:20:59.908854Z",
   "curation": "Mathematical publication snapshot; original source files remain unchanged. Edited public copies are identified in INVENTORY.json.",
-  "research_files": 370,
-  "research_bytes": 3919222,
+  "research_files": 401,
+  "research_bytes": 4263284,
   "public_copy_counts": {
-    "unchanged_source_copy": 282,
-    "sanitized_publication_copy": 88
+    "unchanged_source_copy": 305,
+    "sanitized_publication_copy": 96
   },
   "original_version_counts": {
     "historical_bytes_verified": 17,
     "reconstructed_new_version": 29,
-    "new_research_or_diagnostic": 324
+    "new_research_or_diagnostic": 355
   },
   "kinds": {
-    "mathematical_proof_audit_or_certificate": 187,
-    "diagnostic_script": 83,
-    "saved_diagnostic_result": 87,
-    "source_manifest": 9,
+    "mathematical_proof_audit_or_certificate": 196,
+    "diagnostic_script": 91,
+    "saved_diagnostic_result": 95,
+    "source_manifest": 14,
+    "publication_manifest_utility": 1,
     "saved_diagnostic_stdout": 3,
     "baseline_manuscript": 1
   },
   "diagnostics": {
-    "bundled_scripts": 83,
-    "passed": 83,
+    "bundled_scripts": 91,
+    "passed": 91,
     "failed": 0,
     "not_run": 0,
-    "isolation": "Every diagnostic ran in its own disposable research copy. V7 and all selected original source file sets and bytes remain unchanged.",
+    "isolation": "Every diagnostic ran in its own disposable research copy. V8, all selected frozen original files and the complete V9 research bytes remain unchanged by diagnostics.",
     "archived_research_bytes_unchanged": true,
-    "changed_saved_result_comparisons": 4,
-    "comparison_differences": "Only embedded source SHA-256 values changed for sanitized source documents; mathematical result data, counts, and verdicts unchanged."
+    "changed_saved_result_comparisons": 5,
+    "comparison_differences": "Four inherited result files differ only in sanitized source hashes. The V9 author positive-law result has floating-point changes below 1.4e-17; mathematical counts and verdicts are unchanged. All other V9 public saved outputs reproduce exactly."
   },
   "historical_results_not_rerun": [
     "research/r-native-twin/common_two_twin_lift_checks.json",
     "research/r-shear-consumer/weighted_scalar_width_checks.json",
     "research/no-copy-rank-20261004/fenchel-inverse-audit/centered_energy_extension_checks.json"
   ],
-  "tex_build": "Unchanged baseline; no new TeX build performed for V8. Previous attempt was blocked by unavailable pdflatex.fmt and format configuration. No PDF build is claimed.",
+  "tex_build": "Unchanged baseline; no new TeX build performed for V9. Prior format limitation remains. No PDF build is claimed.",
   "safety_review_findings": [],
   "safety_review_scope": "Selected plaintext, executable source, file list, and curation diffs reviewed; local-path and credential-marker scans found no release blockers. Scan results are not a universal secret-detection guarantee.",
   "incoming_payload_integrity_verified": true,
   "historical_source_index_mismatches": 1,
   "mismatch_resolution": "The earlier mixed-descendant index hash remains marked stale. Final source f805e8d3 and its separate included scoped audit 73fa9893 are explicitly identified.",
-  "proof_verification_limit": "Finite algebra and numerical diagnostics do not replace analytic proofs or execute a complete nonlinear sampler. V8 adds four independently audited bounded components under their stated contracts. It establishes no new posterior-law identification, vector law factory, smooth first/paired scalar return, full numerical scalar port, complete sublinear source, or improved end-to-end rate.",
-  "snapshot_version": "2026-10-04-public-v8-strong-mean-barrier-and-scalar-law-components",
+  "proof_verification_limit": "General-C2 marginal order-two law/physical order 5/2; exact matrix-quadratic amplifier and specific nonlinear separator; guarded fixed-unit-buffer conditional OU velocity law; bounded positive buffer gluing and exact covariance/cumulant ledger. No general nonlinear all-order posterior transition, strong mean oracle, high-order time discretization or sublinear complete-cost recurrence. Diagnostic passes support finite cases, not analytic or formal-proof verification. The imported LOW30 compiler was not executed.",
+  "snapshot_version": "2026-10-04-public-v9-positive-endpoint-law-components",
   "fixed_seed_audit": {
     "original_sha256": "03ba0c8daee0c774d5495659938cc0c3558be7a06051e856fa41c0b4078f1395",
     "original_checker_passed": 60826,
@@ -306,5 +307,79 @@
       "provenance_bindings_and_companion_public_hashes": "Independently checked against selected snapshot bytes; no mismatches.",
       "scope": "Independent read-only content, disclosure-boundary, qualification and provenance review. No mathematical reproof is inferred. The full diagnostic run separately passed 83 of 83 scripts."
     }
+  },
+  "v9_additions": {
+    "new_payload_files": 31,
+    "new_diagnostics_passed": 8,
+    "original_diagnostics_passed": 8,
+    "new_original_saved_results_identical": 7,
+    "all_four_independent_original_results_identical": true,
+    "max_original_numeric_roundoff_difference": 1.3877787807814457e-17,
+    "original_independent_assertions": 4901,
+    "public_independent_assertions": 4900,
+    "original_and_public_author_assertions": 1856,
+    "mathematical_assertions_removed": 0,
+    "external_hash_checks_omitted_by_default": 1,
+    "source_manifest_records_verified": 30,
+    "original_audit_manifest_records_verified": 26,
+    "portable_audit_manifest_mappings": 25,
+    "external_audit_manifest_records": 1,
+    "original_manifest_regenerator_reproduced_exactly": true,
+    "portable_manifest_utility_passed": true,
+    "optional_LOW30_original_pin_check_passed": true,
+    "wrong_LOW30_pin_rejected": true,
+    "output_path_guard_regressions": [
+      {
+        "program": "run_diagnostics.py",
+        "case": "existing",
+        "rejected_before_execution": true,
+        "archive_unchanged": true
+      },
+      {
+        "program": "run_diagnostics.py",
+        "case": "new",
+        "rejected_before_execution": true,
+        "archive_unchanged": true
+      },
+      {
+        "program": "run_diagnostics.py",
+        "case": "symlink_alias",
+        "rejected_before_execution": true,
+        "archive_unchanged": true
+      },
+      {
+        "program": "regenerate_package_manifest.py",
+        "case": "existing",
+        "rejected_before_execution": true,
+        "archive_unchanged": true
+      },
+      {
+        "program": "regenerate_package_manifest.py",
+        "case": "new",
+        "rejected_before_execution": true,
+        "archive_unchanged": true
+      },
+      {
+        "program": "regenerate_package_manifest.py",
+        "case": "symlink_alias",
+        "rejected_before_execution": true,
+        "archive_unchanged": true
+      }
+    ],
+    "all_383_v8_files_preserved_in_base": true,
+    "all_370_inherited_research_files_unchanged": true,
+    "all_31_frozen_original_package_files_unchanged": true,
+    "all_four_proof_documents_byte_identical": true,
+    "source_archive_member_hashes_verified": 38,
+    "new_sanitized_artifact_count": 8,
+    "source_archive_not_published": true,
+    "LOW30_not_published": true,
+    "work_in_progress_exclusions": [
+      "reverse-ou-curvature/",
+      "variance-gluing/covariance-action/"
+    ],
+    "source_manifest_pin": "5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c",
+    "independent_public_scope_review": "PASS; exact four-component scope, external LOW30 boundary and explicit portable source-pin qualification.",
+    "final_bundle_checksums_before_and_after_passed": true
   }
 }

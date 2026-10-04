@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-04",
+  "verdict": "PASS within explicit guarded conditional fixed-buffer scope",
+  "checks": 1685,
+  "files": [
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+      "sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "bytes": 17681
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/check_conditional_velocity_independent.py",
+      "sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+      "bytes": 11459
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/conditional_velocity_independent_checks.json",
+      "sha256": "d2d31083d490b4f5d3c39831d1b01fbc53011dea6b15fd3375a17cea09d447e2",
+      "bytes": 26082
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+      "sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "bytes": 19496
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "bytes": 15844
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+      "sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "bytes": 22089
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md",
+      "sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+      "bytes": 13294
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md",
+      "sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+      "bytes": 7052
+    },
+    {
+      "path": "external:LOW30",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "bytes": 680050
+    }
+  ],
+  "publication_copy_notice": "Paths are relative to the public archive root, except external:LOW30. Hashes and byte counts remain pins of original reviewed files, not edited public copies; consult root INVENTORY.json for the original/public mapping."
+}

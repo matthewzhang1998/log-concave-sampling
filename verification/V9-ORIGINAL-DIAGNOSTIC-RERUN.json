@@ -1,0 +1,294 @@
+{
+  "frozen_archive_members_verified": 38,
+  "source_manifest_files_verified": 30,
+  "prerequisite_pins_verified": 5,
+  "script_count": 8,
+  "passed_count": 8,
+  "results": [
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/check_nonlinear_amplifier_separator.py",
+      "script_sha256": "076beb22fba63b8f4c869afcb0051373bc3fc1d18ed6be65a62fa8feb6316862",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 45,\n  \"beta\": 0.7853983815789393,\n  \"c\": 0.866850617786817,\n  \"d_Q\": 0.36453777868739934,\n  \"exact_delta_Q\": 0.019910304505637022,\n  \"uniform_delta0\": 0.012837824913467539,\n  \"rough_noncommuting_lower_bound\": 0.012337794913467539,\n  \"commutator_norm\": 3.2299674906988793e-06,\n  \"scope\": \"Finite diagnostics support the analytical separator. Neither an all-order impossibility for all algorithms nor a failed positive endpoint law theorem is asserted.\"\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.114
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/check_positive_stein_law.py",
+      "script_sha256": "e671ea9c0ca500a1cdcab98db2568cd35e2de52773196bc90e70a1b30267920b",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 468,\n  \"scalar\": [\n    {\n      \"A\": 0.25,\n      \"delta\": 0.015625,\n      \"nodes\": 41,\n      \"W2_CDF_diagnostic\": 0.0005398945290730309,\n      \"W2_over_A2\": 0.008638312465168494\n    },\n    {\n      \"A\": 0.125,\n      \"delta\": 0.001953125,\n      \"nodes\": 78,\n      \"W2_CDF_diagnostic\": 0.0002596703310279389,\n      \"W2_over_A2\": 0.016618901185788088\n    },\n    {\n      \"A\": 0.0625,\n      \"delta\": 0.000244140625,\n      \"nodes\": 113,\n      \"W2_CDF_diagnostic\": 8.20496237872469e-05,\n      \"W2_over_A2\": 0.021004703689535206\n    }\n  ],\n  \"nonlinear_max_IBP_quad_error\": 0.0009120475213115473\n}\n",
+      "stderr": "",
+      "changed_result_files": [
+        {
+          "path": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/positive_stein_law_checks.json",
+          "saved_sha256": "8b7dee85e5a4b59c22c0e178c7fd1fab62b1c09a0ca6e6d61477f7763f9d4605",
+          "rerun_sha256": "6404d690a255265ec002514ae9f30f44559d80bae1cf4a548fa8db3da7641cdb",
+          "json_differences": [
+            {
+              "key": "$.noncommuting_C2_KL[0].IBP_quadrature_residual",
+              "saved": 0.0009120475213115602,
+              "rerun": 0.0009120475213115473
+            },
+            {
+              "key": "$.noncommuting_C2_KL[0].KL_cancelled",
+              "saved": 0.0013062935870701857,
+              "rerun": 0.0013062935870701846
+            },
+            {
+              "key": "$.noncommuting_C2_KL[0].KL_integral",
+              "saved": 0.001123884082807879,
+              "rerun": 0.0011238840828078755
+            },
+            {
+              "key": "$.noncommuting_C2_KL[0].bound",
+              "saved": 0.0013178476645848399,
+              "rerun": 0.0013178476645848394
+            },
+            {
+              "key": "$.noncommuting_C2_KL[1].IBP_quadrature_residual",
+              "saved": 0.0009120475213115602,
+              "rerun": 0.0009120475213115473
+            },
+            {
+              "key": "$.noncommuting_C2_KL[1].KL_cancelled",
+              "saved": 0.01182758052481139,
+              "rerun": 0.011827580524811383
+            },
+            {
+              "key": "$.noncommuting_C2_KL[1].KL_integral",
+              "saved": 0.011280352012024446,
+              "rerun": 0.01128035201202446
+            },
+            {
+              "key": "$.noncommuting_C2_KL[1].bound",
+              "saved": 0.012184953326027655,
+              "rerun": 0.012184953326027651
+            },
+            {
+              "key": "$.noncommuting_C2_KL[2].IBP_quadrature_residual",
+              "saved": 0.0009120475213115602,
+              "rerun": 0.0009120475213115473
+            },
+            {
+              "key": "$.noncommuting_C2_KL[2].KL_cancelled",
+              "saved": 0.03306453278637413,
+              "rerun": 0.03306453278637412
+            },
+            {
+              "key": "$.noncommuting_C2_KL[2].KL_integral",
+              "saved": 0.03215248526506258,
+              "rerun": 0.03215248526506259
+            },
+            {
+              "key": "$.noncommuting_C2_KL[2].bound",
+              "saved": 0.03498823378535791,
+              "rerun": 0.0349882337853579
+            },
+            {
+              "key": "$.noncommuting_C2_KL[3].IBP_quadrature_residual",
+              "saved": 0.0004560237606557801,
+              "rerun": 0.0004560237606557737
+            },
+            {
+              "key": "$.noncommuting_C2_KL[3].KL_cancelled",
+              "saved": 0.000326099655396583,
+              "rerun": 0.00032609965539658276
+            },
+            {
+              "key": "$.noncommuting_C2_KL[3].KL_integral",
+              "saved": 0.00023489490326542812,
+              "rerun": 0.00023489490326542782
+            },
+            {
+              "key": "$.noncommuting_C2_KL[3].bound",
+              "saved": 0.00032749841405896297,
+              "rerun": 0.0003274984140589628
+            },
+            {
+              "key": "$.noncommuting_C2_KL[4].IBP_quadrature_residual",
+              "saved": 0.0004560237606557801,
+              "rerun": 0.0004560237606557737
+            },
+            {
+              "key": "$.noncommuting_C2_KL[4].KL_cancelled",
+              "saved": 0.0029434904680174854,
+              "rerun": 0.002943490468017484
+            },
+            {
+              "key": "$.noncommuting_C2_KL[4].KL_integral",
+              "saved": 0.0026698762116240185,
+              "rerun": 0.0026698762116240202
+            },
+            {
+              "key": "$.noncommuting_C2_KL[4].bound",
+              "saved": 0.002983783981332746,
+              "rerun": 0.0029837839813327454
+            },
+            {
+              "key": "$.noncommuting_C2_KL[5].IBP_quadrature_residual",
+              "saved": 0.0004560237606557801,
+              "rerun": 0.0004560237606557737
+            },
+            {
+              "key": "$.noncommuting_C2_KL[5].KL_cancelled",
+              "saved": 0.008200988664934232,
+              "rerun": 0.008200988664934229
+            },
+            {
+              "key": "$.noncommuting_C2_KL[5].KL_integral",
+              "saved": 0.0077449649042784586,
+              "rerun": 0.007744964904278459
+            },
+            {
+              "key": "$.noncommuting_C2_KL[5].bound",
+              "saved": 0.008400640578089464,
+              "rerun": 0.008400640578089463
+            },
+            {
+              "key": "$.noncommuting_C2_KL[6].IBP_quadrature_residual",
+              "saved": 0.00022801188032789006,
+              "rerun": 0.00022801188032788684
+            },
+            {
+              "key": "$.noncommuting_C2_KL[6].KL_cancelled",
+              "saved": 8.146637148074555e-05,
+              "rerun": 8.146637148074552e-05
+            },
+            {
+              "key": "$.noncommuting_C2_KL[6].KL_integral",
+              "saved": 3.586399541516759e-05,
+              "rerun": 3.586399541516782e-05
+            },
+            {
+              "key": "$.noncommuting_C2_KL[6].bound",
+              "saved": 8.163848617513508e-05,
+              "rerun": 8.163848617513506e-05
+            },
+            {
+              "key": "$.noncommuting_C2_KL[7].IBP_quadrature_residual",
+              "saved": 0.00022801188032789006,
+              "rerun": 0.00022801188032788684
+            },
+            {
+              "key": "$.noncommuting_C2_KL[7].KL_cancelled",
+              "saved": 0.0007342551405675707,
+              "rerun": 0.0007342551405675702
+            },
+            {
+              "key": "$.noncommuting_C2_KL[7].KL_integral",
+              "saved": 0.0005974480123708396,
+              "rerun": 0.0005974480123708373
+            },
+            {
+              "key": "$.noncommuting_C2_KL[7].bound",
+              "saved": 0.0007390516839503239,
+              "rerun": 0.0007390516839503236
+            },
+            {
+              "key": "$.noncommuting_C2_KL[8].IBP_quadrature_residual",
+              "saved": 0.00022801188032789006,
+              "rerun": 0.00022801188032788684
+            },
+            {
+              "key": "$.noncommuting_C2_KL[8].KL_cancelled",
+              "saved": 0.0020425813435890933,
+              "rerun": 0.002042581343589092
+            },
+            {
+              "key": "$.noncommuting_C2_KL[8].KL_integral",
+              "saved": 0.0018145694632612061,
+              "rerun": 0.0018145694632612066
+            },
+            {
+              "key": "$.noncommuting_C2_KL[8].bound",
+              "saved": 0.002065518357697365,
+              "rerun": 0.002065518357697364
+            }
+          ]
+        }
+      ],
+      "elapsed_seconds": 8.874
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/check_conditional_velocity_ports.py",
+      "script_sha256": "2dc47583515eeade2785be81d2a8add8f82918ba7fc51e5a78eb592018705007",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 148,\n  \"nonlinear_force_mean\": [\n    {\n      \"A\": 0.25,\n      \"r\": 0.6,\n      \"s\": 0.8,\n      \"caller_z\": 0.7,\n      \"actual_mean_force\": 0.055710124671484264,\n      \"true_mean_force\": 0.05578641503548565,\n      \"mean_error\": 7.629036400138428e-05,\n      \"mean_error_over_A3s5\": 0.014900461719020364,\n      \"nodes\": 41\n    },\n    {\n      \"A\": 0.125,\n      \"r\": 0.6,\n      \"s\": 0.8,\n      \"caller_z\": 0.7,\n      \"actual_mean_force\": 0.02911124210578859,\n      \"true_mean_force\": 0.02912143408627175,\n      \"mean_error\": 1.0191980483159613e-05,\n      \"mean_error_over_A3s5\": 0.01592496950493689,\n      \"nodes\": 61\n    },\n    {\n      \"A\": 0.0625,\n      \"r\": 0.6,\n      \"s\": 0.8,\n      \"caller_z\": 0.7,\n      \"actual_mean_force\": 0.014887055946054566,\n      \"true_mean_force\": 0.014888373283816472,\n      \"mean_error\": 1.317337761905929e-06,\n      \"mean_error_over_A3s5\": 0.01646672202382411,\n      \"nodes\": 85\n    },\n    {\n      \"A\": 0.03125,\n      \"r\": 0.6,\n      \"s\": 0.8,\n      \"caller_z\": 0.7,\n      \"actual_mean_force\": 0.007528710323997807,\n      \"true_mean_force\": 0.007528877777974236,\n      \"mean_error\": 1.674539764290675e-07,\n      \"mean_error_over_A3s5\": 0.016745397642906747,\n      \"nodes\": 113\n    }\n  ]\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.555
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/check_conditional_velocity_independent.py",
+      "script_sha256": "23cf9cda66e6d1f9fb8019a08c675b3551aad8eb4b7fa816f834bd33c00ccf37",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 1685,\n  \"seed\": 620041027,\n  \"scope\": \"Finite raw VALUE graph, actual first/curl/caller/zero/query checks and exact-target quadrature diagnostics. Does not execute or numerically certify the imported LOW30 high-order mean compiler.\",\n  \"source_sha256\": \"44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5\",\n  \"low30_sha256\": \"7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8\",\n  \"max_mean_bias_ratio\": 0.052617448041528264,\n  \"max_curl_ratio\": 0.4849918824174654\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 3.886
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/check_positive_law_independent.py",
+      "script_sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"assertions\": 793,\n  \"source_sha256\": \"a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085\",\n  \"scalar_actual_positive_law\": [\n    {\n      \"A\": 0.5,\n      \"W2_low_resolution\": 0.006743891535098657,\n      \"W2_high_resolution\": 0.00670490133115521,\n      \"resolution_difference\": 3.899020394344723e-05,\n      \"W2_over_A2\": 0.02681960532462084\n    },\n    {\n      \"A\": 0.25,\n      \"W2_low_resolution\": 0.0019428627923534759,\n      \"W2_high_resolution\": 0.0019243210812346174,\n      \"resolution_difference\": 1.8541711118858417e-05,\n      \"W2_over_A2\": 0.03078913729975388\n    },\n    {\n      \"A\": 0.125,\n      \"W2_low_resolution\": 0.0005674521918792185,\n      \"W2_high_resolution\": 0.0005592424998869378,\n      \"resolution_difference\": 8.209691992280767e-06,\n      \"W2_over_A2\": 0.03579151999276402\n    },\n    {\n      \"A\": 0.0625,\n      \"W2_low_resolution\": 0.00015566756411184224,\n      \"W2_high_resolution\": 0.0001518153225529499,\n      \"resolution_difference\": 3.8522415588923445e-06,\n      \"W2_over_A2\": 0.03886472257355517\n    }\n  ],\n  \"quadratic_cases\": 72,\n  \"C2_fixture_cases\": 12\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 21.001
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/separator-independent-audit/check_separator_independent.py",
+      "script_sha256": "48bc4b0c6da5d07953035af096dd5f129c2e055b6497ee1b4770cd49b70ed006",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"source_sha256\": \"6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d\",\n  \"assertions\": 429,\n  \"uniform_scalar_variance_coefficient_lower\": 0.012837824913467539,\n  \"uniform_rough_variance_coefficient_lower\": 0.012337794913467539,\n  \"uniform_standardized_W2_liminf_lower\": 0.006168897456733769,\n  \"perturbation_linear_constant\": 4.36814337969452,\n  \"perturbation_quadratic_constant\": 2.8660254037844384,\n  \"Hessian_commutator_norm\": 3.2299674906988793e-06,\n  \"Hessian_difference_quotients\": [\n    0.0008134334513970793,\n    0.009899740336154551,\n    0.0999000874451357,\n    0.9999000086179656\n  ],\n  \"target_coefficient_quadrature_crosscheck_error\": 4.920429940512105e-07,\n  \"rules\": [\n    {\n      \"rule\": \"midpoint\",\n      \"nodes\": 1,\n      \"c\": 0.9999999999999999,\n      \"d_Q\": 0.43233235838169365,\n      \"scalar_Delta\": 0.01716114849728448,\n      \"C2_Delta11\": 0.01716000529815559,\n      \"rough_perturbation\": -1.1431991288890497e-06\n    },\n    {\n      \"rule\": \"endpoints\",\n      \"nodes\": 2,\n      \"c\": 0.5,\n      \"d_Q\": 0.21616617919084682,\n      \"scalar_Delta\": 0.02786887351112334,\n      \"C2_Delta11\": 0.027861899540481183,\n      \"rough_perturbation\": -6.973970642157323e-06\n    },\n    {\n      \"rule\": \"symmetric_pair\",\n      \"nodes\": 2,\n      \"c\": 0.824161333278719,\n      \"d_Q\": 0.34394987241567143,\n      \"scalar_Delta\": 0.020803195272510372,\n      \"C2_Delta11\": 0.020800004665774252,\n      \"rough_perturbation\": -3.1906067361198165e-06\n    },\n    {\n      \"rule\": \"dyadic_3_2\",\n      \"nodes\": 7,\n      \"c\": 0.8710546450674007,\n      \"d_Q\": 0.3663167114794689,\n      \"scalar_Delta\": 0.01981988732712623,\n      \"C2_Delta11\": 0.019817244648243137,\n      \"rough_perturbation\": -2.6426788830927195e-06\n    },\n    {\n      \"rule\": \"dyadic_6_4\",\n      \"nodes\": 25,\n      \"c\": 0.8670265596898102,\n      \"d_Q\": 0.3646110008330276,\n      \"scalar_Delta\": 0.01990650819828339,\n      \"C2_Delta11\": 0.019903819407598833,\n      \"rough_perturbation\": -2.6887906845567133e-06\n    },\n    {\n      \"rule\": \"dyadic_10_7\",\n      \"nodes\": 71,\n      \"c\": 0.8668530173975562,\n      \"d_Q\": 0.36453877651043953,\n      \"scalar_Delta\": 0.019910252720829857,\n      \"C2_Delta11\": 0.01990756210488931,\n      \"rough_perturbation\": -2.690615940548202e-06\n    }\n  ],\n  \"scope\": \"Fixed standardized potential u_eta and U_A=A u_eta. Uniform counterexample to extrapolating the quadratic VALUE graph; not a counterexample to the positive order-two theorem, not an impossibility for different algorithms, and not a claim about one fixed unscaled physical V as A varies.\"\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.84
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/check_variance_gluing.py",
+      "script_sha256": "f49aa8a3aeb34c01984051e86287294106a8728f0a093dd7138ae883bdc977e2",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 1195,\n  \"matrix_cases\": 60,\n  \"admissible_steps\": 100\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.097
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/check_variance_gluing_independent.py",
+      "script_sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"assertions\": 1994,\n  \"assertions_by_group\": {\n    \"buffer_positivity_and_actual_graph\": 630,\n    \"conditional_law_gluing_and_negative_controls\": 28,\n    \"density_score_continuity_and_FP\": 36,\n    \"noncommuting_nonlinear_matrix\": 61,\n    \"nonlinear_C2_conditional_identities\": 218,\n    \"quadratic_block_conditioning\": 1020,\n    \"source_integrity\": 1\n  },\n  \"metrics\": {\n    \"buffer_positivity_and_actual_graph_max_absolute_comparison_error\": 2.8264168783209698e-11,\n    \"conditional_law_gluing_and_negative_controls_max_absolute_comparison_error\": 0.005941050585212659,\n    \"density_score_continuity_and_FP_max_absolute_comparison_error\": 3.761976841154535e-08,\n    \"max_actual_fresh_first_over_sqrt_h\": 1.4142129302331465,\n    \"max_noncommuting_Hessian_commutator_norm\": 0.0319180524748935,\n    \"max_nonlinear_bridge_fourth_cumulant\": 0.0035541623492891805,\n    \"max_nonlinear_bridge_third_cumulant\": 0.00490677680710544,\n    \"max_numerical_reserve_variance_over_h\": 1.9999969999917326,\n    \"max_retained_scalar_covariance_of_force\": 0.10539369419326994,\n    \"noncommuting_nonlinear_matrix_max_absolute_comparison_error\": 2.4872559567512553e-10,\n    \"nonlinear_C2_conditional_identities_max_absolute_comparison_error\": 3.225725520028533e-10,\n    \"nonlinear_scalar_cases\": 24,\n    \"quadratic_block_conditioning_max_absolute_comparison_error\": 6.661338147750939e-16,\n    \"quadratic_cases\": 84,\n    \"random_caller_certified_squared_coupling_bound\": 4.660323034622326e-05,\n    \"random_caller_observed_squared_coupling_error\": 1.8360313661811094e-05\n  },\n  \"program_sha256\": \"5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2\",\n  \"scope\": \"Finite diagnostics only. No author checkers imported. No numerical time-order, all-order nonlinear closure, original compiler execution, or c(P)/P claim.\",\n  \"seed\": 610042114,\n  \"source_sha256\": \"6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a\",\n  \"status\": \"PASS\"\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 4.811
+    }
+  ],
+  "original_copy_unchanged": true,
+  "run_utc": "2026-10-04T21:20:59.908854Z",
+  "scope": "Independent curation rerun of all eight frozen original diagnostic programs in separate disposable copies, including the original LOW30 source hash check. Every mathematical test is unchanged. Original source files were not execution outputs.",
+  "original_independent_assertions": 4901,
+  "original_author_assertions": 1856,
+  "all_four_independent_saved_outputs_byte_identical": true,
+  "saved_outputs_byte_identical": 7,
+  "original_manifest_regenerator_exact_sha256": "5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c",
+  "maximum_roundoff_difference": 1.3877787807814457e-17
+}

@@ -1,22 +1,22 @@
 # Publication snapshot verification
 
-Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v8-strong-mean-barrier-and-scalar-law-components`.
+Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v9-positive-endpoint-law-components`.
 
 ## Payload and provenance
 
-- 370 mathematical payload files: 187 proofs/audits/certificates (including four exact reviewed mathematical source copies), 1 baseline TeX manuscript, 83 Python diagnostics, 87 saved JSON results, 9 source manifests, and 3 saved stdout summaries.
+- 401 mathematical payload files: 196 proofs/audits/certificates (including four exact reviewed mathematical source copies), 1 baseline TeX manuscript, 91 Python diagnostics, 95 saved JSON results, 14 source manifests, 1 portable publication-manifest utility, and 3 saved stdout summaries.
 - All 199 initial incoming files matched the incoming inventory's byte counts and SHA-256 values before curation.
-- 282 payload files remain byte-identical. 88 are explicitly labeled sanitized publication copies. Each inventory entry records both original and public hashes and byte counts.
+- 305 payload files remain byte-identical. 96 are explicitly labeled sanitized publication copies. Each inventory entry records both original and public hashes and byte counts.
 - Edits remove nonmathematical provenance narration and local absolute paths; diagnostic outputs now use sibling-file paths. Admitted mathematical formulas, assumptions, counterexamples, and historical source/audit hash pins were retained. V7 separately labels omission of unaudited auxiliary/off-grid commentary and two portable diagnostic source-pin adaptations; all mathematical tests remain. The new same-heat report additionally incorporates explicitly identified scope clarifications from its independent audit; it is labeled as an edited publication copy. The edited copies are not represented as historically audited bytes.
 - The exact-denominator-32 TeX baseline remains byte-identical: SHA-256 `c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff`.
-- The 426 source/provenance bindings include 425 matches to the original snapshot and one explicitly stale earlier mixed-descendant binding. The final mixed-descendant source is `f805e8d38a19435f03c8b10d4a008140f4972aeefe4f6a0afcb9b78edfd89845`, with its scoped audit `73fa989340ea01b7d796cf477f57967b38999110285275a215753cf157bba0a4`.
+- The 482 source/provenance bindings include 481 matches to the original snapshot and one explicitly stale earlier mixed-descendant binding. The final mixed-descendant source is `f805e8d38a19435f03c8b10d4a008140f4972aeefe4f6a0afcb9b78edfd89845`, with its scoped audit `73fa989340ea01b7d796cf477f57967b38999110285275a215753cf157bba0a4`.
 
 ## Executed checks
 
-- All 83 bundled diagnostics ran in separate disposable copies: **83 passed, 0 failed, 0 not run**. All exited zero; no stderr was emitted. The archived research bytes remained unchanged.
+- All 91 bundled diagnostics ran in separate disposable copies: **91 passed, 0 failed, 0 not run**. All exited zero; no stderr was emitted. The archived research bytes remained unchanged.
 - The detailed report records Python 3.12.14, NumPy 2.3.5, SciPy 1.17.0, mpmath 1.3.0, and SymPy 1.14.0.
-- Four rerun JSON files differ from their saved historical results only in embedded source hashes, because those source documents were sanitized. The diagnostic values, test counts, and verdicts are unchanged. Exact keys and old/new values are in `DIAGNOSTIC-RERUN.json`.
-- Three report-path safety regressions passed: existing bundled source, new path inside the archive, and external symlink alias into the archive are rejected before diagnostics. No archive bytes or file-set members changed.
+- Four inherited rerun JSON files differ only in embedded source hashes, because those source documents were sanitized. One new author positive-law output differs only by floating-point roundoff, below 1.4×10⁻¹⁷. Test counts and verdicts are unchanged; all other V9 results reproduce exactly. Exact keys and old/new values are in `DIAGNOSTIC-RERUN.json`.
+- Six output-path safety regressions passed: both the diagnostic runner and the portable manifest utility reject an existing bundled source, a new path inside the archive, and an external symlink alias into the archive before execution. No archive bytes or file-set members changed.
 - All bundled Python files were parsed and all JSON files decoded successfully. The complete checksum verifier checks the exact payload set, byte counts, provenance mappings, and bundle checksums.
 
 ### New fixed-seed rank and sharing audit
@@ -145,6 +145,25 @@ All 354 V7 files and all 341 V7 research payloads retain their complete file set
 - A previous TeX compilation was attempted in a disposable directory and was blocked by an unavailable `pdflatex.fmt` format. A retry with writable TeX configuration directories found no installed format entry. No PDF build or visual-layout verification is claimed.
 - This review did not independently reprove every analytic argument, run formal proof verification, or re-establish the external LOW30/LOW31 foundations. Those foundations are pinned but not bundled.
 - The generic matrix same-query constrained-input no-copy construction and full nonlinear endpoint composition remain open. V7 separately includes the analytically audited direct-mean any-fixed-order outer theorem, with its poor rate and qualifications; diagnostic passes alone do not certify that theorem. No subpolynomial or improved end-to-end rate is claimed. The old unrestricted general-family certificate remains quadratic, c_P ~ 2P²; the selected same-heat source and direct-mean route have their separately scoped linear exponents.
+
+### V9: positive endpoint-law components
+
+The frozen incoming archive has 38 verified members and SHA-256 `9e004cf8b5882e5b3a04eb4c9e1e73a515b61374c34f24019d27db6e2e765d2f` (376,807 bytes). Its original package manifest is `5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c`. Only the 31-file four-component package is added here. The archive container, duplicate prerequisite copies and full LOW30 manuscript are excluded from publication. Four mathematical prerequisite public copies already present in V8 match their original pins exactly. LOW30 was checked locally at its original pin but remains external.
+
+All **eight original diagnostics passed** in independent disposable copies. Original author counts are 468 positive-law, 45 separator, 148 conditional-velocity and 1,195 variance-gluing assertions, totaling 1,856. Original independent counts are **793 + 429 + 1,685 + 1,994 = 4,901**. All four independent saved result files reproduce byte-for-byte. Seven of eight total saved outputs reproduce exactly; the author positive-law result has only documented floating-point differences below 1.4×10⁻¹⁷. The original manifest helper also reproduced its source manifest byte-for-byte.
+
+The portable conditional checker retains every mathematical test and the exact conditional-proof hash check. Its default **1,684** assertions omit exactly one external LOW30 hash assertion and record that status explicitly, making **4,900 independent public assertions**. Its optional `--low30-source` mode was tested against the original pinned manuscript (1,685 assertions) and rejects an incorrect file. The public saved result is regenerated from the default portable run and has a separate original/public hash mapping. The other seven checkers are byte-identical to their originals. The default original/public source pin distinction is not hidden in a mathematical count.
+
+All four main proof documents remain byte-identical, with source hashes beginning `a085dfde`, `6fd7c048`, `44294f14` and `6846e7e5`. Seven of eight proof/audit documents are byte-identical; the conditional audit replaces its local LOW30 locator and local-root wording only. The audit's original hash remains recorded separately. Three manifests, the package README, the conditional checker/result and the manifest utility are explicitly labeled publication copies, for eight edited new files in total. Every historical original source/audit pin is retained. The helper now verifies frozen-file inventory mappings and writes a separate report only outside the archive, rather than overwriting the historical manifest.
+
+The mathematical scopes are distinct:
+
+- General C2 marginal standardized W2 ≤10(A²+δA)√D and physical order 5/2 for δ≤A, plus finite-mode/numerical floors. Polylogarithmic original-gradient VALUE queries do not imply strong-mean accuracy or retained-root joint-law ports.
+- The separate matrix-quadratic amplifier has standardized order 2m+2 for 3m extra VALUES and no new Gaussian roots. The explicit noncommuting C2 separator obstructs that particular polynomial graph uniformly over an A-dependent physical family; it is not a fixed-unscaled-potential or universal algorithmic lower bound.
+- The conditional OU service targets a fixed unit-buffer Gaussian law N(m_r(z),I), with error Λ√D(A³s⁵+A⁴s³) plus floors, under the original LOW30 radius, covariance-gap, finite-clock and public-log guards. The actual source first/curl/caller/zero and complete replay/tape costs remain charged. Neither independent diagnostic executes the imported mean compiler.
+- Positive unit-buffer gluing and the h≤log(5/3) frozen-force OU stage are bounded law results. The exact conditional mean, covariance and higher-cumulant ledger is analytical. A future covariance reserve must establish a conditional Gaussian law, not only a covariance identity. Approximate output moments are not asserted exact.
+
+The original audit manifests contain 26 locally verified records; 25 have public-file mappings, and the LOW30 record remains external. The package main manifest's 30 original file records are separately mapped to their public copies. All 370 inherited research files and all 31 selected original package files remain unchanged outside the publication-copy directory. Active `reverse-ou-curvature/`, `variance-gluing/covariance-action/` and every unlisted adjacent file remain excluded. No general nonlinear all-order transition, high-order time-discretization theorem, or sublinear complete-cost recurrence is admitted.
 
 ## Public-release scope
 

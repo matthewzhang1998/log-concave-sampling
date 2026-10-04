@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-04",
+  "verdict": "PASS_SCOPED",
+  "scope": "general C2 marginal W2 order 2 standardized / 5/2 physical; exact matrix-quadratic VALUE-only amplifier; no all-order nonlinear or sublinear-cost theorem",
+  "independent_assertions": 793,
+  "files": [
+    {
+      "path": "positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+      "bytes": 15844
+    },
+    {
+      "path": "ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "bytes": 12317
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-ENDPOINT-STEIN-AUDIT.md",
+      "sha256": "3f54d7e5a3dfd4c7944f95741df55bdfe38d1aa241942ec775ccb1a66ad33e4d",
+      "bytes": 17108
+    },
+    {
+      "path": "positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+      "sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512",
+      "bytes": 22089
+    },
+    {
+      "path": "positive-law-repair/independent-audit/check_positive_law_independent.py",
+      "sha256": "a8ea90a5ad03b43d3127c01a8a5b4690f075a82ba326ca19ca9a931b6971b4e7",
+      "bytes": 14591
+    },
+    {
+      "path": "positive-law-repair/independent-audit/positive_law_independent_checks.json",
+      "sha256": "1940b3c1da16bbe263beee1621cdc61f9e6b1e1d5191b8e5258af3af33aac967",
+      "bytes": 21378
+    }
+  ]
+}

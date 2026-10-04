@@ -1,0 +1,182 @@
+{
+  "status": "PASS",
+  "assertions": 45,
+  "beta": 0.7853983815789393,
+  "c": 0.866850617786817,
+  "d_Q": 0.36453777868739934,
+  "exact_delta_Q": 0.019910304505637022,
+  "uniform_delta0": 0.012837824913467539,
+  "rough_noncommuting_lower_bound": 0.012337794913467539,
+  "commutator_norm": 3.2299674906988793e-06,
+  "literal_scalar_program": [
+    {
+      "A": 0.25,
+      "m": 1,
+      "source_variance": 0.8769531180883643,
+      "target_variance": 0.8763424757462152,
+      "variance_defect_over_A2": 0.009770277474386191
+    },
+    {
+      "A": 0.25,
+      "m": 2,
+      "source_variance": 0.8769531211404862,
+      "target_variance": 0.8763424757462152,
+      "variance_defect_over_A2": 0.009770326308336408
+    },
+    {
+      "A": 0.25,
+      "m": 3,
+      "source_variance": 0.8769531211406647,
+      "target_variance": 0.8763424757462152,
+      "variance_defect_over_A2": 0.00977032631119279
+    },
+    {
+      "A": 0.25,
+      "m": 4,
+      "source_variance": 0.8769531211406647,
+      "target_variance": 0.8763424757462152,
+      "variance_defect_over_A2": 0.00977032631119279
+    },
+    {
+      "A": 0.125,
+      "m": 1,
+      "source_variance": 0.9345186293054819,
+      "target_variance": 0.9342929420607557,
+      "variance_defect_over_A2": 0.014443983662474125
+    },
+    {
+      "A": 0.125,
+      "m": 2,
+      "source_variance": 0.9345187257958565,
+      "target_variance": 0.9342929420607557,
+      "variance_defect_over_A2": 0.014450159046447197
+    },
+    {
+      "A": 0.125,
+      "m": 3,
+      "source_variance": 0.9345187258266741,
+      "target_variance": 0.9342929420607557,
+      "variance_defect_over_A2": 0.014450161018771723
+    },
+    {
+      "A": 0.125,
+      "m": 4,
+      "source_variance": 0.9345187258266845,
+      "target_variance": 0.9342929420607557,
+      "variance_defect_over_A2": 0.014450161019439633
+    },
+    {
+      "A": 0.0625,
+      "m": 1,
+      "source_variance": 0.9661533136836904,
+      "target_variance": 0.9660866340432523,
+      "variance_defect_over_A2": 0.017069987952140764
+    },
+    {
+      "A": 0.0625,
+      "m": 2,
+      "source_variance": 0.9661533272684627,
+      "target_variance": 0.9660866340432523,
+      "variance_defect_over_A2": 0.017073465653851372
+    },
+    {
+      "A": 0.0625,
+      "m": 3,
+      "source_variance": 0.9661533272700649,
+      "target_variance": 0.9660866340432523,
+      "variance_defect_over_A2": 0.01707346606400506
+    },
+    {
+      "A": 0.0625,
+      "m": 4,
+      "source_variance": 0.9661533272700651,
+      "target_variance": 0.9660866340432523,
+      "variance_defect_over_A2": 0.017073466064061904
+    },
+    {
+      "A": 0.03125,
+      "m": 1,
+      "source_variance": 0.9827839024727344,
+      "target_variance": 0.9827658726291719,
+      "variance_defect_over_A2": 0.018462559807971957
+    },
+    {
+      "A": 0.03125,
+      "m": 2,
+      "source_variance": 0.9827839036369768,
+      "target_variance": 0.9827658726291719,
+      "variance_defect_over_A2": 0.018463751992157995
+    },
+    {
+      "A": 0.03125,
+      "m": 3,
+      "source_variance": 0.9827839036370166,
+      "target_variance": 0.9827658726291719,
+      "variance_defect_over_A2": 0.01846375203297157
+    },
+    {
+      "A": 0.03125,
+      "m": 4,
+      "source_variance": 0.9827839036370166,
+      "target_variance": 0.9827658726291719,
+      "variance_defect_over_A2": 0.01846375203297157
+    },
+    {
+      "A": 0.015625,
+      "m": 1,
+      "source_variance": 0.9913166135001679,
+      "target_variance": 0.9913119310170421,
+      "variance_defect_over_A2": 0.019179450883257232
+    },
+    {
+      "A": 0.015625,
+      "m": 2,
+      "source_variance": 0.9913166135840894,
+      "target_variance": 0.9913119310170421,
+      "variance_defect_over_A2": 0.019179794625870272
+    },
+    {
+      "A": 0.015625,
+      "m": 3,
+      "source_variance": 0.9913166135840902,
+      "target_variance": 0.9913119310170421,
+      "variance_defect_over_A2": 0.019179794629053504
+    },
+    {
+      "A": 0.015625,
+      "m": 4,
+      "source_variance": 0.9913166135840902,
+      "target_variance": 0.9913119310170421,
+      "variance_defect_over_A2": 0.019179794629053504
+    },
+    {
+      "A": 0.0078125,
+      "m": 1,
+      "source_variance": 0.9956391959615845,
+      "target_variance": 0.9956380031440314,
+      "variance_defect_over_A2": 0.019543122789400513
+    },
+    {
+      "A": 0.0078125,
+      "m": 2,
+      "source_variance": 0.9956391959671992,
+      "target_variance": 0.9956380031440314,
+      "variance_defect_over_A2": 0.01954321478115162
+    },
+    {
+      "A": 0.0078125,
+      "m": 3,
+      "source_variance": 0.9956391959671992,
+      "target_variance": 0.9956380031440314,
+      "variance_defect_over_A2": 0.01954321478115162
+    },
+    {
+      "A": 0.0078125,
+      "m": 4,
+      "source_variance": 0.9956391959671992,
+      "target_variance": 0.9956380031440314,
+      "variance_defect_over_A2": 0.01954321478115162
+    }
+  ],
+  "scope": "Finite diagnostics support the analytical separator. Neither an all-order impossibility for all algorithms nor a failed positive endpoint law theorem is asserted."
+}

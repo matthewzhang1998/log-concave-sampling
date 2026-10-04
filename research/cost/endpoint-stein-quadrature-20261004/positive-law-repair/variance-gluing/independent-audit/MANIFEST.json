@@ -1,0 +1,58 @@
+{
+  "assertions": 1994,
+  "command": "python check_variance_gluing_independent.py",
+  "created_at_utc": "2026-10-04T21:05:44.085391+00:00",
+  "environment": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0"
+  },
+  "exclusions": [
+    "No author diagnostic program was read or imported.",
+    "No numerical time-approximation order is admitted.",
+    "No all-order nonlinear transition compiler is admitted.",
+    "No c(P)/P or sublinear cost-amplification conclusion is admitted."
+  ],
+  "files": [
+    {
+      "bytes": 10970,
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+      "role": "audited_source",
+      "sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a"
+    },
+    {
+      "bytes": 19496,
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+      "role": "imported_velocity_proof",
+      "sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5"
+    },
+    {
+      "bytes": 17681,
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+      "role": "imported_velocity_audit",
+      "sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5"
+    },
+    {
+      "bytes": 16600,
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/INDEPENDENT-VARIANCE-GLUING-AUDIT.md",
+      "role": "independent_audit",
+      "sha256": "0e227731e823107b89efa784cec4fce6da363d2fb85330aad093c4544fbce764"
+    },
+    {
+      "bytes": 16931,
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/check_variance_gluing_independent.py",
+      "role": "independent_check_program",
+      "sha256": "5d5f48e4ed2e5836cc667ef0b7f1967a8bf5bbc5a883884caa680bc0e691f5d2"
+    },
+    {
+      "bytes": 1940,
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/independent-audit/variance_gluing_independent_checks.json",
+      "role": "independent_check_output",
+      "sha256": "1db692fff6bd8d2695068d58f68d3f791830825b5ecf657430f09f0dbdc730b2"
+    }
+  ],
+  "manifest_note": "This manifest pins all source, audit, program and output bytes. It intentionally does not self-hash.",
+  "schema": 1,
+  "seed": 610042114,
+  "verdict": "PASS, bounded exact-current ledger and conditional Gaussian-law buffer gluing only",
+  "publication_copy_notice": "Paths are relative to the public archive root, except external:LOW30. Hashes and byte counts remain pins of original reviewed files, not edited public copies; consult root INVENTORY.json for the original/public mapping."
+}

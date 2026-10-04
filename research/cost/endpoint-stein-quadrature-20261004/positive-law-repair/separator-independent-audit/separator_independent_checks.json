@@ -1,0 +1,748 @@
+{
+  "source_sha256": "6fd7c048f1cf4980284d7ea196213aa1655b3cf8fabc7a18bfaf9b19963cee5d",
+  "assertions": 429,
+  "uniform_scalar_variance_coefficient_lower": 0.012837824913467539,
+  "uniform_rough_variance_coefficient_lower": 0.012337794913467539,
+  "uniform_standardized_W2_liminf_lower": 0.006168897456733769,
+  "perturbation_linear_constant": 4.36814337969452,
+  "perturbation_quadratic_constant": 2.8660254037844384,
+  "Hessian_commutator_norm": 3.2299674906988793e-06,
+  "Hessian_difference_quotients": [
+    0.0008134334513970793,
+    0.009899740336154551,
+    0.0999000874451357,
+    0.9999000086179656
+  ],
+  "target_coefficient_quadrature_crosscheck_error": 4.920429940512105e-07,
+  "rules": [
+    {
+      "rule": "midpoint",
+      "nodes": 1,
+      "c": 0.9999999999999999,
+      "d_Q": 0.43233235838169365,
+      "scalar_Delta": 0.01716114849728448,
+      "C2_Delta11": 0.01716000529815559,
+      "rough_perturbation": -1.1431991288890497e-06
+    },
+    {
+      "rule": "endpoints",
+      "nodes": 2,
+      "c": 0.5,
+      "d_Q": 0.21616617919084682,
+      "scalar_Delta": 0.02786887351112334,
+      "C2_Delta11": 0.027861899540481183,
+      "rough_perturbation": -6.973970642157323e-06
+    },
+    {
+      "rule": "symmetric_pair",
+      "nodes": 2,
+      "c": 0.824161333278719,
+      "d_Q": 0.34394987241567143,
+      "scalar_Delta": 0.020803195272510372,
+      "C2_Delta11": 0.020800004665774252,
+      "rough_perturbation": -3.1906067361198165e-06
+    },
+    {
+      "rule": "dyadic_3_2",
+      "nodes": 7,
+      "c": 0.8710546450674007,
+      "d_Q": 0.3663167114794689,
+      "scalar_Delta": 0.01981988732712623,
+      "C2_Delta11": 0.019817244648243137,
+      "rough_perturbation": -2.6426788830927195e-06
+    },
+    {
+      "rule": "dyadic_6_4",
+      "nodes": 25,
+      "c": 0.8670265596898102,
+      "d_Q": 0.3646110008330276,
+      "scalar_Delta": 0.01990650819828339,
+      "C2_Delta11": 0.019903819407598833,
+      "rough_perturbation": -2.6887906845567133e-06
+    },
+    {
+      "rule": "dyadic_10_7",
+      "nodes": 71,
+      "c": 0.8668530173975562,
+      "d_Q": 0.36453877651043953,
+      "scalar_Delta": 0.019910252720829857,
+      "C2_Delta11": 0.01990756210488931,
+      "rough_perturbation": -2.690615940548202e-06
+    }
+  ],
+  "scalar_actual_graph": [
+    {
+      "rule": "midpoint",
+      "A": 0.125,
+      "m": 1,
+      "scaled_variance_gap": 0.01134517819622971,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.125,
+      "m": 2,
+      "scaled_variance_gap": 0.011352663117804696,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.125,
+      "m": 3,
+      "scaled_variance_gap": 0.011352660486387833,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.125,
+      "m": 4,
+      "scaled_variance_gap": 0.011352660487368382,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.03125,
+      "m": 1,
+      "scaled_variance_gap": 0.015620356189629092,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.03125,
+      "m": 2,
+      "scaled_variance_gap": 0.015620386863133717,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.03125,
+      "m": 3,
+      "scaled_variance_gap": 0.01562038686302003,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.03125,
+      "m": 4,
+      "scaled_variance_gap": 0.01562038686302003,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.0078125,
+      "m": 1,
+      "scaled_variance_gap": 0.016770109674325795,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.0078125,
+      "m": 2,
+      "scaled_variance_gap": 0.016770109792560106,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.0078125,
+      "m": 3,
+      "scaled_variance_gap": 0.016770109792560106,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.0078125,
+      "m": 4,
+      "scaled_variance_gap": 0.016770109792560106,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.00390625,
+      "m": 1,
+      "scaled_variance_gap": 0.016965134898782708,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.00390625,
+      "m": 2,
+      "scaled_variance_gap": 0.016965134898782708,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.00390625,
+      "m": 3,
+      "scaled_variance_gap": 0.016965134898782708,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "midpoint",
+      "A": 0.00390625,
+      "m": 4,
+      "scaled_variance_gap": 0.016965134898782708,
+      "limit": 0.01716114849728448
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.125,
+      "m": 1,
+      "scaled_variance_gap": 0.023121010676476317,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.125,
+      "m": 2,
+      "scaled_variance_gap": 0.02340528594560709,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.125,
+      "m": 3,
+      "scaled_variance_gap": 0.023405902246246058,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.125,
+      "m": 4,
+      "scaled_variance_gap": 0.023405903649184268,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.03125,
+      "m": 1,
+      "scaled_variance_gap": 0.026659336935495048,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.03125,
+      "m": 2,
+      "scaled_variance_gap": 0.026680336516392344,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.03125,
+      "m": 3,
+      "scaled_variance_gap": 0.026680339534777886,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.03125,
+      "m": 4,
+      "scaled_variance_gap": 0.026680339535232633,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.0078125,
+      "m": 1,
+      "scaled_variance_gap": 0.02756539797883306,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.0078125,
+      "m": 2,
+      "scaled_variance_gap": 0.027566765218580258,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.0078125,
+      "m": 3,
+      "scaled_variance_gap": 0.027566765229494195,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.0078125,
+      "m": 4,
+      "scaled_variance_gap": 0.027566765229494195,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.00390625,
+      "m": 1,
+      "scaled_variance_gap": 0.02771705164195737,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.00390625,
+      "m": 2,
+      "scaled_variance_gap": 0.02771739576564869,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.00390625,
+      "m": 3,
+      "scaled_variance_gap": 0.02771739576564869,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "endpoints",
+      "A": 0.00390625,
+      "m": 4,
+      "scaled_variance_gap": 0.02771739576564869,
+      "limit": 0.02786887351112334
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.125,
+      "m": 1,
+      "scaled_variance_gap": 0.015438489017121526,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.125,
+      "m": 2,
+      "scaled_variance_gap": 0.015455782258193551,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.125,
+      "m": 3,
+      "scaled_variance_gap": 0.015455791501416627,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.125,
+      "m": 4,
+      "scaled_variance_gap": 0.015455791506603589,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.03125,
+      "m": 1,
+      "scaled_variance_gap": 0.019384370609373036,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.03125,
+      "m": 2,
+      "scaled_variance_gap": 0.019386614854511208,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.03125,
+      "m": 3,
+      "scaled_variance_gap": 0.019386614960012594,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.03125,
+      "m": 4,
+      "scaled_variance_gap": 0.019386614960012594,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.0078125,
+      "m": 1,
+      "scaled_variance_gap": 0.0204435337727773,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.0078125,
+      "m": 2,
+      "scaled_variance_gap": 0.02044369704890414,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.0078125,
+      "m": 3,
+      "scaled_variance_gap": 0.02044369704890414,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.0078125,
+      "m": 4,
+      "scaled_variance_gap": 0.02044369704890414,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.00390625,
+      "m": 1,
+      "scaled_variance_gap": 0.02062295020732563,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.00390625,
+      "m": 2,
+      "scaled_variance_gap": 0.020622992029529996,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.00390625,
+      "m": 3,
+      "scaled_variance_gap": 0.020622992029529996,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "symmetric_pair",
+      "A": 0.00390625,
+      "m": 4,
+      "scaled_variance_gap": 0.020622992029529996,
+      "limit": 0.020803195272510372
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.125,
+      "m": 1,
+      "scaled_variance_gap": 0.014343238792122293,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.125,
+      "m": 2,
+      "scaled_variance_gap": 0.014348622189352511,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.125,
+      "m": 3,
+      "scaled_variance_gap": 0.014348623794695925,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.125,
+      "m": 4,
+      "scaled_variance_gap": 0.014348623795193305,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.03125,
+      "m": 1,
+      "scaled_variance_gap": 0.01836924933127193,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.03125,
+      "m": 2,
+      "scaled_variance_gap": 0.018370355757497236,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.03125,
+      "m": 3,
+      "scaled_variance_gap": 0.01837035579399071,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.03125,
+      "m": 4,
+      "scaled_variance_gap": 0.01837035579399071,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.0078125,
+      "m": 1,
+      "scaled_variance_gap": 0.01945195560074353,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.0078125,
+      "m": 2,
+      "scaled_variance_gap": 0.01945204166804615,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.0078125,
+      "m": 3,
+      "scaled_variance_gap": 0.01945204166804615,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.0078125,
+      "m": 4,
+      "scaled_variance_gap": 0.01945204166804615,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.00390625,
+      "m": 1,
+      "scaled_variance_gap": 0.019635479235148523,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.00390625,
+      "m": 2,
+      "scaled_variance_gap": 0.019635501499578822,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.00390625,
+      "m": 3,
+      "scaled_variance_gap": 0.019635501499578822,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_3_2",
+      "A": 0.00390625,
+      "m": 4,
+      "scaled_variance_gap": 0.019635501499578822,
+      "limit": 0.01981988732712623
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.125,
+      "m": 1,
+      "scaled_variance_gap": 0.014439755772698959,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.125,
+      "m": 2,
+      "scaled_variance_gap": 0.014445896922204327,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.125,
+      "m": 3,
+      "scaled_variance_gap": 0.014445898878143737,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.125,
+      "m": 4,
+      "scaled_variance_gap": 0.014445898878804542,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.03125,
+      "m": 1,
+      "scaled_variance_gap": 0.018458642369978406,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.03125,
+      "m": 2,
+      "scaled_variance_gap": 0.018459830900837915,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.03125,
+      "m": 3,
+      "scaled_variance_gap": 0.018459830941537803,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.03125,
+      "m": 4,
+      "scaled_variance_gap": 0.018459830941537803,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.0078125,
+      "m": 1,
+      "scaled_variance_gap": 0.01953929506817076,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.0078125,
+      "m": 2,
+      "scaled_variance_gap": 0.019539386808901327,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.0078125,
+      "m": 3,
+      "scaled_variance_gap": 0.019539386808901327,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.0078125,
+      "m": 4,
+      "scaled_variance_gap": 0.019539386808901327,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.00390625,
+      "m": 1,
+      "scaled_variance_gap": 0.01972246167861158,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.00390625,
+      "m": 2,
+      "scaled_variance_gap": 0.019722485383681487,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.00390625,
+      "m": 3,
+      "scaled_variance_gap": 0.019722485383681487,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_6_4",
+      "A": 0.00390625,
+      "m": 4,
+      "scaled_variance_gap": 0.019722485383681487,
+      "limit": 0.01990650819828339
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.125,
+      "m": 1,
+      "scaled_variance_gap": 0.01444392599173483,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.125,
+      "m": 2,
+      "scaled_variance_gap": 0.014450100908163677,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.125,
+      "m": 3,
+      "scaled_variance_gap": 0.014450102880267934,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.125,
+      "m": 4,
+      "scaled_variance_gap": 0.014450102880921634,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.03125,
+      "m": 1,
+      "scaled_variance_gap": 0.01846250637072444,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.03125,
+      "m": 2,
+      "scaled_variance_gap": 0.018463698505115644,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.03125,
+      "m": 3,
+      "scaled_variance_gap": 0.01846369854592922,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.03125,
+      "m": 4,
+      "scaled_variance_gap": 0.01846369854592922,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.0078125,
+      "m": 1,
+      "scaled_variance_gap": 0.019543070573490695,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.0078125,
+      "m": 2,
+      "scaled_variance_gap": 0.01954316256342281,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.0078125,
+      "m": 3,
+      "scaled_variance_gap": 0.01954316256342281,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.0078125,
+      "m": 4,
+      "scaled_variance_gap": 0.01954316256342281,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.00390625,
+      "m": 1,
+      "scaled_variance_gap": 0.01972622177709127,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.00390625,
+      "m": 2,
+      "scaled_variance_gap": 0.01972624555492075,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.00390625,
+      "m": 3,
+      "scaled_variance_gap": 0.01972624555492075,
+      "limit": 0.019910252720829857
+    },
+    {
+      "rule": "dyadic_10_7",
+      "A": 0.00390625,
+      "m": 4,
+      "scaled_variance_gap": 0.01972624555492075,
+      "limit": 0.019910252720829857
+    }
+  ],
+  "scope": "Fixed standardized potential u_eta and U_A=A u_eta. Uniform counterexample to extrapolating the quadratic VALUE graph; not a counterexample to the positive order-two theorem, not an impossibility for different algorithms, and not a claim about one fixed unscaled physical V as A varies."
+}
