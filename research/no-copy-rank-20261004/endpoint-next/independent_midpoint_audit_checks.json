@@ -1,0 +1,63 @@
+{
+  "checks": 8018,
+  "max_absolute_error": 1.169583093568738e-16,
+  "pin_file": "MIDPOINT-CONSTRAINT-AND-RETAINED-PARITY-RETURN.md",
+  "pin_sha256": "1dd68f435099434a400b45da296f7e40645639cdc9c091859020e514b947f1cd",
+  "lambda_cases": [
+    {
+      "a": 0.0625,
+      "rotation_width": 0.03,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 2.384185791015626e-11
+    },
+    {
+      "a": 0.0625,
+      "rotation_width": 0.2,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 2.384185791015626e-11
+    },
+    {
+      "a": 0.0625,
+      "rotation_width": 0.45,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 2.384185791015626e-11
+    },
+    {
+      "a": 0.015625,
+      "rotation_width": 0.03,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 9.31322574615479e-14
+    },
+    {
+      "a": 0.015625,
+      "rotation_width": 0.2,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 9.31322574615479e-14
+    },
+    {
+      "a": 0.015625,
+      "rotation_width": 0.45,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 9.31322574615479e-14
+    },
+    {
+      "a": 0.00390625,
+      "rotation_width": 0.03,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 3.6379788070917146e-16
+    },
+    {
+      "a": 0.00390625,
+      "rotation_width": 0.2,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 3.6379788070917146e-16
+    },
+    {
+      "a": 0.00390625,
+      "rotation_width": 0.45,
+      "physical_lambda_first_norm": 0.0,
+      "orientation_22": 3.6379788070917146e-16
+    }
+  ],
+  "scope": "Independent finite VALUE/Jacobian checks, exact parity and physical lambda selected-record check. No integrated-law lower bound."
+}

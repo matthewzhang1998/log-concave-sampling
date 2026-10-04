@@ -1,0 +1,136 @@
+{
+  "status": "PASS",
+  "checks": 16832,
+  "max_absolute_identity_error": 1.0549287138283958e-16,
+  "finite_clock_cases": [
+    {
+      "a": 0.0625,
+      "h": 0.5,
+      "fine_width": 5.154327776456618e-07,
+      "opposite_orientation_22": 2.3841686777590504e-11,
+      "zero_width_22": 2.3841857910156254e-11,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.0625,
+      "h": 0.5743491774985174,
+      "fine_width": 5.154327776456618e-07,
+      "opposite_orientation_22": 2.38417044295264e-11,
+      "zero_width_22": 2.3841857910156254e-11,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.0625,
+      "h": 0.0625,
+      "fine_width": 5.154327776456618e-07,
+      "opposite_orientation_22": 2.3841725534757214e-11,
+      "zero_width_22": 2.3841857910156254e-11,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.0625,
+      "h": 0.00390625,
+      "fine_width": 5.154327776456618e-07,
+      "opposite_orientation_22": 2.384171302611421e-11,
+      "zero_width_22": 2.3841857910156254e-11,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.03125,
+      "h": 0.5,
+      "fine_width": 1.3810679320049757e-07,
+      "opposite_orientation_22": 1.490108640982501e-12,
+      "zero_width_22": 1.4901161193847659e-12,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.03125,
+      "h": 0.5,
+      "fine_width": 1.3810679320049757e-07,
+      "opposite_orientation_22": 1.4901069263042722e-12,
+      "zero_width_22": 1.4901161193847659e-12,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.03125,
+      "h": 0.03125,
+      "fine_width": 1.3810679320049757e-07,
+      "opposite_orientation_22": 1.4901061908717562e-12,
+      "zero_width_22": 1.4901161193847659e-12,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.03125,
+      "h": 0.0009765625,
+      "fine_width": 1.3810679320049757e-07,
+      "opposite_orientation_22": 1.490106838192014e-12,
+      "zero_width_22": 1.4901161193847659e-12,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.015625,
+      "h": 0.5,
+      "fine_width": 3.7004798987070265e-08,
+      "opposite_orientation_22": 9.31316377829775e-14,
+      "zero_width_22": 9.313225746154787e-14,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.015625,
+      "h": 0.43527528164806206,
+      "fine_width": 3.7004798987070265e-08,
+      "opposite_orientation_22": 9.313174990267407e-14,
+      "zero_width_22": 9.313225746154787e-14,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.015625,
+      "h": 0.015625,
+      "fine_width": 3.7004798987070265e-08,
+      "opposite_orientation_22": 9.313177004121778e-14,
+      "zero_width_22": 9.313225746154787e-14,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.015625,
+      "h": 0.000244140625,
+      "fine_width": 3.7004798987070265e-08,
+      "opposite_orientation_22": 9.313160504074013e-14,
+      "zero_width_22": 9.313225746154787e-14,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.0078125,
+      "h": 0.5,
+      "fine_width": 9.915190385207954e-09,
+      "opposite_orientation_22": 5.820732765983006e-15,
+      "zero_width_22": 5.820766091346742e-15,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.0078125,
+      "h": 0.3789291416275995,
+      "fine_width": 9.915190385207954e-09,
+      "opposite_orientation_22": 5.8207269761560796e-15,
+      "zero_width_22": 5.820766091346742e-15,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.0078125,
+      "h": 0.0078125,
+      "fine_width": 9.915190385207954e-09,
+      "opposite_orientation_22": 5.820728058087808e-15,
+      "zero_width_22": 5.820766091346742e-15,
+      "mixed_field_norm": 0.0
+    },
+    {
+      "a": 0.0078125,
+      "h": 6.103515625e-05,
+      "fine_width": 9.915190385207954e-09,
+      "opposite_orientation_22": 5.82073331234374e-15,
+      "zero_width_22": 5.820766091346742e-15,
+      "mixed_field_norm": 0.0
+    }
+  ],
+  "scope": "Actual finite VALUE/Jacobian algebra and retained parity; no all-rank or integrated-law conclusion."
+}

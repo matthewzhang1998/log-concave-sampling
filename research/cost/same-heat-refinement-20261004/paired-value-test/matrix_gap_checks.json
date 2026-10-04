@@ -1,0 +1,139 @@
+{
+  "status": "PASS: rank-one trace/gap identities and exact affine VALUE calibration",
+  "scope": "Screens the new empirical rank-one matrix normalization only; not a general sampler lower bound.",
+  "heat_window": [
+    {
+      "a": 0.1,
+      "d": 1,
+      "covariance_operator": 0.00010000000000000005,
+      "allocated_variance": 0.00158113883008419,
+      "necessary_rank": 0.06324555320336761,
+      "uncapped_gap_probability": 0.9999300199657403
+    },
+    {
+      "a": 0.1,
+      "d": 10,
+      "covariance_operator": 0.00010000000000000005,
+      "allocated_variance": 0.00158113883008419,
+      "necessary_rank": 0.6324555320336761,
+      "uncapped_gap_probability": 0.8948395758425578
+    },
+    {
+      "a": 0.1,
+      "d": 100,
+      "covariance_operator": 0.00010000000000000005,
+      "allocated_variance": 0.00158113883008419,
+      "necessary_rank": 6.32455532033676,
+      "uncapped_gap_probability": 1.1308360780229307e-23
+    },
+    {
+      "a": 0.1,
+      "d": 1000,
+      "covariance_operator": 0.00010000000000000005,
+      "allocated_variance": 0.00158113883008419,
+      "necessary_rank": 63.2455532033676,
+      "uncapped_gap_probability": 0.0
+    },
+    {
+      "a": 0.03,
+      "d": 1,
+      "covariance_operator": 8.1e-07,
+      "allocated_variance": 7.794228634059947e-05,
+      "necessary_rank": 0.010392304845413263,
+      "uncapped_gap_probability": 1.0
+    },
+    {
+      "a": 0.03,
+      "d": 10,
+      "covariance_operator": 8.1e-07,
+      "allocated_variance": 7.794228634059947e-05,
+      "necessary_rank": 0.10392304845413262,
+      "uncapped_gap_probability": 0.9999999999999997
+    },
+    {
+      "a": 0.03,
+      "d": 100,
+      "covariance_operator": 8.1e-07,
+      "allocated_variance": 7.794228634059947e-05,
+      "necessary_rank": 1.0392304845413263,
+      "uncapped_gap_probability": 0.41174760961084605
+    },
+    {
+      "a": 0.03,
+      "d": 1000,
+      "covariance_operator": 8.1e-07,
+      "allocated_variance": 7.794228634059947e-05,
+      "necessary_rank": 10.392304845413264,
+      "uncapped_gap_probability": 0.0
+    },
+    {
+      "a": 0.01,
+      "d": 1,
+      "covariance_operator": 1e-08,
+      "allocated_variance": 5e-06,
+      "necessary_rank": 0.002,
+      "uncapped_gap_probability": 1.0
+    },
+    {
+      "a": 0.01,
+      "d": 10,
+      "covariance_operator": 1e-08,
+      "allocated_variance": 5e-06,
+      "necessary_rank": 0.02,
+      "uncapped_gap_probability": 1.0
+    },
+    {
+      "a": 0.01,
+      "d": 100,
+      "covariance_operator": 1e-08,
+      "allocated_variance": 5e-06,
+      "necessary_rank": 0.2,
+      "uncapped_gap_probability": 1.0
+    },
+    {
+      "a": 0.01,
+      "d": 1000,
+      "covariance_operator": 1e-08,
+      "allocated_variance": 5e-06,
+      "necessary_rank": 2.0,
+      "uncapped_gap_probability": 4.067165681999616e-44
+    }
+  ],
+  "value_calibration": [
+    {
+      "kind": "linear",
+      "identity_error": 0.0,
+      "max_bracket": 2.3852447794681098e-18
+    },
+    {
+      "kind": "nonlinear",
+      "identity_error": 0.0,
+      "max_bracket": 0.0005402528599323915
+    },
+    {
+      "kind": "linear",
+      "identity_error": -4.336808689942018e-19,
+      "max_bracket": 1.734723475976807e-18
+    },
+    {
+      "kind": "nonlinear",
+      "identity_error": 0.0,
+      "max_bracket": 0.00015883125528130988
+    },
+    {
+      "kind": "linear",
+      "identity_error": -1.734723475976807e-18,
+      "max_bracket": 3.469446951953614e-18
+    },
+    {
+      "kind": "nonlinear",
+      "identity_error": 0.0,
+      "max_bracket": 0.0004889075996586251
+    }
+  ],
+  "R4_exponents": {
+    "scalar_final": 0.6666666666666666,
+    "fixed_rank_matrix_at_d_equals_a_minus8": 2.8333333333333335,
+    "covariance_replica_necessity_at_scalar_count": 6.5
+  }
+}

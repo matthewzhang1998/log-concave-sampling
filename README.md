@@ -1,6 +1,6 @@
 # Log-concave sampling: mathematical research snapshot
 
-Snapshot version: 2026-10-04-public-v3-retained-kernel-same-heat, updated 4 October 2026. This is a curated research archive of proofs, scoped audits, source certificates, and diagnostic code. Inclusion is not an assertion that every proposed construction is proved.
+Snapshot version: 2026-10-04-public-v4-host-separator-randomized-weak, updated 4 October 2026. This is a curated research archive of proofs, scoped audits, source certificates, and diagnostic code. Inclusion is not an assertion that every proposed construction is proved.
 
 ## Progress in brief
 
@@ -29,9 +29,18 @@ Each claim below retains the assumptions and numerical/source costs in its proof
 
 These results do not improve the currently admitted general c_P family or prove an all-order/subpolynomial sampler.
 
+### Latest interface and source results
+
+- **The selected CW7 external host needs a smaller interface.** The [host-separator audit](research/no-copy-rank-20261004/host-observer-audit/ACTUAL-CW7-WEAK-E-HOST-SEPARATOR-AND-COMPARISON-ORDER.md) and [independently audited reentry recipe](research/no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md) show that its physical law consumer reads captured caller θ and one complete statistic T. A complete conditional mean law can be proved first and the host attached afterward. An arbitrary joint-fine-observer theorem is not an external prerequisite for this selected host. Internal packet aliases and any baseline still reading integrated fine variables remain genuine obligations; the actual retained-source/graph proof is separate.
+- A [positive projected-gradient/V-column construction](research/no-copy-rank-20261004/endpoint-next/v-column-escape/PROJECTED-GRADIENT-V-COLUMN-ESCAPE-AND-JOINT-RETENTION.md) succeeds on the terminal-flat fixture, with actual-energy control and an exact physical orientation selector. Its zero-auxiliary-root Gram identity is not a full retained-root endpoint theorem. Earlier midpoint, fixed-frame and baseline obstructions remain limited to their stated operations. The [cache partition](research/no-copy-rank-20261004/endpoint-next/cache-partition/WEAK-29-CAPTURED-CALLER-AND-COMPLETE-PRIVATE-CACHE-PARTITION.md) allows exact shared captured work but keeps complete private bank work charged.
+- [Scalar randomized quarter-flow](research/cost/same-heat-refinement-20261004/randomized-weak/SCALAR-RANDOMIZED-QUARTER-FLOW-AND-ALL-LAYER-DEBTS.md) has an [independent scoped PASS](research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/INDEPENDENT-SCALAR-WEAK-FLOW-AUDIT.md) for a real terminal weak-law gain and legal stored queries. Earlier-layer feedback still gives a linear-in-order certificate, and general-dimensional/recursive source ports remain open. The [all-layer audit](research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/INDEPENDENT-ALL-LAYER-CURRENT-AND-RESERVE-AUDIT.md) retains the paired currents and conditional/path/observer qualifications.
+- The [paired scalar VALUE test](research/cost/same-heat-refinement-20261004/paired-value-test/TWO-LAYER-PAIRED-VALUE-AND-COVARIANCE.md) supplies an endpoint-scoped positive scalar covariance companion but leaves a nonlinear mean current. Its [matrix screen](research/cost/same-heat-refinement-20261004/paired-value-test/MATRIX-RANK-ONE-GAP-AND-HEAT-WINDOW.md) exposes dimension/variance-gap costs of that empirical rank-one construction, without ruling out native Jacobian/Gram reserves or other algorithms.
+
+These are scoped source/interface improvements. They do not close a generic all-rank compiler or improve the admitted general c_P family.
+
 ### Main remaining gate
 
-The [matrix same-query word contract](research/p-native-twin/MATRIX-K3-SAME-QUERY-TWO-SIDED-WORD-CONTRACT.md) and [ambient gradient lift](research/p-native-twin/JOINT-GRADIENT-LIFTS-AND-CONSTRAINT-DESCENDANTS.md) isolate the missing interface: an actual positive VALUE construction/current on the original nonlinear constrained-input graph, with correct shared-root observers, two-sided matrix words, retained/caller returns, and complete endpoint composition. A constant covariance correction alone does not establish this interface.
+The [matrix same-query word contract](research/p-native-twin/MATRIX-K3-SAME-QUERY-TWO-SIDED-WORD-CONTRACT.md) and [ambient gradient lift](research/p-native-twin/JOINT-GRADIENT-LIFTS-AND-CONSTRAINT-DESCENDANTS.md) isolate the missing interface: an actual positive VALUE construction/current on the original nonlinear constrained-input graph, with the actual within-packet shared-root/fine-record identities, two-sided matrix words, retained/caller returns, and complete endpoint composition. The selected CW7 external physical host does not add an arbitrary-private-observer requirement. A constant covariance correction alone does not establish this interface.
 
 Counterexamples and obstruction audits are retained because they rule out shortcuts such as replacing common nonlinear queries by independently heated factors, ignoring companion fields, or inferring marked energy from an ordinary first bound. The cost reconstructions also retain the unresolved growing-order efficiency boundary.
 
@@ -46,7 +55,7 @@ The [fixed-seed rank and sharing audit](research/cost/recurrence-audit-20261004/
 - `INVENTORY.json` records each mathematical file's public SHA-256, original SHA-256, original/public byte counts, version type, and whether it is a sanitized publication copy.
 - `unchanged_source_copy` means the public bytes equal the source snapshot bytes. `sanitized_publication_copy` means local paths, nonmathematical context, and/or explicitly identified independent-audit scope clarifications were edited. Mathematical formulas and historical source/audit pins were retained; those pins do not silently become hashes of the edited files.
 - `historical_bytes_verified`, `reconstructed_new_version`, and `new_research_or_diagnostic` describe the original version. A reconstructed document is new work rather than a byte-identical historical source.
-- `PROVENANCE-CHECKS.json` records 242 source-index bindings, with original and public hashes. One older binding names the pre-correction mixed-descendant source. Its final source and scoped audit are explicitly identified. Source-index identifiers are checksums of external provenance records, not additional bundled sources.
+- `PROVENANCE-CHECKS.json` records 285 source-index bindings, with original and public hashes. One older binding names the pre-correction mixed-descendant source. Its final source and scoped audit are explicitly identified. Source-index identifiers are checksums of external provenance records, not additional bundled sources.
 - `SHA256SUMS` covers every bundled file except itself. Run `python verify_integrity.py` before use.
 
 Private correspondence, external confidential manuscripts and derivative commentary, personal data, credentials, and unrelated material are excluded. No publication license is assigned.

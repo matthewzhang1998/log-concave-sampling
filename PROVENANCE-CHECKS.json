@@ -1,5 +1,5 @@
 {
-  "snapshot_utc": "2026-10-04T14:54:23Z",
+  "snapshot_utc": "2026-10-04T16:09:04Z",
   "policy": "Historical audits apply only to the cited original source bytes and stated mathematical scope. Public copies may contain clearly labeled nonmathematical sanitization; their distinct hashes are mapped here and in INVENTORY.json. Sanitization does not constitute a fresh mathematical audit.",
   "bindings": [
     {
@@ -2179,6 +2179,393 @@
       "matches_original_source": true,
       "public_sha256": "b4a7509c8d5392b38bdd6da1ab68eb2f462051756cad5ce8ffc708075581d96e",
       "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/paired-value-test/MATRIX-RANK-ONE-GAP-AND-HEAT-WINDOW.md",
+      "recorded_sha256": "989924970b344e0665d7c63a50b7e6fa3b4881019411b0593dbb4d97fc3fb7bc",
+      "source_index_id": "sha256:8a3ede1b02ed6a81a167a99bcac79b9f1a9334e791dcebf27de65562821391b4",
+      "original_sha256": "989924970b344e0665d7c63a50b7e6fa3b4881019411b0593dbb4d97fc3fb7bc",
+      "matches_original_source": true,
+      "public_sha256": "989924970b344e0665d7c63a50b7e6fa3b4881019411b0593dbb4d97fc3fb7bc",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/paired-value-test/TWO-LAYER-PAIRED-VALUE-AND-COVARIANCE.md",
+      "recorded_sha256": "23ee9bbbee983116e967bab2e972dffa4d1202ebb607420504e191643fd0923b",
+      "source_index_id": "sha256:a96329a3aa4bffc914bad2b740e1c560483f303639ecea971f4a4660ba073578",
+      "original_sha256": "23ee9bbbee983116e967bab2e972dffa4d1202ebb607420504e191643fd0923b",
+      "matches_original_source": true,
+      "public_sha256": "7cac280643ce875a2fa86371b0aa0cc0ccf9b3c838edead2ad1f9d02489802ad",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/paired-value-test/check_matrix_gap.py",
+      "recorded_sha256": "d68028bee7ace95e7d005ce2230c564dfaff28f71faecdfb085a245bf3d834db",
+      "source_index_id": "sha256:8a3ede1b02ed6a81a167a99bcac79b9f1a9334e791dcebf27de65562821391b4",
+      "original_sha256": "d68028bee7ace95e7d005ce2230c564dfaff28f71faecdfb085a245bf3d834db",
+      "matches_original_source": true,
+      "public_sha256": "d68028bee7ace95e7d005ce2230c564dfaff28f71faecdfb085a245bf3d834db",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/paired-value-test/check_paired_value.py",
+      "recorded_sha256": "a4f6473fb81aa34db972fc73c6598f91d1e1195caf1ac4d64c801505374b8be1",
+      "source_index_id": "sha256:a96329a3aa4bffc914bad2b740e1c560483f303639ecea971f4a4660ba073578",
+      "original_sha256": "a4f6473fb81aa34db972fc73c6598f91d1e1195caf1ac4d64c801505374b8be1",
+      "matches_original_source": true,
+      "public_sha256": "a4f6473fb81aa34db972fc73c6598f91d1e1195caf1ac4d64c801505374b8be1",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/paired-value-test/matrix_gap_checks.json",
+      "recorded_sha256": "fc2ba4c2b729e5bac73388aeaf8dd8c284450f6f01ead3f3a4ca0571c6e4187f",
+      "source_index_id": "sha256:8a3ede1b02ed6a81a167a99bcac79b9f1a9334e791dcebf27de65562821391b4",
+      "original_sha256": "fc2ba4c2b729e5bac73388aeaf8dd8c284450f6f01ead3f3a4ca0571c6e4187f",
+      "matches_original_source": true,
+      "public_sha256": "fc2ba4c2b729e5bac73388aeaf8dd8c284450f6f01ead3f3a4ca0571c6e4187f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/paired-value-test/paired_value_checks.json",
+      "recorded_sha256": "5f47e9c5162b0c32fd505820c9672f19657de2f65767478be1a09f2c54320c08",
+      "source_index_id": "sha256:a96329a3aa4bffc914bad2b740e1c560483f303639ecea971f4a4660ba073578",
+      "original_sha256": "5f47e9c5162b0c32fd505820c9672f19657de2f65767478be1a09f2c54320c08",
+      "matches_original_source": true,
+      "public_sha256": "5f47e9c5162b0c32fd505820c9672f19657de2f65767478be1a09f2c54320c08",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/ALL-LAYER-MARTINGALE-CURRENTS-AND-PATH-GAP.md",
+      "recorded_sha256": "dbf2b9b04c72cd83970273cb487b2ac800ff9358dec945e1ef489f054b829d6b",
+      "source_index_id": "sha256:5ffc8f7ac3bc5c132aa3cd4efeb58ea52ac38e7117cfb7842a85be8f926df8c5",
+      "original_sha256": "dbf2b9b04c72cd83970273cb487b2ac800ff9358dec945e1ef489f054b829d6b",
+      "matches_original_source": true,
+      "public_sha256": "dbf2b9b04c72cd83970273cb487b2ac800ff9358dec945e1ef489f054b829d6b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/INTERMEDIATE-GAUSSIAN-RESERVE-ALLOCATION-TEST.md",
+      "recorded_sha256": "02db073eb1dca83c37ac8a8924cc34798550bb02f572e427a2053d053b2037c1",
+      "source_index_id": "sha256:5ffc8f7ac3bc5c132aa3cd4efeb58ea52ac38e7117cfb7842a85be8f926df8c5",
+      "original_sha256": "02db073eb1dca83c37ac8a8924cc34798550bb02f572e427a2053d053b2037c1",
+      "matches_original_source": true,
+      "public_sha256": "02db073eb1dca83c37ac8a8924cc34798550bb02f572e427a2053d053b2037c1",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/SCALAR-RANDOMIZED-QUARTER-FLOW-AND-ALL-LAYER-DEBTS.md",
+      "recorded_sha256": "14ff69c491ab5cbcc3dfcfa196156cefced1c685f4905e5df663a6f8e48f8f27",
+      "source_index_id": "sha256:5ffc8f7ac3bc5c132aa3cd4efeb58ea52ac38e7117cfb7842a85be8f926df8c5",
+      "original_sha256": "14ff69c491ab5cbcc3dfcfa196156cefced1c685f4905e5df663a6f8e48f8f27",
+      "matches_original_source": true,
+      "public_sha256": "14ff69c491ab5cbcc3dfcfa196156cefced1c685f4905e5df663a6f8e48f8f27",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/all_layer_current_checks.json",
+      "recorded_sha256": "9ef289f4172291613f3b6f715ac169a08163613c7ef4b87f176edca3ae637f35",
+      "source_index_id": "sha256:5ffc8f7ac3bc5c132aa3cd4efeb58ea52ac38e7117cfb7842a85be8f926df8c5",
+      "original_sha256": "9ef289f4172291613f3b6f715ac169a08163613c7ef4b87f176edca3ae637f35",
+      "matches_original_source": true,
+      "public_sha256": "9ef289f4172291613f3b6f715ac169a08163613c7ef4b87f176edca3ae637f35",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/check_all_layer_currents.py",
+      "recorded_sha256": "4fb24917630f01f68613a4a730c36fd9f9e2ce2a256c3526038bc372dc6824b5",
+      "source_index_id": "sha256:5ffc8f7ac3bc5c132aa3cd4efeb58ea52ac38e7117cfb7842a85be8f926df8c5",
+      "original_sha256": "4fb24917630f01f68613a4a730c36fd9f9e2ce2a256c3526038bc372dc6824b5",
+      "matches_original_source": true,
+      "public_sha256": "4fb24917630f01f68613a4a730c36fd9f9e2ce2a256c3526038bc372dc6824b5",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/ALL-LAYER-REVIEWED-dbf2b9b04c72.md",
+      "recorded_sha256": "dbf2b9b04c72cd83970273cb487b2ac800ff9358dec945e1ef489f054b829d6b",
+      "source_index_id": "sha256:ab553e804eea00bcaede13ad06c1e140328ae73579d0e19053597fb0540ff192",
+      "original_sha256": "dbf2b9b04c72cd83970273cb487b2ac800ff9358dec945e1ef489f054b829d6b",
+      "matches_original_source": true,
+      "public_sha256": "dbf2b9b04c72cd83970273cb487b2ac800ff9358dec945e1ef489f054b829d6b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/INDEPENDENT-ALL-LAYER-CURRENT-AND-RESERVE-AUDIT.md",
+      "recorded_sha256": "53110e1965d5cd24b53ff82a44ced8df67ac3d9afa3adac03481886f5236ea7f",
+      "source_index_id": "sha256:ab553e804eea00bcaede13ad06c1e140328ae73579d0e19053597fb0540ff192",
+      "original_sha256": "53110e1965d5cd24b53ff82a44ced8df67ac3d9afa3adac03481886f5236ea7f",
+      "matches_original_source": true,
+      "public_sha256": "9f591d375bb8e59a6e3dcdb65e16e0c827215b941e313996b99dccfe05a4ff3a",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/INDEPENDENT-SCALAR-WEAK-FLOW-AUDIT.md",
+      "recorded_sha256": "fc5a1efdef09818394767fb847dc643b4ff8194a507056f00e227ab8845ed5ed",
+      "source_index_id": "sha256:9cf4ec9562f36d9f4910bacd8a9006d2972a218af0cb92f46fd47c814e2032d6",
+      "original_sha256": "fc5a1efdef09818394767fb847dc643b4ff8194a507056f00e227ab8845ed5ed",
+      "matches_original_source": true,
+      "public_sha256": "ec61703cb3a0870703cef1db5416c58c8b95b3685a91b20d63be2faff1679718",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/RESERVE-REVIEWED-02db073eb1dc.md",
+      "recorded_sha256": "02db073eb1dca83c37ac8a8924cc34798550bb02f572e427a2053d053b2037c1",
+      "source_index_id": "sha256:ab553e804eea00bcaede13ad06c1e140328ae73579d0e19053597fb0540ff192",
+      "original_sha256": "02db073eb1dca83c37ac8a8924cc34798550bb02f572e427a2053d053b2037c1",
+      "matches_original_source": true,
+      "public_sha256": "02db073eb1dca83c37ac8a8924cc34798550bb02f572e427a2053d053b2037c1",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/SCALAR-WEAK-FLOW-REVIEWED-14ff69c491ab.md",
+      "recorded_sha256": "14ff69c491ab5cbcc3dfcfa196156cefced1c685f4905e5df663a6f8e48f8f27",
+      "source_index_id": "sha256:9cf4ec9562f36d9f4910bacd8a9006d2972a218af0cb92f46fd47c814e2032d6",
+      "original_sha256": "14ff69c491ab5cbcc3dfcfa196156cefced1c685f4905e5df663a6f8e48f8f27",
+      "matches_original_source": true,
+      "public_sha256": "14ff69c491ab5cbcc3dfcfa196156cefced1c685f4905e5df663a6f8e48f8f27",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/all_layer_independent_checks.json",
+      "recorded_sha256": "c699fe8f260ba0466df965fac9891b9280a4797e22a174cd6ac1792d7c2762f9",
+      "source_index_id": "sha256:ab553e804eea00bcaede13ad06c1e140328ae73579d0e19053597fb0540ff192",
+      "original_sha256": "c699fe8f260ba0466df965fac9891b9280a4797e22a174cd6ac1792d7c2762f9",
+      "matches_original_source": true,
+      "public_sha256": "c699fe8f260ba0466df965fac9891b9280a4797e22a174cd6ac1792d7c2762f9",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/check_all_layer_independent.py",
+      "recorded_sha256": "82b707593b5dc71eacebbad1cd1210eeea6568ef561835a301df9cdabdb4629b",
+      "source_index_id": "sha256:ab553e804eea00bcaede13ad06c1e140328ae73579d0e19053597fb0540ff192",
+      "original_sha256": "82b707593b5dc71eacebbad1cd1210eeea6568ef561835a301df9cdabdb4629b",
+      "matches_original_source": true,
+      "public_sha256": "82b707593b5dc71eacebbad1cd1210eeea6568ef561835a301df9cdabdb4629b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/check_scalar_weak_flow.py",
+      "recorded_sha256": "52fa309c6c7a322e6a680c7b9a55c057f6b6da90cb9b23984ea29cbaabd17573",
+      "source_index_id": "sha256:9cf4ec9562f36d9f4910bacd8a9006d2972a218af0cb92f46fd47c814e2032d6",
+      "original_sha256": "52fa309c6c7a322e6a680c7b9a55c057f6b6da90cb9b23984ea29cbaabd17573",
+      "matches_original_source": true,
+      "public_sha256": "52fa309c6c7a322e6a680c7b9a55c057f6b6da90cb9b23984ea29cbaabd17573",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/randomized-weak/independent-audit/scalar_weak_flow_checks.json",
+      "recorded_sha256": "3c5c2785e3962c9515328e522d0e68af019189de4df912b45e44aecacaa550f3",
+      "source_index_id": "sha256:9cf4ec9562f36d9f4910bacd8a9006d2972a218af0cb92f46fd47c814e2032d6",
+      "original_sha256": "3c5c2785e3962c9515328e522d0e68af019189de4df912b45e44aecacaa550f3",
+      "matches_original_source": true,
+      "public_sha256": "3c5c2785e3962c9515328e522d0e68af019189de4df912b45e44aecacaa550f3",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/INDEPENDENT-MIDPOINT-PARITY-AND-LAMBDA-AUDIT.md",
+      "recorded_sha256": "1b116ab08f461c8a6151465baf847d79a443cc1ec7680484219daab1ac8f1361",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "1b116ab08f461c8a6151465baf847d79a443cc1ec7680484219daab1ac8f1361",
+      "matches_original_source": true,
+      "public_sha256": "1b116ab08f461c8a6151465baf847d79a443cc1ec7680484219daab1ac8f1361",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/MIDPOINT-CONSTRAINT-AND-RETAINED-PARITY-RETURN.md",
+      "recorded_sha256": "1dd68f435099434a400b45da296f7e40645639cdc9c091859020e514b947f1cd",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "1dd68f435099434a400b45da296f7e40645639cdc9c091859020e514b947f1cd",
+      "matches_original_source": true,
+      "public_sha256": "1dd68f435099434a400b45da296f7e40645639cdc9c091859020e514b947f1cd",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/MIDPOINT-FIXED-KNOWN-READOUT-NO-GO.md",
+      "recorded_sha256": "b1317897f89a16621f00081a74ac4f23cea5f52c723fe74ad2d270e5777ac849",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "b1317897f89a16621f00081a74ac4f23cea5f52c723fe74ad2d270e5777ac849",
+      "matches_original_source": true,
+      "public_sha256": "54c3864e1f04a6dd8392dde675e581d37ab9244133afcb38c31bfc04e0c80521",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/OPPOSITE-BASELINE-FULL-TAPE-AND-LINEAR-RETURN-GATES.md",
+      "recorded_sha256": "c951fe94579fd249ffededb2f0eae67ad3b662f7c159885927673ff597ab5d00",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "c951fe94579fd249ffededb2f0eae67ad3b662f7c159885927673ff597ab5d00",
+      "matches_original_source": true,
+      "public_sha256": "db031c36e475a4509afa2120073fbdf0f3bd24f939a7bfa22eec97ee72d63389",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/cache-partition/WEAK-29-CAPTURED-CALLER-AND-COMPLETE-PRIVATE-CACHE-PARTITION.md",
+      "recorded_sha256": "8ebdc3fc1688787ea11d076c918345cc02188ced46d0c605aa2dd51298b3ac90",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "8ebdc3fc1688787ea11d076c918345cc02188ced46d0c605aa2dd51298b3ac90",
+      "matches_original_source": true,
+      "public_sha256": "b3578b5df2faceba24cf0436664965d1aeb1bfcdf983792863a66748071945c9",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/check_independent_midpoint_audit.py",
+      "recorded_sha256": "89c3771078b4b09d40599c4d16957c2f848508ca69b723afd08d4dce39b9b7dd",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "89c3771078b4b09d40599c4d16957c2f848508ca69b723afd08d4dce39b9b7dd",
+      "matches_original_source": true,
+      "public_sha256": "89c3771078b4b09d40599c4d16957c2f848508ca69b723afd08d4dce39b9b7dd",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/check_midpoint_fixed_frame_obstruction.py",
+      "recorded_sha256": "1ee416e0c57ac906c79cfab90c06764d3141e5f1c947462424085bf4858b5f1d",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "1ee416e0c57ac906c79cfab90c06764d3141e5f1c947462424085bf4858b5f1d",
+      "matches_original_source": true,
+      "public_sha256": "1ee416e0c57ac906c79cfab90c06764d3141e5f1c947462424085bf4858b5f1d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/check_midpoint_retained_parity.py",
+      "recorded_sha256": "cf5b23a55306a9a384e9a67838f5953160a3f3a4ccb94c57847ccd9dc5d93b3b",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "cf5b23a55306a9a384e9a67838f5953160a3f3a4ccb94c57847ccd9dc5d93b3b",
+      "matches_original_source": true,
+      "public_sha256": "cf5b23a55306a9a384e9a67838f5953160a3f3a4ccb94c57847ccd9dc5d93b3b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/check_opposite_baseline_return.py",
+      "recorded_sha256": "b2abe249494e2fbca4655d95333cde9a867fd081b4f080782e2a45f3bf381467",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "b2abe249494e2fbca4655d95333cde9a867fd081b4f080782e2a45f3bf381467",
+      "matches_original_source": true,
+      "public_sha256": "b2abe249494e2fbca4655d95333cde9a867fd081b4f080782e2a45f3bf381467",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/independent_midpoint_audit_checks.json",
+      "recorded_sha256": "82061458e3764fddd4a4321037d5e7b0bf8b9138f2dec3a89cbc797f016c8da2",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "82061458e3764fddd4a4321037d5e7b0bf8b9138f2dec3a89cbc797f016c8da2",
+      "matches_original_source": true,
+      "public_sha256": "82061458e3764fddd4a4321037d5e7b0bf8b9138f2dec3a89cbc797f016c8da2",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/midpoint_fixed_frame_obstruction_checks.json",
+      "recorded_sha256": "ddb39a439469853a6d109f5594a7782a60077f54c9ef2e2b9dabf98509231ffb",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "ddb39a439469853a6d109f5594a7782a60077f54c9ef2e2b9dabf98509231ffb",
+      "matches_original_source": true,
+      "public_sha256": "ddb39a439469853a6d109f5594a7782a60077f54c9ef2e2b9dabf98509231ffb",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/midpoint_retained_parity_checks.json",
+      "recorded_sha256": "c0520f821f0a027a00ca0addab93791ef69e237177c30bb9bdede7ea8961f474",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "c0520f821f0a027a00ca0addab93791ef69e237177c30bb9bdede7ea8961f474",
+      "matches_original_source": true,
+      "public_sha256": "c0520f821f0a027a00ca0addab93791ef69e237177c30bb9bdede7ea8961f474",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/opposite_baseline_return_checks.json",
+      "recorded_sha256": "31055cd4eb2f347d50112a3736a0a5bf2709962c8e7d607367474d69617c5c89",
+      "source_index_id": "sha256:ec7a901264cf4385d9e50ed457e81b3c31b2718ac1807c283376532fc45cf9c2",
+      "original_sha256": "31055cd4eb2f347d50112a3736a0a5bf2709962c8e7d607367474d69617c5c89",
+      "matches_original_source": true,
+      "public_sha256": "31055cd4eb2f347d50112a3736a0a5bf2709962c8e7d607367474d69617c5c89",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/v-column-escape/INDEPENDENT-ACTUAL-MARK-AND-RETAINED-FIELD-AUDIT.md",
+      "recorded_sha256": "e1332d3c434eb51923bf8ff834e1fe4fc986c6be8f4d8772b9fd27576a324455",
+      "source_index_id": "sha256:f7658d08db61048a9f316b8b22764afec733ecf5563567696e078da7b72accbb",
+      "original_sha256": "e1332d3c434eb51923bf8ff834e1fe4fc986c6be8f4d8772b9fd27576a324455",
+      "matches_original_source": true,
+      "public_sha256": "e1332d3c434eb51923bf8ff834e1fe4fc986c6be8f4d8772b9fd27576a324455",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/v-column-escape/PROJECTED-GRADIENT-V-COLUMN-ESCAPE-AND-JOINT-RETENTION.md",
+      "recorded_sha256": "d4d4f019bac2a9fcf477f51d46eb7c5efacb28457c969d13dc37afaba827fd41",
+      "source_index_id": "sha256:f7658d08db61048a9f316b8b22764afec733ecf5563567696e078da7b72accbb",
+      "original_sha256": "d4d4f019bac2a9fcf477f51d46eb7c5efacb28457c969d13dc37afaba827fd41",
+      "matches_original_source": true,
+      "public_sha256": "3b04c8a0403761166aa2c84df657c977b00667825763ec822edbf55494b9ec97",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/v-column-escape/TERMINAL-FLAT-GRADIENT-SPLIT-AND-ACTUAL-MARK.md",
+      "recorded_sha256": "962f034e2bdda5710c64285887b2fb7799b85fd69353df03649641247daf3801",
+      "source_index_id": "sha256:f7658d08db61048a9f316b8b22764afec733ecf5563567696e078da7b72accbb",
+      "original_sha256": "962f034e2bdda5710c64285887b2fb7799b85fd69353df03649641247daf3801",
+      "matches_original_source": true,
+      "public_sha256": "962f034e2bdda5710c64285887b2fb7799b85fd69353df03649641247daf3801",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/v-column-escape/check_projected_gradient_escape.py",
+      "recorded_sha256": "c69b3d3cd78f735432e9b5bbc63d5e9f4b0c1e1942641e3c26a3ada8b69208ee",
+      "source_index_id": "sha256:f7658d08db61048a9f316b8b22764afec733ecf5563567696e078da7b72accbb",
+      "original_sha256": "c69b3d3cd78f735432e9b5bbc63d5e9f4b0c1e1942641e3c26a3ada8b69208ee",
+      "matches_original_source": true,
+      "public_sha256": "c69b3d3cd78f735432e9b5bbc63d5e9f4b0c1e1942641e3c26a3ada8b69208ee",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/endpoint-next/v-column-escape/projected_gradient_escape_checks.json",
+      "recorded_sha256": "747fd92c5e7605f0db4b3187e4feb15f6e1e9329e0d7de998c66b013a9b37d3e",
+      "source_index_id": "sha256:f7658d08db61048a9f316b8b22764afec733ecf5563567696e078da7b72accbb",
+      "original_sha256": "747fd92c5e7605f0db4b3187e4feb15f6e1e9329e0d7de998c66b013a9b37d3e",
+      "matches_original_source": true,
+      "public_sha256": "747fd92c5e7605f0db4b3187e4feb15f6e1e9329e0d7de998c66b013a9b37d3e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/ACTUAL-CW7-WEAK-E-HOST-SEPARATOR-AND-COMPARISON-ORDER.md",
+      "recorded_sha256": "d944429de8eeede42e5a97c3e01e34f52b21f23f8e7ac9eda16dc38e02c451da",
+      "source_index_id": "sha256:b45510ca117b3613bc33727d9e03822a8e22d6f4227380086f9a70a617c7090d",
+      "original_sha256": "d944429de8eeede42e5a97c3e01e34f52b21f23f8e7ac9eda16dc38e02c451da",
+      "matches_original_source": true,
+      "public_sha256": "a194fa3111b797202f1b6a825455ba26df58724eb6cfc041148389220af2c333",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md",
+      "recorded_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+      "source_index_id": "sha256:b45510ca117b3613bc33727d9e03822a8e22d6f4227380086f9a70a617c7090d",
+      "original_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+      "matches_original_source": true,
+      "public_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md",
+      "recorded_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+      "source_index_id": "sha256:b45510ca117b3613bc33727d9e03822a8e22d6f4227380086f9a70a617c7090d",
+      "original_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+      "matches_original_source": true,
+      "public_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/check_host_separator.py",
+      "recorded_sha256": "b839914851c29468b6c740e76c112a0bd531c41692734ccbd9518d19997d607c",
+      "source_index_id": "sha256:b45510ca117b3613bc33727d9e03822a8e22d6f4227380086f9a70a617c7090d",
+      "original_sha256": "b839914851c29468b6c740e76c112a0bd531c41692734ccbd9518d19997d607c",
+      "matches_original_source": true,
+      "public_sha256": "b839914851c29468b6c740e76c112a0bd531c41692734ccbd9518d19997d607c",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/host_separator_checks.json",
+      "recorded_sha256": "636cf00fbc7199782a66d77defa2cb121c1db59fc2b036d82bb0b05a5a3c7a50",
+      "source_index_id": "sha256:b45510ca117b3613bc33727d9e03822a8e22d6f4227380086f9a70a617c7090d",
+      "original_sha256": "636cf00fbc7199782a66d77defa2cb121c1db59fc2b036d82bb0b05a5a3c7a50",
+      "matches_original_source": true,
+      "public_sha256": "636cf00fbc7199782a66d77defa2cb121c1db59fc2b036d82bb0b05a5a3c7a50",
+      "public_copy_is_sanitized": false
     }
   ],
   "stale_binding_count": 1,
@@ -2204,5 +2591,12 @@
     "original_audit_sha256": "ff7414e849925eeea4b204758ab43661052175144ccc68d2eddafc76a41dbecd",
     "verdict": "Scoped PASS for exact posterior invariance, a/(1-a) contraction, legal finite VALUE/HVP DAG and additive query upper certificate; protected/retained-host join remains open.",
     "lower_bound_scope": "Deterministic first-Picard integral at fixed input, including adaptive baseline oracle transcripts only. No exact-flow, randomized, Gaussian-input Lp, or posterior-law lower bound."
+  },
+  "v4_source_scope": {
+    "original_files_checked": 43,
+    "final_scalar_audit_original_sha256": "fc5a1efdef09818394767fb847dc643b4ff8194a507056f00e227ab8845ed5ed",
+    "host_reentry_original_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+    "host_reentry_audit_original_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+    "scope": "Selected CW7 external host uses the sufficient output (captured caller, complete statistic); arbitrary integrated fine-record observers are not an external requirement. Actual within-packet aliases, any baseline reading integrated fine records, and retained-source reconstruction remain separate gates. No generic all-rank compiler or admitted general c_P improvement."
   }
 }

@@ -1,0 +1,86 @@
+{
+  "symmetry_systems": [
+    {
+      "d": 2,
+      "equations": 600,
+      "unknowns": 16,
+      "numerical_nullity": 1,
+      "smallest_nonzero_singular": 4.972850678455547e-06,
+      "null_singular": 1.9869349072819823e-17,
+      "alignment_with_V_scalar": 0.9999999999999999
+    },
+    {
+      "d": 3,
+      "equations": 1800,
+      "unknowns": 36,
+      "numerical_nullity": 1,
+      "smallest_nonzero_singular": 5.011686965008597e-06,
+      "null_singular": 6.591040490040518e-16,
+      "alignment_with_V_scalar": 1.0000000000000002
+    },
+    {
+      "d": 4,
+      "equations": 3600,
+      "unknowns": 64,
+      "numerical_nullity": 1,
+      "smallest_nonzero_singular": 4.4035867636902895e-06,
+      "null_singular": 4.9914088091045575e-17,
+      "alignment_with_V_scalar": 1.0000000000000004
+    }
+  ],
+  "six_distinct_jet_sites": [
+    [
+      1.0,
+      2.0
+    ],
+    [
+      1.6,
+      2.3
+    ],
+    [
+      3.0000000000000004,
+      0.3999999999999999
+    ],
+    [
+      2.9812500000000006,
+      0.3906249999999999
+    ],
+    [
+      0.8934570312500001,
+      2.412353515625
+    ],
+    [
+      1.29345703125,
+      1.6123535156250002
+    ]
+  ],
+  "minimum_jet_separation": 0.02096313728906038,
+  "beta_checks": [
+    {
+      "beta": -1.0,
+      "full_first_lower": 6.400000000000001e-05
+    },
+    {
+      "beta": -0.7,
+      "full_first_lower": 9.142857142857145e-05
+    },
+    {
+      "beta": -0.1,
+      "full_first_lower": 0.00064
+    },
+    {
+      "beta": 0.1,
+      "full_first_lower": 0.00064
+    },
+    {
+      "beta": 0.7,
+      "full_first_lower": 9.142857142857145e-05
+    },
+    {
+      "beta": 1.0,
+      "full_first_lower": 6.400000000000001e-05
+    }
+  ],
+  "beta_zero_N_VV": -0.0004000000000000001,
+  "note": "Diagnostics only. Independent local-jet realizability and all-frame proof are analytic in MIDPOINT-FIXED-KNOWN-READOUT-NO-GO.md."
+}

@@ -1,26 +1,26 @@
 {
-  "verified_utc": "2026-10-04T14:58:21Z",
+  "verified_utc": "2026-10-04T16:12:11Z",
   "curation": "Mathematical publication snapshot; original source files remain unchanged. Edited public copies are identified in INVENTORY.json.",
-  "research_files": 216,
-  "research_bytes": 1305181,
+  "research_files": 259,
+  "research_bytes": 1725004,
   "public_copy_counts": {
-    "unchanged_source_copy": 156,
-    "sanitized_publication_copy": 60
+    "unchanged_source_copy": 191,
+    "sanitized_publication_copy": 68
   },
   "original_version_counts": {
     "historical_bytes_verified": 17,
     "reconstructed_new_version": 29,
-    "new_research_or_diagnostic": 170
+    "new_research_or_diagnostic": 213
   },
   "kinds": {
-    "mathematical_proof_audit_or_certificate": 123,
-    "diagnostic_script": 45,
-    "saved_diagnostic_result": 47,
+    "mathematical_proof_audit_or_certificate": 144,
+    "diagnostic_script": 56,
+    "saved_diagnostic_result": 58,
     "baseline_manuscript": 1
   },
   "diagnostics": {
-    "bundled_scripts": 45,
-    "passed": 45,
+    "bundled_scripts": 56,
+    "passed": 56,
     "failed": 0,
     "not_run": 0,
     "isolation": "Separate disposable research copy per script; final complete bundle also rerun from a separate copy with checksum verification before and after.",
@@ -39,7 +39,7 @@
   "historical_source_index_mismatches": 1,
   "mismatch_resolution": "The earlier mixed-descendant index hash remains marked stale. Final source f805e8d3 and its separate included scoped audit 73fa9893 are explicitly identified.",
   "proof_verification_limit": "Numerical/algebraic diagnostics are not analytic proof verification. General matrix constrained-input and nonlinear endpoint joins remain open.",
-  "snapshot_version": "2026-10-04-public-v3-retained-kernel-same-heat",
+  "snapshot_version": "2026-10-04-public-v4-host-separator-randomized-weak",
   "fixed_seed_audit": {
     "original_sha256": "03ba0c8daee0c774d5495659938cc0c3558be7a06051e856fa41c0b4078f1395",
     "original_checker_passed": 60826,
@@ -69,5 +69,22 @@
     "same_heat_independent_checks_passed": 900,
     "scope": "Retained conditional covariance reserve and scoped exact-flow/finite-DAG query results; no complete generic matrix endpoint, protected-host join, or improved admitted general c_P family.",
     "same_heat_lower_bound_scope": "Deterministic first-Picard integral at fixed input, including adaptive baseline oracle transcripts. No exact-flow, randomized, Gaussian-input Lp, or posterior-law lower bound."
+  },
+  "v4_additions": {
+    "new_payload_files": 43,
+    "new_diagnostics_passed": 11,
+    "new_diagnostic_results_reproduced_byte_for_byte": true,
+    "midpoint_parity_checks": 16832,
+    "independent_midpoint_checks": 8018,
+    "opposite_baseline_checks": 102406,
+    "projected_gradient_v_column_checks": 6139,
+    "host_separator_checks": 95734,
+    "independent_scalar_weak_flow_checks": 757,
+    "independent_all_layer_checks": 82,
+    "paired_scalar_and_matrix_diagnostics": "Both executable fixtures passed; no aggregate assertion count was reported by these scripts.",
+    "reviewed_mathematical_source_copies": 3,
+    "original_final_scalar_audit_sha256": "fc5a1efdef09818394767fb847dc643b4ff8194a507056f00e227ab8845ed5ed",
+    "host_gate": "For the selected CW7 physical law host, captured caller and complete statistic T are a sufficient output boundary. Arbitrary source-fine observers are not an external requirement. Internal packet fine-record ownership and the separate retained-source/graph proof remain required.",
+    "scope": "Fixture-specific positive gradient/V-column construction, source-qualified cache and host composition, scalar terminal weak-law gain, conditional paired currents/reserve tests and paired scalar/matrix diagnostics. No generic all-rank closure or admitted general c_P improvement."
   }
 }

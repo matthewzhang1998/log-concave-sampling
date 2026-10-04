@@ -1,0 +1,87 @@
+{
+  "status": "PASS: finite current identity, fixed-caller feedback, and zero-Gram path fixture",
+  "current_identity": {
+    "direct": -3.132832117781408e-05,
+    "rank_one_feedback": -7.641066010304958e-06,
+    "rank_two": -2.368725516749433e-05,
+    "residual": -1.47925833908491e-17
+  },
+  "fixed_caller_feedback": [
+    {
+      "eta_over_epsilon": 0.1,
+      "mean_defect_over_a_epsilon": 0.08349697916150688
+    },
+    {
+      "eta_over_epsilon": 0.01,
+      "mean_defect_over_a_epsilon": 0.09805798329866236
+    },
+    {
+      "eta_over_epsilon": 0.001,
+      "mean_defect_over_a_epsilon": 0.09980081009025846
+    },
+    {
+      "eta_over_epsilon": 0.0001,
+      "mean_defect_over_a_epsilon": 0.09998001040348754
+    }
+  ],
+  "retained_path_gap": [
+    {
+      "a": 0.1,
+      "base_normal_variance": -2.048259115902739e-17,
+      "clock_transverse_variance": 2.166732448796944e-07,
+      "joint_w2_lower_bound": 0.0004654817342062891,
+      "lower_bound_over_a": 0.0046548173420628905
+    },
+    {
+      "a": 0.03,
+      "base_normal_variance": 5.597713706985011e-17,
+      "clock_transverse_variance": 1.9841865363073036e-08,
+      "joint_w2_lower_bound": 0.0001408611563315914,
+      "lower_bound_over_a": 0.004695371877719714
+    },
+    {
+      "a": 0.01,
+      "base_normal_variance": 9.800282654819765e-18,
+      "clock_transverse_variance": 2.2159468253575246e-09,
+      "joint_w2_lower_bound": 4.707384438685165e-05,
+      "lower_bound_over_a": 0.004707384438685165
+    },
+    {
+      "a": 0.003,
+      "base_normal_variance": -1.0900369280675269e-16,
+      "clock_transverse_variance": 1.9979557904657803e-10,
+      "joint_w2_lower_bound": 1.4134906403884605e-05,
+      "lower_bound_over_a": 0.004711635467961535
+    },
+    {
+      "a": 0.001,
+      "base_normal_variance": -1.2561404855438758e-17,
+      "clock_transverse_variance": 2.2210997981275324e-11,
+      "joint_w2_lower_bound": 4.712854547010264e-06,
+      "lower_bound_over_a": 0.004712854547010264
+    }
+  ],
+  "intermediate_reserve_mean": [
+    {
+      "eta_over_tau": 0.1,
+      "mean_bias_over_a_c_tau": 0.7120782607137535
+    },
+    {
+      "eta_over_tau": 0.03,
+      "mean_bias_over_a_c_tau": 0.7695929753489912
+    },
+    {
+      "eta_over_tau": 0.01,
+      "mean_bias_over_a_c_tau": 0.7881181954930616
+    },
+    {
+      "eta_over_tau": 0.003,
+      "mean_bias_over_a_c_tau": 0.7949099105417777
+    },
+    {
+      "eta_over_tau": 0.001,
+      "mean_bias_over_a_c_tau": 0.796887815720752
+    }
+  ],
+  "scope": "No posterior-law or arbitrary-algorithm lower bound is asserted."
+}
