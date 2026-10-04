@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-04",
+  "decision": "PASS_SOURCE_AND_NATIVE_PROXY_PORTS",
+  "remaining_gate": "FULL_COVARIANCE_GRADE_JOIN_PENDING_INTRINSIC_DIMENSION",
+  "candidate_pin": "c3174b91086a819ba047435cdf6d828468e30f1a4e45b11a139b8133d53d02b1",
+  "diagnostic_assertions": 851,
+  "complete_fixture_crosscheck_assertions": 471,
+  "complete_fixture_count": 9,
+  "files": [
+    {
+      "path": "ORDERED-REFRESH-LITERAL-OUTER-PORTS.md",
+      "bytes": 36660,
+      "sha256": "c3174b91086a819ba047435cdf6d828468e30f1a4e45b11a139b8133d53d02b1"
+    },
+    {
+      "path": "check_ordered_refresh_join.py",
+      "bytes": 6077,
+      "sha256": "481616a7d693e3012563b32fe557f0e864e57754cd3ece4e5c3f256e9b289b89"
+    },
+    {
+      "path": "ordered_refresh_join_checks.json",
+      "bytes": 71869,
+      "sha256": "252a71ec103074083df36e66731959c140b914049913d1ea433e431023cd0070"
+    },
+    {
+      "path": "audit/INDEPENDENT-ORDERED-REFRESH-PORT-AUDIT.md",
+      "bytes": 26465,
+      "sha256": "4be68e17696f1e45547fa10e90f368a1e0b5931449da7255e9ca9ba330b9f607"
+    },
+    {
+      "path": "audit/check_outer_refresh_ports.py",
+      "bytes": 7415,
+      "sha256": "2d70fa3f3d740e072e304aa0689013e5c82c5f38c413ab0caa2d8de1eeeb7bc5"
+    },
+    {
+      "path": "audit/outer_refresh_port_checks.json",
+      "bytes": 144051,
+      "sha256": "9cc74413a72027523e9577d554d2c52594366abe63d8fd6295b62514d053eddd"
+    },
+    {
+      "path": "audit/ambient_cap_gate_diagnostic.json",
+      "bytes": 1654,
+      "sha256": "754e874893ce11a89535f470592ad8d9427dace335d3537856b47f82d3bf1c64"
+    }
+  ],
+  "limitations": [
+    "Source-relative to pinned complete CW7, causal-history, caller/domain and genuine-reference/finite-restoration ports.",
+    "All original query and first-action costs are counted; no dimension-free arithmetic bound.",
+    "Gradient-child order enlargement does not pay fixed marked-parent cap sqrt(ambient dimension).",
+    "No new outer sampler rate or unchanged exact32 total complexity is asserted."
+  ]
+}

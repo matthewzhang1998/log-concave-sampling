@@ -1,5 +1,5 @@
 {
-  "snapshot_utc": "2026-10-04T18:08:44.977301Z",
+  "snapshot_utc": "2026-10-04T19:02:23.380370Z",
   "policy": "Historical audits apply only to the cited original source bytes and stated mathematical scope. Public copies may contain clearly labeled nonmathematical sanitization; their distinct hashes are mapped here and in INVENTORY.json. Sanitization does not constitute a fresh mathematical audit.",
   "bindings": [
     {
@@ -3304,6 +3304,276 @@
       "matches_original_source": true,
       "public_sha256": "b274048f721beef4426d9a0ba7eec15dc19c2c9e435456733ae58b57ded61b6c",
       "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/COMPLETE-LINEAR-OUTER-MILESTONE.md",
+      "recorded_sha256": "1e82db3eb8eb60d81b14b874683f1cf432b358a0368148e014498d7de77df7e9",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "1e82db3eb8eb60d81b14b874683f1cf432b358a0368148e014498d7de77df7e9",
+      "matches_original_source": true,
+      "public_sha256": "a5d594ef91d834e8a292e74e2298a8c8148b939881d3a8e2e836c29a41cbfd99",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/direct-mean/ANY-ORDER-DIRECT-MEAN-OUTER.md",
+      "recorded_sha256": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
+      "matches_original_source": true,
+      "public_sha256": "cd8efe1d6fcfab6f1af3a80671a1f69dbbefaa38f9f2c4cb8f715cf44c9ded06",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/direct-mean/ELEMENTARY-SEED-AND-COMPLETE-SOURCE.md",
+      "recorded_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
+      "matches_original_source": true,
+      "public_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/direct-mean/check_direct_mean_outer.py",
+      "recorded_sha256": "f0d2a6ae71e315eb22391af5178a670e3bcb3d757b78557586a090c9b903f9a0",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "f0d2a6ae71e315eb22391af5178a670e3bcb3d757b78557586a090c9b903f9a0",
+      "matches_original_source": true,
+      "public_sha256": "f0d2a6ae71e315eb22391af5178a670e3bcb3d757b78557586a090c9b903f9a0",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/direct-mean/direct_mean_checks.json",
+      "recorded_sha256": "f555d19f18275b6f82b7cabde2b70f21962151994a40d4522bc541580bfbdab2",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "f555d19f18275b6f82b7cabde2b70f21962151994a40d4522bc541580bfbdab2",
+      "matches_original_source": true,
+      "public_sha256": "f555d19f18275b6f82b7cabde2b70f21962151994a40d4522bc541580bfbdab2",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/direct-mean/independent-audit/INDEPENDENT-DIRECT-MEAN-OUTER-AUDIT.md",
+      "recorded_sha256": "1696d5059b9ca4afdf31f4b07aee2fd1a8105605ccc118c328e6c0265215baf6",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "1696d5059b9ca4afdf31f4b07aee2fd1a8105605ccc118c328e6c0265215baf6",
+      "matches_original_source": true,
+      "public_sha256": "316fdf3172dcb603838d0846132e085cea41496c2e73f0445351edd4c7da974c",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/direct-mean/independent-audit/MANIFEST.json",
+      "recorded_sha256": "0eb3e3564c7190f94ae8aebab368344488ca91a0447df96c7eb3edda550e0f92",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "0eb3e3564c7190f94ae8aebab368344488ca91a0447df96c7eb3edda550e0f92",
+      "matches_original_source": true,
+      "public_sha256": "cb0f420522ec6e20ca15223eb9c3820f3ea9e4fa01b74c4b4fb48d6cbee6ca81",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/direct-mean/independent-audit/check_direct_mean_outer.py",
+      "recorded_sha256": "aa237f7e242fcffd1d2185cb902c396a6cabb650252494fb6a1e5c8f67e596ef",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "aa237f7e242fcffd1d2185cb902c396a6cabb650252494fb6a1e5c8f67e596ef",
+      "matches_original_source": true,
+      "public_sha256": "d1e49d70b601cb89288f274c1491d276ac65767b94571e2a30cd0610dbce8237",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/direct-mean/independent-audit/direct_mean_outer_checks.json",
+      "recorded_sha256": "af8b1fa8a42c6ad6f7e7c3670d2b7984e79395264fe5a89c1439dbbff8e405db",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "af8b1fa8a42c6ad6f7e7c3670d2b7984e79395264fe5a89c1439dbbff8e405db",
+      "matches_original_source": true,
+      "public_sha256": "af8b1fa8a42c6ad6f7e7c3670d2b7984e79395264fe5a89c1439dbbff8e405db",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/LITERAL-OUTER-INTEGRATION-CLOSURE.md",
+      "recorded_sha256": "ddd99efedbed9072c9c986fc12de91072b0ddcad6d1beeed81ed556602767e6c",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "ddd99efedbed9072c9c986fc12de91072b0ddcad6d1beeed81ed556602767e6c",
+      "matches_original_source": true,
+      "public_sha256": "ddd99efedbed9072c9c986fc12de91072b0ddcad6d1beeed81ed556602767e6c",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/MANIFEST_SOURCE_PROXY.json",
+      "recorded_sha256": "763a2e33e69f75bb5e1f12c82d2bb0585b369780f3ccde88176fe42d7e94edaa",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "763a2e33e69f75bb5e1f12c82d2bb0585b369780f3ccde88176fe42d7e94edaa",
+      "matches_original_source": true,
+      "public_sha256": "43d383435d10865dde1fdf1eba77af3ea3dd53a3a26c31124df64d7332ec0fc5",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/ORDERED-REFRESH-LITERAL-OUTER-PORTS.md",
+      "recorded_sha256": "c3174b91086a819ba047435cdf6d828468e30f1a4e45b11a139b8133d53d02b1",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "c3174b91086a819ba047435cdf6d828468e30f1a4e45b11a139b8133d53d02b1",
+      "matches_original_source": true,
+      "public_sha256": "c3174b91086a819ba047435cdf6d828468e30f1a4e45b11a139b8133d53d02b1",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/INDEPENDENT-ORDERED-REFRESH-PORT-AUDIT.md",
+      "recorded_sha256": "4be68e17696f1e45547fa10e90f368a1e0b5931449da7255e9ca9ba330b9f607",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "4be68e17696f1e45547fa10e90f368a1e0b5931449da7255e9ca9ba330b9f607",
+      "matches_original_source": true,
+      "public_sha256": "b3f6f16eabe87be375c194d62bf235f60785f48d94501ea9019706867252e518",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/ambient_cap_gate_diagnostic.json",
+      "recorded_sha256": "754e874893ce11a89535f470592ad8d9427dace335d3537856b47f82d3bf1c64",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "754e874893ce11a89535f470592ad8d9427dace335d3537856b47f82d3bf1c64",
+      "matches_original_source": true,
+      "public_sha256": "754e874893ce11a89535f470592ad8d9427dace335d3537856b47f82d3bf1c64",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/check_outer_refresh_ports.py",
+      "recorded_sha256": "2d70fa3f3d740e072e304aa0689013e5c82c5f38c413ab0caa2d8de1eeeb7bc5",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "2d70fa3f3d740e072e304aa0689013e5c82c5f38c413ab0caa2d8de1eeeb7bc5",
+      "matches_original_source": true,
+      "public_sha256": "2d70fa3f3d740e072e304aa0689013e5c82c5f38c413ab0caa2d8de1eeeb7bc5",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/outer_refresh_port_checks.json",
+      "recorded_sha256": "9cc74413a72027523e9577d554d2c52594366abe63d8fd6295b62514d053eddd",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "9cc74413a72027523e9577d554d2c52594366abe63d8fd6295b62514d053eddd",
+      "matches_original_source": true,
+      "public_sha256": "9cc74413a72027523e9577d554d2c52594366abe63d8fd6295b62514d053eddd",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/check_literal_outer_ledger.py",
+      "recorded_sha256": "428108271ca4eb6b986f4c01e9327cd9338f4b430422d71876af36c048636b23",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "428108271ca4eb6b986f4c01e9327cd9338f4b430422d71876af36c048636b23",
+      "matches_original_source": true,
+      "public_sha256": "428108271ca4eb6b986f4c01e9327cd9338f4b430422d71876af36c048636b23",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/check_ordered_refresh_join.py",
+      "recorded_sha256": "481616a7d693e3012563b32fe557f0e864e57754cd3ece4e5c3f256e9b289b89",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "481616a7d693e3012563b32fe557f0e864e57754cd3ece4e5c3f256e9b289b89",
+      "matches_original_source": true,
+      "public_sha256": "481616a7d693e3012563b32fe557f0e864e57754cd3ece4e5c3f256e9b289b89",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/INTRINSIC-MARKED-CAP.md",
+      "recorded_sha256": "b5d4d170c8734a70c3021d41ef678735058144db9fab22d1df40e1df1714c2b9",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "b5d4d170c8734a70c3021d41ef678735058144db9fab22d1df40e1df1714c2b9",
+      "matches_original_source": true,
+      "public_sha256": "d063bb296576d8ebf82eb599963bf040fffd7cc79d00a0cf7645e58b77cd31e6",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/check_intrinsic_cap.py",
+      "recorded_sha256": "336fa00357dedf67f3664438531e6084e426e340b5d8b315cdda054443e3b1a6",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "336fa00357dedf67f3664438531e6084e426e340b5d8b315cdda054443e3b1a6",
+      "matches_original_source": true,
+      "public_sha256": "b6ea2a4ebd7a95aef69484273c3d235de8463208273f1d188c9178f8ecdc142f",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/diagnostics.json",
+      "recorded_sha256": "653fbc0ff7e662f7092f59a8aaa0a4632d8fb06939e87a29f13fa98c1135bbd9",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "653fbc0ff7e662f7092f59a8aaa0a4632d8fb06939e87a29f13fa98c1135bbd9",
+      "matches_original_source": true,
+      "public_sha256": "6dc3fc0d053583c849b8a3fd4143dec6bb0cc01a5416bbc7145ad1b6c248085b",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/independent-audit/INDEPENDENT-INTRINSIC-CAP-AUDIT.md",
+      "recorded_sha256": "01e78896e98bcf0fe2643530c551d0706af1a3bbc37c66a614c3a6aa1f1a04ea",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "01e78896e98bcf0fe2643530c551d0706af1a3bbc37c66a614c3a6aa1f1a04ea",
+      "matches_original_source": true,
+      "public_sha256": "01e78896e98bcf0fe2643530c551d0706af1a3bbc37c66a614c3a6aa1f1a04ea",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/independent-audit/check_intrinsic_projection_audit.py",
+      "recorded_sha256": "1da918c1eb83ae71e82997770164de335a9b6bf3a031f62a859fc9b4f82b19d5",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "1da918c1eb83ae71e82997770164de335a9b6bf3a031f62a859fc9b4f82b19d5",
+      "matches_original_source": true,
+      "public_sha256": "eddb2739b1cbddbfef2407072d00a518ad965d0cadd67577bad51755555eab0a",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/independent-audit/intrinsic_projection_audit_checks.json",
+      "recorded_sha256": "7f7a895b12d6c505d803bdd5c78231c569e0a588096b244196733a6db08b49b3",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "7f7a895b12d6c505d803bdd5c78231c569e0a588096b244196733a6db08b49b3",
+      "matches_original_source": true,
+      "public_sha256": "101b80a9eee83d05abfcf53200a99fd4cb0acbabeaa9f045135c515c4e8273f5",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/literal_outer_ledger_checks.json",
+      "recorded_sha256": "1b60aa700285166924c43546536cd9c61517ec61515aeb9f525dead039263799",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "1b60aa700285166924c43546536cd9c61517ec61515aeb9f525dead039263799",
+      "matches_original_source": true,
+      "public_sha256": "1b60aa700285166924c43546536cd9c61517ec61515aeb9f525dead039263799",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/ordered_refresh_join_checks.json",
+      "recorded_sha256": "252a71ec103074083df36e66731959c140b914049913d1ea433e431023cd0070",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "252a71ec103074083df36e66731959c140b914049913d1ea433e431023cd0070",
+      "matches_original_source": true,
+      "public_sha256": "252a71ec103074083df36e66731959c140b914049913d1ea433e431023cd0070",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/MANIFEST.json",
+      "recorded_sha256": "01c189ebcd917298614dcca7a16566c26826892d4eddfaa39c7f12d5027fa33f",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "01c189ebcd917298614dcca7a16566c26826892d4eddfaa39c7f12d5027fa33f",
+      "matches_original_source": true,
+      "public_sha256": "01c189ebcd917298614dcca7a16566c26826892d4eddfaa39c7f12d5027fa33f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/independent-audit/MANIFEST.json",
+      "recorded_sha256": "90b4a72890aa9d1f32f02e47985460d33a8ff8fd611bca03d1998d66c03d7f14",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "90b4a72890aa9d1f32f02e47985460d33a8ff8fd611bca03d1998d66c03d7f14",
+      "matches_original_source": true,
+      "public_sha256": "d3dd145701b6584d6d7679a9f2ddacfe93a2ba0d8d80b477fdbf5931ab996151",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/growing-order-outer-20261004/MANIFEST-DIRECT-MILESTONE.json",
+      "recorded_sha256": "6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "source_index_id": "sha256:6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "original_sha256": "6c338009f43a8f26efdc1bbfe5daeaaf08ef0f3eec7425fc10a2a3d90bcadb27",
+      "matches_original_source": true,
+      "public_sha256": "c59d32b498f7bbeaa6e30e5fb95ec2f160787e344de209264e8bf32e19d7b14c",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/MANIFEST.json",
+      "recorded_sha256": "dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "source_index_id": "sha256:dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "original_sha256": "dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "matches_original_source": true,
+      "public_sha256": "dc103188a808f96074e68f0218e49d3794747b397c068950d3ab277c4bb692db",
+      "public_copy_is_sanitized": false
     }
   ],
   "stale_binding_count": 1,
@@ -3349,5 +3619,18 @@
     "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
     "scope": "Read-set and cost clarification only. New proximal-chain application has external hidden depth zero; selected fixed kinetic consumer has seven external levels with its fixed inner libraries already charged. The same growing-order outer reference requires J>=ceil(R-1). Optional depth-adapter cost algebra is conditional, not a new hidden-family admission."
   },
-  "snapshot_version": "2026-10-04-public-v6-relative-same-heat-hidden-linear"
+  "snapshot_version": "2026-10-04-public-v7-complete-fixed-and-direct-outer",
+  "v7_admission": {
+    "direct_main_original_sha256": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
+    "elementary_source_original_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
+    "direct_audit_original_sha256": "1696d5059b9ca4afdf31f4b07aee2fd1a8105605ccc118c328e6c0265215baf6",
+    "fixed_integration_original_sha256": "ddd99efedbed9072c9c986fc12de91072b0ddcad6d1beeed81ed556602767e6c",
+    "scope": "Every fixed odd P>=3 direct-mean outer baseline with phase A-exponent P-1 and total kappa H^-(2P-1), plus separate fixed source-relative covariance/pure-fourth integration. Numerical-query model and supplied initialization retained; no efficiency improvement.",
+    "excluded_branches": [
+      "parameter",
+      "grammar",
+      "shifted off-grid"
+    ],
+    "historical_status_qualification": "Earlier open intrinsic-cap and elementary verification statements are resolved by the separately pinned final audits. Remaining arbitrary-order covariance-route obligations do not apply to the completed distinct direct-mean route."
+  }
 }

@@ -1,0 +1,275 @@
+{
+  "status": "PASS",
+  "checks": 1481,
+  "cases": 36,
+  "max_equality_residual": 3.8193299862165935e-10,
+  "min_reverse_transpose_leak": 0.09702852536154956,
+  "min_individual_self_target_change": 8.450709304632929e-05,
+  "source_pins": {
+    "exact-slack/exact32-proof-v2.tex": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff"
+  },
+  "external_source_pins_not_reverified": {
+    "LOW30": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "LOW31": "3de62d349338304cce43af4e49c8862e8c260b1f5816234d63d6abfbc1d004ba"
+  },
+  "candidate_sha256": "d063bb296576d8ebf82eb599963bf040fffd7cc79d00a0cf7645e58b77cd31e6",
+  "limitations": [
+    "No full 10849-level family is simulated.",
+    "The complete local-type ledger and proper-cut contracts are proof inputs; these tests do not establish them.",
+    "The Exact32 three minima are arithmetic checks of the stated numbers, not a fresh 269-row census."
+  ],
+  "case_details": [
+    {
+      "n": 5,
+      "d": 1,
+      "trial": 0,
+      "reverse_leak": 0.09702852536154956,
+      "individual_self_change": 0.011207837428266199
+    },
+    {
+      "n": 5,
+      "d": 1,
+      "trial": 1,
+      "reverse_leak": 0.18999895880644213,
+      "individual_self_change": 8.450709304632929e-05
+    },
+    {
+      "n": 5,
+      "d": 1,
+      "trial": 2,
+      "reverse_leak": 0.17263023701960203,
+      "individual_self_change": 0.009687926205517538
+    },
+    {
+      "n": 5,
+      "d": 1,
+      "trial": 3,
+      "reverse_leak": 0.17863162220007953,
+      "individual_self_change": 0.00817690377397798
+    },
+    {
+      "n": 5,
+      "d": 1,
+      "trial": 4,
+      "reverse_leak": 0.1895586309495531,
+      "individual_self_change": 0.0017348779991441367
+    },
+    {
+      "n": 5,
+      "d": 1,
+      "trial": 5,
+      "reverse_leak": 0.12243534395519823,
+      "individual_self_change": 0.012578581600076301
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "trial": 0,
+      "reverse_leak": 0.17482756852412437,
+      "individual_self_change": 0.012940714880810653
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "trial": 1,
+      "reverse_leak": 0.1369640560434802,
+      "individual_self_change": 0.011190497815690733
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "trial": 2,
+      "reverse_leak": 0.20741214835595562,
+      "individual_self_change": 0.008760174233657533
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "trial": 3,
+      "reverse_leak": 0.12442828181690072,
+      "individual_self_change": 0.011281399505294115
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "trial": 4,
+      "reverse_leak": 0.15605955919408757,
+      "individual_self_change": 0.01179810448923373
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "trial": 5,
+      "reverse_leak": 0.1682762017278636,
+      "individual_self_change": 0.014270636695929489
+    },
+    {
+      "n": 9,
+      "d": 1,
+      "trial": 0,
+      "reverse_leak": 0.18610601717329806,
+      "individual_self_change": 0.005036137440216195
+    },
+    {
+      "n": 9,
+      "d": 1,
+      "trial": 1,
+      "reverse_leak": 0.16858028983374673,
+      "individual_self_change": 0.010447004945721271
+    },
+    {
+      "n": 9,
+      "d": 1,
+      "trial": 2,
+      "reverse_leak": 0.166507234391272,
+      "individual_self_change": 0.010775051536053081
+    },
+    {
+      "n": 9,
+      "d": 1,
+      "trial": 3,
+      "reverse_leak": 0.1821799352543549,
+      "individual_self_change": 0.006949718247272765
+    },
+    {
+      "n": 9,
+      "d": 1,
+      "trial": 4,
+      "reverse_leak": 0.1893946127883796,
+      "individual_self_change": 0.002029620426067165
+    },
+    {
+      "n": 9,
+      "d": 1,
+      "trial": 5,
+      "reverse_leak": 0.1150791601176146,
+      "individual_self_change": 0.01230238390789167
+    },
+    {
+      "n": 9,
+      "d": 3,
+      "trial": 0,
+      "reverse_leak": 0.18356775769327918,
+      "individual_self_change": 0.011094524686989795
+    },
+    {
+      "n": 9,
+      "d": 3,
+      "trial": 1,
+      "reverse_leak": 0.1911377198812495,
+      "individual_self_change": 0.008544136905279174
+    },
+    {
+      "n": 9,
+      "d": 3,
+      "trial": 2,
+      "reverse_leak": 0.22210625685268712,
+      "individual_self_change": 0.014863510866811317
+    },
+    {
+      "n": 9,
+      "d": 3,
+      "trial": 3,
+      "reverse_leak": 0.25122635524626796,
+      "individual_self_change": 0.013370978801821828
+    },
+    {
+      "n": 9,
+      "d": 3,
+      "trial": 4,
+      "reverse_leak": 0.2023939239371822,
+      "individual_self_change": 0.009624261732460965
+    },
+    {
+      "n": 9,
+      "d": 3,
+      "trial": 5,
+      "reverse_leak": 0.236361515166354,
+      "individual_self_change": 0.014460290943631408
+    },
+    {
+      "n": 17,
+      "d": 2,
+      "trial": 0,
+      "reverse_leak": 0.2077331662893125,
+      "individual_self_change": 0.0068079476173896055
+    },
+    {
+      "n": 17,
+      "d": 2,
+      "trial": 1,
+      "reverse_leak": 0.2090209788721023,
+      "individual_self_change": 0.0067212852840206104
+    },
+    {
+      "n": 17,
+      "d": 2,
+      "trial": 2,
+      "reverse_leak": 0.23292445561745043,
+      "individual_self_change": 0.011678024007556156
+    },
+    {
+      "n": 17,
+      "d": 2,
+      "trial": 3,
+      "reverse_leak": 0.2078789123537971,
+      "individual_self_change": 0.011862113120751399
+    },
+    {
+      "n": 17,
+      "d": 2,
+      "trial": 4,
+      "reverse_leak": 0.24277189441622943,
+      "individual_self_change": 0.010313159195487824
+    },
+    {
+      "n": 17,
+      "d": 2,
+      "trial": 5,
+      "reverse_leak": 0.21272399509767637,
+      "individual_self_change": 0.00693650314047065
+    },
+    {
+      "n": 23,
+      "d": 4,
+      "trial": 0,
+      "reverse_leak": 0.26906825749747004,
+      "individual_self_change": 0.014666915489068033
+    },
+    {
+      "n": 23,
+      "d": 4,
+      "trial": 1,
+      "reverse_leak": 0.26902627080372066,
+      "individual_self_change": 0.012898258788487224
+    },
+    {
+      "n": 23,
+      "d": 4,
+      "trial": 2,
+      "reverse_leak": 0.2982779048987861,
+      "individual_self_change": 0.011346356366983478
+    },
+    {
+      "n": 23,
+      "d": 4,
+      "trial": 3,
+      "reverse_leak": 0.26437943367163336,
+      "individual_self_change": 0.013062421609364218
+    },
+    {
+      "n": 23,
+      "d": 4,
+      "trial": 4,
+      "reverse_leak": 0.28263282644634236,
+      "individual_self_change": 0.011986250682317054
+    },
+    {
+      "n": 23,
+      "d": 4,
+      "trial": 5,
+      "reverse_leak": 0.28643930658692435,
+      "individual_self_change": 0.013785103610401911
+    }
+  ]
+}

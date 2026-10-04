@@ -73,6 +73,10 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--report', type=Path, help='Optional detailed JSON report output path.')
     args = parser.parse_args()
+    if args.report:
+        report = args.report.resolve()
+        if report == ROOT or ROOT in report.parents:
+            parser.error('--report must resolve outside the immutable archive directory')
     scripts = sorted(RESEARCH.rglob('check_*.py'))
     before = {str(p.relative_to(ROOT)): digest(p) for p in RESEARCH.rglob('*') if p.is_file()}
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
@@ -83,12 +87,12 @@ def main():
     summary = {
         'run_utc': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
         'python': sys.version.split()[0],
-        'packages': {name: importlib.metadata.version(name) for name in ('numpy', 'scipy', 'mpmath')},
+        'packages': {name: importlib.metadata.version(name) for name in ('numpy', 'scipy', 'mpmath', 'sympy')},
         'script_count': len(scripts), 'passed_count': sum(r['passed'] for r in results),
         'failed_count': sum(not r['passed'] for r in results), 'not_run_count': len(scripts)-len(results),
         'all_pass': bool(scripts) and all(r['passed'] for r in results),
         'archived_research_bytes_unchanged': before == after,
-        'scope': 'Diagnostic checks only. Every script ran from its own disposable copy of the complete research payload. Saved results and source bytes were not overwritten. No general matrix endpoint, all-order complexity theorem, or production sampler is verified by these checks.',
+        'scope': 'Diagnostic checks only. Every script ran from its own disposable copy of the complete research payload. Saved results and source bytes were not overwritten. Finite algebra and numerical fixtures do not replace analytic proofs of source or outer theorems, execute the full nonlinear sampler, or establish an efficiency improvement.',
         'results': results}
     if args.report:
         args.report.parent.mkdir(parents=True, exist_ok=True)

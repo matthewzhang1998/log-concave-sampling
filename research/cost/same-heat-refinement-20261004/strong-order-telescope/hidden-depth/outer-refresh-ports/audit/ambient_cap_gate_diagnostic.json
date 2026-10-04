@@ -1,0 +1,54 @@
+{
+  "status": "CAPPED_MARKED_JOIN_PENDING_INTRINSIC_DIMENSION",
+  "note": "These are conservative theorem-as-stated exponents, not empirical errors or a counterexample to a possible intrinsic-dimension refinement.",
+  "cases": [
+    {
+      "c": 0,
+      "marked_cap_canonical_exponent": "39/5",
+      "marked_cap_interior_grade": "83/5",
+      "meets_interior_16": true,
+      "pure_cutoff_with_one_power_slack": 270,
+      "pure_boundary_exponent": "10"
+    },
+    {
+      "c": 2,
+      "marked_cap_canonical_exponent": "34/5",
+      "marked_cap_interior_grade": "73/5",
+      "meets_interior_16": false,
+      "pure_cutoff_with_one_power_slack": 300,
+      "pure_boundary_exponent": "10"
+    },
+    {
+      "c": 10,
+      "marked_cap_canonical_exponent": "14/5",
+      "marked_cap_interior_grade": "33/5",
+      "meets_interior_16": false,
+      "pure_cutoff_with_one_power_slack": 420,
+      "pure_boundary_exponent": "10"
+    },
+    {
+      "c": 12,
+      "marked_cap_canonical_exponent": "9/5",
+      "marked_cap_interior_grade": "23/5",
+      "meets_interior_16": false,
+      "pure_cutoff_with_one_power_slack": 450,
+      "pure_boundary_exponent": "10"
+    },
+    {
+      "c": 24,
+      "marked_cap_canonical_exponent": "-21/5",
+      "marked_cap_interior_grade": "-37/5",
+      "meets_interior_16": false,
+      "pure_cutoff_with_one_power_slack": 630,
+      "pure_boundary_exponent": "10"
+    },
+    {
+      "c": 100,
+      "marked_cap_canonical_exponent": "-211/5",
+      "marked_cap_interior_grade": "-417/5",
+      "meets_interior_16": false,
+      "pure_cutoff_with_one_power_slack": 1770,
+      "pure_boundary_exponent": "10"
+    }
+  ]
+}

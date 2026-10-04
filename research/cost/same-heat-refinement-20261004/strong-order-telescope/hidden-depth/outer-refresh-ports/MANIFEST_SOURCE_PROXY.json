@@ -1,0 +1,46 @@
+{
+  "created_utc": "2026-10-04T18:26:53.756502+00:00",
+  "status": "PASS_SOURCE_AND_NATIVE_PROXY_PORTS",
+  "pending_gate": "FULL_COVARIANCE_GRADE_JOIN_PENDING_INTRINSIC_DIMENSION",
+  "checks": {
+    "complete_source_and_exponent": 471,
+    "independent_graph": 851
+  },
+  "files": [
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/STRONG-ALLOCATION-HIDDEN-DEPTH-CONTINUATION.md",
+      "sha256": "83267ae699003d637610f796150ec6d9a526551e8ff0e0bd026f92816e977d33",
+      "bytes": 25667
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/ORDERED-REFRESH-LITERAL-OUTER-PORTS.md",
+      "sha256": "c3174b91086a819ba047435cdf6d828468e30f1a4e45b11a139b8133d53d02b1",
+      "bytes": 36660
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/check_ordered_refresh_join.py",
+      "sha256": "481616a7d693e3012563b32fe557f0e864e57754cd3ece4e5c3f256e9b289b89",
+      "bytes": 6077
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/ordered_refresh_join_checks.json",
+      "sha256": "252a71ec103074083df36e66731959c140b914049913d1ea433e431023cd0070",
+      "bytes": 71869
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/INDEPENDENT-ORDERED-REFRESH-PORT-AUDIT.md",
+      "sha256": "4be68e17696f1e45547fa10e90f368a1e0b5931449da7255e9ca9ba330b9f607",
+      "bytes": 26465
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/MANIFEST.json",
+      "sha256": "01c189ebcd917298614dcca7a16566c26826892d4eddfaa39c7f12d5027fa33f",
+      "bytes": 2009
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/ambient_cap_gate_diagnostic.json",
+      "sha256": "754e874893ce11a89535f470592ad8d9427dace335d3537856b47f82d3bf1c64",
+      "bytes": 1654
+    }
+  ]
+}

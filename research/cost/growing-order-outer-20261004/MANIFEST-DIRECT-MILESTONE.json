@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-04",
+  "status": "ADMITTED: independent PASS for direct mean outer and elementary source",
+  "scope": "P=2j-1 fixed j>=2; per-phase A exponent P-1; total H exponent2P-1; poor globalrate, no efficiency improvement claimed",
+  "files": {
+    "COMPLETE-LINEAR-OUTER-MILESTONE.md": {
+      "sha256": "1e82db3eb8eb60d81b14b874683f1cf432b358a0368148e014498d7de77df7e9",
+      "bytes": 5991
+    },
+    "direct-mean/ANY-ORDER-DIRECT-MEAN-OUTER.md": {
+      "sha256": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
+      "bytes": 20704
+    },
+    "direct-mean/ELEMENTARY-SEED-AND-COMPLETE-SOURCE.md": {
+      "sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
+      "bytes": 14545
+    },
+    "direct-mean/check_direct_mean_outer.py": {
+      "sha256": "f0d2a6ae71e315eb22391af5178a670e3bcb3d757b78557586a090c9b903f9a0",
+      "bytes": 5621
+    },
+    "direct-mean/direct_mean_checks.json": {
+      "sha256": "f555d19f18275b6f82b7cabde2b70f21962151994a40d4522bc541580bfbdab2",
+      "bytes": 482858
+    },
+    "direct-mean/independent-audit/INDEPENDENT-DIRECT-MEAN-OUTER-AUDIT.md": {
+      "sha256": "1696d5059b9ca4afdf31f4b07aee2fd1a8105605ccc118c328e6c0265215baf6",
+      "bytes": 17236
+    },
+    "direct-mean/independent-audit/MANIFEST.json": {
+      "sha256": "0eb3e3564c7190f94ae8aebab368344488ca91a0447df96c7eb3edda550e0f92",
+      "bytes": 1257
+    },
+    "direct-mean/independent-audit/check_direct_mean_outer.py": {
+      "sha256": "aa237f7e242fcffd1d2185cb902c396a6cabb650252494fb6a1e5c8f67e596ef",
+      "bytes": 4330
+    },
+    "direct-mean/independent-audit/direct_mean_outer_checks.json": {
+      "sha256": "af8b1fa8a42c6ad6f7e7c3670d2b7984e79395264fe5a89c1439dbbff8e405db",
+      "bytes": 10963
+    }
+  },
+  "separate_auxiliary_status": "Parameter, grammar, and off-grid branches are excluded from this publication selection and are not assumptions of the admitted direct theorem."
+}

@@ -1,0 +1,6683 @@
+{
+  "summary": {
+    "status": "PASS",
+    "checks": 851,
+    "projection_cases": 33,
+    "principal_cases": 33,
+    "max_projection_ratio": 0.12976079686827596,
+    "max_principal_ratio": 0.5136988452959788
+  },
+  "projection": [
+    {
+      "a": 0.05,
+      "mark": "12/5",
+      "ratio": 0.10908806258613793,
+      "beta": 0.1806947610215148,
+      "nominal_beta": 0.24708857724180291
+    },
+    {
+      "a": 0.05,
+      "mark": "27/10",
+      "ratio": 0.11865697240915385,
+      "beta": 0.09972832985681954,
+      "nominal_beta": 0.12282280261157906
+    },
+    {
+      "a": 0.05,
+      "mark": "14/5",
+      "ratio": 0.11969972202152482,
+      "beta": 0.07873970819561422,
+      "nominal_beta": 0.09102821015130401
+    },
+    {
+      "a": 0.05,
+      "mark": "29/10",
+      "ratio": 0.11970805267933554,
+      "beta": 0.061072216937560195,
+      "nominal_beta": 0.06746414238367816
+    },
+    {
+      "a": 0.05,
+      "mark": "3",
+      "ratio": 0.11949820160659864,
+      "beta": 0.04673022082713569,
+      "nominal_beta": 0.05
+    },
+    {
+      "a": 0.05,
+      "mark": "31/10",
+      "ratio": 0.1181839115868111,
+      "beta": 0.0354034133934033,
+      "nominal_beta": 0.03705672245534738
+    },
+    {
+      "a": 0.05,
+      "mark": "16/5",
+      "ratio": 0.1160522952644683,
+      "beta": 0.026634499538835545,
+      "nominal_beta": 0.02746401358265295
+    },
+    {
+      "a": 0.05,
+      "mark": "33/10",
+      "ratio": 0.11090682201606457,
+      "beta": 0.019940392589962868,
+      "nominal_beta": 0.02035452657684522
+    },
+    {
+      "a": 0.05,
+      "mark": "17/5",
+      "ratio": 0.10299134823563622,
+      "beta": 0.014879311816406822,
+      "nominal_beta": 0.015085440841362914
+    },
+    {
+      "a": 0.05,
+      "mark": "7/2",
+      "ratio": 0.0866973176194559,
+      "beta": 0.011077923096985446,
+      "nominal_beta": 0.01118033988749895
+    },
+    {
+      "a": 0.05,
+      "mark": "71/20",
+      "ratio": 0.0282378406372202,
+      "beta": 0.009553127923342718,
+      "nominal_beta": 0.00962506135764175
+    },
+    {
+      "a": 0.02,
+      "mark": "12/5",
+      "ratio": 0.11482965306031087,
+      "beta": 0.12535558474874262,
+      "nominal_beta": 0.16111921279303262
+    },
+    {
+      "a": 0.02,
+      "mark": "27/10",
+      "ratio": 0.12976079686827596,
+      "beta": 0.05531889873591956,
+      "nominal_beta": 0.06467270065773575
+    },
+    {
+      "a": 0.02,
+      "mark": "14/5",
+      "ratio": 0.12954529055895878,
+      "beta": 0.0396682240803901,
+      "nominal_beta": 0.043734482957731115
+    },
+    {
+      "a": 0.02,
+      "mark": "29/10",
+      "ratio": 0.12908788824661216,
+      "beta": 0.027859732640682075,
+      "nominal_beta": 0.029575152732566275
+    },
+    {
+      "a": 0.02,
+      "mark": "3",
+      "ratio": 0.12806892977921444,
+      "beta": 0.019290630127334337,
+      "nominal_beta": 0.02
+    },
+    {
+      "a": 0.02,
+      "mark": "31/10",
+      "ratio": 0.1262718577182293,
+      "beta": 0.013235189322653777,
+      "nominal_beta": 0.013524866756124824
+    },
+    {
+      "a": 0.02,
+      "mark": "16/5",
+      "ratio": 0.12346686527602603,
+      "beta": 0.00902870487189003,
+      "nominal_beta": 0.009146101038546529
+    },
+    {
+      "a": 0.02,
+      "mark": "33/10",
+      "ratio": 0.11876992651489486,
+      "beta": 0.006137625113070208,
+      "nominal_beta": 0.006184989894219834
+    },
+    {
+      "a": 0.02,
+      "mark": "17/5",
+      "ratio": 0.11044722068159672,
+      "beta": 0.00416349701353722,
+      "nominal_beta": 0.0041825582103650946
+    },
+    {
+      "a": 0.02,
+      "mark": "7/2",
+      "ratio": 0.09380060587251926,
+      "beta": 0.002820767106327385,
+      "nominal_beta": 0.00282842712474619
+    },
+    {
+      "a": 0.02,
+      "mark": "71/20",
+      "ratio": 0.030703195967809137,
+      "beta": 0.0023210781663965258,
+      "nominal_beta": 0.002325929212691119
+    },
+    {
+      "a": 0.008,
+      "mark": "12/5",
+      "ratio": 0.09646507326772474,
+      "beta": 0.08455471238208051,
+      "nominal_beta": 0.10506111217615069
+    },
+    {
+      "a": 0.008,
+      "mark": "27/10",
+      "ratio": 0.11391804061435902,
+      "beta": 0.030108238817161452,
+      "nominal_beta": 0.034053596900831394
+    },
+    {
+      "a": 0.008,
+      "mark": "14/5",
+      "ratio": 0.11358004009065005,
+      "beta": 0.019626549046009415,
+      "nominal_beta": 0.021012222435230134
+    },
+    {
+      "a": 0.008,
+      "mark": "29/10",
+      "ratio": 0.11305829997762513,
+      "beta": 0.012495487941338746,
+      "nominal_beta": 0.012965252773542098
+    },
+    {
+      "a": 0.008,
+      "mark": "3",
+      "ratio": 0.1119564182172206,
+      "beta": 0.007844014016235995,
+      "nominal_beta": 0.008
+    },
+    {
+      "a": 0.008,
+      "mark": "31/10",
+      "ratio": 0.11042037102267564,
+      "beta": 0.0048850686329590404,
+      "nominal_beta": 0.004936270901760075
+    },
+    {
+      "a": 0.008,
+      "mark": "16/5",
+      "ratio": 0.10804972086305309,
+      "beta": 0.00302914257982126,
+      "nominal_beta": 0.0030458463019454062
+    },
+    {
+      "a": 0.008,
+      "mark": "33/10",
+      "ratio": 0.10406453516329195,
+      "beta": 0.0018739586274887899,
+      "nominal_beta": 0.00187939030894083
+    },
+    {
+      "a": 0.008,
+      "mark": "17/5",
+      "ratio": 0.09727157795974843,
+      "beta": 0.001157884131288772,
+      "nominal_beta": 0.0011596474618843133
+    },
+    {
+      "a": 0.008,
+      "mark": "7/2",
+      "ratio": 0.0835127215213419,
+      "beta": 0.0007149697888673873,
+      "nominal_beta": 0.0007155417527999327
+    },
+    {
+      "a": 0.008,
+      "mark": "71/20",
+      "ratio": 0.027624597233551262,
+      "beta": 0.0005617431543819391,
+      "nominal_beta": 0.0005620688015827287
+    }
+  ],
+  "principal": [
+    {
+      "a": 0.05,
+      "mark": "12/5",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.35907035675027715
+    },
+    {
+      "a": 0.05,
+      "mark": "27/10",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.3590834220668715
+    },
+    {
+      "a": 0.05,
+      "mark": "14/5",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.3590832228030572
+    },
+    {
+      "a": 0.05,
+      "mark": "29/10",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.35908491106098944
+    },
+    {
+      "a": 0.05,
+      "mark": "3",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.3590816426468591
+    },
+    {
+      "a": 0.05,
+      "mark": "31/10",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.35907986682300436
+    },
+    {
+      "a": 0.05,
+      "mark": "16/5",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.3590775078216893
+    },
+    {
+      "a": 0.05,
+      "mark": "33/10",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.3590801454416766
+    },
+    {
+      "a": 0.05,
+      "mark": "17/5",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.3590806551634243
+    },
+    {
+      "a": 0.05,
+      "mark": "7/2",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.3590810182667745
+    },
+    {
+      "a": 0.05,
+      "mark": "71/20",
+      "q": 0.34953589326761,
+      "principal_ratio": 0.35908068164677603
+    },
+    {
+      "a": 0.02,
+      "mark": "12/5",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.4919881760031464
+    },
+    {
+      "a": 0.02,
+      "mark": "27/10",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.4919875108144885
+    },
+    {
+      "a": 0.02,
+      "mark": "14/5",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.4919877489510617
+    },
+    {
+      "a": 0.02,
+      "mark": "29/10",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.4919877053755043
+    },
+    {
+      "a": 0.02,
+      "mark": "3",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.4919876855759746
+    },
+    {
+      "a": 0.02,
+      "mark": "31/10",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.49198767857036957
+    },
+    {
+      "a": 0.02,
+      "mark": "16/5",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.49198761143932357
+    },
+    {
+      "a": 0.02,
+      "mark": "33/10",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.49198758619583033
+    },
+    {
+      "a": 0.02,
+      "mark": "17/5",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.491987599934567
+    },
+    {
+      "a": 0.02,
+      "mark": "7/2",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.49198760093640737
+    },
+    {
+      "a": 0.02,
+      "mark": "71/20",
+      "q": 0.1455800593265382,
+      "principal_ratio": 0.4919875982707175
+    },
+    {
+      "a": 0.008,
+      "mark": "12/5",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988156136608
+    },
+    {
+      "a": 0.008,
+      "mark": "27/10",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988452959788
+    },
+    {
+      "a": 0.008,
+      "mark": "14/5",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988357799246
+    },
+    {
+      "a": 0.008,
+      "mark": "29/10",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988138096235
+    },
+    {
+      "a": 0.008,
+      "mark": "3",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.513698823990929
+    },
+    {
+      "a": 0.008,
+      "mark": "31/10",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988211287461
+    },
+    {
+      "a": 0.008,
+      "mark": "16/5",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.513698818088371
+    },
+    {
+      "a": 0.008,
+      "mark": "33/10",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988211649121
+    },
+    {
+      "a": 0.008,
+      "mark": "17/5",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988202406013
+    },
+    {
+      "a": 0.008,
+      "mark": "7/2",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988204163846
+    },
+    {
+      "a": 0.008,
+      "mark": "71/20",
+      "q": 0.059086524657210086,
+      "principal_ratio": 0.5136988202387358
+    }
+  ],
+  "checks": [
+    {
+      "name": "physical_final_coisometry",
+      "passed": true,
+      "a": 0.05
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "ratio": 0.10908806258613793
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 1,
+      "principal": 0.09975603065903184,
+      "bound": 0.2777935925307792
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 2,
+      "principal": 0.09967589668303574,
+      "bound": 0.2777935925307792
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 3,
+      "principal": 0.09974794740989555,
+      "bound": 0.2777935925307792
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 4,
+      "principal": 0.09974744240614199,
+      "bound": 0.2777935925307792
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 5,
+      "principal": 0.0997474443706151,
+      "bound": 0.2777935925307792
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 6,
+      "principal": 0.09974744437296801,
+      "bound": 0.2777935925307792
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "12/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "ratio": 0.11865697240915385
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 1,
+      "principal": 0.05505694949056323,
+      "bound": 0.15331872861948578
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 2,
+      "principal": 0.05501441505095386,
+      "bound": 0.15331872861948578
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 3,
+      "principal": 0.05505448944428529,
+      "bound": 0.15331872861948578
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 4,
+      "principal": 0.055054212245353694,
+      "bound": 0.15331872861948578
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 5,
+      "principal": 0.05505421374389957,
+      "bound": 0.15331872861948578
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 6,
+      "principal": 0.05505421373962694,
+      "bound": 0.15331872861948578
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "27/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "ratio": 0.11969972202152482
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 1,
+      "principal": 0.04346977577235717,
+      "bound": 0.12105158052634693
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 2,
+      "principal": 0.04343612576769161,
+      "bound": 0.12105158052634693
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 3,
+      "principal": 0.0434678097483257,
+      "bound": 0.12105158052634693
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 4,
+      "principal": 0.04346759041640179,
+      "bound": 0.12105158052634693
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 5,
+      "principal": 0.04346759166500794,
+      "bound": 0.12105158052634693
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 6,
+      "principal": 0.04346759166080445,
+      "bound": 0.12105158052634693
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "14/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "ratio": 0.11970805267933554
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 1,
+      "principal": 0.033716096198898114,
+      "bound": 0.09389021823872314
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 2,
+      "principal": 0.03369013001764186,
+      "bound": 0.09389021823872314
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 3,
+      "principal": 0.033714729637657447,
+      "bound": 0.09389021823872314
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 4,
+      "principal": 0.03371455966589752,
+      "bound": 0.09389021823872314
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 5,
+      "principal": 0.03371456066947702,
+      "bound": 0.09389021823872314
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 6,
+      "principal": 0.03371456066574879,
+      "bound": 0.09389021823872314
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "29/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "ratio": 0.11949820160659864
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 1,
+      "principal": 0.02579832041162516,
+      "bound": 0.07184135195696686
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 2,
+      "principal": 0.02577820353765526,
+      "bound": 0.07184135195696686
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 3,
+      "principal": 0.025797040585695423,
+      "bound": 0.07184135195696686
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 4,
+      "principal": 0.025796909880683404,
+      "bound": 0.07184135195696686
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 5,
+      "principal": 0.025796910673828083,
+      "bound": 0.07184135195696686
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 6,
+      "principal": 0.025796910670678807,
+      "bound": 0.07184135195696686
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "3",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "ratio": 0.1181839115868111
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 1,
+      "principal": 0.019545137733607054,
+      "bound": 0.054427927731866006
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 2,
+      "principal": 0.019529792562724125,
+      "bound": 0.054427927731866006
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 3,
+      "principal": 0.01954407172769096,
+      "bound": 0.054427927731866006
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 4,
+      "principal": 0.01954397242943862,
+      "bound": 0.054427927731866006
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 5,
+      "principal": 0.019543973043961483,
+      "bound": 0.054427927731866006
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 6,
+      "principal": 0.01954397304141055,
+      "bound": 0.054427927731866006
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "31/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "ratio": 0.1160522952644683
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 1,
+      "principal": 0.014704089579374649,
+      "bound": 0.04094691661409897
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 2,
+      "principal": 0.014692444371276838,
+      "bound": 0.04094691661409897
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 3,
+      "principal": 0.014703191236604098,
+      "bound": 0.04094691661409897
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 4,
+      "principal": 0.014703116302301625,
+      "bound": 0.04094691661409897
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 5,
+      "principal": 0.014703116772788342,
+      "bound": 0.04094691661409897
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 6,
+      "principal": 0.014703116770773184,
+      "bound": 0.04094691661409897
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "16/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "ratio": 0.11090682201606457
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 1,
+      "principal": 0.011008478626121438,
+      "bound": 0.030655638617991605
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 2,
+      "principal": 0.010999838529850274,
+      "bound": 0.030655638617991605
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 3,
+      "principal": 0.011007886782899995,
+      "bound": 0.030655638617991605
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 4,
+      "principal": 0.011007830820176825,
+      "bound": 0.030655638617991605
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 5,
+      "principal": 0.0110078311751068,
+      "bound": 0.030655638617991605
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 6,
+      "principal": 0.011007831173555903,
+      "bound": 0.030655638617991605
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "33/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "ratio": 0.10299134823563622
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 1,
+      "principal": 0.008214411294226964,
+      "bound": 0.02287491602135147
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 2,
+      "principal": 0.008207974440421515,
+      "bound": 0.02287491602135147
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 3,
+      "principal": 0.008213981311174854,
+      "bound": 0.02287491602135147
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 4,
+      "principal": 0.008213939566162141,
+      "bound": 0.02287491602135147
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 5,
+      "principal": 0.008213939832938506,
+      "bound": 0.02287491602135147
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 6,
+      "principal": 0.008213939831755198,
+      "bound": 0.02287491602135147
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "17/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "ratio": 0.0866973176194559
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 1,
+      "principal": 0.006115781275859444,
+      "bound": 0.01703079844426075
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 2,
+      "principal": 0.0061109943500249515,
+      "bound": 0.01703079844426075
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 3,
+      "principal": 0.0061154673211806275,
+      "bound": 0.01703079844426075
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 4,
+      "principal": 0.006115436248465748,
+      "bound": 0.01703079844426075
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 5,
+      "principal": 0.006115436448156753,
+      "bound": 0.01703079844426075
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 6,
+      "principal": 0.006115436447261349,
+      "bound": 0.01703079844426075
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "7/2",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "ratio": 0.0282378406372202
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "q": 0.34953589326761
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 1,
+      "principal": 0.005273988668089611,
+      "bound": 0.01468663347364839
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 2,
+      "principal": 0.005269855438954661,
+      "bound": 0.01468663347364839
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 3,
+      "principal": 0.005273712996119462,
+      "bound": 0.01468663347364839
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 4,
+      "principal": 0.005273686186907345,
+      "bound": 0.01468663347364839
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 5,
+      "principal": 0.005273686359591847,
+      "bound": 0.01468663347364839
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 6,
+      "principal": 0.005273686358814022,
+      "bound": 0.01468663347364839
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.05,
+      "mark": "71/20",
+      "iteration": 6
+    },
+    {
+      "name": "physical_final_coisometry",
+      "passed": true,
+      "a": 0.02
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "ratio": 0.11482965306031087
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 1,
+      "principal": 0.07218806037141283,
+      "bound": 0.14671425464384197
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 2,
+      "principal": 0.07217129287318809,
+      "bound": 0.14671425464384197
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 3,
+      "principal": 0.07218168973697686,
+      "bound": 0.14671425464384197
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 4,
+      "principal": 0.07218167848761012,
+      "bound": 0.14671425464384197
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 5,
+      "principal": 0.0721816785359392,
+      "bound": 0.14671425464384197
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 6,
+      "principal": 0.07218167853588496,
+      "bound": 0.14671425464384197
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "12/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "ratio": 0.12976079686827596
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 1,
+      "principal": 0.031856291122830796,
+      "bound": 0.06474439102195659
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 2,
+      "principal": 0.03184885555164268,
+      "bound": 0.06474439102195659
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 3,
+      "principal": 0.031853436732500365,
+      "bound": 0.06474439102195659
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 4,
+      "principal": 0.03185343175889029,
+      "bound": 0.06474439102195659
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 5,
+      "principal": 0.03185343177811223,
+      "bound": 0.06474439102195659
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 6,
+      "principal": 0.031853431778092335,
+      "bound": 0.06474439102195659
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "27/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "ratio": 0.12954529055895878
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 1,
+      "principal": 0.02284359456725884,
+      "bound": 0.04642708133558216
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 2,
+      "principal": 0.022838274421155585,
+      "bound": 0.04642708133558216
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 3,
+      "principal": 0.02284155878357027,
+      "bound": 0.04642708133558216
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 4,
+      "principal": 0.02284155522311536,
+      "bound": 0.04642708133558216
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 5,
+      "principal": 0.022841555236674752,
+      "bound": 0.04642708133558216
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 6,
+      "principal": 0.02284155523666092,
+      "bound": 0.04642708133558216
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "14/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "ratio": 0.12908788824661216
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 1,
+      "principal": 0.016043481954378182,
+      "bound": 0.03260660398295804
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 2,
+      "principal": 0.016039744437901533,
+      "bound": 0.03260660398295804
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 3,
+      "principal": 0.016042050764967206,
+      "bound": 0.03260660398295804
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 4,
+      "principal": 0.016042048264252817,
+      "bound": 0.03260660398295804
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 5,
+      "principal": 0.01604204827367282,
+      "bound": 0.03260660398295804
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 6,
+      "principal": 0.016042048273663307,
+      "bound": 0.03260660398295804
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "29/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "ratio": 0.12806892977921444
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 1,
+      "principal": 0.011108824349754978,
+      "bound": 0.022577457768751606
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 2,
+      "principal": 0.011106236132526825,
+      "bound": 0.022577457768751606
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 3,
+      "principal": 0.011107832918878555,
+      "bound": 0.022577457768751606
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 4,
+      "principal": 0.011107831187369578,
+      "bound": 0.022577457768751606
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 5,
+      "principal": 0.011107831193843908,
+      "bound": 0.022577457768751606
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 6,
+      "principal": 0.01110783119383741,
+      "bound": 0.022577457768751606
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "3",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "ratio": 0.1262718577182293
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 1,
+      "principal": 0.007621699884897968,
+      "bound": 0.015490262683033445
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 2,
+      "principal": 0.007619924089854553,
+      "bound": 0.015490262683033445
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 3,
+      "principal": 0.00762101956137202,
+      "bound": 0.015490262683033445
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 4,
+      "principal": 0.007621018373455692,
+      "bound": 0.015490262683033445
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 5,
+      "principal": 0.0076210183778752634,
+      "bound": 0.015490262683033445
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 6,
+      "principal": 0.007621018377870849,
+      "bound": 0.015490262683033445
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "31/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "ratio": 0.12346686527602603
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 1,
+      "principal": 0.005199327127499231,
+      "bound": 0.010567057768775293
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 2,
+      "principal": 0.005198115051005142,
+      "bound": 0.010567057768775293
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 3,
+      "principal": 0.0051988623192218645,
+      "bound": 0.010567057768775293
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 4,
+      "principal": 0.005198861508599205,
+      "bound": 0.010567057768775293
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 5,
+      "principal": 0.005198861511604096,
+      "bound": 0.010567057768775293
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 6,
+      "principal": 0.005198861511601104,
+      "bound": 0.010567057768775293
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "16/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "ratio": 0.11876992651489486
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 1,
+      "principal": 0.003534451640806181,
+      "bound": 0.007183382340342472
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 2,
+      "principal": 0.00353362751755536,
+      "bound": 0.007183382340342472
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 3,
+      "principal": 0.003534135487417967,
+      "bound": 0.007183382340342472
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 4,
+      "principal": 0.0035341349363108556,
+      "bound": 0.007183382340342472
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 5,
+      "principal": 0.003534134938348874,
+      "bound": 0.007183382340342472
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 6,
+      "principal": 0.0035341349383468472,
+      "bound": 0.007183382340342472
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "33/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "ratio": 0.11044722068159672
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 1,
+      "principal": 0.0023976177397428368,
+      "bound": 0.004872893076741061
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 2,
+      "principal": 0.0023970587646494758,
+      "bound": 0.004872893076741061
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 3,
+      "principal": 0.002397403341992485,
+      "bound": 0.004872893076741061
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 4,
+      "principal": 0.0023974029681846833,
+      "bound": 0.004872893076741061
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 5,
+      "principal": 0.0023974029695649716,
+      "bound": 0.004872893076741061
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 6,
+      "principal": 0.0023974029695636024,
+      "bound": 0.004872893076741061
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "17/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "ratio": 0.09380060587251926
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 1,
+      "principal": 0.001624384797641009,
+      "bound": 0.003301382577873861
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 2,
+      "principal": 0.001624006098917124,
+      "bound": 0.003301382577873861
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 3,
+      "principal": 0.001624239546576433,
+      "bound": 0.003301382577873861
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 4,
+      "principal": 0.0016242392933281961,
+      "bound": 0.003301382577873861
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 5,
+      "principal": 0.0016242392942623384,
+      "bound": 0.003301382577873861
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 6,
+      "principal": 0.001624239294261413,
+      "bound": 0.003301382577873861
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "7/2",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "ratio": 0.030703195967809137
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "q": 0.1455800593265382
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 1,
+      "principal": 0.0013366307623105817,
+      "bound": 0.0027165543029894997
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 2,
+      "principal": 0.0013363191425012234,
+      "bound": 0.0027165543029894997
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 3,
+      "principal": 0.0013365112347199864,
+      "bound": 0.0027165543029894997
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 4,
+      "principal": 0.001336511026332188,
+      "bound": 0.0027165543029894997
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 5,
+      "principal": 0.0013365110271005482,
+      "bound": 0.0027165543029894997
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 6,
+      "principal": 0.001336511027099787,
+      "bound": 0.0027165543029894997
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.02,
+      "mark": "71/20",
+      "iteration": 6
+    },
+    {
+      "name": "physical_final_coisometry",
+      "passed": true,
+      "a": 0.008
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "ratio": 0.09646507326772474
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 1,
+      "principal": 0.04616554876272967,
+      "bound": 0.08986449296124266
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 2,
+      "principal": 0.046162274280670726,
+      "bound": 0.08986449296124266
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 3,
+      "principal": 0.046163283784917,
+      "bound": 0.08986449296124266
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 4,
+      "principal": 0.046163283599261015,
+      "bound": 0.08986449296124266
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 5,
+      "principal": 0.04616328359991265,
+      "bound": 0.08986449296124266
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 6,
+      "principal": 0.046163283599912515,
+      "bound": 0.08986449296124266
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "12/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "ratio": 0.11391804061435902
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 1,
+      "principal": 0.016438626873836414,
+      "bound": 0.03199894528685811
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 2,
+      "principal": 0.01643746273684913,
+      "bound": 0.03199894528685811
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 3,
+      "principal": 0.01643782131018442,
+      "bound": 0.03199894528685811
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 4,
+      "principal": 0.016437821244357127,
+      "bound": 0.03199894528685811
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 5,
+      "principal": 0.01643782124454825,
+      "bound": 0.03199894528685811
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 6,
+      "principal": 0.016437821244548213,
+      "bound": 0.03199894528685811
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "27/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "ratio": 0.11358004009065005
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 1,
+      "principal": 0.010715788410861824,
+      "bound": 0.020859037053177657
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 2,
+      "principal": 0.010715029418961321,
+      "bound": 0.020859037053177657
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 3,
+      "principal": 0.010715263092492574,
+      "bound": 0.020859037053177657
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 4,
+      "principal": 0.010715263049586178,
+      "bound": 0.020859037053177657
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 5,
+      "principal": 0.010715263049707692,
+      "bound": 0.020859037053177657
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 6,
+      "principal": 0.010715263049707671,
+      "bound": 0.020859037053177657
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "14/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "ratio": 0.11305829997762513
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 1,
+      "principal": 0.006822340726124064,
+      "bound": 0.013280166847208176
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 2,
+      "principal": 0.0068218572395371355,
+      "bound": 0.013280166847208176
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 3,
+      "principal": 0.006822005983857305,
+      "bound": 0.013280166847208176
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 4,
+      "principal": 0.006822005956528582,
+      "bound": 0.013280166847208176
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 5,
+      "principal": 0.0068220059566047415,
+      "bound": 0.013280166847208176
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 6,
+      "principal": 0.006822005956604728,
+      "bound": 0.013280166847208176
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "29/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "ratio": 0.1119564182172206
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 1,
+      "principal": 0.00428270880901041,
+      "bound": 0.008336594407236324
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 2,
+      "principal": 0.004282405396694659,
+      "bound": 0.008336594407236324
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 3,
+      "principal": 0.004282498760186974,
+      "bound": 0.008336594407236324
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 4,
+      "principal": 0.004282498743039324,
+      "bound": 0.008336594407236324
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 5,
+      "principal": 0.004282498743086664,
+      "bound": 0.008336594407236324
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 6,
+      "principal": 0.004282498743086656,
+      "bound": 0.008336594407236324
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "3",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "ratio": 0.11042037102267564
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 1,
+      "principal": 0.0026671709693136644,
+      "bound": 0.005191836190016655
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 2,
+      "principal": 0.002666982000353665,
+      "bound": 0.005191836190016655
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 3,
+      "principal": 0.0026670401409549364,
+      "bound": 0.005191836190016655
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 4,
+      "principal": 0.002667040130275816,
+      "bound": 0.005191836190016655
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 5,
+      "principal": 0.0026670401303051216,
+      "bound": 0.005191836190016655
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 6,
+      "principal": 0.0026670401303051164,
+      "bound": 0.005191836190016655
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "31/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "ratio": 0.10804972086305309
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 1,
+      "principal": 0.001653864409662821,
+      "bound": 0.003219363585708765
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 2,
+      "principal": 0.0016537472251759826,
+      "bound": 0.003219363585708765
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 3,
+      "principal": 0.0016537832755794076,
+      "bound": 0.003219363585708765
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 4,
+      "principal": 0.001653783268957234,
+      "bound": 0.003219363585708765
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 5,
+      "principal": 0.0016537832689753362,
+      "bound": 0.003219363585708765
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 6,
+      "principal": 0.001653783268975333,
+      "bound": 0.003219363585708765
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "16/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "ratio": 0.10406453516329195
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 1,
+      "principal": 0.0010231520628412195,
+      "bound": 0.0019916375698690856
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 2,
+      "principal": 0.0010230795741603003,
+      "bound": 0.0019916375698690856
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 3,
+      "principal": 0.0010231018759145581,
+      "bound": 0.0019916375698690856
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 4,
+      "principal": 0.0010231018718183287,
+      "bound": 0.0019916375698690856
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 5,
+      "principal": 0.0010231018718295016,
+      "bound": 0.0019916375698690856
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 6,
+      "principal": 0.0010231018718294994,
+      "bound": 0.0019916375698690856
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "33/10",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "ratio": 0.09727157795974843
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 1,
+      "principal": 0.0006321866022446687,
+      "bound": 0.0012305957578797946
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 2,
+      "principal": 0.0006321418119242354,
+      "bound": 0.0012305957578797946
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 3,
+      "principal": 0.0006321555915400494,
+      "bound": 0.0012305957578797946
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 4,
+      "principal": 0.0006321555890090472,
+      "bound": 0.0012305957578797946
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 5,
+      "principal": 0.0006321555890159404,
+      "bound": 0.0012305957578797946
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 6,
+      "principal": 0.0006321555890159392,
+      "bound": 0.0012305957578797946
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "17/5",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2"
+    },
+    {
+      "name": "stage_only_projection_has_later_leak",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "ratio": 0.0835127215213419
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 1,
+      "principal": 0.0003903623076935804,
+      "bound": 0.0007598677323724292
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 2,
+      "principal": 0.0003903346508044789,
+      "bound": 0.0007598677323724292
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 3,
+      "principal": 0.0003903431593507506,
+      "bound": 0.0007598677323724292
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 4,
+      "principal": 0.00039034315778793785,
+      "bound": 0.0007598677323724292
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 5,
+      "principal": 0.0003903431577921906,
+      "bound": 0.0007598677323724292
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 6,
+      "principal": 0.0003903431577921899,
+      "bound": 0.0007598677323724292
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "7/2",
+      "iteration": 6
+    },
+    {
+      "name": "annihilator_all_later_force_rows",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20"
+    },
+    {
+      "name": "signed_coisometry",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20"
+    },
+    {
+      "name": "finite_complete_projection_bound",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "ratio": 0.027624597233551262
+    },
+    {
+      "name": "projection_exact_zero_on_protected_coordinate",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20"
+    },
+    {
+      "name": "signed_absolute_contraction",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "q": 0.059086524657210086
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 1,
+      "principal": 0.00030670296492244875,
+      "bound": 0.0005970189279915319
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 1
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 1
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 2,
+      "principal": 0.00030668123515467644,
+      "bound": 0.0005970189279915319
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 2
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 2
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 3,
+      "principal": 0.00030668792019398924,
+      "bound": 0.0005970189279915319
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 3
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 3
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 4,
+      "principal": 0.0003066879189661051,
+      "bound": 0.0005970189279915319
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 4
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 4
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 5,
+      "principal": 0.00030668791896944534,
+      "bound": 0.0005970189279915319
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 5
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 5
+    },
+    {
+      "name": "finite_principal_block",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 6,
+      "principal": 0.0003066879189694447,
+      "bound": 0.0005970189279915319
+    },
+    {
+      "name": "finite_recorded_physical_row",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 6
+    },
+    {
+      "name": "recorded_curl_from_terminal_first",
+      "passed": true,
+      "a": 0.008,
+      "mark": "71/20",
+      "iteration": 6
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "12/5"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "12/5"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "12/5"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "27/10"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "27/10"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "27/10"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "14/5"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "14/5"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "14/5"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "29/10"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "29/10"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "29/10"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "3"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "3"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "3"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "31/10"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "31/10"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "31/10"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "16/5"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "16/5"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "16/5"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "33/10"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "33/10"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "33/10"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "17/5"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "17/5"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "17/5"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "7/2"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "7/2"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "7/2"
+    },
+    {
+      "name": "projection_mark_exact",
+      "passed": true,
+      "mark": "71/20"
+    },
+    {
+      "name": "twin_mark_exact",
+      "passed": true,
+      "mark": "71/20"
+    },
+    {
+      "name": "later_refreshes_no_projection_order_loss",
+      "passed": true,
+      "mark": "71/20"
+    },
+    {
+      "name": "pure_fourth_weighted_body",
+      "passed": true
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "27/10",
+      "newer": "14/5",
+      "child": "27/10",
+      "gates": [
+        "97/100",
+        "11/100",
+        "27/50"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "27/10",
+      "newer": "14/5",
+      "child": "14/5",
+      "gates": [
+        "107/100",
+        "1/100",
+        "27/50"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "14/5",
+      "newer": "29/10",
+      "child": "14/5",
+      "gates": [
+        "51/50",
+        "11/100",
+        "113/200"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "14/5",
+      "newer": "29/10",
+      "child": "29/10",
+      "gates": [
+        "28/25",
+        "1/100",
+        "113/200"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "29/10",
+      "newer": "3",
+      "child": "29/10",
+      "gates": [
+        "107/100",
+        "11/100",
+        "59/100"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "29/10",
+      "newer": "3",
+      "child": "3",
+      "gates": [
+        "117/100",
+        "1/100",
+        "59/100"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "3",
+      "newer": "31/10",
+      "child": "3",
+      "gates": [
+        "28/25",
+        "11/100",
+        "123/200"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "3",
+      "newer": "31/10",
+      "child": "31/10",
+      "gates": [
+        "61/50",
+        "1/100",
+        "123/200"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "31/10",
+      "newer": "16/5",
+      "child": "31/10",
+      "gates": [
+        "117/100",
+        "11/100",
+        "16/25"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "31/10",
+      "newer": "16/5",
+      "child": "16/5",
+      "gates": [
+        "127/100",
+        "1/100",
+        "16/25"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "16/5",
+      "newer": "33/10",
+      "child": "16/5",
+      "gates": [
+        "61/50",
+        "11/100",
+        "133/200"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "16/5",
+      "newer": "33/10",
+      "child": "33/10",
+      "gates": [
+        "33/25",
+        "1/100",
+        "133/200"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "33/10",
+      "newer": "17/5",
+      "child": "33/10",
+      "gates": [
+        "127/100",
+        "11/100",
+        "69/100"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "33/10",
+      "newer": "17/5",
+      "child": "17/5",
+      "gates": [
+        "137/100",
+        "1/100",
+        "69/100"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "17/5",
+      "newer": "7/2",
+      "child": "17/5",
+      "gates": [
+        "33/25",
+        "11/100",
+        "143/200"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "17/5",
+      "newer": "7/2",
+      "child": "7/2",
+      "gates": [
+        "71/50",
+        "1/100",
+        "143/200"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "7/2",
+      "newer": "71/20",
+      "child": "7/2",
+      "gates": [
+        "71/50",
+        "3/50",
+        "37/50"
+      ]
+    },
+    {
+      "name": "exact32_transition_strict_gates",
+      "passed": true,
+      "older": "7/2",
+      "newer": "71/20",
+      "child": "71/20",
+      "gates": [
+        "147/100",
+        "1/100",
+        "37/50"
+      ]
+    },
+    {
+      "name": "exact32_final_strict_gates",
+      "passed": true,
+      "gates": [
+        "149/100",
+        "1/100",
+        "3/4"
+      ]
+    },
+    {
+      "name": "ambient_high_moment_order_choice",
+      "passed": true,
+      "p": 2,
+      "B": 26767,
+      "exponent": "50401/2400"
+    },
+    {
+      "name": "ambient_high_moment_order_choice",
+      "passed": true,
+      "p": 3,
+      "B": 38700,
+      "exponent": "21"
+    },
+    {
+      "name": "ambient_high_moment_order_choice",
+      "passed": true,
+      "p": 4,
+      "B": 50634,
+      "exponent": "50401/2400"
+    },
+    {
+      "name": "ambient_high_moment_order_choice",
+      "passed": true,
+      "p": 8,
+      "B": 98367,
+      "exponent": "201601/9600"
+    },
+    {
+      "name": "ambient_high_moment_order_choice",
+      "passed": true,
+      "p": 16,
+      "B": 193834,
+      "exponent": "201601/9600"
+    },
+    {
+      "name": "wrong_order_can_lose_projection_grade",
+      "passed": true
+    }
+  ]
+}

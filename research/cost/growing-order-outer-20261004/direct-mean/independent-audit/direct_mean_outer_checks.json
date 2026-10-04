@@ -1,0 +1,677 @@
+{
+  "checks": [
+    {
+      "name": "grades_j2"
+    },
+    {
+      "name": "bank_cost_j2_l0"
+    },
+    {
+      "name": "bank_cost_j2_l1"
+    },
+    {
+      "name": "bank_cost_j2_l2"
+    },
+    {
+      "name": "global_rate_j2",
+      "P": 3
+    },
+    {
+      "name": "dimension_rate_j2"
+    },
+    {
+      "name": "grades_j3"
+    },
+    {
+      "name": "bank_cost_j3_l0"
+    },
+    {
+      "name": "bank_cost_j3_l1"
+    },
+    {
+      "name": "bank_cost_j3_l2"
+    },
+    {
+      "name": "bank_cost_j3_l3"
+    },
+    {
+      "name": "global_rate_j3",
+      "P": 5
+    },
+    {
+      "name": "dimension_rate_j3"
+    },
+    {
+      "name": "grades_j4"
+    },
+    {
+      "name": "bank_cost_j4_l0"
+    },
+    {
+      "name": "bank_cost_j4_l1"
+    },
+    {
+      "name": "bank_cost_j4_l2"
+    },
+    {
+      "name": "bank_cost_j4_l3"
+    },
+    {
+      "name": "bank_cost_j4_l4"
+    },
+    {
+      "name": "global_rate_j4",
+      "P": 7
+    },
+    {
+      "name": "dimension_rate_j4"
+    },
+    {
+      "name": "grades_j5"
+    },
+    {
+      "name": "bank_cost_j5_l0"
+    },
+    {
+      "name": "bank_cost_j5_l1"
+    },
+    {
+      "name": "bank_cost_j5_l2"
+    },
+    {
+      "name": "bank_cost_j5_l3"
+    },
+    {
+      "name": "bank_cost_j5_l4"
+    },
+    {
+      "name": "bank_cost_j5_l5"
+    },
+    {
+      "name": "global_rate_j5",
+      "P": 9
+    },
+    {
+      "name": "dimension_rate_j5"
+    },
+    {
+      "name": "grades_j6"
+    },
+    {
+      "name": "bank_cost_j6_l0"
+    },
+    {
+      "name": "bank_cost_j6_l1"
+    },
+    {
+      "name": "bank_cost_j6_l2"
+    },
+    {
+      "name": "bank_cost_j6_l3"
+    },
+    {
+      "name": "bank_cost_j6_l4"
+    },
+    {
+      "name": "bank_cost_j6_l5"
+    },
+    {
+      "name": "bank_cost_j6_l6"
+    },
+    {
+      "name": "global_rate_j6",
+      "P": 11
+    },
+    {
+      "name": "dimension_rate_j6"
+    },
+    {
+      "name": "grades_j7"
+    },
+    {
+      "name": "bank_cost_j7_l0"
+    },
+    {
+      "name": "bank_cost_j7_l1"
+    },
+    {
+      "name": "bank_cost_j7_l2"
+    },
+    {
+      "name": "bank_cost_j7_l3"
+    },
+    {
+      "name": "bank_cost_j7_l4"
+    },
+    {
+      "name": "bank_cost_j7_l5"
+    },
+    {
+      "name": "bank_cost_j7_l6"
+    },
+    {
+      "name": "bank_cost_j7_l7"
+    },
+    {
+      "name": "global_rate_j7",
+      "P": 13
+    },
+    {
+      "name": "dimension_rate_j7"
+    },
+    {
+      "name": "grades_j8"
+    },
+    {
+      "name": "bank_cost_j8_l0"
+    },
+    {
+      "name": "bank_cost_j8_l1"
+    },
+    {
+      "name": "bank_cost_j8_l2"
+    },
+    {
+      "name": "bank_cost_j8_l3"
+    },
+    {
+      "name": "bank_cost_j8_l4"
+    },
+    {
+      "name": "bank_cost_j8_l5"
+    },
+    {
+      "name": "bank_cost_j8_l6"
+    },
+    {
+      "name": "bank_cost_j8_l7"
+    },
+    {
+      "name": "bank_cost_j8_l8"
+    },
+    {
+      "name": "global_rate_j8",
+      "P": 15
+    },
+    {
+      "name": "dimension_rate_j8"
+    },
+    {
+      "name": "grades_j9"
+    },
+    {
+      "name": "bank_cost_j9_l0"
+    },
+    {
+      "name": "bank_cost_j9_l1"
+    },
+    {
+      "name": "bank_cost_j9_l2"
+    },
+    {
+      "name": "bank_cost_j9_l3"
+    },
+    {
+      "name": "bank_cost_j9_l4"
+    },
+    {
+      "name": "bank_cost_j9_l5"
+    },
+    {
+      "name": "bank_cost_j9_l6"
+    },
+    {
+      "name": "bank_cost_j9_l7"
+    },
+    {
+      "name": "bank_cost_j9_l8"
+    },
+    {
+      "name": "bank_cost_j9_l9"
+    },
+    {
+      "name": "global_rate_j9",
+      "P": 17
+    },
+    {
+      "name": "dimension_rate_j9"
+    },
+    {
+      "name": "grades_j10"
+    },
+    {
+      "name": "bank_cost_j10_l0"
+    },
+    {
+      "name": "bank_cost_j10_l1"
+    },
+    {
+      "name": "bank_cost_j10_l2"
+    },
+    {
+      "name": "bank_cost_j10_l3"
+    },
+    {
+      "name": "bank_cost_j10_l4"
+    },
+    {
+      "name": "bank_cost_j10_l5"
+    },
+    {
+      "name": "bank_cost_j10_l6"
+    },
+    {
+      "name": "bank_cost_j10_l7"
+    },
+    {
+      "name": "bank_cost_j10_l8"
+    },
+    {
+      "name": "bank_cost_j10_l9"
+    },
+    {
+      "name": "bank_cost_j10_l10"
+    },
+    {
+      "name": "global_rate_j10",
+      "P": 19
+    },
+    {
+      "name": "dimension_rate_j10"
+    },
+    {
+      "name": "grades_j11"
+    },
+    {
+      "name": "bank_cost_j11_l0"
+    },
+    {
+      "name": "bank_cost_j11_l1"
+    },
+    {
+      "name": "bank_cost_j11_l2"
+    },
+    {
+      "name": "bank_cost_j11_l3"
+    },
+    {
+      "name": "bank_cost_j11_l4"
+    },
+    {
+      "name": "bank_cost_j11_l5"
+    },
+    {
+      "name": "bank_cost_j11_l6"
+    },
+    {
+      "name": "bank_cost_j11_l7"
+    },
+    {
+      "name": "bank_cost_j11_l8"
+    },
+    {
+      "name": "bank_cost_j11_l9"
+    },
+    {
+      "name": "bank_cost_j11_l10"
+    },
+    {
+      "name": "bank_cost_j11_l11"
+    },
+    {
+      "name": "global_rate_j11",
+      "P": 21
+    },
+    {
+      "name": "dimension_rate_j11"
+    },
+    {
+      "name": "grades_j12"
+    },
+    {
+      "name": "bank_cost_j12_l0"
+    },
+    {
+      "name": "bank_cost_j12_l1"
+    },
+    {
+      "name": "bank_cost_j12_l2"
+    },
+    {
+      "name": "bank_cost_j12_l3"
+    },
+    {
+      "name": "bank_cost_j12_l4"
+    },
+    {
+      "name": "bank_cost_j12_l5"
+    },
+    {
+      "name": "bank_cost_j12_l6"
+    },
+    {
+      "name": "bank_cost_j12_l7"
+    },
+    {
+      "name": "bank_cost_j12_l8"
+    },
+    {
+      "name": "bank_cost_j12_l9"
+    },
+    {
+      "name": "bank_cost_j12_l10"
+    },
+    {
+      "name": "bank_cost_j12_l11"
+    },
+    {
+      "name": "bank_cost_j12_l12"
+    },
+    {
+      "name": "global_rate_j12",
+      "P": 23
+    },
+    {
+      "name": "dimension_rate_j12"
+    },
+    {
+      "name": "grades_j13"
+    },
+    {
+      "name": "bank_cost_j13_l0"
+    },
+    {
+      "name": "bank_cost_j13_l1"
+    },
+    {
+      "name": "bank_cost_j13_l2"
+    },
+    {
+      "name": "bank_cost_j13_l3"
+    },
+    {
+      "name": "bank_cost_j13_l4"
+    },
+    {
+      "name": "bank_cost_j13_l5"
+    },
+    {
+      "name": "bank_cost_j13_l6"
+    },
+    {
+      "name": "bank_cost_j13_l7"
+    },
+    {
+      "name": "bank_cost_j13_l8"
+    },
+    {
+      "name": "bank_cost_j13_l9"
+    },
+    {
+      "name": "bank_cost_j13_l10"
+    },
+    {
+      "name": "bank_cost_j13_l11"
+    },
+    {
+      "name": "bank_cost_j13_l12"
+    },
+    {
+      "name": "bank_cost_j13_l13"
+    },
+    {
+      "name": "global_rate_j13",
+      "P": 25
+    },
+    {
+      "name": "dimension_rate_j13"
+    },
+    {
+      "name": "grades_j14"
+    },
+    {
+      "name": "bank_cost_j14_l0"
+    },
+    {
+      "name": "bank_cost_j14_l1"
+    },
+    {
+      "name": "bank_cost_j14_l2"
+    },
+    {
+      "name": "bank_cost_j14_l3"
+    },
+    {
+      "name": "bank_cost_j14_l4"
+    },
+    {
+      "name": "bank_cost_j14_l5"
+    },
+    {
+      "name": "bank_cost_j14_l6"
+    },
+    {
+      "name": "bank_cost_j14_l7"
+    },
+    {
+      "name": "bank_cost_j14_l8"
+    },
+    {
+      "name": "bank_cost_j14_l9"
+    },
+    {
+      "name": "bank_cost_j14_l10"
+    },
+    {
+      "name": "bank_cost_j14_l11"
+    },
+    {
+      "name": "bank_cost_j14_l12"
+    },
+    {
+      "name": "bank_cost_j14_l13"
+    },
+    {
+      "name": "bank_cost_j14_l14"
+    },
+    {
+      "name": "global_rate_j14",
+      "P": 27
+    },
+    {
+      "name": "dimension_rate_j14"
+    },
+    {
+      "name": "grades_j15"
+    },
+    {
+      "name": "bank_cost_j15_l0"
+    },
+    {
+      "name": "bank_cost_j15_l1"
+    },
+    {
+      "name": "bank_cost_j15_l2"
+    },
+    {
+      "name": "bank_cost_j15_l3"
+    },
+    {
+      "name": "bank_cost_j15_l4"
+    },
+    {
+      "name": "bank_cost_j15_l5"
+    },
+    {
+      "name": "bank_cost_j15_l6"
+    },
+    {
+      "name": "bank_cost_j15_l7"
+    },
+    {
+      "name": "bank_cost_j15_l8"
+    },
+    {
+      "name": "bank_cost_j15_l9"
+    },
+    {
+      "name": "bank_cost_j15_l10"
+    },
+    {
+      "name": "bank_cost_j15_l11"
+    },
+    {
+      "name": "bank_cost_j15_l12"
+    },
+    {
+      "name": "bank_cost_j15_l13"
+    },
+    {
+      "name": "bank_cost_j15_l14"
+    },
+    {
+      "name": "bank_cost_j15_l15"
+    },
+    {
+      "name": "global_rate_j15",
+      "P": 29
+    },
+    {
+      "name": "dimension_rate_j15"
+    },
+    {
+      "name": "grades_j16"
+    },
+    {
+      "name": "bank_cost_j16_l0"
+    },
+    {
+      "name": "bank_cost_j16_l1"
+    },
+    {
+      "name": "bank_cost_j16_l2"
+    },
+    {
+      "name": "bank_cost_j16_l3"
+    },
+    {
+      "name": "bank_cost_j16_l4"
+    },
+    {
+      "name": "bank_cost_j16_l5"
+    },
+    {
+      "name": "bank_cost_j16_l6"
+    },
+    {
+      "name": "bank_cost_j16_l7"
+    },
+    {
+      "name": "bank_cost_j16_l8"
+    },
+    {
+      "name": "bank_cost_j16_l9"
+    },
+    {
+      "name": "bank_cost_j16_l10"
+    },
+    {
+      "name": "bank_cost_j16_l11"
+    },
+    {
+      "name": "bank_cost_j16_l12"
+    },
+    {
+      "name": "bank_cost_j16_l13"
+    },
+    {
+      "name": "bank_cost_j16_l14"
+    },
+    {
+      "name": "bank_cost_j16_l15"
+    },
+    {
+      "name": "bank_cost_j16_l16"
+    },
+    {
+      "name": "global_rate_j16",
+      "P": 31
+    },
+    {
+      "name": "dimension_rate_j16"
+    },
+    {
+      "name": "quadratic_picard_order_j2",
+      "leading": "q**3*x/120"
+    },
+    {
+      "name": "quadratic_picard_order_j3",
+      "leading": "-q**4*x/5040"
+    },
+    {
+      "name": "quadratic_picard_order_j4",
+      "leading": "q**5*x/362880"
+    },
+    {
+      "name": "quadratic_picard_order_j5",
+      "leading": "-q**6*x/39916800"
+    },
+    {
+      "name": "quadratic_picard_order_j6",
+      "leading": "q**7*x/6227020800"
+    },
+    {
+      "name": "quadratic_picard_order_j7",
+      "leading": "-q**8*x/1307674368000"
+    },
+    {
+      "name": "quadratic_picard_order_j8",
+      "leading": "q**9*x/355687428096000"
+    },
+    {
+      "name": "quadratic_picard_order_j9",
+      "leading": "-q**10*x/121645100408832000"
+    },
+    {
+      "name": "quadratic_picard_order_j10",
+      "leading": "q**11*x/51090942171709440000"
+    },
+    {
+      "name": "quadratic_finite_reference_contraction",
+      "min_normalized_metric_loss": 0.4925705536315601,
+      "cases": 1200
+    },
+    {
+      "name": "decoder_observation_covariance_k1"
+    },
+    {
+      "name": "decoder_observation_covariance_k2"
+    },
+    {
+      "name": "decoder_observation_covariance_k3"
+    },
+    {
+      "name": "decoder_observation_covariance_k8"
+    },
+    {
+      "name": "decoder_observation_covariance_k30"
+    },
+    {
+      "name": "finite_mode_caller_envelope",
+      "cases": 432
+    },
+    {
+      "name": "unanchored_predictor_counterterm",
+      "exact_residual": "-3*A**2*g/2 + sqrt(2)*A**2*g"
+    },
+    {
+      "name": "gaussian_seed_quadratic_law",
+      "cases": 12
+    }
+  ],
+  "warnings": [
+    "The literal unanchored finite predictor needs an A^(M+1)|grad V(mode)| numerical caller term, even with exact mode seed. This fixture detects a proof omission, not failure after adding that term."
+  ],
+  "passed": 213,
+  "status": "PASS_WITH_EXPLICIT_PREDICTOR_REPAIR"
+}

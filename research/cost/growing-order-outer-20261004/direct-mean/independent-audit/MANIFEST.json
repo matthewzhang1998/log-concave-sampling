@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-04",
+  "decision": "PASS after explicit predictor/caller and dimensioned-recursion repairs",
+  "inputs": {
+    "research/cost/growing-order-outer-20261004/direct-mean/ANY-ORDER-DIRECT-MEAN-OUTER.md": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
+    "research/cost/growing-order-outer-20261004/direct-mean/ELEMENTARY-SEED-AND-COMPLETE-SOURCE.md": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd"
+  },
+  "artifacts": {
+    "research/cost/growing-order-outer-20261004/direct-mean/independent-audit/INDEPENDENT-DIRECT-MEAN-OUTER-AUDIT.md": "1696d5059b9ca4afdf31f4b07aee2fd1a8105605ccc118c328e6c0265215baf6",
+    "research/cost/growing-order-outer-20261004/direct-mean/independent-audit/check_direct_mean_outer.py": "aa237f7e242fcffd1d2185cb902c396a6cabb650252494fb6a1e5c8f67e596ef",
+    "research/cost/growing-order-outer-20261004/direct-mean/independent-audit/direct_mean_outer_checks.json": "af8b1fa8a42c6ad6f7e7c3670d2b7984e79395264fe5a89c1439dbbff8e405db"
+  },
+  "diagnostics": {
+    "grouped_checks": 213,
+    "finite_quadratic_contraction_cases": 1200
+  }
+}

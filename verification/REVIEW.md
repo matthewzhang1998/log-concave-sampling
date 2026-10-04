@@ -1,21 +1,22 @@
 # Publication snapshot verification
 
-Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v6-relative-same-heat-hidden-linear`.
+Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v7-complete-fixed-and-direct-outer`.
 
 ## Payload and provenance
 
-- 311 mathematical payload files: 169 proofs/audits/certificates (including four exact reviewed mathematical source copies), 1 baseline TeX manuscript, 69 Python diagnostics, and 72 saved JSON results.
+- 341 mathematical payload files: 178 proofs/audits/certificates (including four exact reviewed mathematical source copies), 1 baseline TeX manuscript, 76 Python diagnostics, 80 saved JSON results, and 6 source manifests.
 - All 199 initial incoming files matched the incoming inventory's byte counts and SHA-256 values before curation.
-- 238 payload files remain byte-identical. 73 are explicitly labeled sanitized publication copies. Each inventory entry records both original and public hashes and byte counts.
-- Edits remove nonmathematical provenance narration and local absolute paths; diagnostic outputs now use sibling-file paths. Mathematical formulas, assumptions, counterexamples, and historical source/audit hash pins were retained. The new same-heat report additionally incorporates explicitly identified scope clarifications from its independent audit; it is labeled as an edited publication copy. The edited copies are not represented as historically audited bytes.
+- 254 payload files remain byte-identical. 87 are explicitly labeled sanitized publication copies. Each inventory entry records both original and public hashes and byte counts.
+- Edits remove nonmathematical provenance narration and local absolute paths; diagnostic outputs now use sibling-file paths. Admitted mathematical formulas, assumptions, counterexamples, and historical source/audit hash pins were retained. V7 separately labels omission of unaudited auxiliary/off-grid commentary and two portable diagnostic source-pin adaptations; all mathematical tests remain. The new same-heat report additionally incorporates explicitly identified scope clarifications from its independent audit; it is labeled as an edited publication copy. The edited copies are not represented as historically audited bytes.
 - The exact-denominator-32 TeX baseline remains byte-identical: SHA-256 `c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff`.
-- The 367 indexed source bindings include 366 matches to the original snapshot and one explicitly stale earlier mixed-descendant binding. The final mixed-descendant source is `f805e8d38a19435f03c8b10d4a008140f4972aeefe4f6a0afcb9b78edfd89845`, with its scoped audit `73fa989340ea01b7d796cf477f57967b38999110285275a215753cf157bba0a4`.
+- The 397 indexed source bindings include 396 matches to the original snapshot and one explicitly stale earlier mixed-descendant binding. The final mixed-descendant source is `f805e8d38a19435f03c8b10d4a008140f4972aeefe4f6a0afcb9b78edfd89845`, with its scoped audit `73fa989340ea01b7d796cf477f57967b38999110285275a215753cf157bba0a4`.
 
 ## Executed checks
 
-- All 69 bundled diagnostics ran in separate disposable copies: **69 passed, 0 failed, 0 not run**. All exited zero; no stderr was emitted. The archived research bytes remained unchanged.
-- The detailed report records Python 3.12.14, NumPy 2.3.5, SciPy 1.17.0, and mpmath 1.3.0.
+- All 76 bundled diagnostics ran in separate disposable copies: **76 passed, 0 failed, 0 not run**. All exited zero; no stderr was emitted. The archived research bytes remained unchanged.
+- The detailed report records Python 3.12.14, NumPy 2.3.5, SciPy 1.17.0, mpmath 1.3.0, and SymPy 1.14.0.
 - Four rerun JSON files differ from their saved historical results only in embedded source hashes, because those source documents were sanitized. The diagnostic values, test counts, and verdicts are unchanged. Exact keys and old/new values are in `DIAGNOSTIC-RERUN.json`.
+- Three report-path safety regressions passed: existing bundled source, new path inside the archive, and external symlink alias into the archive are rejected before diagnostics. No archive bytes or file-set members changed.
 - All bundled Python files were parsed and all JSON files decoded successfully. The complete checksum verifier checks the exact payload set, byte counts, provenance mappings, and bundle checksums.
 
 ### New fixed-seed rank and sharing audit
@@ -87,13 +88,40 @@ The complementary flattening audit distinguishes exact complete-tape computation
 
 Before curation, 388 existing source files and all 295 V5 files were hashed. Every one retained its exact bytes, and V5's file set was unchanged after curation and diagnostics. All 282 V5 research files are preserved in V6. Source authors may add separately identified new research files; those are not silently included in this immutable selection.
 
+### V7: fixed integration and complete direct-mean outer baseline
+
+All 30 selected new artifacts match their original source-manifest pins before curation. The literal fixed integration closure `ddd99efe…`, elementary source `47e48da4…`, and fixed closure manifest `dc103188…` remain byte-identical. The original direct theorem `f7514fba…`, direct audit `1696d505…`, and milestone `1e82db3e…` are distinctly mapped to curated public copies. No research bytes inherited from V6 were changed.
+
+The public edits remove local absolute source paths and workflow-only narration, replace excluded auxiliary/off-grid commentary with explicit scope notes, and make the two intrinsic scripts portable. The milestone's auxiliary parameter/grammar findings are omitted. Pending parameter/grammar and shifted off-grid artifacts are not bundled. Original manifest hashes remain pins of the original bytes, including where those differ from the public copies; INVENTORY.json and PROVENANCE-CHECKS.json supply that mapping. The six newly bundled manifests are source records, not replacements for the bundle's SHA256SUMS.
+
+All **seven original new scripts passed** in isolated copies, and every file they generated matched its archived original bytes. All **seven portable publication scripts also passed**. Fresh results include:
+
+- 6,629 author direct-mean assertions.
+- 213 independent grouped direct checks, including 1,200 scalar contraction fixtures and the exact finite-predictor residual regression.
+- 471 ordered-refresh/source assertions, with nine fully expanded hidden Gaussian source/pair fixtures.
+- 851 independent refresh/projection assertions.
+- 880 original intrinsic author assertions and 1,483 original intrinsic independent assertions in 36 hostile rectangular cases.
+- Exact-rational reproduction of the exterior ledger's 152 structural categories and 269 categories with call multiplicities; minima (1607/100,141/10,22603/1250).
+
+The intrinsic portable adaptations preserve all mathematical tests and verify bundled Exact32. LOW30/LOW31 are unbundled, so their two source-pin checks per script are explicitly not counted in standalone public runs: the public counts are 878 and 1,481. Both original complete-pin runs passed locally before adaptation. Public intrinsic saved results were regenerated in isolation and identified as edited copies. The original author intrinsic script prints rather than rewrites its JSON; its printed object was also compared with its archived saved result. All other new saved results reproduce without public-byte changes. The full final run of 76 scripts has only the same four older embedded-source-hash differences documented above.
+
+The admitted direct theorem is a complete positive finite original-query outer construction for each fixed odd P=2j−1≥3. Its phase A-exponent is P−1 and total cost is Λ_P κ H^(−(2P−1)). Under the C² Hessian sandwich, supplied |∇V(x₀)|≤√(αd), and original finite numerical/caller model, the elementary source specialization gives √β W₂≤ε with
+
+    Q ≤ Λ_P {κ^(2P) + κ^(3−1/P)(D/ε²)^(1−1/(2P))}.
+
+The elementary source removes an inherited algebraic dimension-versus-heat guard, but retains numerical budgets and the finite-predictor caller residual, initialization, fixed-order heat/logarithmic guards and potentially rapidly growing constants. No input-dependent uniform-order, arithmetic/storage, dimension-subpolynomial, or Exact32 efficiency improvement is inferred. This is an architectural baseline with a poor rate.
+
+The separate fixed-integration theorem keeps complete source exponent 2j−2 on R_j=j+1/2 while supplying selected covariance/pure-fourth consumers. Its original seed/reference/restoration/domain assumptions and actual expanded source cost remain explicit. It does not automatically preserve the old exterior total cost or raise the fixed covariance approximation order. The older cap-pending statements are historical and resolved by the later intrinsic audit; the elementary source's final verification qualifier is discharged by the direct audit. The fixed closure's remaining arbitrary-order discussion concerns the marked/covariance route, not the separately completed direct-mean theorem.
+
+All 324 V6 files and all 311 V6 research payloads were checked for unchanged bytes and file sets. Every selected new source original is unchanged. Curation and diagnostic execution used copies only.
+
 ## Not rerun or not established
 
 - Two older saved historical JSON results have no corresponding bundled executable and were **not independently rerun**: `research/r-native-twin/common_two_twin_lift_checks.json` (historical 2,400 checks) and `research/r-shear-consumer/weighted_scalar_width_checks.json` (historical 114,270 checks). They remain labeled saved results, not fresh test passes.
 - The new Fenchel `centered_energy_extension_checks.json` is also historical-only for this curation: its claimed 400 checks lack a bundled executable.
 - A previous TeX compilation was attempted in a disposable directory and was blocked by an unavailable `pdflatex.fmt` format. A retry with writable TeX configuration directories found no installed format entry. No PDF build or visual-layout verification is claimed.
 - This review did not independently reprove every analytic argument, run formal proof verification, or re-establish the external LOW30/LOW31 foundations. Those foundations are pinned but not bundled.
-- The general matrix same-query constrained-input construction and full nonlinear endpoint composition remain open. No all-order, subpolynomial-dimension, or new end-to-end sampler complexity theorem is certified by these tests. The unrestricted old general-family certificate remains quadratic, c_P ~ 2P²; V6 separately admits a linear source-relative selected same-heat family and does not promote it to all consumers or a global outer rate.
+- The generic matrix same-query constrained-input no-copy construction and full nonlinear endpoint composition remain open. V7 separately includes the analytically audited direct-mean any-fixed-order outer theorem, with its poor rate and qualifications; diagnostic passes alone do not certify that theorem. No subpolynomial or improved end-to-end rate is claimed. The old unrestricted general-family certificate remains quadratic, c_P ~ 2P²; the selected same-heat source and direct-mean route have their separately scoped linear exponents.
 
 ## Public-release scope
 

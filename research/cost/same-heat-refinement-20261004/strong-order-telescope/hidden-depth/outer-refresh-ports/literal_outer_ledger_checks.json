@@ -1,0 +1,1889 @@
+{
+  "status": "PASS",
+  "structural_categories": 152,
+  "with_multiplicities": 269,
+  "minima": [
+    "1607/100",
+    "141/10",
+    "22603/1250"
+  ],
+  "attainers": [
+    [
+      {
+        "group": "mixed_27/10",
+        "name": "parent_energy"
+      },
+      {
+        "group": "mixed_14/5",
+        "name": "parent_energy"
+      },
+      {
+        "group": "mixed_29/10",
+        "name": "parent_energy"
+      },
+      {
+        "group": "mixed_3",
+        "name": "parent_energy"
+      },
+      {
+        "group": "mixed_31/10",
+        "name": "parent_energy"
+      },
+      {
+        "group": "mixed_16/5",
+        "name": "parent_energy"
+      },
+      {
+        "group": "mixed_33/10",
+        "name": "parent_energy"
+      },
+      {
+        "group": "mixed_17/5",
+        "name": "parent_energy"
+      },
+      {
+        "group": "mixed_7/2",
+        "name": "parent_energy"
+      }
+    ],
+    [
+      {
+        "group": "mixed_7/2",
+        "name": "packet_root_9"
+      }
+    ],
+    [
+      {
+        "group": "mixed_7/2",
+        "name": "parent_energy_direct"
+      }
+    ]
+  ],
+  "qualification": "Requires the independent source/proxy and intrinsic-cap proofs; adjustable child orders and numerical budgets are restored first.",
+  "rows": [
+    {
+      "group": "mixed_27/10",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "1248/125",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2621/125",
+        "4867/250",
+        "6117/250"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "parent_energy_direct",
+      "canonical_power": "42451/5000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "41201/2500",
+        "41201/2500",
+        "46201/2500"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "6837/625",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "26723/1250",
+        "26723/1250",
+        "29223/1250"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "packet_4",
+      "canonical_power": "843/100",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "843/50",
+        "409/25",
+        "484/25"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "packet_6",
+      "canonical_power": "207/20",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "207/10",
+        "101/5",
+        "116/5"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "packet_8",
+      "canonical_power": "1227/100",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1227/50",
+        "601/25",
+        "676/25"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "packet_root_5",
+      "canonical_power": "204/25",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "891/50",
+        "791/50",
+        "1091/50"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "packet_root_7",
+      "canonical_power": "252/25",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1083/50",
+        "983/50",
+        "1383/50"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "packet_root_9",
+      "canonical_power": "12",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "51/2",
+        "47/2",
+        "67/2"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "mixture_remainder",
+      "canonical_power": "228/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "987/50",
+        "887/50",
+        "1437/50"
+      ]
+    },
+    {
+      "group": "mixed_27/10",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "2431/250",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2556/125",
+        "4737/250",
+        "5987/250"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "parent_energy_direct",
+      "canonical_power": "338613/40000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "328613/20000",
+        "328613/20000",
+        "368613/20000"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "426173/40000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "416173/20000",
+        "416173/20000",
+        "456173/20000"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "packet_4",
+      "canonical_power": "1691/200",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1691/100",
+        "1641/100",
+        "1941/100"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "packet_6",
+      "canonical_power": "403/40",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "403/20",
+        "393/20",
+        "453/20"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "packet_8",
+      "canonical_power": "2339/200",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2339/100",
+        "2289/100",
+        "2589/100"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "packet_root_5",
+      "canonical_power": "811/100",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "443/25",
+        "393/25",
+        "543/25"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "packet_root_7",
+      "canonical_power": "973/100",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "524/25",
+        "474/25",
+        "674/25"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "packet_root_9",
+      "canonical_power": "227/20",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "121/5",
+        "111/5",
+        "161/5"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "mixture_remainder",
+      "canonical_power": "223/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "967/50",
+        "867/50",
+        "1417/50"
+      ]
+    },
+    {
+      "group": "mixed_14/5",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "1183/125",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2491/125",
+        "4607/250",
+        "5857/250"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "parent_energy_direct",
+      "canonical_power": "168809/20000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "163809/10000",
+        "163809/10000",
+        "183809/10000"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "207389/20000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "202389/10000",
+        "202389/10000",
+        "222389/10000"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "packet_4",
+      "canonical_power": "212/25",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "424/25",
+        "823/50",
+        "973/50"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "packet_6",
+      "canonical_power": "49/5",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "98/5",
+        "191/10",
+        "221/10"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "packet_8",
+      "canonical_power": "278/25",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "556/25",
+        "1087/50",
+        "1237/50"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "packet_root_5",
+      "canonical_power": "403/50",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "881/50",
+        "781/50",
+        "1081/50"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "packet_root_7",
+      "canonical_power": "469/50",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1013/50",
+        "913/50",
+        "1313/50"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "packet_root_9",
+      "canonical_power": "107/10",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "229/10",
+        "209/10",
+        "309/10"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "mixture_remainder",
+      "canonical_power": "218/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "947/50",
+        "847/50",
+        "1397/50"
+      ]
+    },
+    {
+      "group": "mixed_29/10",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "2301/250",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2426/125",
+        "4477/250",
+        "5727/250"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "parent_energy_direct",
+      "canonical_power": "336623/40000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "326623/20000",
+        "326623/20000",
+        "366623/20000"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "403383/40000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "393383/20000",
+        "393383/20000",
+        "433383/20000"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "packet_4",
+      "canonical_power": "1701/200",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1701/100",
+        "1651/100",
+        "1951/100"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "packet_6",
+      "canonical_power": "381/40",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "381/20",
+        "371/20",
+        "431/20"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "packet_8",
+      "canonical_power": "2109/200",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2109/100",
+        "2059/100",
+        "2359/100"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "packet_root_5",
+      "canonical_power": "801/100",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "438/25",
+        "388/25",
+        "538/25"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "packet_root_7",
+      "canonical_power": "903/100",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "489/25",
+        "439/25",
+        "639/25"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "packet_root_9",
+      "canonical_power": "201/20",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "108/5",
+        "98/5",
+        "148/5"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "mixture_remainder",
+      "canonical_power": "213/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "927/50",
+        "827/50",
+        "1377/50"
+      ]
+    },
+    {
+      "group": "mixed_3",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "1118/125",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2361/125",
+        "4347/250",
+        "5597/250"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "parent_energy_direct",
+      "canonical_power": "83907/10000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "81407/5000",
+        "81407/5000",
+        "91407/5000"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "97997/10000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "95497/5000",
+        "95497/5000",
+        "105497/5000"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "packet_4",
+      "canonical_power": "853/100",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "853/50",
+        "414/25",
+        "489/25"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "packet_6",
+      "canonical_power": "37/4",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "37/2",
+        "18",
+        "21"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "packet_8",
+      "canonical_power": "997/100",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "997/50",
+        "486/25",
+        "561/25"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "packet_root_5",
+      "canonical_power": "199/25",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "871/50",
+        "771/50",
+        "1071/50"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "packet_root_7",
+      "canonical_power": "217/25",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "943/50",
+        "843/50",
+        "1243/50"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "packet_root_9",
+      "canonical_power": "47/5",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "203/10",
+        "183/10",
+        "283/10"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "mixture_remainder",
+      "canonical_power": "208/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "907/50",
+        "807/50",
+        "1357/50"
+      ]
+    },
+    {
+      "group": "mixed_31/10",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "2171/250",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2296/125",
+        "4217/250",
+        "5467/250"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "parent_energy_direct",
+      "canonical_power": "334633/40000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "324633/20000",
+        "324633/20000",
+        "364633/20000"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "380593/40000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "370593/20000",
+        "370593/20000",
+        "410593/20000"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "packet_4",
+      "canonical_power": "1711/200",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1711/100",
+        "1661/100",
+        "1961/100"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "packet_6",
+      "canonical_power": "359/40",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "359/20",
+        "349/20",
+        "409/20"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "packet_8",
+      "canonical_power": "1879/200",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1879/100",
+        "1829/100",
+        "2129/100"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "packet_root_5",
+      "canonical_power": "791/100",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "433/25",
+        "383/25",
+        "533/25"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "packet_root_7",
+      "canonical_power": "833/100",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "454/25",
+        "404/25",
+        "604/25"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "packet_root_9",
+      "canonical_power": "35/4",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "17",
+        "27"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "mixture_remainder",
+      "canonical_power": "203/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "887/50",
+        "787/50",
+        "1337/50"
+      ]
+    },
+    {
+      "group": "mixed_16/5",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "1053/125",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2231/125",
+        "4087/250",
+        "5337/250"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "parent_energy_direct",
+      "canonical_power": "166819/20000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "161819/10000",
+        "161819/10000",
+        "181819/10000"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "184599/20000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "179599/10000",
+        "179599/10000",
+        "199599/10000"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "packet_4",
+      "canonical_power": "429/50",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "429/25",
+        "833/50",
+        "983/50"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "packet_6",
+      "canonical_power": "87/10",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "87/5",
+        "169/10",
+        "199/10"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "packet_8",
+      "canonical_power": "441/50",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "441/25",
+        "857/50",
+        "1007/50"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "packet_root_5",
+      "canonical_power": "393/50",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "861/50",
+        "761/50",
+        "1061/50"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "packet_root_7",
+      "canonical_power": "399/50",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "873/50",
+        "773/50",
+        "1173/50"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "packet_root_9",
+      "canonical_power": "81/10",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "177/10",
+        "157/10",
+        "257/10"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "mixture_remainder",
+      "canonical_power": "198/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "867/50",
+        "767/50",
+        "1317/50"
+      ]
+    },
+    {
+      "group": "mixed_33/10",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "2041/250",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2166/125",
+        "3957/250",
+        "5207/250"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "parent_energy_direct",
+      "canonical_power": "332643/40000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "322643/20000",
+        "322643/20000",
+        "362643/20000"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "357803/40000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "347803/20000",
+        "347803/20000",
+        "387803/20000"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "packet_4",
+      "canonical_power": "1721/200",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1721/100",
+        "1671/100",
+        "1971/100"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "packet_6",
+      "canonical_power": "337/40",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "337/20",
+        "327/20",
+        "387/20"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "packet_8",
+      "canonical_power": "1649/200",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1649/100",
+        "1599/100",
+        "1899/100"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "packet_root_5",
+      "canonical_power": "781/100",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "428/25",
+        "378/25",
+        "528/25"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "packet_root_7",
+      "canonical_power": "763/100",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "419/25",
+        "369/25",
+        "569/25"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "packet_root_9",
+      "canonical_power": "149/20",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "82/5",
+        "72/5",
+        "122/5"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "mixture_remainder",
+      "canonical_power": "193/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "847/50",
+        "747/50",
+        "1297/50"
+      ]
+    },
+    {
+      "group": "mixed_17/5",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "parent_energy",
+      "canonical_power": "1507/200",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "1607/100",
+        "1457/100",
+        "1957/100"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "988/125",
+      "rank": 4,
+      "multiplicity": 2,
+      "rational_grades": [
+        "2101/125",
+        "3827/250",
+        "5077/250"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "parent_energy_direct",
+      "canonical_power": "5182/625",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "20103/1250",
+        "20103/1250",
+        "22603/1250"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "43301/5000",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "42051/2500",
+        "42051/2500",
+        "47051/2500"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 2,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "packet_4",
+      "canonical_power": "217/25",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "434/25",
+        "843/50",
+        "993/50"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "packet_6",
+      "canonical_power": "42/5",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "84/5",
+        "163/10",
+        "193/10"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "packet_8",
+      "canonical_power": "203/25",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "406/25",
+        "787/50",
+        "937/50"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "packet_root_5",
+      "canonical_power": "393/50",
+      "rank": 5,
+      "multiplicity": 2,
+      "rational_grades": [
+        "861/50",
+        "761/50",
+        "1061/50"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "packet_root_7",
+      "canonical_power": "379/50",
+      "rank": 7,
+      "multiplicity": 2,
+      "rational_grades": [
+        "833/50",
+        "733/50",
+        "1133/50"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "packet_root_9",
+      "canonical_power": "73/10",
+      "rank": 9,
+      "multiplicity": 2,
+      "rational_grades": [
+        "161/10",
+        "141/10",
+        "241/10"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "mixture_remainder",
+      "canonical_power": "193/25",
+      "rank": 10,
+      "multiplicity": 2,
+      "rational_grades": [
+        "847/50",
+        "747/50",
+        "1297/50"
+      ]
+    },
+    {
+      "group": "mixed_7/2",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 2,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "parent_energy",
+      "canonical_power": "1509/200",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "1609/100",
+        "1459/100",
+        "1959/100"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "parent_intrinsic_cap",
+      "canonical_power": "39/5",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "83/5",
+        "151/10",
+        "201/10"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "parent_energy_direct",
+      "canonical_power": "6633/800",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "6433/400",
+        "6433/400",
+        "7233/400"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "parent_intrinsic_cap_direct",
+      "canonical_power": "6837/800",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "6637/400",
+        "6637/400",
+        "7437/400"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "child_restoration",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "packet_4",
+      "canonical_power": "437/50",
+      "rank": 2,
+      "multiplicity": 1,
+      "rational_grades": [
+        "437/25",
+        "849/50",
+        "999/50"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "packet_6",
+      "canonical_power": "17/2",
+      "rank": 2,
+      "multiplicity": 1,
+      "rational_grades": [
+        "17",
+        "33/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "packet_8",
+      "canonical_power": "413/50",
+      "rank": 2,
+      "multiplicity": 1,
+      "rational_grades": [
+        "413/25",
+        "801/50",
+        "951/50"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "packet_root_5",
+      "canonical_power": "793/100",
+      "rank": 5,
+      "multiplicity": 1,
+      "rational_grades": [
+        "434/25",
+        "384/25",
+        "534/25"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "packet_root_7",
+      "canonical_power": "769/100",
+      "rank": 7,
+      "multiplicity": 1,
+      "rational_grades": [
+        "422/25",
+        "372/25",
+        "572/25"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "packet_root_9",
+      "canonical_power": "149/20",
+      "rank": 9,
+      "multiplicity": 1,
+      "rational_grades": [
+        "82/5",
+        "72/5",
+        "122/5"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "mixture_remainder",
+      "canonical_power": "781/100",
+      "rank": 10,
+      "multiplicity": 1,
+      "rational_grades": [
+        "428/25",
+        "378/25",
+        "653/25"
+      ]
+    },
+    {
+      "group": "mixed_71/20",
+      "name": "covariance_heat",
+      "canonical_power": "19/2",
+      "rank": 2,
+      "multiplicity": 1,
+      "rational_grades": [
+        "19",
+        "37/2",
+        "43/2"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "R_0",
+      "canonical_power": "1509/200",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "1609/100",
+        "1459/100",
+        "1959/100"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "R_1",
+      "canonical_power": "39/5",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "83/5",
+        "151/10",
+        "201/10"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "T_r_0",
+      "canonical_power": "6633/800",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "6433/400",
+        "6433/400",
+        "7233/400"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "T_A_0",
+      "canonical_power": "427/50",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "829/50",
+        "829/50",
+        "929/50"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "T_r_1",
+      "canonical_power": "6837/800",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "6637/400",
+        "6637/400",
+        "7437/400"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "T_A_1",
+      "canonical_power": "1759/200",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "1709/100",
+        "1709/100",
+        "1909/100"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "U_energy",
+      "canonical_power": "1659/200",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "1609/100",
+        "1609/100",
+        "1809/100"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "U_cap",
+      "canonical_power": "171/20",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "83/5",
+        "83/5",
+        "93/5"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "force11",
+      "canonical_power": "33/4",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "35/2",
+        "16",
+        "21"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "force12",
+      "canonical_power": "9",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "35/2",
+        "35/2",
+        "39/2"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "numerical_heat_21over2",
+      "canonical_power": "12",
+      "rank": 2,
+      "multiplicity": 1,
+      "rational_grades": [
+        "24",
+        "47/2",
+        "53/2"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "literal_word",
+      "canonical_power": "151/20",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "161/10",
+        "73/5",
+        "98/5"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "word_direct",
+      "canonical_power": "83/10",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "161/10",
+        "161/10",
+        "181/10"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "word_later_direct",
+      "canonical_power": "211/20",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "103/5",
+        "103/5",
+        "113/5"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "numerical_heat_17over2",
+      "canonical_power": "10",
+      "rank": 2,
+      "multiplicity": 1,
+      "rational_grades": [
+        "20",
+        "39/2",
+        "45/2"
+      ]
+    },
+    {
+      "group": "self",
+      "name": "order16",
+      "canonical_power": "12",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "25",
+        "47/2",
+        "57/2"
+      ]
+    },
+    {
+      "group": "pure",
+      "name": "prior_fourth_restored",
+      "canonical_power": "3999/200",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "4099/100",
+        "3949/100",
+        "4449/100"
+      ]
+    },
+    {
+      "group": "pure",
+      "name": "prior_direct_restored",
+      "canonical_power": "20",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "79/2",
+        "79/2",
+        "83/2"
+      ]
+    },
+    {
+      "group": "tail",
+      "name": "retained_tail_conservative",
+      "canonical_power": "39/5",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "83/5",
+        "151/10",
+        "201/10"
+      ]
+    },
+    {
+      "group": "tail",
+      "name": "order16",
+      "canonical_power": "12",
+      "rank": 4,
+      "multiplicity": 1,
+      "rational_grades": [
+        "25",
+        "47/2",
+        "57/2"
+      ]
+    },
+    {
+      "group": "tail",
+      "name": "numerical_heat",
+      "canonical_power": "10",
+      "rank": 2,
+      "multiplicity": 1,
+      "rational_grades": [
+        "20",
+        "39/2",
+        "45/2"
+      ]
+    },
+    {
+      "group": "tail",
+      "name": "numerical_direct",
+      "canonical_power": "10",
+      "rank": "direct",
+      "multiplicity": 1,
+      "rational_grades": [
+        "39/2",
+        "39/2",
+        "43/2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "created_utc": "2026-10-04T18:41:15.241193+00:00",
+  "status": "PASS_SOURCE_RELATIVE_FIXED_LITERAL_OUTER_INTEGRATION",
+  "theorem_scope": {
+    "source_orders": "R_j=j+1/2 for each fixed integer j>=1",
+    "hidden_depth": "Every fixed d, including d=O(j), in the selected same-heat complete Picard topology",
+    "complete_source_query_exponent": "2j-2=2R_j-3",
+    "fixed_covariance_grades": [
+      "1607/100",
+      "141/10",
+      "22603/1250"
+    ],
+    "not_claimed": "Arbitrary-order outer producer/parameter/chronological closure or a new global sampling theorem"
+  },
+  "checks": {
+    "complete_source_and_exponent_assertions": 471,
+    "independent_refresh_graph_assertions": 851,
+    "intrinsic_author_assertions": 880,
+    "independent_intrinsic_assertions": 1483,
+    "exterior_structural_categories": 152,
+    "exterior_with_multiplicities": 269
+  },
+  "artifacts": [
+    {
+      "relative_path": "LITERAL-OUTER-INTEGRATION-CLOSURE.md",
+      "sha256": "ddd99efedbed9072c9c986fc12de91072b0ddcad6d1beeed81ed556602767e6c",
+      "bytes": 14972
+    },
+    {
+      "relative_path": "MANIFEST_SOURCE_PROXY.json",
+      "sha256": "763a2e33e69f75bb5e1f12c82d2bb0585b369780f3ccde88176fe42d7e94edaa",
+      "bytes": 2355
+    },
+    {
+      "relative_path": "ORDERED-REFRESH-LITERAL-OUTER-PORTS.md",
+      "sha256": "c3174b91086a819ba047435cdf6d828468e30f1a4e45b11a139b8133d53d02b1",
+      "bytes": 36660
+    },
+    {
+      "relative_path": "audit/INDEPENDENT-ORDERED-REFRESH-PORT-AUDIT.md",
+      "sha256": "4be68e17696f1e45547fa10e90f368a1e0b5931449da7255e9ca9ba330b9f607",
+      "bytes": 26465
+    },
+    {
+      "relative_path": "audit/ambient_cap_gate_diagnostic.json",
+      "sha256": "754e874893ce11a89535f470592ad8d9427dace335d3537856b47f82d3bf1c64",
+      "bytes": 1654
+    },
+    {
+      "relative_path": "audit/check_outer_refresh_ports.py",
+      "sha256": "2d70fa3f3d740e072e304aa0689013e5c82c5f38c413ab0caa2d8de1eeeb7bc5",
+      "bytes": 7415
+    },
+    {
+      "relative_path": "audit/outer_refresh_port_checks.json",
+      "sha256": "9cc74413a72027523e9577d554d2c52594366abe63d8fd6295b62514d053eddd",
+      "bytes": 144051
+    },
+    {
+      "relative_path": "check_literal_outer_ledger.py",
+      "sha256": "428108271ca4eb6b986f4c01e9327cd9338f4b430422d71876af36c048636b23",
+      "bytes": 3101
+    },
+    {
+      "relative_path": "check_ordered_refresh_join.py",
+      "sha256": "481616a7d693e3012563b32fe557f0e864e57754cd3ece4e5c3f256e9b289b89",
+      "bytes": 6077
+    },
+    {
+      "relative_path": "intrinsic-cap/INTRINSIC-MARKED-CAP.md",
+      "sha256": "b5d4d170c8734a70c3021d41ef678735058144db9fab22d1df40e1df1714c2b9",
+      "bytes": 20890
+    },
+    {
+      "relative_path": "intrinsic-cap/check_intrinsic_cap.py",
+      "sha256": "336fa00357dedf67f3664438531e6084e426e340b5d8b315cdda054443e3b1a6",
+      "bytes": 5396
+    },
+    {
+      "relative_path": "intrinsic-cap/diagnostics.json",
+      "sha256": "653fbc0ff7e662f7092f59a8aaa0a4632d8fb06939e87a29f13fa98c1135bbd9",
+      "bytes": 629
+    },
+    {
+      "relative_path": "intrinsic-cap/independent-audit/INDEPENDENT-INTRINSIC-CAP-AUDIT.md",
+      "sha256": "01e78896e98bcf0fe2643530c551d0706af1a3bbc37c66a614c3a6aa1f1a04ea",
+      "bytes": 18739
+    },
+    {
+      "relative_path": "intrinsic-cap/independent-audit/check_intrinsic_projection_audit.py",
+      "sha256": "1da918c1eb83ae71e82997770164de335a9b6bf3a031f62a859fc9b4f82b19d5",
+      "bytes": 5618
+    },
+    {
+      "relative_path": "intrinsic-cap/independent-audit/intrinsic_projection_audit_checks.json",
+      "sha256": "7f7a895b12d6c505d803bdd5c78231c569e0a588096b244196733a6db08b49b3",
+      "bytes": 6697
+    },
+    {
+      "relative_path": "literal_outer_ledger_checks.json",
+      "sha256": "1b60aa700285166924c43546536cd9c61517ec61515aeb9f525dead039263799",
+      "bytes": 38092
+    },
+    {
+      "relative_path": "ordered_refresh_join_checks.json",
+      "sha256": "252a71ec103074083df36e66731959c140b914049913d1ea433e431023cd0070",
+      "bytes": 71869
+    },
+    {
+      "relative_path": "audit/MANIFEST.json",
+      "sha256": "01c189ebcd917298614dcca7a16566c26826892d4eddfaa39c7f12d5027fa33f",
+      "bytes": 2009
+    },
+    {
+      "relative_path": "intrinsic-cap/independent-audit/MANIFEST.json",
+      "sha256": "90b4a72890aa9d1f32f02e47985460d33a8ff8fd611bca03d1998d66c03d7f14",
+      "bytes": 2418
+    }
+  ]
+}

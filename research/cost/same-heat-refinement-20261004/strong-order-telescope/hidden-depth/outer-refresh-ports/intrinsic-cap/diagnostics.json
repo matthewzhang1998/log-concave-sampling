@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "assertions": 878,
+  "max_algebra_residual": 6.394995820181779e-15,
+  "min_individual_helper_cross_block": 0.0015455979961857649,
+  "final_mixed_canonical_cap": "39/5",
+  "intrinsic_cap_interior": "83/5",
+  "ambient_cap_interior": "83/5−c",
+  "source_sha256": {
+    "Exact32": "c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff"
+  },
+  "external_source_pins_not_reverified": {
+    "LOW30": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "LOW31": "3de62d349338304cce43af4e49c8862e8c260b1f5816234d63d6abfbc1d004ba"
+  },
+  "scope": "Finite algebra diagnostics only; not execution of the full marked family."
+}

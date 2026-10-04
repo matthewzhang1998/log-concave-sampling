@@ -1,18 +1,19 @@
 {
-  "run_utc": "2026-10-04T18:08:53Z",
+  "run_utc": "2026-10-04T19:05:05Z",
   "python": "3.12.14",
   "packages": {
     "numpy": "2.3.5",
     "scipy": "1.17.0",
-    "mpmath": "1.3.0"
+    "mpmath": "1.3.0",
+    "sympy": "1.14.0"
   },
-  "script_count": 69,
-  "passed_count": 69,
+  "script_count": 76,
+  "passed_count": 76,
   "failed_count": 0,
   "not_run_count": 0,
   "all_pass": true,
   "archived_research_bytes_unchanged": true,
-  "scope": "Diagnostic checks only. Every script ran from its own disposable copy of the complete research payload. Saved results and source bytes were not overwritten. No general matrix endpoint, all-order complexity theorem, or production sampler is verified by these checks.",
+  "scope": "Diagnostic checks only. Every script ran from its own disposable copy of the complete research payload. Saved results and source bytes were not overwritten. Finite algebra and numerical fixtures do not replace analytic proofs of source or outer theorems, execute the full nonlinear sampler, or establish an efficiency improvement.",
   "results": [
     {
       "script": "audit-matched-curl-reconstructed/check_reconstructed_matched_curl.py",
@@ -23,7 +24,7 @@
       "stdout": "{\n  \"all_pass\": true,\n  \"count\": 542,\n  \"analytic_lower\": \"0.000005823451825883353700049176156911303647349272597859315984739845104400513\",\n  \"numerical_limit\": \"0.000005884780025222952937553875581659853529050634124520843395037609592272412\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.527
+      "elapsed_seconds": 0.482
     },
     {
       "script": "audit-shear-transfer/check_shear_transfer.py",
@@ -47,7 +48,7 @@
           ]
         }
       ],
-      "elapsed_seconds": 1.446
+      "elapsed_seconds": 1.485
     },
     {
       "script": "c-common-input/check_affine_owned_root_price.py",
@@ -58,7 +59,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"same_root_Price_current_cases\": 1200,\n  \"worst_identity_residual\": 2.914335439641036e-16,\n  \"scope\": \"Independent Gaussian conditional-covariance tests of the exact \\u2212q/4 root/Price current, including shared sine/cosine root fields and noncommuting matrix coefficients. Does not prove a new native source law.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.159
+      "elapsed_seconds": 0.167
     },
     {
       "script": "c-common-input/check_nonsymmetric_affine_adapter.py",
@@ -69,7 +70,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"known_nonsymmetric_B_cases\": 320,\n  \"max_algebra_error\": 3.4416913763379853e-15,\n  \"scope\": \"Known near-identity affine row, skew extraction, stationary covariance and fork readout. No random/nonlinear B or native nonlinear ancestor is inferred.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.176
+      "elapsed_seconds": 0.213
     },
     {
       "script": "c-common-input/check_one_pair_affine_adapter.py",
@@ -80,7 +81,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"general_symmetric_D_cases\": 320,\n  \"max_identity_residual\": 3.3306690738754696e-15,\n  \"scope\": \"Known-contraction and stationary conditional covariance algebra, exact skew factor and fork readout; source/caller contracts still use the original finite pair proof.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.241
+      "elapsed_seconds": 0.166
     },
     {
       "script": "c-common-input/check_positive_orientation_clock.py",
@@ -91,7 +92,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"spectral_node_rounding_cases\": 56000,\n  \"rows\": [\n    {\n      \"delta\": 0.25,\n      \"panels\": 13,\n      \"per_panel_degree\": 6,\n      \"nodes\": 78,\n      \"spectral_tests\": 4000,\n      \"max_relative_one_energy_multiplier\": 0.019942896085845003,\n      \"max_rounded_multiplier\": 0.01994288628550336,\n      \"sum_w\": 0.9986884515204099,\n      \"sum_w_over_v\": 1.9371797639507757,\n      \"sum_w_over_v_squared\": 6.931624519452845,\n      \"sqrt_weight_absolute_path_sum\": 21.679291279482005\n    },\n    {\n      \"delta\": 0.1,\n      \"panels\": 15,\n      \"per_panel_degree\": 6,\n      \"nodes\": 90,\n      \"spectral_tests\": 4000,\n      \"max_relative_one_energy_multiplier\": 0.00797715633411784,\n      \"max_rounded_multiplier\": 0.00797715468208871,\n      \"sum_w\": 0.9938677393105447,\n      \"sum_w_over_v\": 1.9690159978983206,\n      \"sum_w_over_v_squared\": 8.758137432448644,\n      \"sqrt_weight_absolute_path_sum\": 26.818970527960666\n    },\n    {\n      \"delta\": 0.03,\n      \"panels\": 19,\n      \"per_panel_degree\": 7,\n      \"nodes\": 133,\n      \"spectral_tests\": 4000,\n      \"max_relative_one_energy_multiplier\": 0.0023931467062906983,\n      \"max_rounded_multiplier\": 0.0023931463597121295,\n      \"sum_w\": 0.9993578305838142,\n      \"sum_w_over_v\": 1.9918718206664163,\n      \"sum_w_over_v_squared\": 11.171377604505816,\n      \"sqrt_weight_absolute_path_sum\": 36.4922446564151\n    },\n    {\n      \"delta\": 0.01,\n      \"panels\": 23,\n      \"per_panel_degree\": 8,\n      \"nodes\": 184,\n      \"spectral_tests\": 4000,\n      \"max_relative_one_energy_multiplier\": 0.000797715845796429,\n      \"max_rounded_multiplier\": 0.0007977158570261544,\n      \"sum_w\": 0.999996406943291,\n      \"sum_w_over_v\": 1.997497970416728,\n      \"sum_w_over_v_squared\": 13.369222206012331,\n      \"sqrt_weight_absolute_path_sum\": 46.253221674983266\n    },\n    {\n      \"delta\": 0.003,\n      \"panels\": 26,\n      \"per_panel_degree\": 9,\n      \"nodes\": 234,\n      \"spectral_tests\": 4000,\n      \"max_relative_one_energy_multiplier\": 0.00023931475678029947,\n      \"max_rounded_multiplier\": 0.00023931475671756355,\n      \"sum_w\": 0.9999201548341987,\n      \"sum_w_over_v\": 1.9991702938972673,\n      \"sum_w_over_v_squared\": 15.777089426582386,\n      \"sqrt_weight_absolute_path_sum\": 57.39404305520412\n    },\n    {\n      \"delta\": 0.001,\n      \"panels\": 30,\n      \"per_panel_degree\": 10,\n      \"nodes\": 300,\n      \"spectral_tests\": 4000,\n      \"max_relative_one_energy_multiplier\": 7.977133296701857e-05,\n      \"max_rounded_multiplier\": 7.977133335586592e-05,\n      \"sum_w\": 0.9999999326443815,\n      \"sum_w_over_v\": 1.9997499482703562,\n      \"sum_w_over_v_squared\": 17.974393597405808,\n      \"sqrt_weight_absolute_path_sum\": 68.53242457432114\n    },\n    {\n      \"delta\": 0.0001,\n      \"panels\": 37,\n      \"per_panel_degree\": 11,\n      \"nodes\": 407,\n      \"spectral_tests\": 4000,\n      \"max_relative_one_energy_multiplier\": 7.977041341227664e-06,\n      \"max_rounded_multiplier\": 7.977041342252989e-06,\n      \"sum_w\": 0.9999999993721246,\n      \"sum_w_over_v\": 1.9999749995283753,\n      \"sum_w_over_v_squared\": 22.57956382691853,\n      \"sqrt_weight_absolute_path_sum\": 89.5755983248734\n    }\n  ],\n  \"scope\": \"New independent scalar clock diagnostics. Uniform infinite-degree bounds and source-value encoding obligations are proved in the source, not inferred from this finite sweep.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.176
+      "elapsed_seconds": 0.218
     },
     {
       "script": "c-common-input/check_primitive_heat_counterexample.py",
@@ -102,7 +103,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"provenance\": \"New diagnostic for exact preserved source a025c546; no historical test count is reused.\",\n  \"analytic_limit_coefficient_div_eps_kappa_squared\": 0.010543860537485109,\n  \"uniform_full_Riesz_remainder_div_eps_kappa_squared\": 0.0004,\n  \"certified_eventual_lower_coefficient\": 0.004,\n  \"radial_quadrature_rows\": [\n    {\n      \"m\": 100,\n      \"s\": 0.31622776601683794,\n      \"h0\": 0.44769641978801816,\n      \"hs\": 0.369044651264335,\n      \"main_coefficient_div_eps_kappa_squared\": 0.014782831545891674,\n      \"lower_after_full_Riesz_remainder\": 0.014382831545891674\n    },\n    {\n      \"m\": 1000,\n      \"s\": 0.1778279410038923,\n      \"h0\": 0.44726135582791177,\n      \"hs\": 0.3670280007564446,\n      \"main_coefficient_div_eps_kappa_squared\": 0.01190960505643722,\n      \"lower_after_full_Riesz_remainder\": 0.01150960505643722\n    },\n    {\n      \"m\": 10000,\n      \"s\": 0.1,\n      \"h0\": 0.44721836635256973,\n      \"hs\": 0.36642250679091315,\n      \"main_coefficient_div_eps_kappa_squared\": 0.010971944975220034,\n      \"lower_after_full_Riesz_remainder\": 0.010571944975220035\n    },\n    {\n      \"m\": 100000,\n      \"s\": 0.05623413251903491,\n      \"h0\": 0.44721407252289014,\n      \"hs\": 0.36623413673064303,\n      \"main_coefficient_div_eps_kappa_squared\": 0.010672369033622052,\n      \"lower_after_full_Riesz_remainder\": 0.010272369033622053\n    },\n    {\n      \"m\": 1000000,\n      \"s\": 0.03162277660168379,\n      \"h0\": 0.4472136431894562,\n      \"hs\": 0.3661748787648091,\n      \"main_coefficient_div_eps_kappa_squared\": 0.010577323650964447,\n      \"lower_after_full_Riesz_remainder\": 0.010177323650964448\n    }\n  ],\n  \"matrix_identity_cases\": 1000,\n  \"max_matrix_identity_error\": 6.938893903907228e-18,\n  \"scope\": \"The proof uses CLT and a uniform full-mark remainder bound. These numerical radial integrals and matrix checks do not replace that proof or imply an actual CW7 batch admission.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.428
+      "elapsed_seconds": 0.405
     },
     {
       "script": "c-common-input/check_reconstructed_whole_source_heat.py",
@@ -113,7 +114,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"provenance\": \"New run for reconstructed theorem; it also agrees with the recorded historical diagnostic values.\",\n  \"mixed_chaos_heat_cases\": 1080,\n  \"max_divergence_identity_error\": 2.220446049250313e-16,\n  \"max_HS_bound_ratio\": 0.862099554749699,\n  \"max_operator_bound_ratio\": 0.8615293385371516,\n  \"scope\": \"Analytical finite-chaos/row-covariance identity, not an executed orientation source.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.233
+      "elapsed_seconds": 0.236
     },
     {
       "script": "c-native-twin/auxiliary-heat/check_auxiliary_calibration_boundary.py",
@@ -124,7 +125,7 @@
       "stdout": "{\n  \"native_value_boundary\": [\n    {\n      \"a\": 0.02,\n      \"sigma\": 0.3092494947109917,\n      \"k\": 429.9356981904844,\n      \"kaepsilon\": 0.2543082787833219,\n      \"kasigma\": 2.6591479484724947,\n      \"normalized_energy\": 0.1274141791507716,\n      \"limit_energy\": 0.1275,\n      \"relative_value_change\": 0.13598576785108768,\n      \"limit_relative_value_change\": 0.140028008402801,\n      \"L2_expansion_error\": 0.0027954469160087776,\n      \"samples\": 240000\n    },\n    {\n      \"a\": 0.006,\n      \"sigma\": 0.21549905751542067,\n      \"k\": 2778.852926362746,\n      \"kaepsilon\": 0.16686026832682727,\n      \"kasigma\": 3.5930411196308425,\n      \"normalized_energy\": 0.12732817225105034,\n      \"limit_energy\": 0.1275,\n      \"relative_value_change\": 0.1401596089167138,\n      \"limit_relative_value_change\": 0.140028008402801,\n      \"L2_expansion_error\": 0.0015774477663177307,\n      \"samples\": 240000\n    },\n    {\n      \"a\": 0.002,\n      \"sigma\": 0.1549918987548337,\n      \"k\": 15254.694222746937,\n      \"kaepsilon\": 0.11359533548066278,\n      \"kasigma\": 4.72870804501588,\n      \"normalized_energy\": 0.12755174610750958,\n      \"limit_energy\": 0.1275,\n      \"relative_value_change\": 0.1398067814909316,\n      \"limit_relative_value_change\": 0.140028008402801,\n      \"L2_expansion_error\": 0.0009874498439718536,\n      \"samples\": 240000\n    },\n    {\n      \"a\": 0.0006,\n      \"sigma\": 0.10800537648543813,\n      \"k\": 98597.42249844056,\n      \"kaepsilon\": 0.0745337440435008,\n      \"kasigma\": 6.389431042462728,\n      \"normalized_energy\": 0.12770988932512364,\n      \"limit_energy\": 0.1275,\n      \"relative_value_change\": 0.1396947807197194,\n      \"limit_relative_value_change\": 0.140028008402801,\n      \"L2_expansion_error\": 0.000614956462732344,\n      \"samples\": 240000\n    },\n    {\n      \"a\": 0.0002,\n      \"sigma\": 0.07767996097157338,\n      \"k\": 541256.9758894684,\n      \"kaepsilon\": 0.05074117250409621,\n      \"kasigma\": 8.40896415253715,\n      \"normalized_energy\": 0.1276478781890636,\n      \"limit_energy\": 0.1275,\n      \"relative_value_change\": 0.1405511784048855,\n      \"limit_relative_value_change\": 0.140028008402801,\n      \"L2_expansion_error\": 0.000404222302156568,\n      \"samples\": 240000\n    },\n    {\n      \"a\": 6e-05,\n      \"sigma\": 0.054130915857608784,\n      \"k\": 3498368.5646366477,\n      \"kaepsilon\": 0.03329300052581139,\n      \"kasigma\": 11.362193664674999,\n      \"normalized_energy\": 0.12745791509234372,\n      \"limit_energy\": 0.1275,\n      \"relative_value_change\": 0.14002065479776393,\n      \"limit_relative_value_change\": 0.140028008402801,\n      \"L2_expansion_error\": 0.00026127300377164344,\n      \"samples\": 240000\n    }\n  ],\n  \"rotation_checks\": 1440,\n  \"max_rotation_orthogonality_error\": 1.0383906067911246e-14,\n  \"max_h_regression_identity_error\": 5.063396036227354e-15,\n  \"scope\": \"Native scalar common-heat source and exact known Gaussian algebra. Monte Carlo supports, but does not replace, the analytical limits.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.425
+      "elapsed_seconds": 0.438
     },
     {
       "script": "c-native-twin/auxiliary-heat/check_common_auxiliary_heat.py",
@@ -135,7 +136,7 @@
       "stdout": "{\n  \"checks\": 4200,\n  \"max_pointwise_mark_ratio\": 1.0048589671388342,\n  \"max_mixed_difference_ratio\": 0.23389836629074806,\n  \"max_auxiliary_gradient_skew\": 4.0222604199351414e-25,\n  \"scope\": \"Exact source identities and finite-dimensional diagnostics. The dimension-uniform drift restoration is proved in the companion note, not inferred from these samples.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.296
+      "elapsed_seconds": 0.309
     },
     {
       "script": "c-native-twin/auxiliary-heat/check_rank_aware_restoration.py",
@@ -146,7 +147,7 @@
       "stdout": "{\n  \"checks\": 14400,\n  \"max_relative_product_error\": 0.08108712275125957,\n  \"min_fixed_Q_pairing\": 0.0722037208502108,\n  \"max_common_readout_residual\": 8.179129209738071e-16,\n  \"max_gradient_first_multiplier\": 8.131330840206303,\n  \"scope\": \"Exact deterministic matrix diagnostics for the analytical rank-aware energy bound and projected-gradient offspring. No sample-estimated Gaussian lower bound is used.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.625
+      "elapsed_seconds": 0.578
     },
     {
       "script": "c-native-twin/check_shared_ancestor_column.py",
@@ -157,7 +158,7 @@
       "stdout": "{\n  \"checks\": 576,\n  \"max_calibration_ratio_to_e_4minusK_over_s0v\": 0.29440065218622896,\n  \"max_energy_ratio_to_K_e_over_s0v\": 1.5201031313723927,\n  \"scope\": \"Literal paired finite filter with one shared ancestor Gaussian and fixed terminal/twin feedback; no adjoint or stationary completion.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.918
+      "elapsed_seconds": 0.835
     },
     {
       "script": "c-native-twin/check_two_node_twin.py",
@@ -168,7 +169,7 @@
       "stdout": "{\n  \"checks\": 1440,\n  \"max_algebra_residual\": 1.6751537584003938e-17,\n  \"scope\": \"Literal K3 VALUE twin, complete first algebra, protected/coisometric identities and exact conditional regrouping; no joint heat repair is certified.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.179
+      "elapsed_seconds": 0.195
     },
     {
       "script": "c-native-twin/coherent-drift/check_coherent_drift.py",
@@ -179,7 +180,7 @@
       "stdout": "{\n  \"rows\": [\n    {\n      \"N\": 200,\n      \"a\": 0.052680513844533226,\n      \"epsilon\": 0.07071067811865475,\n      \"dimension\": \"910415631692\",\n      \"mean_shift\": -3.1376721086764476,\n      \"shift_L2_error\": 0.004365542361150952,\n      \"coordinate_L2_limit_error\": 0.0018577903766864455,\n      \"hidden_first_chaos\": 0.01115702249179325,\n      \"limit_first_chaos\": 0.011131945829917386,\n      \"energy_over_ra\": 0.04654939509419224,\n      \"samples\": 180000\n    },\n    {\n      \"N\": 1000,\n      \"a\": 0.021544346900318832,\n      \"epsilon\": 0.03162277660168379,\n      \"dimension\": \"136085875831029\",\n      \"mean_shift\": -3.140807917899442,\n      \"shift_L2_error\": 0.0008602310363164162,\n      \"coordinate_L2_limit_error\": 0.0006070704936367479,\n      \"hidden_first_chaos\": 0.011107297133408193,\n      \"limit_first_chaos\": 0.011131945829917386,\n      \"energy_over_ra\": 0.04635566381377885,\n      \"samples\": 180000\n    },\n    {\n      \"N\": 5000,\n      \"a\": 0.008810826802697265,\n      \"epsilon\": 0.01414213562373095,\n      \"dimension\": \"20341660397771288\",\n      \"mean_shift\": -3.141435463536551,\n      \"shift_L2_error\": 0.0001698978603066087,\n      \"coordinate_L2_limit_error\": 0.00022669578398148356,\n      \"hidden_first_chaos\": 0.011074666182873628,\n      \"limit_first_chaos\": 0.011131945829917386,\n      \"energy_over_ra\": 0.046265036810145994,\n      \"samples\": 180000\n    },\n    {\n      \"N\": 20000,\n      \"a\": 0.004078860865480239,\n      \"epsilon\": 0.007071067811865475,\n      \"dimension\": \"1518664804300522496\",\n      \"mean_shift\": -3.1415534401000462,\n      \"shift_L2_error\": 4.1938016925550985e-05,\n      \"coordinate_L2_limit_error\": 0.00010200359327773363,\n      \"hidden_first_chaos\": 0.011124148095276686,\n      \"limit_first_chaos\": 0.011131945829917386,\n      \"energy_over_ra\": 0.04619121741062456,\n      \"samples\": 180000\n    },\n    {\n      \"N\": 100000,\n      \"a\": 0.0016681005372000584,\n      \"epsilon\": 0.0031622776601683794,\n      \"dimension\": \"227004922579079823360\",\n      \"mean_shift\": -3.141584788406449,\n      \"shift_L2_error\": 8.321754230474007e-06,\n      \"coordinate_L2_limit_error\": 4.1140618534271486e-05,\n      \"hidden_first_chaos\": 0.011189521780069402,\n      \"limit_first_chaos\": 0.011131945829917386,\n      \"energy_over_ra\": 0.04623614582117299,\n      \"samples\": 180000\n    }\n  ],\n  \"analytic_positive_first_chaos\": 0.011131945829917386,\n  \"orientation_limit_lower_bound\": 0.00012392021796021508,\n  \"scope\": \"Exact low-dimensional sampling of native radial sufficient statistics; proof uses Gaussian concentration and heat-gradient isometry, not this Monte Carlo diagnostic.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.447
+      "elapsed_seconds": 0.409
     },
     {
       "script": "c-native-twin/coherent-drift/check_uniform_iteration.py",
@@ -190,7 +191,7 @@
       "stdout": "{\n  \"checks\": 237,\n  \"rows\": [\n    {\n      \"N\": 200,\n      \"maximum_h_j_plus_pi_L2_for_3_to_41\": 0.004371205230642486,\n      \"h2_plus_pi_L2\": 0.004364182883168529,\n      \"supremum_Lh_minus_L0_L2\": 4.975402445166681e-06\n    },\n    {\n      \"N\": 1000,\n      \"maximum_h_j_plus_pi_L2_for_3_to_41\": 0.0008622659364809373,\n      \"h2_plus_pi_L2\": 0.0008610415016107037,\n      \"supremum_Lh_minus_L0_L2\": 3.833292537374803e-07\n    },\n    {\n      \"N\": 5000,\n      \"maximum_h_j_plus_pi_L2_for_3_to_41\": 0.0001697299658431825,\n      \"h2_plus_pi_L2\": 0.0001695198014606203,\n      \"supremum_Lh_minus_L0_L2\": 2.8417945353380937e-08\n    }\n  ],\n  \"scope\": \"Literal two-step finite twin recurrence on exact radial Gaussian sufficient statistics; no iteration is replaced by a law reference.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.205
+      "elapsed_seconds": 0.211
     },
     {
       "script": "c-native-twin/joint-noise-obstruction/check_native_joint_noise.py",
@@ -201,7 +202,7 @@
       "stdout": "{\n  \"checks\": 946,\n  \"odd_residual_variance\": 0.06445291721025131,\n  \"even_residual_variance\": 0.19978820044686407,\n  \"uniform_shift_gaussian_W2_constant\": 0.025387579091014436,\n  \"uniform_joint_pair_constant\": 0.017951729333166112,\n  \"paired_E_constant_in_units_r_a_rho\": 0.004062012654562311,\n  \"paired_E_constant_relative_to_actual_e_upper\": 0.01880561414149218,\n  \"max_projection_identity_error\": 3.903127820947816e-18,\n  \"smallest_optimized_paired_E_ratio\": 0.005035468984335122,\n  \"scope\": \"One original strongly convex primitive; exact conditional Gaussian insertion only. Gaussian mixtures or weaker same-E coefficient comparisons are not ruled out.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.476
+      "elapsed_seconds": 0.519
     },
     {
       "script": "c-shear-audit/check_hidden_ancestor_transfer.py",
@@ -212,7 +213,7 @@
       "stdout": "{\n  \"checks\": 856,\n  \"largest_scalar_transfer_to_a_ratio\": 0.01574146200614848,\n  \"self_adjoint_residual\": 0.0,\n  \"scope\": \"Scalar nonlinear common-root high-frequency transfer and vector Hilbert/OU algebra; this does not certify host retention or an arbitrary nonlinear ancestor.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.23
+      "elapsed_seconds": 0.254
     },
     {
       "script": "c-shear-audit/check_shear_constant_join.py",
@@ -223,7 +224,7 @@
       "stdout": "{\n  \"checks\": 2400,\n  \"max_relative_or_algebra_residual\": 7.575801869934156e-13,\n  \"scope\": \"Exact fork covariance, full-square wedge, Price/Riesz coefficient, and rational exponent guards. Source admission and retained-host return are not inferred from these tests.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.132
+      "elapsed_seconds": 0.153
     },
     {
       "script": "cost/check_cost_schedules.py",
@@ -234,7 +235,7 @@
       "stdout": "PASS: 95233 rational checks\n7 0 0 0 0\n15/2 10.5 2.1 2.1 2.1\n8 69.866667 11.2 4.7 4.7\n17/2 413.47778 63.466667 7.8 7.8\n9 2502.4667 380.8 11.541176 11.4\n19/2 15874.922 2411.7333 15.982353 15.5\n10 105863.48 16078.222 21.139319 20.1\n21/2 741080.07 112547.56 27.026285 25.2\n11 5434628.2 825348.74 33.656108 30.8\n23/2 41665530 6327673.7 41.040476 36.9\n12 3.3332429e+08 50621389 49.190062 43.5\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.597
+      "elapsed_seconds": 0.618
     },
     {
       "script": "cost/check_extended_cost_schedules.py",
@@ -245,7 +246,7 @@
       "stdout": "PASS: 71287 exact rational checks\n15/2 21/10 2.1\n8 47/10 4.7\n17/2 799/88 9.079545454545455\n9 35955/1936 18.571797520661157\n19/2 3415725/85184 40.09819919233659\n10 85393125/937024 91.13227089167407\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.449
+      "elapsed_seconds": 0.484
     },
     {
       "script": "cost/check_no_copy_acceptance_arithmetic.py",
@@ -256,7 +257,7 @@
       "stdout": "PASS: 2776 exact rational arithmetic checks; whole-family acceptance remains NOT ESTABLISHED\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.06
+      "elapsed_seconds": 0.058
     },
     {
       "script": "cost/check_recovery_additional.py",
@@ -267,7 +268,29 @@
       "stdout": "PASS: 3863 new additional arithmetic checks\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.046
+      "elapsed_seconds": 0.054
+    },
+    {
+      "script": "cost/growing-order-outer-20261004/direct-mean/check_direct_mean_outer.py",
+      "script_sha256": "f0d2a6ae71e315eb22391af5178a670e3bcb3d757b78557586a090c9b903f9a0",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"claim\": \"Exact accounting and finite C2/non-C3 quarter/mean diagnostics only; not a full sampler execution\",\n  \"assertions\": 6629,\n  \"all_pass\": true,\n  \"max_quarter_input_contraction_ratio\": 0.7797695861133838,\n  \"max_quarter_center_residual_over_A\": 0.8831563814552634\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.202
+    },
+    {
+      "script": "cost/growing-order-outer-20261004/direct-mean/independent-audit/check_direct_mean_outer.py",
+      "script_sha256": "d1e49d70b601cb89288f274c1491d276ac65767b94571e2a30cd0610dbce8237",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\"passed\": 213, \"status\": \"PASS_WITH_EXPLICIT_PREDICTOR_REPAIR\", \"minimum_contraction_ratio\": 0.4925705536315601, \"output\": \"direct_mean_outer_checks.json\"}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 1.291
     },
     {
       "script": "cost/recurrence-audit-20261004/check_recurrence_candidates.py",
@@ -278,7 +301,7 @@
       "stdout": "{\"status\": \"PASS\", \"checks\": 60824, \"sin_gaussian_fourth_cumulant\": -0.2533595131014501, \"source_hashes_verified\": 11}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.487
+      "elapsed_seconds": 0.538
     },
     {
       "script": "cost/same-heat-refinement-20261004/check_same_heat_refinement.py",
@@ -289,7 +312,7 @@
       "stdout": "{\n  \"status\": \"All displayed algebraic fixtures passed; nonlinear compiler remains open\",\n  \"quadratic\": [\n    {\n      \"a\": 0.1,\n      \"c\": -0.03878120798144656,\n      \"c_over_a\": -0.3878120798144656,\n      \"bound\": 0.11111111111111112,\n      \"covariance_identity_error\": 0.0,\n      \"independent_bank_w2\": 0.007944890657084536,\n      \"independent_bank_w2_over_a_1p5\": 0.251239502373789\n    },\n    {\n      \"a\": 0.03,\n      \"c\": -0.011736852587529226,\n      \"c_over_a\": -0.39122841958430754,\n      \"bound\": 0.030927835051546393,\n      \"covariance_identity_error\": -3.469446951953614e-18,\n      \"independent_bank_w2\": 0.0013012089323399256,\n      \"independent_bank_w2_over_a_1p5\": 0.2504177757861339\n    },\n    {\n      \"a\": 0.01,\n      \"c\": -0.00392208425662328,\n      \"c_over_a\": -0.392208425662328,\n      \"bound\": 0.010101010101010102,\n      \"covariance_identity_error\": 0.0,\n      \"independent_bank_w2\": 0.00025014377829805923,\n      \"independent_bank_w2_over_a_1p5\": 0.2501437782980592\n    },\n    {\n      \"a\": 0.003,\n      \"c\": -0.0011776555174488727,\n      \"c_over_a\": -0.3925518391496242,\n      \"bound\": 0.0030090270812437314,\n      \"covariance_identity_error\": 4.336808689942018e-19,\n      \"independent_bank_w2\": 4.108635811460315e-05,\n      \"independent_bank_w2_over_a_1p5\": 0.25004361272337305\n    },\n    {\n      \"a\": 0.001,\n      \"c\": -0.0003926499964921519,\n      \"c_over_a\": -0.3926499964921519,\n      \"bound\": 0.001001001001001001,\n      \"covariance_identity_error\": -4.336808689942018e-19,\n      \"independent_bank_w2\": 7.90615531689326e-06,\n      \"independent_bank_w2_over_a_1p5\": 0.2500145833643301\n    }\n  ],\n  \"quadrature_blind_bumps\": [\n    {\n      \"queries\": 1,\n      \"integral_psi\": 0.016666666666666666,\n      \"guaranteed_integral\": 0.016666666666666666,\n      \"normalized_two_potential_endpoint_gap_coefficient\": 0.03333333333333333,\n      \"hessian_min\": 0.307549912412,\n      \"hessian_max\": 0.692450087588\n    },\n    {\n      \"queries\": 2,\n      \"integral_psi\": 0.0125,\n      \"guaranteed_integral\": 0.011111111111111112,\n      \"normalized_two_potential_endpoint_gap_coefficient\": 0.025,\n      \"hessian_min\": 0.307549912412,\n      \"hessian_max\": 0.692450087588\n    },\n    {\n      \"queries\": 4,\n      \"integral_psi\": 0.007291666666666667,\n      \"guaranteed_integral\": 0.006666666666666667,\n      \"normalized_two_potential_endpoint_gap_coefficient\": 0.014583333333333334,\n      \"hessian_min\": 0.307549912412,\n      \"hessian_max\": 0.692450087588\n    },\n    {\n      \"queries\": 8,\n      \"integral_psi\": 0.00390625,\n      \"guaranteed_integral\": 0.003703703703703704,\n      \"normalized_two_potential_endpoint_gap_coefficient\": 0.0078125,\n      \"hessian_min\": 0.307549912412,\n      \"hessian_max\": 0.692450087588\n    },\n    {\n      \"queries\": 16,\n      \"integral_psi\": 0.002018229166666667,\n      \"guaranteed_integral\": 0.00196078431372549,\n      \"normalized_two_potential_endpoint_gap_coefficient\": 0.004036458333333334,\n      \"hessian_min\": 0.307549912412,\n      \"hessian_max\": 0.692450087588\n    },\n    {\n      \"queries\": 32,\n      \"integral_psi\": 0.001025390625,\n      \"guaranteed_integral\": 0.00101010101010101,\n      \"normalized_two_potential_endpoint_gap_coefficient\": 0.00205078125,\n      \"hessian_min\": 0.307549912412,\n      \"hessian_max\": 0.692450087588\n    }\n  ],\n  \"product_integration\": [\n    {\n      \"intervals\": 4,\n      \"min_weight\": 0.07612046748871326,\n      \"max_row_sum_error\": 0.0\n    },\n    {\n      \"intervals\": 16,\n      \"min_weight\": 0.004815273327803071,\n      \"max_row_sum_error\": 1.1102230246251565e-16\n    },\n    {\n      \"intervals\": 64,\n      \"min_weight\": 0.00030118130379575003,\n      \"max_row_sum_error\": 1.1102230246251565e-16\n    }\n  ]\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.071
+      "elapsed_seconds": 0.094
     },
     {
       "script": "cost/same-heat-refinement-20261004/hidden-flattening/check_hidden_flattening.py",
@@ -300,7 +323,7 @@
       "stdout": "{\n  \"status\": \"PASS: hidden-mean mixture mismatch, decoder normalization tilt, conditioned Gaussian whitening, and quadratic matrix-free actions\",\n  \"scope\": \"No universal impossibility theorem; affine/quadratic simplification requires a separately certified source graph.\",\n  \"latent_mean_mixture\": [\n    {\n      \"a\": 0.2,\n      \"replicas\": 1,\n      \"target_variance\": 0.18181818181818182,\n      \"mixture_variance\": 0.1884297520661157,\n      \"w2\": 0.007683526791081752,\n      \"n_w2_over_a_2p5\": 0.4295222052949905\n    },\n    {\n      \"a\": 0.2,\n      \"replicas\": 4,\n      \"target_variance\": 0.18181818181818182,\n      \"mixture_variance\": 0.1834710743801653,\n      \"w2\": 0.0019338032665880966,\n      \"n_w2_over_a_2p5\": 0.43241155592021313\n    },\n    {\n      \"a\": 0.2,\n      \"replicas\": 16,\n      \"target_variance\": 0.18181818181818182,\n      \"mixture_variance\": 0.18223140495867768,\n      \"w2\": 0.0004842720841934933,\n      \"n_w2_over_a_2p5\": 0.43314611994486096\n    },\n    {\n      \"a\": 0.1,\n      \"replicas\": 1,\n      \"target_variance\": 0.09523809523809523,\n      \"mixture_variance\": 0.09614512471655329,\n      \"w2\": 0.001466073334858209,\n      \"n_w2_over_a_2p5\": 0.4636130954990669\n    },\n    {\n      \"a\": 0.1,\n      \"replicas\": 4,\n      \"target_variance\": 0.09523809523809523,\n      \"mixture_variance\": 0.09546485260770975,\n      \"w2\": 0.0003671705045463769,\n      \"n_w2_over_a_2p5\": 0.46443803359990393\n    },\n    {\n      \"a\": 0.1,\n      \"replicas\": 16,\n      \"target_variance\": 0.09523809523809523,\n      \"mixture_variance\": 0.09529478458049886,\n      \"w2\": 9.183356844366664e-05,\n      \"n_w2_over_a_2p5\": 0.46464518710872127\n    },\n    {\n      \"a\": 0.05,\n      \"replicas\": 1,\n      \"target_variance\": 0.04878048780487806,\n      \"mixture_variance\": 0.04889946460440215,\n      \"w2\": 0.0002691811506608244,\n      \"n_w2_over_a_2p5\": 0.48152588091137255\n    },\n    {\n      \"a\": 0.05,\n      \"replicas\": 4,\n      \"target_variance\": 0.04878048780487806,\n      \"mixture_variance\": 0.048810232004759084,\n      \"w2\": 6.73260348360849e-05,\n      \"n_w2_over_a_2p5\": 0.48174588975681515\n    },\n    {\n      \"a\": 0.05,\n      \"replicas\": 16,\n      \"target_variance\": 0.04878048780487806,\n      \"mixture_variance\": 0.048787923854848314,\n      \"w2\": 1.6833432603224896e-05,\n      \"n_w2_over_a_2p5\": 0.481800954822043\n    },\n    {\n      \"a\": 0.025,\n      \"replicas\": 1,\n      \"target_variance\": 0.02469135802469136,\n      \"mixture_variance\": 0.02470659960371895,\n      \"w2\": 4.849092547573597e-05,\n      \"n_w2_over_a_2p5\": 0.49069366512899065\n    },\n    {\n      \"a\": 0.025,\n      \"replicas\": 4,\n      \"target_variance\": 0.02469135802469136,\n      \"mixture_variance\": 0.024695168419448257,\n      \"w2\": 1.212413413814728e-05,\n      \"n_w2_over_a_2p5\": 0.4907504452345337\n    },\n    {\n      \"a\": 0.025,\n      \"replicas\": 16,\n      \"target_variance\": 0.02469135802469136,\n      \"mixture_variance\": 0.024692310623380585,\n      \"w2\": 3.0311212329825477e-06,\n      \"n_w2_over_a_2p5\": 0.4907646443685244\n    }\n  ],\n  \"decoder_partition_drop\": [\n    {\n      \"a\": 0.2,\n      \"finite_mode_steps\": 8,\n      \"exact_normalized_path_variance\": 0.17807012619703527,\n      \"dropped_partition_variance\": 0.17461814074393295,\n      \"w2_over_a_1p5\": 0.04595350695713228\n    },\n    {\n      \"a\": 0.1,\n      \"finite_mode_steps\": 8,\n      \"exact_normalized_path_variance\": 0.09415894059397012,\n      \"dropped_partition_variance\": 0.09312758425000622,\n      \"w2_over_a_1p5\": 0.053289559109752783\n    },\n    {\n      \"a\": 0.05,\n      \"finite_mode_steps\": 8,\n      \"exact_normalized_path_variance\": 0.04849034471809481,\n      \"dropped_partition_variance\": 0.04820702241993022,\n      \"w2_over_a_1p5\": 0.05762406517265076\n    },\n    {\n      \"a\": 0.025,\n      \"finite_mode_steps\": 8,\n      \"exact_normalized_path_variance\": 0.024616093871474613,\n      \"dropped_partition_variance\": 0.024541741802208594,\n      \"w2_over_a_1p5\": 0.05998902402195327\n    }\n  ],\n  \"favorable_joint_whitening\": [\n    {\n      \"decoder_steps\": 1,\n      \"latent_scalar_dimension\": 2,\n      \"gaussian_map_condition\": 1.9663058539321205,\n      \"normalized_joint_precision_min\": 0.9910894554171432,\n      \"normalized_joint_precision_max\": 1.0342154226316371\n    },\n    {\n      \"decoder_steps\": 2,\n      \"latent_scalar_dimension\": 4,\n      \"gaussian_map_condition\": 2.641092707958822,\n      \"normalized_joint_precision_min\": 0.9893544913305888,\n      \"normalized_joint_precision_max\": 1.0483451113923918\n    },\n    {\n      \"decoder_steps\": 4,\n      \"latent_scalar_dimension\": 8,\n      \"gaussian_map_condition\": 3.335549564620632,\n      \"normalized_joint_precision_min\": 0.9877685895248649,\n      \"normalized_joint_precision_max\": 1.064962153971253\n    },\n    {\n      \"decoder_steps\": 8,\n      \"latent_scalar_dimension\": 16,\n      \"gaussian_map_condition\": 3.8275733246807344,\n      \"normalized_joint_precision_min\": 0.9869258154133804,\n      \"normalized_joint_precision_max\": 1.078622179854432\n    },\n    {\n      \"decoder_steps\": 16,\n      \"latent_scalar_dimension\": 32,\n      \"gaussian_map_condition\": 4.064176099560266,\n      \"normalized_joint_precision_min\": 0.9866210231757829,\n      \"normalized_joint_precision_max\": 1.0861324912689336\n    },\n    {\n      \"decoder_steps\": 32,\n      \"latent_scalar_dimension\": 64,\n      \"gaussian_map_condition\": 4.147853410301807,\n      \"normalized_joint_precision_min\": 0.9865315672807202,\n      \"normalized_joint_precision_max\": 1.0890647293216733\n    }\n  ],\n  \"quadratic_polynomials\": [\n    {\n      \"b\": 0.1,\n      \"degree\": 2,\n      \"inverse_error\": 0.0003533190328085425,\n      \"square_root_error\": 0.00011136289735683033\n    },\n    {\n      \"b\": 0.1,\n      \"degree\": 4,\n      \"inverse_error\": 1.8500024736116919e-06,\n      \"square_root_error\": 4.578719448809211e-07\n    },\n    {\n      \"b\": 0.1,\n      \"degree\": 8,\n      \"inverse_error\": 5.0720415460488327e-11,\n      \"square_root_error\": 9.439384658589513e-12\n    },\n    {\n      \"b\": 0.03,\n      \"degree\": 2,\n      \"inverse_error\": 1.0012552304069614e-05,\n      \"square_root_error\": 3.137286053758608e-06\n    },\n    {\n      \"b\": 0.03,\n      \"degree\": 4,\n      \"inverse_error\": 4.718376362219943e-09,\n      \"square_root_error\": 1.1632285599281833e-09\n    },\n    {\n      \"b\": 0.03,\n      \"degree\": 8,\n      \"inverse_error\": 9.967008025687875e-16,\n      \"square_root_error\": 4.653715171984236e-16\n    },\n    {\n      \"b\": 0.01,\n      \"degree\": 2,\n      \"inverse_error\": 3.761634936399809e-07,\n      \"square_root_error\": 1.1765688221781196e-07\n    },\n    {\n      \"b\": 0.01,\n      \"degree\": 4,\n      \"inverse_error\": 1.9696266646450085e-11,\n      \"square_root_error\": 4.8501652995232425e-12\n    },\n    {\n      \"b\": 0.01,\n      \"degree\": 8,\n      \"inverse_error\": 1.1102314949223176e-16,\n      \"square_root_error\": 2.320761431808662e-16\n    }\n  ]\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.073
+      "elapsed_seconds": 0.095
     },
     {
       "script": "cost/same-heat-refinement-20261004/hidden-flattening/independent-audit/check_cw7_joint_density.py",
@@ -311,7 +334,7 @@
       "stdout": "{\n  \"all_passed\": true,\n  \"checks\": 15,\n  \"output\": \"cw7_joint_density_checks.json\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.422
+      "elapsed_seconds": 0.426
     },
     {
       "script": "cost/same-heat-refinement-20261004/independent-audit/check_same_heat_audit.py",
@@ -335,7 +358,7 @@
           ]
         }
       ],
-      "elapsed_seconds": 0.189
+      "elapsed_seconds": 0.184
     },
     {
       "script": "cost/same-heat-refinement-20261004/paired-value-test/check_matrix_gap.py",
@@ -346,7 +369,7 @@
       "stdout": "{\n  \"status\": \"PASS: rank-one trace/gap identities and exact affine VALUE calibration\",\n  \"scope\": \"Screens the new empirical rank-one matrix normalization only; not a general sampler lower bound.\",\n  \"heat_window\": [\n    {\n      \"a\": 0.1,\n      \"d\": 1,\n      \"covariance_operator\": 0.00010000000000000005,\n      \"allocated_variance\": 0.00158113883008419,\n      \"necessary_rank\": 0.06324555320336761,\n      \"uncapped_gap_probability\": 0.9999300199657403\n    },\n    {\n      \"a\": 0.1,\n      \"d\": 10,\n      \"covariance_operator\": 0.00010000000000000005,\n      \"allocated_variance\": 0.00158113883008419,\n      \"necessary_rank\": 0.6324555320336761,\n      \"uncapped_gap_probability\": 0.8948395758425578\n    },\n    {\n      \"a\": 0.1,\n      \"d\": 100,\n      \"covariance_operator\": 0.00010000000000000005,\n      \"allocated_variance\": 0.00158113883008419,\n      \"necessary_rank\": 6.32455532033676,\n      \"uncapped_gap_probability\": 1.1308360780229307e-23\n    },\n    {\n      \"a\": 0.1,\n      \"d\": 1000,\n      \"covariance_operator\": 0.00010000000000000005,\n      \"allocated_variance\": 0.00158113883008419,\n      \"necessary_rank\": 63.2455532033676,\n      \"uncapped_gap_probability\": 0.0\n    },\n    {\n      \"a\": 0.03,\n      \"d\": 1,\n      \"covariance_operator\": 8.1e-07,\n      \"allocated_variance\": 7.794228634059947e-05,\n      \"necessary_rank\": 0.010392304845413263,\n      \"uncapped_gap_probability\": 1.0\n    },\n    {\n      \"a\": 0.03,\n      \"d\": 10,\n      \"covariance_operator\": 8.1e-07,\n      \"allocated_variance\": 7.794228634059947e-05,\n      \"necessary_rank\": 0.10392304845413262,\n      \"uncapped_gap_probability\": 0.9999999999999997\n    },\n    {\n      \"a\": 0.03,\n      \"d\": 100,\n      \"covariance_operator\": 8.1e-07,\n      \"allocated_variance\": 7.794228634059947e-05,\n      \"necessary_rank\": 1.0392304845413263,\n      \"uncapped_gap_probability\": 0.41174760961084605\n    },\n    {\n      \"a\": 0.03,\n      \"d\": 1000,\n      \"covariance_operator\": 8.1e-07,\n      \"allocated_variance\": 7.794228634059947e-05,\n      \"necessary_rank\": 10.392304845413264,\n      \"uncapped_gap_probability\": 0.0\n    },\n    {\n      \"a\": 0.01,\n      \"d\": 1,\n      \"covariance_operator\": 1e-08,\n      \"allocated_variance\": 5e-06,\n      \"necessary_rank\": 0.002,\n      \"uncapped_gap_probability\": 1.0\n    },\n    {\n      \"a\": 0.01,\n      \"d\": 10,\n      \"covariance_operator\": 1e-08,\n      \"allocated_variance\": 5e-06,\n      \"necessary_rank\": 0.02,\n      \"uncapped_gap_probability\": 1.0\n    },\n    {\n      \"a\": 0.01,\n      \"d\": 100,\n      \"covariance_operator\": 1e-08,\n      \"allocated_variance\": 5e-06,\n      \"necessary_rank\": 0.2,\n      \"uncapped_gap_probability\": 1.0\n    },\n    {\n      \"a\": 0.01,\n      \"d\": 1000,\n      \"covariance_operator\": 1e-08,\n      \"allocated_variance\": 5e-06,\n      \"necessary_rank\": 2.0,\n      \"uncapped_gap_probability\": 4.067165681999616e-44\n    }\n  ],\n  \"value_calibration\": [\n    {\n      \"kind\": \"linear\",\n      \"identity_error\": 0.0,\n      \"max_bracket\": 2.3852447794681098e-18\n    },\n    {\n      \"kind\": \"nonlinear\",\n      \"identity_error\": 0.0,\n      \"max_bracket\": 0.0005402528599323915\n    },\n    {\n      \"kind\": \"linear\",\n      \"identity_error\": -4.336808689942018e-19,\n      \"max_bracket\": 1.734723475976807e-18\n    },\n    {\n      \"kind\": \"nonlinear\",\n      \"identity_error\": 0.0,\n      \"max_bracket\": 0.00015883125528130988\n    },\n    {\n      \"kind\": \"linear\",\n      \"identity_error\": -1.734723475976807e-18,\n      \"max_bracket\": 3.469446951953614e-18\n    },\n    {\n      \"kind\": \"nonlinear\",\n      \"identity_error\": 0.0,\n      \"max_bracket\": 0.0004889075996586251\n    }\n  ],\n  \"R4_exponents\": {\n    \"scalar_final\": 0.6666666666666666,\n    \"fixed_rank_matrix_at_d_equals_a_minus8\": 2.8333333333333335,\n    \"covariance_replica_necessity_at_scalar_count\": 6.5\n  }\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.725
+      "elapsed_seconds": 0.722
     },
     {
       "script": "cost/same-heat-refinement-20261004/paired-value-test/check_paired_value.py",
@@ -357,7 +380,7 @@
       "stdout": "{\n  \"quadratic_packet_identity_abs_error\": 1.3877787807814457e-17,\n  \"near_kink_limit_target\": 0.16666666666666666,\n  \"near_kink_values\": [\n    {\n      \"eta_over_epsilon\": 0.1,\n      \"scaled_pair_mean\": 0.10040477044498727\n    },\n    {\n      \"eta_over_epsilon\": 0.01,\n      \"scaled_pair_mean\": 0.15733738848162054\n    },\n    {\n      \"eta_over_epsilon\": 0.001,\n      \"scaled_pair_mean\": 0.16566463835852996\n    },\n    {\n      \"eta_over_epsilon\": 0.0001,\n      \"scaled_pair_mean\": 0.1665481154900757\n    }\n  ],\n  \"paired_current\": {\n    \"direct\": -8.479250179593834e-05,\n    \"rank_one\": -3.1491578316867336e-05,\n    \"rank_two\": -5.330092347920294e-05,\n    \"abs_residual\": 1.3194062812790786e-16\n  },\n  \"capped_fill\": {\n    \"r\": 0.9701834098105805,\n    \"s\": 0.9837798771302935,\n    \"max_S\": 0.1152,\n    \"gap_limit\": 0.2020072951816187,\n    \"quadratic_equation_abs_error\": 5.551115123125783e-17,\n    \"output_mean\": 0.087,\n    \"input_mean\": 0.087,\n    \"output_variance\": 0.8099999999999999,\n    \"target_variance\": 0.81,\n    \"source_zero_d\": 0.0\n  },\n  \"gaussian_fill_higher_moments\": {\n    \"third\": 0.0008159219999999915,\n    \"minus_half_original_third\": 0.0008159219999999998,\n    \"fourth_cumulant\": 0.0003728856330003083,\n    \"minus_half_original_fourth_cumulant\": 0.00037288563299999985\n  },\n  \"R4_ledger\": {\n    \"sigma_exponent\": 1.25,\n    \"physical_protected_variance_exponent\": 3.5,\n    \"nearest_query_exponent\": 1.0,\n    \"old_final_query_exponent\": 0.9166666666666666,\n    \"optional_scalar_calibrated_final_query_exponent\": 0.6666666666666666,\n    \"remote_M3_query_exponent\": 0.3333333333333333,\n    \"calibrated_covariance_branch_normalized_energy_exponent\": 2.75,\n    \"calibrated_covariance_branch_physical_energy_exponent\": 3.25\n  }\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.108
+      "elapsed_seconds": 0.131
     },
     {
       "script": "cost/same-heat-refinement-20261004/protected-short-refresh/check_weighted_source_graph.py",
@@ -368,7 +391,7 @@
       "stdout": "{\n  \"status\": \"PASS: weighted rows, edge/terminal bounds, identical VALUE map, and projected twin row\",\n  \"scope\": \"Finite scalar block fixtures; tensor-I lifting preserves bounds. General old-block admission uses its supplied operator/readout contract.\",\n  \"fixtures\": [\n    {\n      \"a\": 0.03,\n      \"quarter_nodes\": 2,\n      \"short_nodes\": 1,\n      \"total_original_nodes\": 11,\n      \"weighted_C_norm\": 2.0403510422812237,\n      \"unweighted_C_norm\": 2.512723055574576,\n      \"absolute_edge_schur_bound_over_a\": 2.057746713308134,\n      \"weighted_nonterminal_L_norm_over_h\": 0.0,\n      \"terminal_row_norm_over_a\": 1.0760410772782512,\n      \"same_value_max_error\": 8.326672684688674e-17,\n      \"coisometry_error\": 2.220446049250313e-16\n    },\n    {\n      \"a\": 0.03,\n      \"quarter_nodes\": 8,\n      \"short_nodes\": 3,\n      \"total_original_nodes\": 33,\n      \"weighted_C_norm\": 2.161659935821495,\n      \"unweighted_C_norm\": 4.848717040908289,\n      \"absolute_edge_schur_bound_over_a\": 2.1609220921606407,\n      \"weighted_nonterminal_L_norm_over_h\": 0.6081294966004008,\n      \"terminal_row_norm_over_a\": 1.1024343361826205,\n      \"same_value_max_error\": 1.1102230246251565e-16,\n      \"coisometry_error\": 2.220446049250313e-16\n    },\n    {\n      \"a\": 0.03,\n      \"quarter_nodes\": 32,\n      \"short_nodes\": 11,\n      \"total_original_nodes\": 121,\n      \"weighted_C_norm\": 2.1876671954602536,\n      \"unweighted_C_norm\": 9.580379945709357,\n      \"absolute_edge_schur_bound_over_a\": 2.167005847785057,\n      \"weighted_nonterminal_L_norm_over_h\": 0.7597885821110776,\n      \"terminal_row_norm_over_a\": 1.1040968762196404,\n      \"same_value_max_error\": 2.220446049250313e-16,\n      \"coisometry_error\": 2.220446049250313e-16\n    },\n    {\n      \"a\": 0.03,\n      \"quarter_nodes\": 128,\n      \"short_nodes\": 43,\n      \"total_original_nodes\": 473,\n      \"weighted_C_norm\": 2.193964192630599,\n      \"unweighted_C_norm\": 19.098488041539767,\n      \"absolute_edge_schur_bound_over_a\": 2.1672751248282345,\n      \"weighted_nonterminal_L_norm_over_h\": 0.801319169949847,\n      \"terminal_row_norm_over_a\": 1.10420084155111,\n      \"same_value_max_error\": 2.220446049250313e-16,\n      \"coisometry_error\": 2.220446049250313e-16\n    },\n    {\n      \"a\": 0.01,\n      \"quarter_nodes\": 2,\n      \"short_nodes\": 1,\n      \"total_original_nodes\": 11,\n      \"weighted_C_norm\": 2.0416012302967914,\n      \"unweighted_C_norm\": 2.5133202337695404,\n      \"absolute_edge_schur_bound_over_a\": 2.059264511431393,\n      \"weighted_nonterminal_L_norm_over_h\": 0.0,\n      \"terminal_row_norm_over_a\": 1.0808086075328796,\n      \"same_value_max_error\": 5.551115123125783e-17,\n      \"coisometry_error\": 2.220446049250313e-16\n    },\n    {\n      \"a\": 0.01,\n      \"quarter_nodes\": 8,\n      \"short_nodes\": 3,\n      \"total_original_nodes\": 33,\n      \"weighted_C_norm\": 2.163036735698474,\n      \"unweighted_C_norm\": 4.849677280220732,\n      \"absolute_edge_schur_bound_over_a\": 2.163108069082192,\n      \"weighted_nonterminal_L_norm_over_h\": 0.6084684078033548,\n      \"terminal_row_norm_over_a\": 1.1073151625558186,\n      \"same_value_max_error\": 1.1102230246251565e-16,\n      \"coisometry_error\": 2.220446049250313e-16\n    },\n    {\n      \"a\": 0.01,\n      \"quarter_nodes\": 32,\n      \"short_nodes\": 11,\n      \"total_original_nodes\": 121,\n      \"weighted_C_norm\": 2.1891317841435565,\n      \"unweighted_C_norm\": 9.58219451501794,\n      \"absolute_edge_schur_bound_over_a\": 2.169531772625491,\n      \"weighted_nonterminal_L_norm_over_h\": 0.7603981593861877,\n      \"terminal_row_norm_over_a\": 1.1089846154882634,\n      \"same_value_max_error\": 2.220446049250313e-16,\n      \"coisometry_error\": 2.220446049250313e-16\n    },\n    {\n      \"a\": 0.01,\n      \"quarter_nodes\": 128,\n      \"short_nodes\": 43,\n      \"total_original_nodes\": 473,\n      \"weighted_C_norm\": 2.1954587849939378,\n      \"unweighted_C_norm\": 19.102096694167958,\n      \"absolute_edge_schur_bound_over_a\": 2.1699057721572026,\n      \"weighted_nonterminal_L_norm_over_h\": 0.8020119047422893,\n      \"terminal_row_norm_over_a\": 1.1090890068098018,\n      \"same_value_max_error\": 2.220446049250313e-16,\n      \"coisometry_error\": 2.220446049250313e-16\n    },\n    {\n      \"a\": 0.003,\n      \"quarter_nodes\": 2,\n      \"short_nodes\": 1,\n      \"total_original_nodes\": 11,\n      \"weighted_C_norm\": 2.041925733082335,\n      \"unweighted_C_norm\": 2.513475463161798,\n      \"absolute_edge_schur_bound_over_a\": 2.05965775357606,\n      \"weighted_nonterminal_L_norm_over_h\": 0.0,\n      \"terminal_row_norm_over_a\": 1.0820473535715183,\n      \"same_value_max_error\": 5.551115123125783e-17,\n      \"coisometry_error\": 0.0\n    },\n    {\n      \"a\": 0.003,\n      \"quarter_nodes\": 8,\n      \"short_nodes\": 3,\n      \"total_original_nodes\": 33,\n      \"weighted_C_norm\": 2.1633935872439807,\n      \"unweighted_C_norm\": 4.849926427654833,\n      \"absolute_edge_schur_bound_over_a\": 2.163674241863619,\n      \"weighted_nonterminal_L_norm_over_h\": 0.6085561992117695,\n      \"terminal_row_norm_over_a\": 1.1085840609638518,\n      \"same_value_max_error\": 1.1102230246251565e-16,\n      \"coisometry_error\": 0.0\n    },\n    {\n      \"a\": 0.003,\n      \"quarter_nodes\": 32,\n      \"short_nodes\": 11,\n      \"total_original_nodes\": 121,\n      \"weighted_C_norm\": 2.189511309967239,\n      \"unweighted_C_norm\": 9.582665206783803,\n      \"absolute_edge_schur_bound_over_a\": 2.1701859299427313,\n      \"weighted_nonterminal_L_norm_over_h\": 0.7605560914192246,\n      \"terminal_row_norm_over_a\": 1.1102553989852209,\n      \"same_value_max_error\": 2.220446049250313e-16,\n      \"coisometry_error\": 0.0\n    },\n    {\n      \"a\": 0.003,\n      \"quarter_nodes\": 128,\n      \"short_nodes\": 43,\n      \"total_original_nodes\": 473,\n      \"weighted_C_norm\": 2.1958460699939786,\n      \"unweighted_C_norm\": 19.10303274077546,\n      \"absolute_edge_schur_bound_over_a\": 2.1705870328093626,\n      \"weighted_nonterminal_L_norm_over_h\": 0.8021913884424672,\n      \"terminal_row_norm_over_a\": 1.1103599077879749,\n      \"same_value_max_error\": 2.220446049250313e-16,\n      \"coisometry_error\": 0.0\n    }\n  ]\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.111
+      "elapsed_seconds": 0.11
     },
     {
       "script": "cost/same-heat-refinement-20261004/protected-short-refresh/extension-audit/check_weighted_join.py",
@@ -379,7 +402,7 @@
       "stdout": "PASS bounded weighted-graph, exact-scaling, gradient-reference, child-scale, and recurrence checks\nweighted cases: 4 reference curl: 3.3301253716750984e-10\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.09
+      "elapsed_seconds": 0.103
     },
     {
       "script": "cost/same-heat-refinement-20261004/protected-short-refresh/independent-audit/check_protected_short_refresh.py",
@@ -390,7 +413,7 @@
       "stdout": "PASS: bounded algebraic and numerical diagnostics; weighted graph normalization remains a separate premise.\nquadratic cases 12 nonlinear finite cases 27 finite first iterates 20\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.125
+      "elapsed_seconds": 0.103
     },
     {
       "script": "cost/same-heat-refinement-20261004/randomized-weak/check_all_layer_currents.py",
@@ -401,7 +424,7 @@
       "stdout": "{\n  \"status\": \"PASS: finite current identity, fixed-caller feedback, and zero-Gram path fixture\",\n  \"current_identity\": {\n    \"direct\": -3.132832117781408e-05,\n    \"rank_one_feedback\": -7.641066010304958e-06,\n    \"rank_two\": -2.368725516749433e-05,\n    \"residual\": -1.47925833908491e-17\n  },\n  \"fixed_caller_feedback\": [\n    {\n      \"eta_over_epsilon\": 0.1,\n      \"mean_defect_over_a_epsilon\": 0.08349697916150688\n    },\n    {\n      \"eta_over_epsilon\": 0.01,\n      \"mean_defect_over_a_epsilon\": 0.09805798329866236\n    },\n    {\n      \"eta_over_epsilon\": 0.001,\n      \"mean_defect_over_a_epsilon\": 0.09980081009025846\n    },\n    {\n      \"eta_over_epsilon\": 0.0001,\n      \"mean_defect_over_a_epsilon\": 0.09998001040348754\n    }\n  ],\n  \"retained_path_gap\": [\n    {\n      \"a\": 0.1,\n      \"base_normal_variance\": -2.048259115902739e-17,\n      \"clock_transverse_variance\": 2.166732448796944e-07,\n      \"joint_w2_lower_bound\": 0.0004654817342062891,\n      \"lower_bound_over_a\": 0.0046548173420628905\n    },\n    {\n      \"a\": 0.03,\n      \"base_normal_variance\": 5.597713706985011e-17,\n      \"clock_transverse_variance\": 1.9841865363073036e-08,\n      \"joint_w2_lower_bound\": 0.0001408611563315914,\n      \"lower_bound_over_a\": 0.004695371877719714\n    },\n    {\n      \"a\": 0.01,\n      \"base_normal_variance\": 9.800282654819765e-18,\n      \"clock_transverse_variance\": 2.2159468253575246e-09,\n      \"joint_w2_lower_bound\": 4.707384438685165e-05,\n      \"lower_bound_over_a\": 0.004707384438685165\n    },\n    {\n      \"a\": 0.003,\n      \"base_normal_variance\": -1.0900369280675269e-16,\n      \"clock_transverse_variance\": 1.9979557904657803e-10,\n      \"joint_w2_lower_bound\": 1.4134906403884605e-05,\n      \"lower_bound_over_a\": 0.004711635467961535\n    },\n    {\n      \"a\": 0.001,\n      \"base_normal_variance\": -1.2561404855438758e-17,\n      \"clock_transverse_variance\": 2.2210997981275324e-11,\n      \"joint_w2_lower_bound\": 4.712854547010264e-06,\n      \"lower_bound_over_a\": 0.004712854547010264\n    }\n  ],\n  \"intermediate_reserve_mean\": [\n    {\n      \"eta_over_tau\": 0.1,\n      \"mean_bias_over_a_c_tau\": 0.7120782607137535\n    },\n    {\n      \"eta_over_tau\": 0.03,\n      \"mean_bias_over_a_c_tau\": 0.7695929753489912\n    },\n    {\n      \"eta_over_tau\": 0.01,\n      \"mean_bias_over_a_c_tau\": 0.7881181954930616\n    },\n    {\n      \"eta_over_tau\": 0.003,\n      \"mean_bias_over_a_c_tau\": 0.7949099105417777\n    },\n    {\n      \"eta_over_tau\": 0.001,\n      \"mean_bias_over_a_c_tau\": 0.796887815720752\n    }\n  ],\n  \"scope\": \"No posterior-law or arbitrary-algorithm lower bound is asserted.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.394
+      "elapsed_seconds": 0.404
     },
     {
       "script": "cost/same-heat-refinement-20261004/randomized-weak/independent-audit/check_all_layer_independent.py",
@@ -412,7 +435,7 @@
       "stdout": "{\n  \"status\": \"PASS: vector paired-current identity, smooth capped Gaussian-clock path-gap fixture, and conditional reserve cost envelope\",\n  \"check_count\": 82,\n  \"vector_current\": {\n    \"direct\": -0.004575765055939412,\n    \"rank_one\": -0.00014562724095718254,\n    \"rank_two\": -0.00443013781498224,\n    \"error\": 1.1275702593849246e-17\n  },\n  \"smooth_capped_path_gap\": [\n    {\n      \"a\": 0.1,\n      \"transverse_variance\": 1.839443681052482e-07,\n      \"joint_W2_lower\": 0.00042888736062659643,\n      \"lower_over_a\": 0.004288873606265964,\n      \"first_error\": 1.4152140570544702e-10\n    },\n    {\n      \"a\": 0.03,\n      \"transverse_variance\": 1.677990662546732e-08,\n      \"joint_W2_lower\": 0.00012953727890251254,\n      \"lower_over_a\": 0.0043179092967504185,\n      \"first_error\": 1.0269093908554794e-10\n    },\n    {\n      \"a\": 0.01,\n      \"transverse_variance\": 1.8717729598398715e-09,\n      \"joint_W2_lower\": 4.3263991492231405e-05,\n      \"lower_over_a\": 0.004326399149223141,\n      \"first_error\": 2.1687851514684553e-10\n    },\n    {\n      \"a\": 0.003,\n      \"transverse_variance\": 1.6869267670877662e-10,\n      \"joint_W2_lower\": 1.2988174494854025e-05,\n      \"lower_over_a\": 0.004329391498284675,\n      \"first_error\": 1.8906035070820337e-10\n    },\n    {\n      \"a\": 0.001,\n      \"transverse_variance\": 1.8751051737077046e-11,\n      \"joint_W2_lower\": 4.33024846135612e-06,\n      \"lower_over_a\": 0.00433024846135612,\n      \"first_error\": 8.260694905892763e-11\n    }\n  ],\n  \"stratified_path_gap\": [\n    {\n      \"N\": 1,\n      \"variance\": 1.677990662546714e-08,\n      \"variance_times_N3_over_a2\": 1.864434069496349e-05\n    },\n    {\n      \"N\": 2,\n      \"variance\": 2.1058697337382204e-09,\n      \"variance_times_N3_over_a2\": 1.871884207767307e-05\n    },\n    {\n      \"N\": 4,\n      \"variance\": 2.634963478621925e-10,\n      \"variance_times_N3_over_a2\": 1.8737518070200357e-05\n    },\n    {\n      \"N\": 8,\n      \"variance\": 3.294525627887561e-11,\n      \"variance_times_N3_over_a2\": 1.8742190238649237e-05\n    },\n    {\n      \"N\": 16,\n      \"variance\": 4.118413728292136e-12,\n      \"variance_times_N3_over_a2\": 1.8743358478982877e-05\n    },\n    {\n      \"N\": 32,\n      \"variance\": 5.148097380465911e-13,\n      \"variance_times_N3_over_a2\": 1.8743650551456333e-05\n    },\n    {\n      \"N\": 64,\n      \"variance\": 6.435146794629735e-14,\n      \"variance_times_N3_over_a2\": 1.874372357034908e-05\n    }\n  ],\n  \"reserve_exponents\": [\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 1,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 2,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 3,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 1,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 2,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 3,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 1,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 2,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"5/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 3,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 1,\n      \"count_exponent\": \"2/3\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 2,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 3,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 1,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 2,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 3,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 1,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 2,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"7/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 3,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 1,\n      \"count_exponent\": \"2\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 2,\n      \"count_exponent\": \"2/3\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 3,\n      \"count_exponent\": \"2/9\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 1,\n      \"count_exponent\": \"4/3\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 2,\n      \"count_exponent\": \"1/3\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 3,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 1,\n      \"count_exponent\": \"2/3\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 2,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"11/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 3,\n      \"count_exponent\": \"0\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 1,\n      \"count_exponent\": \"10/3\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 2,\n      \"count_exponent\": \"4/3\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 1,\n      \"power\": 3,\n      \"count_exponent\": \"2/3\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 1,\n      \"count_exponent\": \"8/3\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 2,\n      \"count_exponent\": \"1\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 2,\n      \"power\": 3,\n      \"count_exponent\": \"4/9\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 1,\n      \"count_exponent\": \"2\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 2,\n      \"count_exponent\": \"2/3\"\n    },\n    {\n      \"R\": \"15/2\",\n      \"remaining_force_depth\": 3,\n      \"power\": 3,\n      \"count_exponent\": \"2/9\"\n    }\n  ],\n  \"reserve_envelope\": [\n    {\n      \"tau_over_e\": 0.01,\n      \"total_cost_over_e\": 100.01\n    },\n    {\n      \"tau_over_e\": 0.1,\n      \"total_cost_over_e\": 10.1\n    },\n    {\n      \"tau_over_e\": 0.3,\n      \"total_cost_over_e\": 3.6333333333333333\n    },\n    {\n      \"tau_over_e\": 1.0,\n      \"total_cost_over_e\": 2.0\n    },\n    {\n      \"tau_over_e\": 3.0,\n      \"total_cost_over_e\": 3.3333333333333335\n    },\n    {\n      \"tau_over_e\": 10.0,\n      \"total_cost_over_e\": 10.1\n    },\n    {\n      \"tau_over_e\": 100.0,\n      \"total_cost_over_e\": 100.01\n    }\n  ],\n  \"reserve_bias\": [\n    {\n      \"smoothing_over_tau\": 0.1,\n      \"defect_over_a_tau\": 0.1424156521427507\n    },\n    {\n      \"smoothing_over_tau\": 0.01,\n      \"defect_over_a_tau\": 0.15762363909861232\n    },\n    {\n      \"smoothing_over_tau\": 0.001,\n      \"defect_over_a_tau\": 0.1593775631441504\n    }\n  ],\n  \"scope\": \"No posterior-law or general-algorithm lower bound. The reserve envelope audits the stated conditional C2 certificate, not all possible reserve constructions.\",\n  \"script_sha256\": \"82b707593b5dc71eacebbad1cd1210eeea6568ef561835a301df9cdabdb4629b\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.423
+      "elapsed_seconds": 0.418
     },
     {
       "script": "cost/same-heat-refinement-20261004/randomized-weak/independent-audit/check_scalar_weak_flow.py",
@@ -423,7 +446,7 @@
       "stdout": "{\n  \"status\": \"PASS: deterministic algebra and numerical fixtures; analytic and source boundaries are in the audit\",\n  \"check_count\": 757,\n  \"report_sha256\": \"14ff69c491ab5cbcc3dfcfa196156cefced1c685f4905e5df663a6f8e48f8f27\",\n  \"nonquadratic_density\": [\n    {\n      \"a\": 0.02,\n      \"delta\": 0.01,\n      \"mu_mass\": 1.0,\n      \"chi2_mu_nu_over_a2_delta2\": 0.16918924743474775,\n      \"chi2_convolution_pi_over_a2_delta2\": 0.694272834589816\n    },\n    {\n      \"a\": 0.02,\n      \"delta\": 0.0625,\n      \"mu_mass\": 1.0000000000000007,\n      \"chi2_mu_nu_over_a2_delta2\": 0.17054067674642232,\n      \"chi2_convolution_pi_over_a2_delta2\": 0.6622980033334624\n    },\n    {\n      \"a\": 0.02,\n      \"delta\": 0.25,\n      \"mu_mass\": 1.0000000000000022,\n      \"chi2_mu_nu_over_a2_delta2\": 0.17557522382113425,\n      \"chi2_convolution_pi_over_a2_delta2\": 0.5530244686914889\n    },\n    {\n      \"a\": 0.08,\n      \"delta\": 0.01,\n      \"mu_mass\": 0.9999999999999999,\n      \"chi2_mu_nu_over_a2_delta2\": 0.15179504934685326,\n      \"chi2_convolution_pi_over_a2_delta2\": 0.6767844611734407\n    },\n    {\n      \"a\": 0.08,\n      \"delta\": 0.0625,\n      \"mu_mass\": 0.9999999999999999,\n      \"chi2_mu_nu_over_a2_delta2\": 0.1525380202221292,\n      \"chi2_convolution_pi_over_a2_delta2\": 0.6465847903246399\n    },\n    {\n      \"a\": 0.08,\n      \"delta\": 0.25,\n      \"mu_mass\": 0.9999999999999997,\n      \"chi2_mu_nu_over_a2_delta2\": 0.15482723287178873,\n      \"chi2_convolution_pi_over_a2_delta2\": 0.5430957669723255\n    }\n  ],\n  \"dimension_mixture\": [\n    {\n      \"a\": 0.1,\n      \"d\": 10000000000,\n      \"sd_sqrtV\": 0.016420679735330148,\n      \"sd_over_a\": 0.16420679735330146,\n      \"radial_lower\": 1641.1012369618659,\n      \"lower_over_sqrtd_a2_over_sigma\": 0.41027530924046646\n    },\n    {\n      \"a\": 0.01,\n      \"d\": 100000000000000,\n      \"sd_sqrtV\": 0.0015912291896994525,\n      \"sd_over_a\": 0.15912291896994524,\n      \"radial_lower\": 15911.295378725981,\n      \"lower_over_sqrtd_a2_over_sigma\": 3.9778238446814953\n    },\n    {\n      \"a\": 0.001,\n      \"d\": 999999999999999872,\n      \"sd_sqrtV\": 0.00015867324131147825,\n      \"sd_over_a\": 0.15867324131147825,\n      \"radial_lower\": 158672.2416612946,\n      \"lower_over_sqrtd_a2_over_sigma\": 39.66806041532365\n    }\n  ]\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.502
+      "elapsed_seconds": 0.485
     },
     {
       "script": "cost/same-heat-refinement-20261004/strong-order-telescope/check_strong_order_telescope.py",
@@ -434,7 +457,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"scope\": \"Finite diagnostics, not complete hidden-family admission\",\n  \"num_quadratic_fixtures\": 36,\n  \"max_strong_ratio\": 1.4652916901038244,\n  \"max_law_ratio\": 0.5594146366076913,\n  \"exponents\": {\n    \"protected_v\": \"19/15\",\n    \"short_local_base\": \"17/5\",\n    \"minimal_grid_offset\": \"1/2\",\n    \"minimal_grid_j_cost_offset\": \"-1\",\n    \"minimal_pair_force_energy_j_offset\": \"0\",\n    \"buffer_product_j_plus_cost_exponent\": \"2\",\n    \"seven_offset_buffer_product_exponent\": \"-9/2\",\n    \"known_force_physical_bias_J_offset\": \"3/2\"\n  }\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.146
+      "elapsed_seconds": 0.176
     },
     {
       "script": "cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/full-independent-audit/check_complete_hidden_telescope.py",
@@ -445,7 +468,62 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 1980,\n  \"quadratic_fixtures\": 13,\n  \"nonlinear_fixtures\": 9,\n  \"max_gaussian_strong_ratio\": 0.4707887526433231,\n  \"max_gaussian_law_ratio\": 0.35312315263132527,\n  \"max_nonlinear_strong_ratio\": 0.49115289470536516,\n  \"max_nonlinear_g1_ratio\": 0.5722219229300912\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.788
+      "elapsed_seconds": 0.838
+    },
+    {
+      "script": "cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/audit/check_outer_refresh_ports.py",
+      "script_sha256": "2d70fa3f3d740e072e304aa0689013e5c82c5f38c413ab0caa2d8de1eeeb7bc5",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 851,\n  \"projection_cases\": 33,\n  \"principal_cases\": 33,\n  \"max_projection_ratio\": 0.12976079686827596,\n  \"max_principal_ratio\": 0.5136988452959788\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.266
+    },
+    {
+      "script": "cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/check_literal_outer_ledger.py",
+      "script_sha256": "428108271ca4eb6b986f4c01e9327cd9338f4b430422d71876af36c048636b23",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"structural_categories\": 152,\n  \"with_multiplicities\": 269,\n  \"minima\": [\n    \"1607/100\",\n    \"141/10\",\n    \"22603/1250\"\n  ],\n  \"attainers\": [\n    [\n      {\n        \"group\": \"mixed_27/10\",\n        \"name\": \"parent_energy\"\n      },\n      {\n        \"group\": \"mixed_14/5\",\n        \"name\": \"parent_energy\"\n      },\n      {\n        \"group\": \"mixed_29/10\",\n        \"name\": \"parent_energy\"\n      },\n      {\n        \"group\": \"mixed_3\",\n        \"name\": \"parent_energy\"\n      },\n      {\n        \"group\": \"mixed_31/10\",\n        \"name\": \"parent_energy\"\n      },\n      {\n        \"group\": \"mixed_16/5\",\n        \"name\": \"parent_energy\"\n      },\n      {\n        \"group\": \"mixed_33/10\",\n        \"name\": \"parent_energy\"\n      },\n      {\n        \"group\": \"mixed_17/5\",\n        \"name\": \"parent_energy\"\n      },\n      {\n        \"group\": \"mixed_7/2\",\n        \"name\": \"parent_energy\"\n      }\n    ],\n    [\n      {\n        \"group\": \"mixed_7/2\",\n        \"name\": \"packet_root_9\"\n      }\n    ],\n    [\n      {\n        \"group\": \"mixed_7/2\",\n        \"name\": \"parent_energy_direct\"\n      }\n    ]\n  ],\n  \"qualification\": \"Requires the independent source/proxy and intrinsic-cap proofs; adjustable child orders and numerical budgets are restored first.\"\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.042
+    },
+    {
+      "script": "cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/check_ordered_refresh_join.py",
+      "script_sha256": "481616a7d693e3012563b32fe557f0e864e57754cd3ece4e5c3f256e9b289b89",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 471,\n  \"complete_fixtures\": 9,\n  \"max_force_ratio\": 0.3324609970032792,\n  \"max_law_ratio\": 0.20601997178903536\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.306
+    },
+    {
+      "script": "cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/check_intrinsic_cap.py",
+      "script_sha256": "b6ea2a4ebd7a95aef69484273c3d235de8463208273f1d188c9178f8ecdc142f",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 878,\n  \"max_algebra_residual\": 6.394995820181779e-15,\n  \"min_individual_helper_cross_block\": 0.0015455979961857649,\n  \"final_mixed_canonical_cap\": \"39/5\",\n  \"intrinsic_cap_interior\": \"83/5\",\n  \"ambient_cap_interior\": \"83/5\\u2212c\",\n  \"source_sha256\": {\n    \"Exact32\": \"c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff\"\n  },\n  \"external_source_pins_not_reverified\": {\n    \"LOW30\": \"7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8\",\n    \"LOW31\": \"3de62d349338304cce43af4e49c8862e8c260b1f5816234d63d6abfbc1d004ba\"\n  },\n  \"scope\": \"Finite algebra diagnostics only; not execution of the full marked family.\"\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.132
+    },
+    {
+      "script": "cost/same-heat-refinement-20261004/strong-order-telescope/hidden-depth/outer-refresh-ports/intrinsic-cap/independent-audit/check_intrinsic_projection_audit.py",
+      "script_sha256": "eddb2739b1cbddbfef2407072d00a518ad965d0cadd67577bad51755555eab0a",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 1481,\n  \"cases\": 36,\n  \"max_equality_residual\": 3.8193299862165935e-10,\n  \"min_reverse_transpose_leak\": 0.09702852536154956,\n  \"min_individual_self_target_change\": 8.450709304632929e-05,\n  \"external_source_pins_not_reverified\": {\n    \"LOW30\": \"7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8\",\n    \"LOW31\": \"3de62d349338304cce43af4e49c8862e8c260b1f5816234d63d6abfbc1d004ba\"\n  },\n  \"candidate_sha256\": \"d063bb296576d8ebf82eb599963bf040fffd7cc79d00a0cf7645e58b77cd31e6\",\n  \"limitations\": [\n    \"No full 10849-level family is simulated.\",\n    \"The complete local-type ledger and proper-cut contracts are proof inputs; these tests do not establish them.\",\n    \"The Exact32 three minima are arithmetic checks of the stated numbers, not a fresh 269-row census.\"\n  ]\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.113
     },
     {
       "script": "cost/same-heat-refinement-20261004/strong-order-telescope/nested-bank-diagnostics/check_nested_bank.py",
@@ -456,7 +534,7 @@
       "stdout": "{\"status\": \"PASS\", \"checks\": 272}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.031
+      "elapsed_seconds": 0.064
     },
     {
       "script": "no-copy-rank-20261004/check_retained_root_observer.py",
@@ -467,7 +545,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"num_nominal_parameter_fixtures\": 15,\n  \"num_weak_energy_parameter_fixtures\": 12,\n  \"num_parameter_fixtures\": 27,\n  \"V_q\": 0.07740906087308774,\n  \"joint_uniform_lower_coefficient\": 0.005513294170504488,\n  \"fixed_observer_sup_bound\": 0.44470019576785125,\n  \"fixed_observer_lipschitz_bound\": 0.47854807921040204,\n  \"positive_clock_variance\": 0.0629319853254629,\n  \"scope\": \"Diagnostic only; exact proof and source contract in adjacent Markdown.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.234
+      "elapsed_seconds": 0.299
     },
     {
       "script": "no-copy-rank-20261004/check_terminal_flat_gate.py",
@@ -478,7 +556,7 @@
       "stdout": "{\n  \"checks\": 46910,\n  \"max_relative_first_error\": 6.400183624397093e-09,\n  \"cases\": [\n    {\n      \"a\": 0.0625,\n      \"q\": 0.005154327776456618,\n      \"common_norm\": 0.0,\n      \"word_skew_over_ra\": 0.0010606601717798223\n    },\n    {\n      \"a\": 0.03125,\n      \"q\": 0.0013810679320049755,\n      \"common_norm\": 0.0,\n      \"word_skew_over_ra\": 0.0010606601717798223\n    },\n    {\n      \"a\": 0.015625,\n      \"q\": 0.00037004798987070263,\n      \"common_norm\": 0.0,\n      \"word_skew_over_ra\": 0.0010606601717798223\n    },\n    {\n      \"a\": 0.0078125,\n      \"q\": 9.915190385207953e-05,\n      \"common_norm\": 0.0,\n      \"word_skew_over_ra\": 0.0010606601717798223\n    },\n    {\n      \"a\": 0.001953125,\n      \"q\": 7.118476803106745e-06,\n      \"common_norm\": 0.0,\n      \"word_skew_over_ra\": 0.0010606601717798223\n    },\n    {\n      \"a\": 0.00048828125,\n      \"q\": 5.110614121133294e-07,\n      \"common_norm\": 0.0,\n      \"word_skew_over_ra\": 0.0010606601717798223\n    }\n  ],\n  \"note\": \"Diagnostics verify finite algebra, Hessian sandwich and exponents; no all-order endpoint closure is claimed.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.271
+      "elapsed_seconds": 0.267
     },
     {
       "script": "no-copy-rank-20261004/endpoint-next/check_independent_midpoint_audit.py",
@@ -489,7 +567,7 @@
       "stdout": "{\n  \"checks\": 8018,\n  \"max_absolute_error\": 1.169583093568738e-16,\n  \"pin_file\": \"MIDPOINT-CONSTRAINT-AND-RETAINED-PARITY-RETURN.md\",\n  \"pin_sha256\": \"1dd68f435099434a400b45da296f7e40645639cdc9c091859020e514b947f1cd\",\n  \"lambda_cases\": [\n    {\n      \"a\": 0.0625,\n      \"rotation_width\": 0.03,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 2.384185791015626e-11\n    },\n    {\n      \"a\": 0.0625,\n      \"rotation_width\": 0.2,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 2.384185791015626e-11\n    },\n    {\n      \"a\": 0.0625,\n      \"rotation_width\": 0.45,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 2.384185791015626e-11\n    },\n    {\n      \"a\": 0.015625,\n      \"rotation_width\": 0.03,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 9.31322574615479e-14\n    },\n    {\n      \"a\": 0.015625,\n      \"rotation_width\": 0.2,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 9.31322574615479e-14\n    },\n    {\n      \"a\": 0.015625,\n      \"rotation_width\": 0.45,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 9.31322574615479e-14\n    },\n    {\n      \"a\": 0.00390625,\n      \"rotation_width\": 0.03,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 3.6379788070917146e-16\n    },\n    {\n      \"a\": 0.00390625,\n      \"rotation_width\": 0.2,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 3.6379788070917146e-16\n    },\n    {\n      \"a\": 0.00390625,\n      \"rotation_width\": 0.45,\n      \"physical_lambda_first_norm\": 0.0,\n      \"orientation_22\": 3.6379788070917146e-16\n    }\n  ],\n  \"scope\": \"Independent finite VALUE/Jacobian checks, exact parity and physical lambda selected-record check. No integrated-law lower bound.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.357
+      "elapsed_seconds": 0.503
     },
     {
       "script": "no-copy-rank-20261004/endpoint-next/check_midpoint_fixed_frame_obstruction.py",
@@ -500,7 +578,7 @@
       "stdout": "{\n  \"symmetry_systems\": [\n    {\n      \"d\": 2,\n      \"equations\": 600,\n      \"unknowns\": 16,\n      \"numerical_nullity\": 1,\n      \"smallest_nonzero_singular\": 4.972850678455547e-06,\n      \"null_singular\": 1.9869349072819823e-17,\n      \"alignment_with_V_scalar\": 0.9999999999999999\n    },\n    {\n      \"d\": 3,\n      \"equations\": 1800,\n      \"unknowns\": 36,\n      \"numerical_nullity\": 1,\n      \"smallest_nonzero_singular\": 5.011686965008597e-06,\n      \"null_singular\": 6.591040490040518e-16,\n      \"alignment_with_V_scalar\": 1.0000000000000002\n    },\n    {\n      \"d\": 4,\n      \"equations\": 3600,\n      \"unknowns\": 64,\n      \"numerical_nullity\": 1,\n      \"smallest_nonzero_singular\": 4.4035867636902895e-06,\n      \"null_singular\": 4.9914088091045575e-17,\n      \"alignment_with_V_scalar\": 1.0000000000000004\n    }\n  ],\n  \"six_distinct_jet_sites\": [\n    [\n      1.0,\n      2.0\n    ],\n    [\n      1.6,\n      2.3\n    ],\n    [\n      3.0000000000000004,\n      0.3999999999999999\n    ],\n    [\n      2.9812500000000006,\n      0.3906249999999999\n    ],\n    [\n      0.8934570312500001,\n      2.412353515625\n    ],\n    [\n      1.29345703125,\n      1.6123535156250002\n    ]\n  ],\n  \"minimum_jet_separation\": 0.02096313728906038,\n  \"beta_checks\": [\n    {\n      \"beta\": -1.0,\n      \"full_first_lower\": 6.400000000000001e-05\n    },\n    {\n      \"beta\": -0.7,\n      \"full_first_lower\": 9.142857142857145e-05\n    },\n    {\n      \"beta\": -0.1,\n      \"full_first_lower\": 0.00064\n    },\n    {\n      \"beta\": 0.1,\n      \"full_first_lower\": 0.00064\n    },\n    {\n      \"beta\": 0.7,\n      \"full_first_lower\": 9.142857142857145e-05\n    },\n    {\n      \"beta\": 1.0,\n      \"full_first_lower\": 6.400000000000001e-05\n    }\n  ],\n  \"beta_zero_N_VV\": -0.0004000000000000001,\n  \"note\": \"Diagnostics only. Independent local-jet realizability and all-frame proof are analytic in MIDPOINT-FIXED-KNOWN-READOUT-NO-GO.md.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.385
+      "elapsed_seconds": 0.375
     },
     {
       "script": "no-copy-rank-20261004/endpoint-next/check_midpoint_retained_parity.py",
@@ -511,7 +589,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 16832,\n  \"max_absolute_identity_error\": 1.0549287138283958e-16,\n  \"scope\": \"Actual finite VALUE/Jacobian algebra and retained parity; no all-rank or integrated-law conclusion.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 1.92
+      "elapsed_seconds": 2.245
     },
     {
       "script": "no-copy-rank-20261004/endpoint-next/check_opposite_baseline_return.py",
@@ -522,7 +600,7 @@
       "stdout": "{\n  \"checks\": 102406,\n  \"max_absolute_identity_error\": 1.9918502403015736e-09,\n  \"fixture_cases\": 45,\n  \"terminal_flat_cases\": [\n    {\n      \"a\": 0.0625,\n      \"word_skew_over_kappa\": 0.0017677669529663704,\n      \"baseline_linear_row_energy_over_kappa\": 0.5024937810560445\n    },\n    {\n      \"a\": 0.015625,\n      \"word_skew_over_kappa\": 0.0017677669529663704,\n      \"baseline_linear_row_energy_over_kappa\": 0.5024937810560445\n    },\n    {\n      \"a\": 0.00390625,\n      \"word_skew_over_kappa\": 0.0017677669529663704,\n      \"baseline_linear_row_energy_over_kappa\": 0.5024937810560445\n    },\n    {\n      \"a\": 0.0009765625,\n      \"word_skew_over_kappa\": 0.0017677669529663704,\n      \"baseline_linear_row_energy_over_kappa\": 0.5024937810560445\n    }\n  ],\n  \"bank_cases\": [\n    {\n      \"n\": 1,\n      \"coefficient_average_energy\": 1.0,\n      \"unit_input_selected_coefficient\": 1.0,\n      \"recovery_amplification\": 1.0\n    },\n    {\n      \"n\": 2,\n      \"coefficient_average_energy\": 0.7071067811865475,\n      \"unit_input_selected_coefficient\": 0.7071067811865475,\n      \"recovery_amplification\": 1.4142135623730951\n    },\n    {\n      \"n\": 3,\n      \"coefficient_average_energy\": 0.5773502691896258,\n      \"unit_input_selected_coefficient\": 0.5773502691896258,\n      \"recovery_amplification\": 1.7320508075688772\n    },\n    {\n      \"n\": 7,\n      \"coefficient_average_energy\": 0.3779644730092272,\n      \"unit_input_selected_coefficient\": 0.3779644730092272,\n      \"recovery_amplification\": 2.6457513110645907\n    },\n    {\n      \"n\": 19,\n      \"coefficient_average_energy\": 0.22941573387056174,\n      \"unit_input_selected_coefficient\": 0.22941573387056174,\n      \"recovery_amplification\": 4.358898943540674\n    },\n    {\n      \"n\": 64,\n      \"coefficient_average_energy\": 0.125,\n      \"unit_input_selected_coefficient\": 0.125,\n      \"recovery_amplification\": 8.0\n    }\n  ]\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.205
+      "elapsed_seconds": 0.297
     },
     {
       "script": "no-copy-rank-20261004/endpoint-next/v-column-escape/check_projected_gradient_escape.py",
@@ -533,7 +611,7 @@
       "stdout": "{\n  \"checks\": 6139,\n  \"max_normalized_finite_difference_error\": 1.1697267428131015e-06,\n  \"max_pair_covariance_error\": 2.5849394142282115e-26,\n  \"cases\": [\n    {\n      \"a\": 0.0625,\n      \"angle\": 0.0,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 2.0421880959813552e-06,\n      \"mixed_baseline_norm\": 0.0\n    },\n    {\n      \"a\": 0.0625,\n      \"angle\": 0.02,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 2.0421880959813552e-06,\n      \"mixed_baseline_norm\": 1.541034954854309e-09\n    },\n    {\n      \"a\": 0.0625,\n      \"angle\": 0.7853981633974483,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 2.0421880959813552e-06,\n      \"mixed_baseline_norm\": 5.448744575488382e-08\n    },\n    {\n      \"a\": 0.0625,\n      \"angle\": 1.5707963267948966,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 2.0421880959813552e-06,\n      \"mixed_baseline_norm\": 7.705688476562506e-08\n    },\n    {\n      \"a\": 0.03125,\n      \"angle\": 0.0,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5969385579228408e-06,\n      \"mixed_baseline_norm\": 0.0\n    },\n    {\n      \"a\": 0.03125,\n      \"angle\": 0.02,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5969385579228408e-06,\n      \"mixed_baseline_norm\": 9.631468467839431e-11\n    },\n    {\n      \"a\": 0.03125,\n      \"angle\": 0.7853981633974483,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5969385579228408e-06,\n      \"mixed_baseline_norm\": 3.4054653596802387e-09\n    },\n    {\n      \"a\": 0.03125,\n      \"angle\": 1.5707963267948966,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5969385579228408e-06,\n      \"mixed_baseline_norm\": 4.8160552978515664e-09\n    },\n    {\n      \"a\": 0.0078125,\n      \"angle\": 0.0,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5626775076156836e-06,\n      \"mixed_baseline_norm\": 0.0\n    },\n    {\n      \"a\": 0.0078125,\n      \"angle\": 0.02,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5626775076156836e-06,\n      \"mixed_baseline_norm\": 3.7622923702497777e-13\n    },\n    {\n      \"a\": 0.0078125,\n      \"angle\": 0.7853981633974483,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5626775076156836e-06,\n      \"mixed_baseline_norm\": 1.3302599061250932e-11\n    },\n    {\n      \"a\": 0.0078125,\n      \"angle\": 1.5707963267948966,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5626775076156836e-06,\n      \"mixed_baseline_norm\": 1.881271600723268e-11\n    },\n    {\n      \"a\": 0.001953125,\n      \"angle\": 0.0,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5625009149324348e-06,\n      \"mixed_baseline_norm\": 0.0\n    },\n    {\n      \"a\": 0.001953125,\n      \"angle\": 0.02,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5625009149324348e-06,\n      \"mixed_baseline_norm\": 1.4696454571288194e-15\n    },\n    {\n      \"a\": 0.001953125,\n      \"angle\": 0.7853981633974483,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5625009149324348e-06,\n      \"mixed_baseline_norm\": 5.1963277583011455e-14\n    },\n    {\n      \"a\": 0.001953125,\n      \"angle\": 1.5707963267948966,\n      \"word_skew_over_kappa\": 0.0017677669529663693,\n      \"orientation_22_over_kappa_squared\": 1.5625009149324348e-06,\n      \"mixed_baseline_norm\": 7.348717190325266e-14\n    }\n  ],\n  \"smaller_partner_cases\": [\n    {\n      \"a\": 0.0625,\n      \"v\": 8.053637150713466e-05,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 1.28973149874635e-09,\n      \"away_plane_extra_norm\": 8.142107803681536e-24\n    },\n    {\n      \"a\": 0.0625,\n      \"v\": 8.053637150713466e-05,\n      \"root_v\": [\n        0.0010308655552913237,\n        -0.0005154327776456619\n      ],\n      \"mixed_norm\": 1.5756897079154643e-11,\n      \"away_plane_extra_norm\": 2.39537770744996e-12\n    },\n    {\n      \"a\": 0.0625,\n      \"v\": 0.0012885819441141545,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 4.2764455425618566e-14,\n      \"away_plane_extra_norm\": 2.0950512125177846e-26\n    },\n    {\n      \"a\": 0.0625,\n      \"v\": 0.0012885819441141545,\n      \"root_v\": [\n        0.0010308655552913237,\n        -0.0005154327776456619\n      ],\n      \"mixed_norm\": 5.898291690700625e-13,\n      \"away_plane_extra_norm\": 2.42702084366549e-13\n    },\n    {\n      \"a\": 0.0625,\n      \"v\": 0.1,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 3.3517591611842426e-17,\n      \"away_plane_extra_norm\": 3.3563679594593274e-28\n    },\n    {\n      \"a\": 0.0625,\n      \"v\": 0.1,\n      \"root_v\": [\n        0.0010308655552913237,\n        -0.0005154327776456619\n      ],\n      \"mixed_norm\": 9.844612517203608e-14,\n      \"away_plane_extra_norm\": 3.2320896941950014e-14\n    },\n    {\n      \"a\": 0.03125,\n      \"v\": 2.1579186437577742e-05,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 8.21392273741957e-11,\n      \"away_plane_extra_norm\": 1.2791564529875279e-24\n    },\n    {\n      \"a\": 0.03125,\n      \"v\": 2.1579186437577742e-05,\n      \"root_v\": [\n        0.0002762135864009951,\n        -0.00013810679320049756\n      ],\n      \"mixed_norm\": 1.0651384194588192e-12,\n      \"away_plane_extra_norm\": 8.462520882584864e-14\n    },\n    {\n      \"a\": 0.03125,\n      \"v\": 0.0003452669830012439,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 2.6506026474022617e-13,\n      \"away_plane_extra_norm\": 3.0034332572640396e-26\n    },\n    {\n      \"a\": 0.03125,\n      \"v\": 0.0003452669830012439,\n      \"root_v\": [\n        0.0002762135864009951,\n        -0.00013810679320049756\n      ],\n      \"mixed_norm\": 5.675771807562977e-13,\n      \"away_plane_extra_norm\": 1.698264284709084e-13\n    },\n    {\n      \"a\": 0.03125,\n      \"v\": 0.1,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 0.0,\n      \"away_plane_extra_norm\": 0.0\n    },\n    {\n      \"a\": 0.03125,\n      \"v\": 0.1,\n      \"root_v\": [\n        0.0002762135864009951,\n        -0.00013810679320049756\n      ],\n      \"mixed_norm\": 2.6147994465695616e-16,\n      \"away_plane_extra_norm\": 2.12786325837807e-16\n    },\n    {\n      \"a\": 0.0078125,\n      \"v\": 1.5492484976887426e-06,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 3.142084531980618e-13,\n      \"away_plane_extra_norm\": 8.155075436299449e-28\n    },\n    {\n      \"a\": 0.0078125,\n      \"v\": 1.5492484976887426e-06,\n      \"root_v\": [\n        1.9830380770415908e-05,\n        -9.915190385207954e-06\n      ],\n      \"mixed_norm\": 3.7772920549464465e-15,\n      \"away_plane_extra_norm\": 3.208604112664104e-16\n    },\n    {\n      \"a\": 0.0078125,\n      \"v\": 2.478797596301988e-05,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 3.009135623530847e-16,\n      \"away_plane_extra_norm\": 4.103235319816176e-29\n    },\n    {\n      \"a\": 0.0078125,\n      \"v\": 2.478797596301988e-05,\n      \"root_v\": [\n        1.9830380770415908e-05,\n        -9.915190385207954e-06\n      ],\n      \"mixed_norm\": 3.6986972635844277e-17,\n      \"away_plane_extra_norm\": 2.0406404649130408e-17\n    },\n    {\n      \"a\": 0.0078125,\n      \"v\": 0.1,\n      \"root_v\": [\n        0.0,\n        0.0\n      ],\n      \"mixed_norm\": 0.0,\n      \"away_plane_extra_norm\": 0.0\n    },\n    {\n      \"a\": 0.0078125,\n      \"v\": 0.1,\n      \"root_v\": [\n        1.9830380770415908e-05,\n        -9.915190385207954e-06\n      ],\n      \"mixed_norm\": 5.707439093656754e-23,\n      \"away_plane_extra_norm\": 5.707439093656754e-23\n    }\n  ],\n  \"note\": \"Finite VALUE, first, selected-word, positive-reference, smaller full-gradient partner, whole mixed field, and rotation algebra only. No finite compiler theorem or nonlinear-baseline joint endpoint is inferred.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.55
+      "elapsed_seconds": 0.513
     },
     {
       "script": "no-copy-rank-20261004/fenchel-inverse-audit/check_fenchel_inverse_audit.py",
@@ -544,7 +622,7 @@
       "stdout": "{\n  \"status\": \"passed\",\n  \"count\": 1849,\n  \"results\": \"fenchel_inverse_audit_checks.json\",\n  \"fiber_ratios\": [\n    {\n      \"tau\": 0.1,\n      \"ratio_Z0_Zpi\": 1.2118283049610337,\n      \"limit\": 1.224744871391589\n    },\n    {\n      \"tau\": 0.01,\n      \"ratio_Z0_Zpi\": 1.223373307016843,\n      \"limit\": 1.224744871391589\n    },\n    {\n      \"tau\": 0.001,\n      \"ratio_Z0_Zpi\": 1.2246067695754177,\n      \"limit\": 1.224744871391589\n    },\n    {\n      \"tau\": 0.0001,\n      \"ratio_Z0_Zpi\": 1.2247310515627565,\n      \"limit\": 1.224744871391589\n    }\n  ]\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.482
+      "elapsed_seconds": 0.563
     },
     {
       "script": "no-copy-rank-20261004/fenchel-inverse-audit/check_fenchel_k3_lift.py",
@@ -555,7 +633,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 1880,\n  \"max_inverse_error_fraction_of_bound\": 0.5815040193747378,\n  \"max_inverse_first\": 2.3972259184925746,\n  \"max_ambient_gradient_finite_difference_error\": 4.310773960014558e-12,\n  \"max_common_mode_identity_error\": 7.774209668055481e-18,\n  \"max_native_physical_identity_error\": 0.0,\n  \"finite_inverse_skew\": [\n    [\n      0.0,\n      -0.000998334166468287\n    ],\n    [\n      0.000998334166468287,\n      0.0\n    ]\n  ],\n  \"scope\": \"Finite identity diagnostics; reference inverse in diagnostics only. No finite-output gradient or new graph law is inferred.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 2.394
+      "elapsed_seconds": 2.541
     },
     {
       "script": "no-copy-rank-20261004/host-observer-audit/check_host_separator.py",
@@ -566,7 +644,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 95734,\n  \"scope\": \"Exact interface diagnostics; not a numerical enumeration of the actual LOW30 graph and not an all-rank compiler proof.\",\n  \"results\": {\n    \"host_separator\": \"theta,T suffice for the displayed downstream law interface\",\n    \"actual_graph_dependence\": \"both source fine banks remain read in the actual graph\",\n    \"extra_baseline\": \"a same-fine internal baseline fails the output-only separator\",\n    \"observations\": \"one shared T yields exact independent reference observations\",\n    \"cache\": \"captured Q_S plus M complete-private Q_T\"\n  }\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.323
+      "elapsed_seconds": 0.434
     },
     {
       "script": "no-copy-rank-20261004/internal-packet-audit/check_internal_k3_packet.py",
@@ -577,7 +655,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 8563,\n  \"random_seed\": 2026100416,\n  \"same_potential\": {\n    \"a\": 0.0625,\n    \"r\": 0.0625,\n    \"epsilon\": 0.08246924442330589,\n    \"v\": 0.5,\n    \"h\": 0.8660254037844386,\n    \"k\": 2.0,\n    \"hessian_sandwich\": [\n      0.3,\n      0.7\n    ]\n  },\n  \"zero_coarse_root\": {\n    \"covariance_analytic_lower\": 0.0670260701223285,\n    \"covariance_quadrature\": 0.07483063178988503,\n    \"K0_11_gap_analytic_lower\": 0.0006702607012232852,\n    \"K0_11_gap_quadrature\": 0.0007483063178988504\n  },\n  \"integrated_same_root\": {\n    \"linear_phase_covariance_exact\": 0.04897571130321817,\n    \"actual_covariance_analytic_lower\": 0.03647571130321817,\n    \"actual_covariance_quadrature\": 0.049077280755151706,\n    \"K0_11_gap_analytic_lower\": 0.00036475711303218176\n  },\n  \"frozen_labels_new_primitive_heat\": {\n    \"widths\": [\n      0.5,\n      0.5\n    ],\n    \"K0_12_gap_analytic_lower\": 0.0023231359013937487,\n    \"K0_12_gap_quadrature\": 0.0023349945554664575\n  },\n  \"fresh_root_independent_banks\": {\n    \"covariance_analytic_lower\": 0.08765695526933419\n  },\n  \"six_query_native_jacobian_max_error\": 1.6519547201905219e-12,\n  \"minimal_terminal_label_inverse_max_error\": 3.9063118631097967e-13,\n  \"primitive_seed_filter_degrees_checked\": [\n    2,\n    4,\n    6,\n    8\n  ],\n  \"scope\": [\n    \"same-potential complete positive-clock K3 source; branch K0 target\",\n    \"six original VALUE sites and first-only analytic ledger\",\n    \"same-root split-bank gap remains after owned-root integration\",\n    \"positive additive primitive heat at frozen physical labels changes target\",\n    \"acyclic native graph; cyclic prerequisites for separate primitive replacements\",\n    \"minimal actual terminal labels recover complete native fine record in M=I strong-gradient subclass\",\n    \"literal concrete finite first-chaos tail source and K+6 unoptimized call count\"\n  ],\n  \"not_claimed\": [\n    \"paired K0-K1 noncancellation lower bound\",\n    \"lower bound on every completed pair law error\",\n    \"impossibility for all finite VALUE producers\",\n    \"new joint selected-word stationary kernel\",\n    \"uniform integrated restoration impossibility\"\n  ]\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.364
+      "elapsed_seconds": 0.394
     },
     {
       "script": "no-copy-rank-20261004/internal-packet-audit/check_k3_carrier_cut.py",
@@ -588,7 +666,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 540,\n  \"weight_square\": 0.33333333333333326,\n  \"scope\": \"Exact linear K3 and literal VALUE-action/carrier covariance checks; no generic impossibility theorem.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.074
+      "elapsed_seconds": 0.115
     },
     {
       "script": "no-copy-rank-20261004/internal-packet-audit/check_paired_coherent_drift_gap.py",
@@ -599,7 +677,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 351,\n  \"seed\": 2026100431,\n  \"clock_t\": 0.75,\n  \"fine_width\": 0.5,\n  \"analytic_true_limit\": 0.015742948768271786,\n  \"analytic_split_limit\": 0.015689311999383483,\n  \"analytic_paired_gap\": 5.363676888830365e-05,\n  \"analytic_unit_clock_integral_gap\": 8.054269493647355e-05,\n  \"native_diagnostics\": [\n    {\n      \"N\": 200,\n      \"a\": 0.05268051384453323,\n      \"dimension\": \"910415631692\",\n      \"samples\": 80000,\n      \"shift_L2_error\": 0.00435536274378556,\n      \"ancestor_difference_L2_error\": 7.169402885093669e-05,\n      \"terminal0_L2_error\": 0.0004610489073932676,\n      \"terminal1_L2_error\": 0.0014534290375809377,\n      \"true_word_mean\": 0.01583183996513399,\n      \"split_word_mean\": 0.015772504409215755,\n      \"gap_sample_mean\": 5.933555591823918e-05,\n      \"gap_sample_standard_error\": 2.298997237982987e-06,\n      \"gap_limit\": 5.363676888830365e-05,\n      \"true_word_to_limit_L2_error\": 0.0006876705852160021,\n      \"split_word_to_limit_L2_error\": 0.0006804993039893072,\n      \"paired_gap_to_coupled_limit_L2_error\": 0.000513779782966635\n    },\n    {\n      \"N\": 1000,\n      \"a\": 0.021544346900318836,\n      \"dimension\": \"136085875831029\",\n      \"samples\": 80000,\n      \"shift_L2_error\": 0.0008596416225548088,\n      \"ancestor_difference_L2_error\": 1.4107983784592478e-05,\n      \"terminal0_L2_error\": 0.00018901701068988115,\n      \"terminal1_L2_error\": 0.0005919274631869256,\n      \"true_word_mean\": 0.015771423852510985,\n      \"split_word_mean\": 0.015716164881100857,\n      \"gap_sample_mean\": 5.525897141012899e-05,\n      \"gap_sample_standard_error\": 1.5358689068164204e-06,\n      \"gap_limit\": 5.363676888830365e-05,\n      \"true_word_to_limit_L2_error\": 0.00027639569578701825,\n      \"split_word_to_limit_L2_error\": 0.00027427240026900706,\n      \"paired_gap_to_coupled_limit_L2_error\": 0.00020938741441400166\n    },\n    {\n      \"N\": 5000,\n      \"a\": 0.008810826802697267,\n      \"dimension\": \"20341660397771276\",\n      \"samples\": 80000,\n      \"shift_L2_error\": 0.00016956641486999145,\n      \"ancestor_difference_L2_error\": 2.785662497030335e-06,\n      \"terminal0_L2_error\": 7.706340107577024e-05,\n      \"terminal1_L2_error\": 0.00024237721692230477,\n      \"true_word_mean\": 0.015750403514041864,\n      \"split_word_mean\": 0.01569563598281648,\n      \"gap_sample_mean\": 5.476753122538507e-05,\n      \"gap_sample_standard_error\": 1.3662575213797546e-06,\n      \"gap_limit\": 5.363676888830365e-05,\n      \"true_word_to_limit_L2_error\": 0.00011189812587991273,\n      \"split_word_to_limit_L2_error\": 0.00011137150004518237,\n      \"paired_gap_to_coupled_limit_L2_error\": 8.526711941304256e-05\n    },\n    {\n      \"N\": 20000,\n      \"a\": 0.00407886086548024,\n      \"dimension\": \"1518664804300521749\",\n      \"samples\": 80000,\n      \"shift_L2_error\": 4.2059306930790013e-05,\n      \"ancestor_difference_L2_error\": 6.925476902381643e-07,\n      \"terminal0_L2_error\": 3.592373910044914e-05,\n      \"terminal1_L2_error\": 0.00011236529309899589,\n      \"true_word_mean\": 0.01567555192103693,\n      \"split_word_mean\": 0.015624348074257699,\n      \"gap_sample_mean\": 5.120384677923058e-05,\n      \"gap_sample_standard_error\": 1.3261782486678166e-06,\n      \"gap_limit\": 5.363676888830365e-05,\n      \"true_word_to_limit_L2_error\": 5.166477853524283e-05,\n      \"split_word_to_limit_L2_error\": 5.1471835969623057e-05,\n      \"paired_gap_to_coupled_limit_L2_error\": 3.9515796728413235e-05\n    }\n  ],\n  \"scope\": \"Exact explicit Hessian-value limits prove the theorem; finite Wishart samples only diagnose actual native sufficient statistics. No certified finite N0, orientation lower bound from the word gap, or universal producer impossibility is claimed.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.914
+      "elapsed_seconds": 0.828
     },
     {
       "script": "p-affine-heat/check_one_pair_commutator.py",
@@ -623,7 +701,7 @@
           ]
         }
       ],
-      "elapsed_seconds": 0.129
+      "elapsed_seconds": 0.174
     },
     {
       "script": "p-native-twin/check_joint_gradient_lifts.py",
@@ -634,7 +712,7 @@
       "stdout": "{\"status\": \"PASS\", \"checks\": 1138, \"scope\": [\"full eight-block ambient gradient matches scalar potential\", \"ambient Hessian symmetry and small first\", \"same-record graph restriction and zero blocks\", \"exact extra p-channel identity\", \"natural gradient and pullback unbounded-first fixture\"], \"seed\": 412221}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.534
+      "elapsed_seconds": 0.552
     },
     {
       "script": "p-native-twin/check_matrix_k3_word.py",
@@ -645,7 +723,7 @@
       "stdout": "{\"status\": \"PASS\", \"checks\": 2545, \"random_seed\": 410411, \"scope\": [\"same-query reverse and skew-block algebra\", \"complete physical leading current\", \"independent conditional fine-bank Gram\", \"48 exact same-potential native K3 frequency fixtures\", \"actual mark and complete first at each fixture\"], \"not_claimed\": [\"joint stationary source for nonlinear query jets\", \"uniform covariance lower bound after clock cutoff\", \"all-dimensional repair closure\"]}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.207
+      "elapsed_seconds": 0.263
     },
     {
       "script": "p-native-twin/check_nondegenerate_relative_mark.py",
@@ -656,7 +734,7 @@
       "stdout": "{\"status\": \"PASS\", \"checks\": 9720, \"scope\": [\"literal simultaneous finite iterations K2 through K15\", \"noncommuting strongly monotone original sources and nonsymmetric nondegenerate known M\", \"uniform auxiliary inverse-Lipschitz and pointwise upper bounds\"], \"seed\": 412381}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.358
+      "elapsed_seconds": 0.408
     },
     {
       "script": "p-native-twin/check_rotation_lambda_lift.py",
@@ -667,7 +745,7 @@
       "stdout": "{\"status\": \"PASS\", \"checks\": 3500, \"seed\": 413145, \"scope\": [\"singular and nonsymmetric M\", \"known common coisometry and fixed-gap fill\", \"exact raw lambda readout\", \"genuine full-gradient Hessian and radius\", \"all actual companion blocks and zero columns\"]}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.194
+      "elapsed_seconds": 0.182
     },
     {
       "script": "p-native-twin/check_third_iterate_port.py",
@@ -678,7 +756,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 3060,\n  \"scope\": \"Actual finite nonlinear same-potential iterations, coisometry/column signs, same-Z mark, complete first/curl, and conditional-coordinate identities\",\n  \"source_sha256\": \"c8b20bf4eff6986f5e1f2d749e740beb935491a1043153ec62b39ef05bf4bca3\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.219
+      "elapsed_seconds": 0.245
     },
     {
       "script": "p-shear-heat/check_retention_guard.py",
@@ -689,7 +767,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 7700,\n  \"scope\": \"exact rational law/first/cross-width/variance exponent checks; source graph proof is in the text\",\n  \"audit_sha256\": \"fb469200ad216faa866694dce85096409250f074227e86005b29c3c9e359cb01\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.083
+      "elapsed_seconds": 0.061
     },
     {
       "script": "p-weak-mean/check_weak_29_reconstruction.py",
@@ -713,7 +791,7 @@
           ]
         }
       ],
-      "elapsed_seconds": 0.047
+      "elapsed_seconds": 0.06
     },
     {
       "script": "r-native-twin/check_auxiliary_rotation.py",
@@ -724,7 +802,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 5400,\n  \"max_exact_residual\": 1.0663958000678934e-14,\n  \"scope\": \"Known noncommuting/singular-M rotation, exact graph and defect identities, lambda gradient, regression covariance and OU spectral frame.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.215
+      "elapsed_seconds": 0.241
     },
     {
       "script": "r-native-twin/check_leading_curl_split.py",
@@ -735,7 +813,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 3600,\n  \"max_exact_residual\": 5.438959822042073e-16,\n  \"scope\": \"Exact K3 leading/subleading curl split and joint-gradient feedback source. No missing joint observer calibration is tested.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.395
+      "elapsed_seconds": 0.477
     },
     {
       "script": "r-native-twin/check_paired_potential_companion.py",
@@ -746,7 +824,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 567,\n  \"min_measured_companion_over_ra\": 0.017072717670986913,\n  \"min_first_over_ra_k\": 0.09992794962127384\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.528
+      "elapsed_seconds": 0.572
     },
     {
       "script": "r-native-twin/check_scalar_direct_gram.py",
@@ -757,7 +835,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 5993,\n  \"max_exact_residual\": 2.220446049250313e-16,\n  \"max_mixed_cubic_ratio\": 0.03310719342321825,\n  \"scope\": \"Scalar physical Gram identity, positive reference, conditional-root product, exact mixed sine-source padding and additive work. Does not prove all source-class estimates.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.292
+      "elapsed_seconds": 0.257
     },
     {
       "script": "r-native-twin/check_scalar_native_covariance_clock.py",
@@ -768,7 +846,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"gauss_nodes_per_input\": 9,\n  \"clock_nodes\": 16,\n  \"native_source\": \"K3, same .5x+.1sin(.7x)/.7 primitive at both nodes\",\n  \"normalization\": \"all quantities divided by (r*a^2*epsilon)^2\",\n  \"variance\": 0.03786734105831683,\n  \"S_forward_square\": 0.0002882705892667622,\n  \"U_true_square\": 3.473909286367879e-05,\n  \"Z_true_square\": 0.0375443145627567,\n  \"covariance_clock_residual\": 1.681342969017674e-08,\n  \"scope\": \"Numerical quadrature of the actual same-source scalar K3 covariance identity; analytical theorem does not depend on quadrature accuracy.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 1.614
+      "elapsed_seconds": 1.751
     },
     {
       "script": "r-native-twin/check_small_gradient_mixed_return.py",
@@ -779,7 +857,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 5520,\n  \"max_reference_residual\": 4.807406716705118e-17,\n  \"scope\": \"Literal positive child/parent covariance, rational marked grades, complete first returns and declared nominal child-floor selection. Does not remove absolute finite-prior floors.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.278
+      "elapsed_seconds": 0.168
     },
     {
       "script": "r-native-twin/check_two_node_third_twin.py",
@@ -790,7 +868,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 2240,\n  \"max_identity_error\": 2.360683044461688e-17,\n  \"scope\": \"New literal K1-K8 VALUE iteration, same-potential nonlinear first/curl/column checks and affine copied-twin regression. Does not realize the missing feedback heat repair.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.324
+      "elapsed_seconds": 0.298
     },
     {
       "script": "r-shear-consumer/check_full_retention_guards.py",
@@ -801,7 +879,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 119960,\n  \"examples\": [\n    {\n      \"g\": \"1/4\",\n      \"zeta\": \"1/40\",\n      \"gamma\": \"3/40\",\n      \"cross_edge_exponent\": \"1/40\",\n      \"side_outgoing_exponent\": \"11/10\"\n    },\n    {\n      \"g\": \"1/2\",\n      \"zeta\": \"1/20\",\n      \"gamma\": \"3/20\",\n      \"cross_edge_exponent\": \"1/20\",\n      \"side_outgoing_exponent\": \"6/5\"\n    },\n    {\n      \"g\": \"1\",\n      \"zeta\": \"1/10\",\n      \"gamma\": \"3/10\",\n      \"cross_edge_exponent\": \"1/10\",\n      \"side_outgoing_exponent\": \"7/5\"\n    }\n  ],\n  \"scope\": \"Exact rational source/law versus retention guards, cross-width penalty, outward masses and source-zero variance row. Does not substitute for the finite original-gradient path proof.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.525
+      "elapsed_seconds": 0.606
     },
     {
       "script": "r-true-orientation/check_one_pair_projector_fill.py",
@@ -812,7 +890,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 96,\n  \"max_error\": 1.9665092980352025e-15,\n  \"scope\": \"New exact projector-fill covariance and one-pair skew identity checks; finite pair contracts remain imported.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.085
+      "elapsed_seconds": 0.113
     },
     {
       "script": "r-true-orientation/check_positive_orientation_clock.py",
@@ -823,7 +901,7 @@
       "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 42701,\n  \"rows\": [\n    {\n      \"delta\": 0.25,\n      \"panels\": 13,\n      \"gauss_degree\": 6,\n      \"nodes\": 78,\n      \"max_spectral_error\": 0.01994289620751586,\n      \"rounded_max_error\": 0.01994341457890019,\n      \"weight_mass\": 0.9986884515204099,\n      \"root_square_mass\": 6.931624519452845,\n      \"caller_mass\": 21.679291279482\n    },\n    {\n      \"delta\": 0.1,\n      \"panels\": 15,\n      \"gauss_degree\": 6,\n      \"nodes\": 90,\n      \"max_spectral_error\": 0.007977103000599894,\n      \"rounded_max_error\": 0.007977092665136975,\n      \"weight_mass\": 0.9938677393105447,\n      \"root_square_mass\": 8.758137432448644,\n      \"caller_mass\": 26.818970527960666\n    },\n    {\n      \"delta\": 0.03,\n      \"panels\": 19,\n      \"gauss_degree\": 7,\n      \"nodes\": 133,\n      \"max_spectral_error\": 0.002393147190765805,\n      \"rounded_max_error\": 0.002393148352315102,\n      \"weight_mass\": 0.9993578305838142,\n      \"root_square_mass\": 11.171377604505816,\n      \"caller_mass\": 36.4922446564151\n    },\n    {\n      \"delta\": 0.01,\n      \"panels\": 23,\n      \"gauss_degree\": 8,\n      \"nodes\": 184,\n      \"max_spectral_error\": 0.0007977143645837484,\n      \"rounded_max_error\": 0.000797714592923185,\n      \"weight_mass\": 0.9999964069432911,\n      \"root_square_mass\": 13.36922220601233,\n      \"caller_mass\": 46.25322167498325\n    },\n    {\n      \"delta\": 0.003,\n      \"panels\": 26,\n      \"gauss_degree\": 9,\n      \"nodes\": 234,\n      \"max_spectral_error\": 0.00023931197898772644,\n      \"rounded_max_error\": 0.00023931199504670958,\n      \"weight_mass\": 0.9999201548341986,\n      \"root_square_mass\": 15.777089426582386,\n      \"caller_mass\": 57.39404305520412\n    },\n    {\n      \"delta\": 0.001,\n      \"panels\": 30,\n      \"gauss_degree\": 10,\n      \"nodes\": 300,\n      \"max_spectral_error\": 7.9771371931597e-05,\n      \"rounded_max_error\": 7.977137599872119e-05,\n      \"weight_mass\": 0.9999999326443816,\n      \"root_square_mass\": 17.974393597405808,\n      \"caller_mass\": 68.53242457432114\n    },\n    {\n      \"delta\": 1e-05,\n      \"panels\": 44,\n      \"gauss_degree\": 13,\n      \"nodes\": 572,\n      \"max_spectral_error\": 7.977155360790486e-07,\n      \"rounded_max_error\": 7.977155360029481e-07,\n      \"weight_mass\": 0.9999999999972836,\n      \"root_square_mass\": 27.184734013299757,\n      \"caller_mass\": 116.48170500016035\n    }\n  ],\n  \"scope\": \"New positive scalar spectral clock checks and positive within-panel rounding. Exact Gaussian chaos factorization is proved in the source; native coefficient and root-observer admission are separate.\"\n}\n",
       "stderr": "",
       "changed_result_files": [],
-      "elapsed_seconds": 0.167
+      "elapsed_seconds": 0.174
     }
   ]
 }
