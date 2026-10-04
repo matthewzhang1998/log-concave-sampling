@@ -1,0 +1,200 @@
+{
+  "assertions": 541,
+  "genealogy": [
+    {
+      "nodes": 3,
+      "inner_variance": 0.585185185185185,
+      "residual_variance": 0.33518518518518503
+    },
+    {
+      "nodes": 7,
+      "inner_variance": 0.5199503444401404,
+      "residual_variance": 0.26995034444014043
+    },
+    {
+      "nodes": 17,
+      "inner_variance": 0.5041495393237457,
+      "residual_variance": 0.25414953932374573
+    },
+    {
+      "nodes": 41,
+      "inner_variance": 0.500844305008474,
+      "residual_variance": 0.250844305008474
+    }
+  ],
+  "max_derivative_finite_difference_error": 3.5424403211151145e-12,
+  "max_square_curl": 0.003554490855318977,
+  "max_noncommuting_hessian_commutator": 0.00043535981143406416,
+  "max_checked_hermite_error": 0.0008426549330737237,
+  "quadratic_decoupling": [
+    {
+      "A": 0.5,
+      "r": 0.0,
+      "residual_variance": 0.25,
+      "W2": 0.03321232455796832,
+      "scaled_ratio": 0.07670057809582491
+    },
+    {
+      "A": 0.5,
+      "r": 0.0,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.08131737977051082,
+      "scaled_ratio": 0.1877944444011978
+    },
+    {
+      "A": 0.5,
+      "r": 0.5,
+      "residual_variance": 0.25,
+      "W2": 0.038113469517968505,
+      "scaled_ratio": 0.07622693903593701
+    },
+    {
+      "A": 0.5,
+      "r": 0.5,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.09257936607875657,
+      "scaled_ratio": 0.18515873215751313
+    },
+    {
+      "A": 0.5,
+      "r": 0.99,
+      "residual_variance": 0.25,
+      "W2": 0.15022116392925208,
+      "scaled_ratio": 0.04893921792242342
+    },
+    {
+      "A": 0.5,
+      "r": 0.99,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.2860452745543712,
+      "scaled_ratio": 0.0931881478011226
+    },
+    {
+      "A": 0.5,
+      "r": 0.99999999,
+      "residual_variance": 0.25,
+      "W2": 0.25843363101262606,
+      "scaled_ratio": 8.440407042520541e-05
+    },
+    {
+      "A": 0.5,
+      "r": 0.99999999,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.4100269197947262,
+      "scaled_ratio": 0.0001339142312050451
+    },
+    {
+      "A": 0.1,
+      "r": 0.0,
+      "residual_variance": 0.25,
+      "W2": 0.0011070909671996602,
+      "scaled_ratio": 0.06391792679301268
+    },
+    {
+      "A": 0.1,
+      "r": 0.0,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.002783287661489288,
+      "scaled_ratio": 0.1606931880593004
+    },
+    {
+      "A": 0.1,
+      "r": 0.5,
+      "residual_variance": 0.25,
+      "W2": 0.0012781364285283973,
+      "scaled_ratio": 0.06390682142641985
+    },
+    {
+      "A": 0.1,
+      "r": 0.5,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.0032124631617840888,
+      "scaled_ratio": 0.1606231580892044
+    },
+    {
+      "A": 0.1,
+      "r": 0.99,
+      "residual_variance": 0.25,
+      "W2": 0.0076566314776673325,
+      "scaled_ratio": 0.06235964804095795
+    },
+    {
+      "A": 0.1,
+      "r": 0.99,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.018606340097933206,
+      "scaled_ratio": 0.1515398544675641
+    },
+    {
+      "A": 0.1,
+      "r": 0.99999999,
+      "residual_variance": 0.25,
+      "W2": 0.05152336160507561,
+      "scaled_ratio": 0.0004206864857737556
+    },
+    {
+      "A": 0.1,
+      "r": 0.99999999,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.08184176310448137,
+      "scaled_ratio": 0.0006682351973431946
+    },
+    {
+      "A": 0.01,
+      "r": 0.0,
+      "residual_variance": 0.25,
+      "W2": 1.0643012770272725e-05,
+      "scaled_ratio": 0.06144746287905582
+    },
+    {
+      "A": 0.01,
+      "r": 0.0,
+      "residual_variance": 0.6290101735216668,
+      "W2": 2.6778058332788442e-05,
+      "scaled_ratio": 0.15460319186810909
+    },
+    {
+      "A": 0.01,
+      "r": 0.5,
+      "residual_variance": 0.25,
+      "W2": 1.2289472908409646e-05,
+      "scaled_ratio": 0.06144736454204822
+    },
+    {
+      "A": 0.01,
+      "r": 0.5,
+      "residual_variance": 0.6290101735216668,
+      "W2": 3.092051387418731e-05,
+      "scaled_ratio": 0.15460256937093655
+    },
+    {
+      "A": 0.01,
+      "r": 0.99,
+      "residual_variance": 0.25,
+      "W2": 7.542848619361026e-05,
+      "scaled_ratio": 0.06143294038658393
+    },
+    {
+      "A": 0.01,
+      "r": 0.99,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.00018971183285996466,
+      "scaled_ratio": 0.15451132996094877
+    },
+    {
+      "A": 0.01,
+      "r": 0.99999999,
+      "residual_variance": 0.25,
+      "W2": 0.004974772859098315,
+      "scaled_ratio": 0.0040618850292768235
+    },
+    {
+      "A": 0.01,
+      "r": 0.99999999,
+      "residual_variance": 0.6290101735216668,
+      "W2": 0.008004124814326899,
+      "scaled_ratio": 0.006535340542496725
+    }
+  ],
+  "scope": "Finite diagnostics only; continuum limit and mean-law compiler rely on the independent written proof and imported consumer guards."
+}

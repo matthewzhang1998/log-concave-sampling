@@ -1,0 +1,18 @@
+{
+  "assertions": 830,
+  "seed": 620041004,
+  "maxima": {
+    "quadrature_total": 1.1102230246251565e-16,
+    "quadrature_first_moment": 1.1102230246251565e-16,
+    "quadratic_polarization": 4.698726702962802e-16,
+    "quadratic_Hstar": 3.1636348494119085e-16,
+    "retained_pair_readout": 2.482534153270009e-16,
+    "C2_exact_zero": 0,
+    "C2_value_directional_first": 2.3053668160614615e-08,
+    "C2_Jplus_full_gradient": 1.5700924586837752e-16,
+    "C2_Jminus_full_gradient": 1.5823112613210482e-16
+  },
+  "max_C2_commutator": 0.003959606520719813,
+  "quadrature_nodes": 26,
+  "scope": "Algebra/first-bound diagnostics only; no LOW30 compiler execution or numerical proof of general conditional law bound."
+}

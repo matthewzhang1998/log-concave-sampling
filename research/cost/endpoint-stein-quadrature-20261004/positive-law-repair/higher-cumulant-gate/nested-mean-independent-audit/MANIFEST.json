@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-04",
+  "verdict": "PASS for the bounded force-mean source and guarded conditional Gaussian mean-law consumer",
+  "assertions": 541,
+  "files": {
+    "positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced",
+    "positive-law-repair/higher-cumulant-gate/nested-mean-independent-audit/INDEPENDENT-NESTED-FORCE-MEAN-AUDIT.md": "c2fbd8b02e1d225226ef5cf822fafda31f3dfa05e505d747d0b8772cb9d2daf7",
+    "positive-law-repair/higher-cumulant-gate/nested-mean-independent-audit/check_nested_force_mean.py": "bc8da7f0270c8a68921a5bce7f85f8b5bbfbf8f55818f6f2a40b68e4840bcb2c",
+    "positive-law-repair/higher-cumulant-gate/nested-mean-independent-audit/nested_force_mean_checks.json": "617b9cde35f421a39a13e00c7edfb35f8870f66d7d6a48ae9b0414e52cc5126e",
+    "positive-law-repair/higher-cumulant-gate/EXACT-TWO-CLOCK-CURRENT-AND-UNIFORM-C2-REFERENCE.md": "0a966fbd6076dff94d2b928ec1a4a05aa6d33c9bc8222eff051b221ee9881477",
+    "positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+    "ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+  }
+}

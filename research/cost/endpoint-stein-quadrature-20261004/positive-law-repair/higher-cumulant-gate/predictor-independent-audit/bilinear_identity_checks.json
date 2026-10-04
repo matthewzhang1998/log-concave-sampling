@@ -1,0 +1,250 @@
+{
+  "status": "PASS",
+  "assertions": 52,
+  "scope": "Exact bilinear Gaussian coefficient identity; no finite positive original-VALUE implementation is asserted.",
+  "nonzero_rows": [
+    {
+      "i": 1,
+      "j": 2,
+      "n": 1,
+      "first_kernel": "2",
+      "second_kernel": "0",
+      "target": "2",
+      "integral": "2"
+    },
+    {
+      "i": 1,
+      "j": 2,
+      "n": 3,
+      "first_kernel": "0",
+      "second_kernel": "12*r**2*t + 12*r**2",
+      "target": "6",
+      "integral": "6"
+    },
+    {
+      "i": 2,
+      "j": 3,
+      "n": 1,
+      "first_kernel": "12*t",
+      "second_kernel": "0",
+      "target": "6",
+      "integral": "6"
+    },
+    {
+      "i": 2,
+      "j": 3,
+      "n": 3,
+      "first_kernel": "36*r**2*t**2 + 72*r**2*t",
+      "second_kernel": "72*r**2*t**2 + 72*r**2*t",
+      "target": "36",
+      "integral": "36"
+    },
+    {
+      "i": 2,
+      "j": 3,
+      "n": 5,
+      "first_kernel": "0",
+      "second_kernel": "720*r**4*t**2 + 720*r**4*t",
+      "target": "120",
+      "integral": "120"
+    },
+    {
+      "i": 2,
+      "j": 5,
+      "n": 3,
+      "first_kernel": "720*r**2*t",
+      "second_kernel": "0",
+      "target": "120",
+      "integral": "120"
+    },
+    {
+      "i": 2,
+      "j": 5,
+      "n": 5,
+      "first_kernel": "1200*r**4*t**4 + 4800*r**4*t",
+      "second_kernel": "4800*r**4*t**4 + 4800*r**4*t",
+      "target": "1200",
+      "integral": "1200"
+    },
+    {
+      "i": 2,
+      "j": 5,
+      "n": 7,
+      "first_kernel": "0",
+      "second_kernel": "50400*r**6*t**4 + 50400*r**6*t",
+      "target": "5040",
+      "integral": "5040"
+    },
+    {
+      "i": 3,
+      "j": 4,
+      "n": 1,
+      "first_kernel": "72*t**2",
+      "second_kernel": "0",
+      "target": "24",
+      "integral": "24"
+    },
+    {
+      "i": 3,
+      "j": 4,
+      "n": 3,
+      "first_kernel": "432*r**2*t**3 + 864*r**2*t**2",
+      "second_kernel": "432*r**2*t**3 + 432*r**2*t**2",
+      "target": "216",
+      "integral": "216"
+    },
+    {
+      "i": 3,
+      "j": 4,
+      "n": 5,
+      "first_kernel": "2880*r**4*t**3 + 4320*r**4*t**2",
+      "second_kernel": "8640*r**4*t**3 + 8640*r**4*t**2",
+      "target": "1440",
+      "integral": "1440"
+    },
+    {
+      "i": 3,
+      "j": 4,
+      "n": 7,
+      "first_kernel": "0",
+      "second_kernel": "60480*r**6*t**3 + 60480*r**6*t**2",
+      "target": "5040",
+      "integral": "5040"
+    },
+    {
+      "i": 3,
+      "j": 3,
+      "n": 2,
+      "first_kernel": "144*r*t**2",
+      "second_kernel": "72*r*t**2",
+      "target": "36",
+      "integral": "36"
+    },
+    {
+      "i": 3,
+      "j": 3,
+      "n": 4,
+      "first_kernel": "864*r**3*t**2",
+      "second_kernel": "1728*r**3*t**2",
+      "target": "216",
+      "integral": "216"
+    },
+    {
+      "i": 3,
+      "j": 3,
+      "n": 6,
+      "first_kernel": "0",
+      "second_kernel": "12960*r**5*t**2",
+      "target": "720",
+      "integral": "720"
+    },
+    {
+      "i": 4,
+      "j": 4,
+      "n": 2,
+      "first_kernel": "1152*r*t**3",
+      "second_kernel": "384*r*t**3",
+      "target": "192",
+      "integral": "192"
+    },
+    {
+      "i": 4,
+      "j": 4,
+      "n": 4,
+      "first_kernel": "13824*r**3*t**3",
+      "second_kernel": "13824*r**3*t**3",
+      "target": "1728",
+      "integral": "1728"
+    },
+    {
+      "i": 4,
+      "j": 4,
+      "n": 6,
+      "first_kernel": "69120*r**5*t**3",
+      "second_kernel": "207360*r**5*t**3",
+      "target": "11520",
+      "integral": "11520"
+    },
+    {
+      "i": 4,
+      "j": 4,
+      "n": 8,
+      "first_kernel": "0",
+      "second_kernel": "1290240*r**7*t**3",
+      "target": "40320",
+      "integral": "40320"
+    },
+    {
+      "i": 4,
+      "j": 5,
+      "n": 1,
+      "first_kernel": "480*t**3",
+      "second_kernel": "0",
+      "target": "120",
+      "integral": "120"
+    },
+    {
+      "i": 4,
+      "j": 5,
+      "n": 3,
+      "first_kernel": "4320*r**2*t**4 + 8640*r**2*t**3",
+      "second_kernel": "2880*r**2*t**4 + 2880*r**2*t**3",
+      "target": "1440",
+      "integral": "1440"
+    },
+    {
+      "i": 4,
+      "j": 5,
+      "n": 5,
+      "first_kernel": "57600*r**4*t**4 + 86400*r**4*t**3",
+      "second_kernel": "86400*r**4*t**4 + 86400*r**4*t**3",
+      "target": "14400",
+      "integral": "14400"
+    },
+    {
+      "i": 4,
+      "j": 5,
+      "n": 7,
+      "first_kernel": "302400*r**6*t**4 + 403200*r**6*t**3",
+      "second_kernel": "1209600*r**6*t**4 + 1209600*r**6*t**3",
+      "target": "100800",
+      "integral": "100800"
+    },
+    {
+      "i": 5,
+      "j": 5,
+      "n": 2,
+      "first_kernel": "9600*r*t**4",
+      "second_kernel": "2400*r*t**4",
+      "target": "1200",
+      "integral": "1200"
+    },
+    {
+      "i": 5,
+      "j": 5,
+      "n": 4,
+      "first_kernel": "172800*r**3*t**4",
+      "second_kernel": "115200*r**3*t**4",
+      "target": "14400",
+      "integral": "14400"
+    },
+    {
+      "i": 5,
+      "j": 5,
+      "n": 6,
+      "first_kernel": "1728000*r**5*t**4",
+      "second_kernel": "2592000*r**5*t**4",
+      "target": "144000",
+      "integral": "144000"
+    },
+    {
+      "i": 5,
+      "j": 5,
+      "n": 8,
+      "first_kernel": "8064000*r**7*t**4",
+      "second_kernel": "32256000*r**7*t**4",
+      "target": "1008000",
+      "integral": "1008000"
+    }
+  ]
+}

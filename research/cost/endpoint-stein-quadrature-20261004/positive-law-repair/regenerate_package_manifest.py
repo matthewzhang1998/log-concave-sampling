@@ -41,7 +41,26 @@ def main():
             raise RuntimeError('Original source mapping mismatch: '+relative)
         files.append({k:entry[k] for k in ('path','sha256','bytes','original_sha256','original_bytes','provenance')})
     actual = {str(p.relative_to(ROOT)) for p in ROOT.rglob('*') if p.is_file() and '__pycache__' not in p.parts and p.suffix not in ('.pyc','.pyo')}
-    if actual != {e['path'] for e in frozen['files']} | {'MANIFEST.json'}:
+    expected = {e['path'] for e in frozen['files']} | {'MANIFEST.json'}
+    # V10 adds exactly two separately frozen packages beside the V9 selection.
+    for package in ('higher-cumulant-gate', 'reverse-ou-curvature'):
+        manifest_path = ROOT/package/'MANIFEST.json'
+        manifest = json.loads(manifest_path.read_text())
+        items = manifest['files']
+        if isinstance(items, dict):
+            items = [dict(path=k, **v) for k, v in items.items()]
+        for item in [*items, {'path':'MANIFEST.json'}]:
+            local = Path(package)/item['path']
+            path = ROOT/local
+            if ROOT not in path.resolve().parents:
+                raise RuntimeError('File outside frozen package')
+            entry = entries[str(path.relative_to(ARCHIVE))]
+            if sha(path) != entry['sha256'] or path.stat().st_size != entry['bytes']:
+                raise RuntimeError('V10 publication integrity mismatch: '+str(local))
+            if 'sha256' in item and item['sha256'] != entry['original_sha256']:
+                raise RuntimeError('V10 original source mapping mismatch: '+str(local))
+            expected.add(str(local))
+    if actual != expected:
         raise RuntimeError('Frozen package file-set mismatch')
     dependencies = []
     for dep in frozen['external_prerequisites']:
@@ -59,7 +78,7 @@ def main():
     if args.output:
         args.output.parent.mkdir(parents=True,exist_ok=True)
         args.output.write_text(json.dumps(report,indent=2)+'\n')
-    print(json.dumps({'status':'PASS','files':len(files),'components':len(frozen['components']),'external_prerequisites_not_reverified':1},indent=2))
+    print(json.dumps({'status':'PASS','files':len(files),'components':len(frozen['components']),'v10_frozen_additional_files':63,'external_prerequisites_not_reverified':1},indent=2))
 
 if __name__ == '__main__':
     main()

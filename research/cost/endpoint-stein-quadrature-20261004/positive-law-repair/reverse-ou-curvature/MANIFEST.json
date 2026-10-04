@@ -1,0 +1,59 @@
+{
+  "status": "independent PASS at pinned author and audit sources",
+  "scope": "Third-order Gaussian curvature reserve only; remaining non-Gaussian reverse-transition cumulants not claimed",
+  "files": {
+    "THIRD-ORDER-VALUE-CURVATURE-RESERVE.md": {
+      "sha256": "56c81676cecd5a76ae073178bc84338e2e9b0cb643788ceff58a554b980adc3d",
+      "bytes": 17287
+    },
+    "check_value_curvature_reserve.py": {
+      "sha256": "e97040b3cf07e9acbf6c41f4c3e99ab632727a49c934fe9406fda24c1d8ccb36",
+      "bytes": 7640
+    },
+    "independent-audit/INDEPENDENT-VALUE-CURVATURE-RESERVE-AUDIT.md": {
+      "sha256": "363cf7e855d1e054037384b04514926abc94d64720af34ac34ecddf8fb0f7f62",
+      "bytes": 15807
+    },
+    "independent-audit/SHA256-MANIFEST.json": {
+      "sha256": "02356aa33012724f831e95d20f25d7779dceedec0265f9dbc4f94da8e9813b33",
+      "bytes": 2089
+    },
+    "independent-audit/check_reserve_algebra_independent.py": {
+      "sha256": "6e8621856da985a913f1cf84e826aa1dc495a5aa421fcc72cb1e8fba5c7d540f",
+      "bytes": 5714
+    },
+    "independent-audit/independent_reserve_algebra_results.json": {
+      "sha256": "87d15e79b4abb6723c3cd6fdaf28fc43687ef9c1d07686c92564bb44e1aee24f",
+      "bytes": 713
+    },
+    "value_curvature_reserve_checks.json": {
+      "sha256": "ab10b2b4929297394f1747beb35079b9a2c09ff3c6e810ed366df21ff5462019",
+      "bytes": 11335
+    }
+  },
+  "imports": [
+    {
+      "path": "external:LOW30",
+      "purpose": "finite VALUE pair, covariance action, Gaussian-Riesz current",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md",
+      "purpose": "raw conditional posterior and force source",
+      "sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md",
+      "purpose": "independent conditional-source audit",
+      "sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md",
+      "purpose": "exact target and positive reserve allocation",
+      "sha256": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a"
+    }
+  ],
+  "author_assertions": 908,
+  "independent_assertions": 830,
+  "publication_copy_notice": "Historical source hashes and byte counts pin original reviewed files; public copies have separate hashes and edit descriptions in root INVENTORY.json. Research paths are relative to the public archive; external:LOW30 remains unbundled and is not reverified by a default portable run."
+}

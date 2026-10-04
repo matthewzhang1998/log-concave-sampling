@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "assertions": 41,
+  "scope": "Finite VALUE graph ports and quadratic screen; no finite-to-continuous order-three law comparison.",
+  "distinct_times": 26,
+  "original_value_upper_bound": 25,
+  "S_Q": 0.5267409643853054,
+  "B2_defect": 0.026740964385305377,
+  "minimum_gram_eigenvalue": 0.025753601345134415
+}

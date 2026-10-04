@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "independent_assertions": 366,
+  "scope": "Bounded positive affine bridge, literal shared-root VALUE chord, full-matrix calibration, nonlinear cumulant/W2 separator, and actual ports. No general order upgrade or all-order impossibility.",
+  "files": [
+    {
+      "path": "SAME-ROOT-CHORD-AND-FIRST-NONLINEAR-BRIDGE-GATE.md",
+      "sha256": "fc248e0a5b145cd325e5dae47c9a2728a0b28b6ebc8a9cdb85344044125bbb5b",
+      "bytes": 20062
+    },
+    {
+      "path": "check_same_root_chord.py",
+      "sha256": "04496af11a1d2a0c0c0c84c1b1551b34a193ef74969b131492ecf63120927a41",
+      "bytes": 8350
+    },
+    {
+      "path": "same_root_chord_checks.json",
+      "sha256": "859ee82ac9537f56c28b57ca42a588c1c4b690c6b0a50dbbaa20accfbf2f8e0f",
+      "bytes": 3424
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-SAME-ROOT-CHORD-AUDIT.md",
+      "sha256": "33ad708ae744879f18bab969bb639b11580e6a50e36714b9fc45d2cf7cfe4cc7",
+      "bytes": 14422
+    },
+    {
+      "path": "independent-audit/check_chord_independent.py",
+      "sha256": "fe9c6ad0402324eb85a8c3c37e2eab914411873255483b3132368dd4e21d61d1",
+      "bytes": 11724
+    },
+    {
+      "path": "independent-audit/chord_independent_checks.json",
+      "sha256": "18147389caefb4258c1942be578c69a599b3b734376ed96ce523821ebb0d38aa",
+      "bytes": 11272
+    }
+  ]
+}

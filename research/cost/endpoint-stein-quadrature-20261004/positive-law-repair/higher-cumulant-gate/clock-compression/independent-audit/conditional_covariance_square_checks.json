@@ -1,0 +1,81 @@
+{
+  "status": "PASS",
+  "assertions": 93,
+  "scope": "Analytical identity and positive finite square quadrature; P and Hessian evaluations are diagnostics, not authorized producer leaves.",
+  "cases": [
+    {
+      "k": 1.0,
+      "endpoint": -2.0,
+      "direct_covariance": 0.0988026926055435,
+      "square_covariance": 0.09880269260554356,
+      "identity_error": 5.551115123125783e-17,
+      "positive_square_rule_error": 3.8163916471489756e-14
+    },
+    {
+      "k": 1.0,
+      "endpoint": 0.0,
+      "direct_covariance": 0.06412678733839604,
+      "square_covariance": 0.06412678733839604,
+      "identity_error": 0.0,
+      "positive_square_rule_error": 3.394506897791416e-14
+    },
+    {
+      "k": 1.0,
+      "endpoint": 1.5,
+      "direct_covariance": 0.04042432600059945,
+      "square_covariance": 0.040424326000599406,
+      "identity_error": -4.163336342344337e-17,
+      "positive_square_rule_error": 1.191269305422793e-13
+    },
+    {
+      "k": 3.0,
+      "endpoint": -2.0,
+      "direct_covariance": 0.06080014915955333,
+      "square_covariance": 0.06080014915955331,
+      "identity_error": -1.3877787807814457e-17,
+      "positive_square_rule_error": -9.331702077730597e-13
+    },
+    {
+      "k": 3.0,
+      "endpoint": 0.0,
+      "direct_covariance": 0.06282631061231046,
+      "square_covariance": 0.06282631061231048,
+      "identity_error": 1.3877787807814457e-17,
+      "positive_square_rule_error": 6.142308883738679e-14
+    },
+    {
+      "k": 3.0,
+      "endpoint": 1.5,
+      "direct_covariance": 0.06331537039217003,
+      "square_covariance": 0.06331537039217008,
+      "identity_error": 5.551115123125783e-17,
+      "positive_square_rule_error": -3.2331359811621496e-12
+    },
+    {
+      "k": 5.0,
+      "endpoint": -2.0,
+      "direct_covariance": 0.06263298309331033,
+      "square_covariance": 0.06263298309331032,
+      "identity_error": -1.3877787807814457e-17,
+      "positive_square_rule_error": 6.103811900359801e-12
+    },
+    {
+      "k": 5.0,
+      "endpoint": 0.0,
+      "direct_covariance": 0.06254781390600155,
+      "square_covariance": 0.06254781390600155,
+      "identity_error": 0.0,
+      "positive_square_rule_error": -4.353323257433317e-13
+    },
+    {
+      "k": 5.0,
+      "endpoint": 1.5,
+      "direct_covariance": 0.062336239789873155,
+      "square_covariance": 0.06233623978987315,
+      "identity_error": -6.938893903907228e-18,
+      "positive_square_rule_error": 6.48820580595455e-12
+    }
+  ],
+  "max_identity_error": 5.551115123125783e-17,
+  "max_positive_square_rule_error": 6.48820580595455e-12
+}

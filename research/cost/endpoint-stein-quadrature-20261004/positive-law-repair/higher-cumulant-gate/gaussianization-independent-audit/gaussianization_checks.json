@@ -1,0 +1,96 @@
+{
+  "status": "PASS",
+  "scope": "Algebra and numerical diagnostics; analytical proof is in the audit markdown",
+  "second_Hermite_factor": [
+    {
+      "dimension": 1,
+      "HS_energy_over_chaos_energy": 2.0000000000000004
+    },
+    {
+      "dimension": 2,
+      "HS_energy_over_chaos_energy": 2.0
+    },
+    {
+      "dimension": 3,
+      "HS_energy_over_chaos_energy": 2.0000000000000004
+    },
+    {
+      "dimension": 8,
+      "HS_energy_over_chaos_energy": 2.0
+    },
+    {
+      "dimension": 17,
+      "HS_energy_over_chaos_energy": 2.0
+    }
+  ],
+  "chain_rule_tensor_contraction_ratios": [
+    0.8484512393487288,
+    0.9999999999999999,
+    0.47703211880904617,
+    0.7546648870163146,
+    0.46367601381304546
+  ],
+  "nonsymmetric_Stein_and_velocity": {
+    "mean_tau_covariance_max_error": 6.938893903907228e-17,
+    "tau_nonsymmetry_L2": 0.027897015677961313,
+    "tau_squared_norm_over_L2_e2": 0.6445378001471954,
+    "vector_Stein_identity_error": 4.163336342344337e-17,
+    "wrong_transpose_error": 0.000195978912925443,
+    "continuity_velocity_identity_error": 4.868067754459915e-17,
+    "maximum_centered_matrix_dual_ratio_40_tests": 0.04578967057119972
+  },
+  "scalar_quantile_diagnostics": [
+    {
+      "amplitude": 0.05,
+      "approximate_W2": 8.665897288701612e-06,
+      "theorem_bound": 9.505266370341503e-05,
+      "ratio": 0.09116943125067062,
+      "approximate_W2_over_amplitude_cubed": 0.06932717830961288
+    },
+    {
+      "amplitude": 0.1,
+      "approximate_W2": 6.910408485338176e-05,
+      "theorem_bound": 0.0007604213096273203,
+      "ratio": 0.09087604986668434,
+      "approximate_W2_over_amplitude_cubed": 0.06910408485338175
+    },
+    {
+      "amplitude": 0.2,
+      "approximate_W2": 0.0005460693026163851,
+      "theorem_bound": 0.006083370477018562,
+      "ratio": 0.08976426878476283,
+      "approximate_W2_over_amplitude_cubed": 0.06825866282704812
+    },
+    {
+      "amplitude": 0.4,
+      "approximate_W2": 0.004181902740012425,
+      "theorem_bound": 0.0486669638161485,
+      "ratio": 0.08592898369026261,
+      "approximate_W2_over_amplitude_cubed": 0.06534223031269412
+    }
+  ],
+  "noncommuting_buffer": [
+    {
+      "dimension": 2,
+      "Gaussian_covariance_derivative_error": 2.7755575615628914e-17,
+      "incorrect_commuting_derivative_discrepancy": 0.023016655970955473
+    },
+    {
+      "dimension": 3,
+      "Gaussian_covariance_derivative_error": 8.326672684688674e-17,
+      "incorrect_commuting_derivative_discrepancy": 0.18396568884333867
+    },
+    {
+      "dimension": 7,
+      "Gaussian_covariance_derivative_error": 2.220446049250313e-15,
+      "incorrect_commuting_derivative_discrepancy": 0.35482229966833734
+    }
+  ],
+  "positive_buffered_join": {
+    "matrix_join_cases": 36,
+    "one_marked_energy_covariance_max_ratio": 0.7262117038811401,
+    "positive_quadratic_covariance_root_max_ratio": 0.9999999826796568,
+    "reverse_bridge_heat_cases": 36,
+    "scope": "Exact Gaussian algebra and source-qualified error scaling; imported compilers not instantiated"
+  }
+}

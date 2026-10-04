@@ -1,0 +1,99 @@
+{
+  "status": "PASS",
+  "assertions": 439,
+  "nodes": 337,
+  "beta": 0.7853981633982807,
+  "c": 0.8668502750693925,
+  "lambda_chord": 0.266299449861215,
+  "m2": 0.3333333333333334,
+  "m4": 0.2,
+  "m11": 0.3333333333341656,
+  "m31": 0.13333333333416558,
+  "K": 0.8569321089334945,
+  "J": 0.4094395102408488,
+  "target_third_first": 0.06065306597126335,
+  "target_third_second": -0.07581633246407918,
+  "chord_third_second": -0.08511733538524581,
+  "third_cumulant_defect_coefficient": -0.009301002921166684,
+  "literal_program": [
+    {
+      "A": 0.125,
+      "mean": 0.004823608075920083,
+      "target_mean": 0.004416262088741503,
+      "variance": 0.941382911790487,
+      "target_variance": 0.9412249099708002,
+      "third_cumulant": 0.006346730025286629,
+      "target_third_cumulant": 0.006510089361012347,
+      "repaired_third_cumulant": 0.006345132238453011,
+      "repaired_defect_over_A2": -0.01055725584379752
+    },
+    {
+      "A": 0.0625,
+      "mean": 0.002435461856177379,
+      "target_mean": 0.002328570335654637,
+      "variance": 0.9697279320087031,
+      "target_variance": 0.9697102563336301,
+      "third_cumulant": 0.003470331786615377,
+      "target_third_cumulant": 0.003509383558323623,
+      "repaired_third_cumulant": 0.0034702369040576775,
+      "repaired_defect_over_A2": -0.010021543492082063
+    },
+    {
+      "A": 0.03125,
+      "mean": 0.0012236577231276025,
+      "target_mean": 0.0011962674601912286,
+      "variance": 0.984620385996332,
+      "target_variance": 0.9846188666854392,
+      "third_cumulant": 0.001813794164816751,
+      "target_third_cumulant": 0.0018232483570919992,
+      "repaired_third_cumulant": 0.0018137899666769153,
+      "repaired_defect_over_A2": -0.009685391785045905
+    },
+    {
+      "A": 0.015625,
+      "mean": 0.0006133119293990075,
+      "target_mean": 0.0006063785880001686,
+      "variance": 0.9922489595269599,
+      "target_variance": 0.9922489534859051,
+      "third_cumulant": 0.0009271125655194723,
+      "target_third_cumulant": 0.0009294317364913623,
+      "repaired_third_cumulant": 0.0009271125570528005,
+      "repaired_defect_over_A2": -0.00949935898034937
+    },
+    {
+      "A": 0.0078125,
+      "mean": 0.00030702689200151623,
+      "target_mean": 0.0003052826831994361,
+      "variance": 0.9961091290197699,
+      "target_variance": 0.9961091749617395,
+      "third_cumulant": 0.00046868058402105284,
+      "target_third_cumulant": 0.00046925445300545097,
+      "repaired_third_cumulant": 0.00046868061644544934,
+      "repaired_defect_over_A2": -0.009401738199066756
+    },
+    {
+      "A": 0.00390625,
+      "mean": 0.0001536061971965097,
+      "target_mean": 0.00015316877620277943,
+      "variance": 0.9980507215227913,
+      "target_variance": 0.9980507389860263,
+      "third_cumulant": 0.00023563021034633813,
+      "target_third_cumulant": 0.0002357729130943267,
+      "repaired_third_cumulant": 0.00023563021653061345,
+      "repaired_defect_over_A2": -0.009351761999511154
+    }
+  ],
+  "gaussianization": [
+    {
+      "t": 0.25,
+      "sine_test_defect_over_A": -9.610176475517251e-05
+    },
+    {
+      "t": 0.5,
+      "sine_test_defect_over_A": -0.0007760529196380645
+    }
+  ],
+  "full_lift_LQ": 7.196271833684603,
+  "max_C2_lift_curl_fraction": 0.000318311732239187,
+  "scope": "Positive finite original-VALUE local-chord test and precise nonlinear gate. No all-order impossibility or new full-law grade is claimed."
+}

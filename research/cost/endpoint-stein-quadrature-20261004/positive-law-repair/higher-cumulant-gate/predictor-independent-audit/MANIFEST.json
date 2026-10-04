@@ -1,0 +1,88 @@
+{
+  "status": "PASS at bounded pinned scopes",
+  "date": "2026-10-04",
+  "scope": [
+    "Positive two-stage third-cumulant word repair, matrix quadratic row, and imported conditional source ports.",
+    "Exact two-clock current identity and uniform-C2 analytical stationary reference.",
+    "Finite Markov-clock VALUE graph raw ports only; finite order-three law comparison is not proved."
+  ],
+  "assertions": {
+    "predictor": 130,
+    "bilinear_exact": 52,
+    "finite_reference_ports": 41,
+    "total": 223
+  },
+  "files": {
+    "INDEPENDENT-TWO-CLOCK-REFERENCE-AUDIT.md": {
+      "sha256": "81e0747f11568a13bef3ae84829a5108d2c216f4a2ad957d720a1b78acec744b",
+      "bytes": 10956
+    },
+    "INDEPENDENT-TWO-STAGE-PREDICTOR-AUDIT.md": {
+      "sha256": "edc23a5d570a00e2a8b0584abfb3fc5623de0abbaf59a84c063df73f337f1859",
+      "bytes": 17135
+    },
+    "bilinear_identity_checks.json": {
+      "sha256": "4682ed34cfe3aeb91d9b9c6730368d5afa3bf1601728761a76c311aabf13bf8c",
+      "bytes": 5262
+    },
+    "check_bilinear_identity.py": {
+      "sha256": "1358d366ab6656ae1254fcd05795999f922d11765c559f655f9ed5b9bc18ee43",
+      "bytes": 1780
+    },
+    "check_predictor_independent.py": {
+      "sha256": "57910da5fe57773f74c8618748c974aa137bb69243164caab482e42d767957be",
+      "bytes": 8069
+    },
+    "check_reference_ports.py": {
+      "sha256": "a177255fe6b08d4ef0e6fed4f64528c46832c4ac06f80ac73d97b965e877af7d",
+      "bytes": 3687
+    },
+    "predictor_independent_checks.json": {
+      "sha256": "fd038979615c4412ca8a35d0640c3179b3460be9bdb8b4abf19a27edd9083e52",
+      "bytes": 4240
+    },
+    "reference_ports_checks.json": {
+      "sha256": "2117fafbc41436126f04599b955f58bd99b08988522c886da44a8eaa2dd62e1e",
+      "bytes": 333
+    }
+  },
+  "imports": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/TWO-STAGE-VALUE-REPAIR-OF-THE-THIRD-CUMULANT-WORD.md": {
+      "sha256": "8c271f17971c1f24cb42e27e1ace4179a7cf19716d24f32755a53ac892b57d98",
+      "bytes": 12337
+    },
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/EXACT-TWO-CLOCK-CURRENT-AND-UNIFORM-C2-REFERENCE.md": {
+      "sha256": "0a966fbd6076dff94d2b928ec1a4a05aa6d33c9bc8222eff051b221ee9881477",
+      "bytes": 13987
+    },
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/check_two_stage_word_repair.py": {
+      "sha256": "90007f2a9a7f85061301fa5e9cb8856b8b83d08667e27c1cf99706c9f63cacfc",
+      "bytes": 6177
+    },
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/two_stage_word_repair_checks.json": {
+      "sha256": "644a6d66c7343f696babff5f6b1c247cd3a5686b39e4fee9616f1e31049dba5e",
+      "bytes": 7384
+    },
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/SAME-ROOT-CHORD-AND-FIRST-NONLINEAR-BRIDGE-GATE.md": {
+      "sha256": "fc248e0a5b145cd325e5dae47c9a2728a0b28b6ebc8a9cdb85344044125bbb5b",
+      "bytes": 20062
+    },
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md": {
+      "sha256": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+      "bytes": 19496
+    },
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/independent-audit/INDEPENDENT-CONDITIONAL-OU-VELOCITY-AUDIT.md": {
+      "sha256": "872820f2b0444d807352f6d612cf7b1c6707cc94ca05ea473568a2bccc553cd5",
+      "bytes": 17681
+    },
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/reverse-ou-curvature/THIRD-ORDER-VALUE-CURVATURE-RESERVE.md": {
+      "sha256": "56c81676cecd5a76ae073178bc84338e2e9b0cb643788ceff58a554b980adc3d",
+      "bytes": 17287
+    },
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/reverse-ou-curvature/independent-audit/INDEPENDENT-VALUE-CURVATURE-RESERVE-AUDIT.md": {
+      "sha256": "363cf7e855d1e054037384b04514926abc94d64720af34ac34ecddf8fb0f7f62",
+      "bytes": 15807
+    }
+  },
+  "publication_copy_notice": "Historical source hashes and byte counts pin original reviewed files; public copies have separate hashes and edit descriptions in root INVENTORY.json. Research paths are relative to the public archive; external:LOW30 remains unbundled and is not reverified by a default portable run."
+}

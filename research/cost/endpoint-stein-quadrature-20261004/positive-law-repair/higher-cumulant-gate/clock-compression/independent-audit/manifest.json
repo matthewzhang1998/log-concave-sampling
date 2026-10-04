@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "assertions_total": 1828,
+  "inputs": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/clock-compression/POSITIVE-CLOCK-CALIBRATION-AND-DIAGONAL-GATE.md": "003476b645b0d83f49ece98d8a7d4e1bbd09cede992859e4d7714f950e46376d",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/clock-compression/POSITIVE-SQUARE-CLOCK-COVARIANCE-SERVICE.md": "108af2124e3da0e2a04af92e9f0403bfce2f82f7e2912ba6b7e1975ef1c8b18b",
+    "external:LOW30": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/reverse-ou-curvature/THIRD-ORDER-VALUE-CURVATURE-RESERVE.md": "56c81676cecd5a76ae073178bc84338e2e9b0cb643788ceff58a554b980adc3d",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/reverse-ou-curvature/independent-audit/INDEPENDENT-VALUE-CURVATURE-RESERVE-AUDIT.md": "363cf7e855d1e054037384b04514926abc94d64720af34ac34ecddf8fb0f7f62"
+  },
+  "outputs": {
+    "INDEPENDENT-CLOCK-GRADIENT-AUDIT.md": "4a9cf4be448c03bd4820d877abe50aee59aaa006f5e38ae21f20d07a26413e14",
+    "INDEPENDENT-SQUARE-CLOCK-SERVICE-AUDIT.md": "a6c3ae0174c383294d60312f39566a366b40ce794d1dac9e6d581259898ddc5c",
+    "check_clock_gradient_independent.py": "bc54aeb16c6a48ef3a3fd8583a81ca9d42eb62ac2c0a8d4ecca2e9b5c73e4f2e",
+    "check_conditional_covariance_square.py": "6b5798443a934ddc2aa65c9c6fb871090ebdeb3a1c9a54338da269f0ac7ca239",
+    "check_square_clock_value_action.py": "e63fc4fe00277cebd66ab2a3d01da4decf9781f800ae297049288a162dcad1c5",
+    "clock_gradient_independent_checks.json": "4cad7bf037324ea37a3fb0081bad9813c734a909f7ebb7bb19052fc390e45ab1",
+    "conditional_covariance_square_checks.json": "68260c65ba7e3fac34b53ef9784bf922f6ee5f1217786d919c43f929daa30e02",
+    "square_clock_value_action_checks.json": "f95d205d6b9d1d8a6dc383e5a6b204536d8a808529341edecae3c1ce80aa9cfc"
+  },
+  "publication_copy_notice": "Historical source hashes and byte counts pin original reviewed files; public copies have separate hashes and edit descriptions in root INVENTORY.json. Research paths are relative to the public archive; external:LOW30 remains unbundled and is not reverified by a default portable run."
+}

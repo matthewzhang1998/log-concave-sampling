@@ -1,0 +1,1701 @@
+{
+  "status": "PASS",
+  "assertions": 400,
+  "checks": [
+    {
+      "name": "affine-contraction-0-0.5",
+      "passed": true
+    },
+    {
+      "name": "raw-variance-0-0.5",
+      "passed": true
+    },
+    {
+      "name": "raw-carrier-scale-0-0.5",
+      "passed": true
+    },
+    {
+      "name": "positive-join-0-0.5",
+      "passed": true
+    },
+    {
+      "name": "affine-contraction-0.1-0.35",
+      "passed": true
+    },
+    {
+      "name": "raw-variance-0.1-0.35",
+      "passed": true
+    },
+    {
+      "name": "raw-carrier-scale-0.1-0.35",
+      "passed": true
+    },
+    {
+      "name": "positive-join-0.1-0.35",
+      "passed": true
+    },
+    {
+      "name": "affine-contraction-0.5-0.65",
+      "passed": true
+    },
+    {
+      "name": "raw-variance-0.5-0.65",
+      "passed": true
+    },
+    {
+      "name": "raw-carrier-scale-0.5-0.65",
+      "passed": true
+    },
+    {
+      "name": "positive-join-0.5-0.65",
+      "passed": true
+    },
+    {
+      "name": "affine-contraction-0.8-0.83",
+      "passed": true
+    },
+    {
+      "name": "raw-variance-0.8-0.83",
+      "passed": true
+    },
+    {
+      "name": "raw-carrier-scale-0.8-0.83",
+      "passed": true
+    },
+    {
+      "name": "positive-join-0.8-0.83",
+      "passed": true
+    },
+    {
+      "name": "affine-contraction-0.98-0.983",
+      "passed": true
+    },
+    {
+      "name": "raw-variance-0.98-0.983",
+      "passed": true
+    },
+    {
+      "name": "raw-carrier-scale-0.98-0.983",
+      "passed": true
+    },
+    {
+      "name": "positive-join-0.98-0.983",
+      "passed": true
+    },
+    {
+      "name": "affine-contraction-0.999-0.9992",
+      "passed": true
+    },
+    {
+      "name": "raw-variance-0.999-0.9992",
+      "passed": true
+    },
+    {
+      "name": "raw-carrier-scale-0.999-0.9992",
+      "passed": true
+    },
+    {
+      "name": "positive-join-0.999-0.9992",
+      "passed": true
+    },
+    {
+      "name": "conditional-Gram-PSD-2",
+      "passed": true
+    },
+    {
+      "name": "conditional-row-bound-2",
+      "passed": true
+    },
+    {
+      "name": "weighted-row-op-2",
+      "passed": true
+    },
+    {
+      "name": "nested-first-2-0.01",
+      "passed": true
+    },
+    {
+      "name": "nested-first-2-0.1",
+      "passed": true
+    },
+    {
+      "name": "nested-first-2-0.4",
+      "passed": true
+    },
+    {
+      "name": "conditional-Gram-PSD-3",
+      "passed": true
+    },
+    {
+      "name": "conditional-row-bound-3",
+      "passed": true
+    },
+    {
+      "name": "weighted-row-op-3",
+      "passed": true
+    },
+    {
+      "name": "nested-first-3-0.01",
+      "passed": true
+    },
+    {
+      "name": "nested-first-3-0.1",
+      "passed": true
+    },
+    {
+      "name": "nested-first-3-0.4",
+      "passed": true
+    },
+    {
+      "name": "conditional-Gram-PSD-5",
+      "passed": true
+    },
+    {
+      "name": "conditional-row-bound-5",
+      "passed": true
+    },
+    {
+      "name": "weighted-row-op-5",
+      "passed": true
+    },
+    {
+      "name": "nested-first-5-0.01",
+      "passed": true
+    },
+    {
+      "name": "nested-first-5-0.1",
+      "passed": true
+    },
+    {
+      "name": "nested-first-5-0.4",
+      "passed": true
+    },
+    {
+      "name": "conditional-Gram-PSD-9",
+      "passed": true
+    },
+    {
+      "name": "conditional-row-bound-9",
+      "passed": true
+    },
+    {
+      "name": "weighted-row-op-9",
+      "passed": true
+    },
+    {
+      "name": "nested-first-9-0.01",
+      "passed": true
+    },
+    {
+      "name": "nested-first-9-0.1",
+      "passed": true
+    },
+    {
+      "name": "nested-first-9-0.4",
+      "passed": true
+    },
+    {
+      "name": "stopping-1",
+      "passed": true
+    },
+    {
+      "name": "alpha-min-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-1-0",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-1-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-1-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-1-3",
+      "passed": true
+    },
+    {
+      "name": "weighted-error-sum-1",
+      "passed": true
+    },
+    {
+      "name": "terminal-grade-1",
+      "passed": true
+    },
+    {
+      "name": "floor-sum-1",
+      "passed": true
+    },
+    {
+      "name": "heat-budget-1",
+      "passed": true
+    },
+    {
+      "name": "stopping-2",
+      "passed": true
+    },
+    {
+      "name": "alpha-min-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-2-0",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-2-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-2-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-2-3",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-2-4",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-2-5",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-2-6",
+      "passed": true
+    },
+    {
+      "name": "weighted-error-sum-2",
+      "passed": true
+    },
+    {
+      "name": "terminal-grade-2",
+      "passed": true
+    },
+    {
+      "name": "floor-sum-2",
+      "passed": true
+    },
+    {
+      "name": "heat-budget-2",
+      "passed": true
+    },
+    {
+      "name": "stopping-3",
+      "passed": true
+    },
+    {
+      "name": "alpha-min-3",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-0",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-3",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-4",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-5",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-6",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-7",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-8",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-3-9",
+      "passed": true
+    },
+    {
+      "name": "weighted-error-sum-3",
+      "passed": true
+    },
+    {
+      "name": "terminal-grade-3",
+      "passed": true
+    },
+    {
+      "name": "floor-sum-3",
+      "passed": true
+    },
+    {
+      "name": "heat-budget-3",
+      "passed": true
+    },
+    {
+      "name": "stopping-5",
+      "passed": true
+    },
+    {
+      "name": "alpha-min-5",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-0",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-3",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-4",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-5",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-6",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-7",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-8",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-9",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-10",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-11",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-12",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-13",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-14",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-15",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-5-16",
+      "passed": true
+    },
+    {
+      "name": "weighted-error-sum-5",
+      "passed": true
+    },
+    {
+      "name": "terminal-grade-5",
+      "passed": true
+    },
+    {
+      "name": "floor-sum-5",
+      "passed": true
+    },
+    {
+      "name": "heat-budget-5",
+      "passed": true
+    },
+    {
+      "name": "stopping-8",
+      "passed": true
+    },
+    {
+      "name": "alpha-min-8",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-0",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-3",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-4",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-5",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-6",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-7",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-8",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-9",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-10",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-11",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-12",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-13",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-14",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-15",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-16",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-17",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-18",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-19",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-20",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-21",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-22",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-23",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-24",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-8-25",
+      "passed": true
+    },
+    {
+      "name": "weighted-error-sum-8",
+      "passed": true
+    },
+    {
+      "name": "terminal-grade-8",
+      "passed": true
+    },
+    {
+      "name": "floor-sum-8",
+      "passed": true
+    },
+    {
+      "name": "heat-budget-8",
+      "passed": true
+    },
+    {
+      "name": "stopping-12",
+      "passed": true
+    },
+    {
+      "name": "alpha-min-12",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-0",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-3",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-4",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-5",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-6",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-7",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-8",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-9",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-10",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-11",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-12",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-13",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-14",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-15",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-16",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-17",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-18",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-19",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-20",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-21",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-22",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-23",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-24",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-25",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-26",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-27",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-28",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-29",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-30",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-31",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-32",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-33",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-34",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-35",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-36",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-37",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-12-38",
+      "passed": true
+    },
+    {
+      "name": "weighted-error-sum-12",
+      "passed": true
+    },
+    {
+      "name": "terminal-grade-12",
+      "passed": true
+    },
+    {
+      "name": "floor-sum-12",
+      "passed": true
+    },
+    {
+      "name": "heat-budget-12",
+      "passed": true
+    },
+    {
+      "name": "stopping-20",
+      "passed": true
+    },
+    {
+      "name": "alpha-min-20",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-0",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-3",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-4",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-5",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-6",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-7",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-8",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-9",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-10",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-11",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-12",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-13",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-14",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-15",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-16",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-17",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-18",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-19",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-20",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-21",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-22",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-23",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-24",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-25",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-26",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-27",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-28",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-29",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-30",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-31",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-32",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-33",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-34",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-35",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-36",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-37",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-38",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-39",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-40",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-41",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-42",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-43",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-44",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-45",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-46",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-47",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-48",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-49",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-50",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-51",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-52",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-53",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-54",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-55",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-56",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-57",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-58",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-59",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-60",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-61",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-62",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-63",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-20-64",
+      "passed": true
+    },
+    {
+      "name": "weighted-error-sum-20",
+      "passed": true
+    },
+    {
+      "name": "terminal-grade-20",
+      "passed": true
+    },
+    {
+      "name": "floor-sum-20",
+      "passed": true
+    },
+    {
+      "name": "heat-budget-20",
+      "passed": true
+    },
+    {
+      "name": "stopping-40",
+      "passed": true
+    },
+    {
+      "name": "alpha-min-40",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-0",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-1",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-2",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-3",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-4",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-5",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-6",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-7",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-8",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-9",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-10",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-11",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-12",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-13",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-14",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-15",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-16",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-17",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-18",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-19",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-20",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-21",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-22",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-23",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-24",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-25",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-26",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-27",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-28",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-29",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-30",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-31",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-32",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-33",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-34",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-35",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-36",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-37",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-38",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-39",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-40",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-41",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-42",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-43",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-44",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-45",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-46",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-47",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-48",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-49",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-50",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-51",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-52",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-53",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-54",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-55",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-56",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-57",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-58",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-59",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-60",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-61",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-62",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-63",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-64",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-65",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-66",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-67",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-68",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-69",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-70",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-71",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-72",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-73",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-74",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-75",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-76",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-77",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-78",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-79",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-80",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-81",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-82",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-83",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-84",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-85",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-86",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-87",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-88",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-89",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-90",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-91",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-92",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-93",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-94",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-95",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-96",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-97",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-98",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-99",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-100",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-101",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-102",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-103",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-104",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-105",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-106",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-107",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-108",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-109",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-110",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-111",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-112",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-113",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-114",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-115",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-116",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-117",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-118",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-119",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-120",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-121",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-122",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-123",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-124",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-125",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-126",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-127",
+      "passed": true
+    },
+    {
+      "name": "half-buffer-40-128",
+      "passed": true
+    },
+    {
+      "name": "weighted-error-sum-40",
+      "passed": true
+    },
+    {
+      "name": "terminal-grade-40",
+      "passed": true
+    },
+    {
+      "name": "floor-sum-40",
+      "passed": true
+    },
+    {
+      "name": "heat-budget-40",
+      "passed": true
+    },
+    {
+      "name": "quadratic-cubic-grade-1",
+      "passed": true
+    },
+    {
+      "name": "quadratic-cubic-grade-2",
+      "passed": true
+    },
+    {
+      "name": "quadratic-cubic-grade-3",
+      "passed": true
+    },
+    {
+      "name": "quadratic-cubic-grade-4",
+      "passed": true
+    },
+    {
+      "name": "quadratic-cubic-grade-6",
+      "passed": true
+    },
+    {
+      "name": "quadratic-cubic-grade-8",
+      "passed": true
+    },
+    {
+      "name": "quadratic-cubic-grade-12",
+      "passed": true
+    }
+  ],
+  "schedule": [
+    {
+      "A": "0.1",
+      "J": 4,
+      "min_alpha": "0.031640625",
+      "weighted_error_over_A3": 0.3869018220637755
+    },
+    {
+      "A": "0.01",
+      "J": 7,
+      "min_alpha": "0.0013348388671875",
+      "weighted_error_over_A3": 0.39357837803157913
+    },
+    {
+      "A": "0.001",
+      "J": 10,
+      "min_alpha": "0.00005631351470947265625",
+      "weighted_error_over_A3": 0.393903986551022
+    },
+    {
+      "A": "0.00001",
+      "J": 17,
+      "min_alpha": "0.000000075169468182139098644256591796875",
+      "weighted_error_over_A3": 0.39392066576000917
+    },
+    {
+      "A": "0.00000001",
+      "J": 26,
+      "min_alpha": "0.000000000005644075936237502588710412965156137943267822265625",
+      "weighted_error_over_A3": 0.3939206802645363
+    },
+    {
+      "A": "0.000000000001",
+      "J": 39,
+      "min_alpha": "0.000000000000000013408780215516662358851062848935468962974226769802044145762920379638671875",
+      "weighted_error_over_A3": 0.3939206802662189
+    },
+    {
+      "A": "0.00000000000000000001",
+      "J": 65,
+      "min_alpha": "7.5680173748695107839262456813081746201806851014784258570971188953989301120880008e-29",
+      "weighted_error_over_A3": 0.3939206802662189
+    },
+    {
+      "A": "1.0e-40",
+      "J": 129,
+      "min_alpha": "7.6366515981769068421365898006439332603431682070871299648609168915898525691720546e-57",
+      "weighted_error_over_A3": 0.3939206802662189
+    }
+  ],
+  "quadratic": [
+    {
+      "A": "0.1",
+      "J": 4,
+      "W2": "0.000011082042254323579120303056751296124986183567300490164568548152615569645622313462",
+      "W2_over_A3": 0.01108204225432358
+    },
+    {
+      "A": "0.01",
+      "J": 7,
+      "W2": "0.000000017862829547610848754564791526344652656897870605866841097283144981641236378654167",
+      "W2_over_A3": 0.01786282954761085
+    },
+    {
+      "A": "0.001",
+      "J": 10,
+      "W2": "0.000000000022328747130575719166145905855330157675006845710333991349291114383714446866968946",
+      "W2_over_A3": 0.02232874713057572
+    },
+    {
+      "A": "0.0001",
+      "J": 13,
+      "W2": "0.000000000000025351867855996426730256707934212548534977185911338904558120052269187055709025089",
+      "W2_over_A3": 0.025351867855996427
+    },
+    {
+      "A": "0.000001",
+      "J": 20,
+      "W2": "0.000000000000000000032162470131483260024722629909800423539147312584408626752674678348591518617716059",
+      "W2_over_A3": 0.03216247013148326
+    },
+    {
+      "A": "0.00000001",
+      "J": 26,
+      "W2": "3.3088728297261545904128236022234699923039732624152743579342666413125893662073751e-26",
+      "W2_over_A3": 0.033088728297261547
+    },
+    {
+      "A": "0.000000000001",
+      "J": 39,
+      "W2": "3.4125213155510210042721723990868571747933985624059930786766897657276567307564102e-38",
+      "W2_over_A3": 0.03412521315551021
+    }
+  ],
+  "scope": "Algebra/first-bound/quadratic diagnostics; imported finite compilers and nonlinear proof not numerically instantiated."
+}

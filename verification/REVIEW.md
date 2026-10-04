@@ -1,4 +1,35 @@
-# Publication snapshot verification
+# V10 publication snapshot verification
+
+Verified 4 October 2026 (UTC). Snapshot: `2026-10-04-public-v10-full-nonlinear-third-order-endpoint`.
+
+## Current payload and preservation
+
+The archive contains 464 research files: 216 proofs/audits/certificates, 107 diagnostic scripts, 113 saved JSON results, 23 source manifests, 3 saved stdout summaries, 1 read-only publication utility, and the single unchanged baseline TeX manuscript. The inventory maps 357 unchanged source copies and 107 explicitly edited publication copies. No original manuscript was added or expanded.
+
+The V10 delta admits exactly the 55 files in the frozen higher-cumulant archive and 8 files in the frozen curvature dependency. All 63 original sources remain unchanged. The main endpoint proof, final independent audit, curvature proof and curvature audit retain their exact original bytes. Among the new files, 11 publication copies are edited for workspace-locator sanitation, original/public notices, or the report-only optional external hash read and matching result metadata. All 400 inherited research files other than the read-only manifest utility are unchanged. The utility now validates both V10 frozen lists alongside V9, including exact file sets, public hashes, original pins and export-path safety. The original V9 directory remains intact.
+
+The exact32 manuscript remains SHA-256 `c7487ca24ffa44ea73b52e42e4b6f715ad964171fa5bd0a61cf9323eb646cbff`. LOW30 remains externally pinned at `7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8`; it is neither redistributed nor numerically executed as a compiler.
+
+## Executed checks
+
+- Before curation, all 91 inherited publication diagnostics and all 16 new original diagnostics passed in independent disposable copies. Every one of the 16 original saved JSON outputs reproduced byte-for-byte.
+- After curation, all 107 publication diagnostics passed: 0 failed, 0 not run. All 16 new default-public saved outputs reproduced byte-for-byte. The five inherited saved-output differences are unchanged: four sanitized source hashes and positive-law roundoff below 1.4e-17. Detailed comparisons are in `DIAGNOSTIC-RERUN.json`.
+- The frozen file list has 14 higher-cumulant checkers, although its historical summary says 13 selected reruns. Adding both curvature checkers gives 16 new scripts. The original summary and 47-pin record are preserved as historical provenance, with explicit public correction. V10 checks 140 manifest records, including all 73 audit-manifest records and 3 external LOW30 records. Public research mappings total 619 including historical versions; the one previously documented stale binding is unchanged.
+- The new clock-gradient adapter keeps all 1,060 mathematical assertions and the exact numerical report. Its original LOW30 read was report-only; no mathematical or hash assertion was removed. Default-public status is explicitly `external_not_reverified`. Optional original-file mode verifies the fixed pin, and a wrong file is rejected. Functions and mathematical loops are AST-identical. The inherited V9 external-pin count differences remain unchanged.
+- The portable manifest utility passes. Six guard regressions reject existing archive files, new internal files and external symlink aliases before execution. Python parsing, JSON decoding, exact research-file sets, all checksum mappings and before/after source preservation were checked.
+- The proof-specific full-bridge diagnostic has 400 integration assertions. Fifteen new scripts report 6,189 assertions in total; the remaining Gaussianization checker reports detailed fixture arrays without a single aggregate count. Finite diagnostics are not formal verification or execution of the complete imported sampler.
+
+## Mathematical scope
+
+The independently audited result is one guarded full nonlinear endpoint gain for the general C² Hessian-sandwich class: standardized W2 ≤ ΛA³√D and physical W2 ≤ ΛA^(7/2)√D, plus finite-mode/numerical floors, with complete fixed public-log original-gradient VALUE work and Gaussian-root count. Imported radius, dimension, initialization, covariance-gap, finite-clock and public-log guards remain explicit.
+
+The final finite construction joins the nonlinear conditional mean service, positive square-clock covariance service and full-law cubic Gaussianization bound, then uses bounded variance reduction and a small-variance terminal packet. All higher private cumulants are priced. Analytical continuous means/covariances are reference objects, not extra oracle leaves. Complete private banks, actual first/caller/zero records, roots, mode/numerical budgets and replay remain charged. The old literal Markov-path diagonal obstruction remains scoped to its former discretization.
+
+No all-order recurrence, eventual-sublinear complete-cost conclusion, new strong paired source, retained-private-observer theorem or protected/proxy admission is asserted. Later re-entry and positive-third-cumulant work, crossbank drafts and every unlisted live file are excluded. Workspace locators, secret markers and excluded confidential material were scanned; a deterministic scan is not a universal secret-detection guarantee. No publication license is assigned. No new TeX/PDF build is claimed.
+
+The independent curation review is in `V10-INDEPENDENT-CURATION-REVIEW.md`. The earlier V9 review below remains historical; exclusions and counts there describe that earlier freeze.
+
+# Historical V9 publication verification
 
 Verified 4 October 2026 (UTC). Snapshot version: `2026-10-04-public-v9-positive-endpoint-law-components`.
 

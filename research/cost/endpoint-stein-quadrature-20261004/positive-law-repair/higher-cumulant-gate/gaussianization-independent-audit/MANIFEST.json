@@ -1,0 +1,43 @@
+{
+  "audit_date": "2026-10-04",
+  "verdict": "PASS: standalone Gaussianization lemma, noncommuting SPD-buffer extension, and source-qualified positive buffered raw-law join",
+  "reviewed_sources": [
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/CUBIC-GAUSSIANIZATION-AND-POSITIVE-BUFFERED-LAW-RETURN.md",
+      "sha256": "f347c88a3987e50542dbb97e1e9d2cb1d8eb684cb6327509e89154d75efbb9aa"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/TWO-STAGE-VALUE-REPAIR-OF-THE-THIRD-CUMULANT-WORD.md",
+      "sha256": "8c271f17971c1f24cb42e27e1ace4179a7cf19716d24f32755a53ac892b57d98"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/reverse-ou-curvature/THIRD-ORDER-VALUE-CURVATURE-RESERVE.md",
+      "sha256": "56c81676cecd5a76ae073178bc84338e2e9b0cb643788ceff58a554b980adc3d"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "INDEPENDENT-GAUSSIANIZATION-AUDIT.md",
+      "sha256": "b6aebdd5f7adb06823afd34edaca0d61426de2bde2848f56eb6e3420ddd93fac"
+    },
+    {
+      "path": "INDEPENDENT-POSITIVE-BUFFERED-JOIN-AUDIT.md",
+      "sha256": "289ad2c74c016d06923db7f391dd4e6fd8fd2d0d3d74530e5bc3c02c86babfde"
+    },
+    {
+      "path": "check_gaussianization.py",
+      "sha256": "9cb98bbbee1ca3e2d426f50fdac0278b2288e825982a6f4a302dca2f565fb1b4"
+    },
+    {
+      "path": "gaussianization_checks.json",
+      "sha256": "4c3c1d0ace9f47129f065c53a2df17f5c1c939a0095f2c56f816763a5ef2a0c2"
+    }
+  ],
+  "scope_limits": [
+    "Imported finite mean/covariance circuits are used as proved guarded ports and are not instantiated numerically.",
+    "The join approximates the actual raw K-star law; its posterior defect is retained.",
+    "The h=1 terminal step is excluded.",
+    "No full posterior-order-three or eventual-sublinear-cost theorem is certified."
+  ],
+  "publication_copy_notice": "Historical source hashes and byte counts pin original reviewed files; public copies have separate hashes and edit descriptions in root INVENTORY.json. Research paths are relative to the public archive; external:LOW30 remains unbundled and is not reverified by a default portable run."
+}

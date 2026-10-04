@@ -1,0 +1,427 @@
+{
+  "status": "PASS",
+  "assertions": 366,
+  "midpoint_tail": {
+    "width": "1/16777216",
+    "m2_exact": "6296488643826193618261/18889465931478580854784",
+    "linear_cumulant_floor": -3.2109465768530444e-24,
+    "repair": "Use an A-linked tail, retain a quadrature floor, or replace tail midpoint by a positive 3-point Gauss rule."
+  },
+  "scalar": {
+    "dyadic_midpoint": {
+      "nodes": 337,
+      "beta": 0.7853981633982805,
+      "lambda_chord": 0.2662994498612157,
+      "first_coefficient": 0.06065306597126336,
+      "second_coefficient": -0.08511733538524589,
+      "delta": -0.009301002921166715,
+      "rows": [
+        {
+          "A": 0.0625,
+          "defect_over_A2": -0.010021543492061635,
+          "repair_factor": 0.9999908862295106,
+          "fourth_max": 2.8210314645247543,
+          "W2_moment_floor": 7.769077084136483e-06
+        },
+        {
+          "A": 0.03125,
+          "defect_over_A2": -0.009685391785659192,
+          "repair_factor": 0.9999992284785588,
+          "fourth_max": 2.90842763480752,
+          "W2_moment_floor": 1.8487017423524302e-06
+        },
+        {
+          "A": 0.015625,
+          "defect_over_A2": -0.00949935898328036,
+          "repair_factor": 0.9999999969558776,
+          "fourth_max": 2.9536751719722383,
+          "W2_moment_floor": 4.498127187035895e-07
+        },
+        {
+          "A": 0.0078125,
+          "defect_over_A2": -0.00940173820205814,
+          "repair_factor": 1.0000000230607111,
+          "fourth_max": 2.9767007742022997,
+          "W2_moment_floor": 1.1086625296108797e-07
+        },
+        {
+          "A": 0.00390625,
+          "defect_over_A2": -0.009351761983225515,
+          "repair_factor": 1.0000000087486713,
+          "fourth_max": 2.988315910638129,
+          "W2_moment_floor": 2.7515601173791224e-08
+        }
+      ]
+    },
+    "dyadic_exact_tail": {
+      "nodes": 339,
+      "beta": 0.7853981633975,
+      "lambda_chord": 0.2662994498636677,
+      "first_coefficient": 0.06065306597126336,
+      "second_coefficient": -0.08511733538517023,
+      "delta": -0.009301002921091053,
+      "rows": [
+        {
+          "A": 0.0625,
+          "defect_over_A2": -0.010021543491947948,
+          "repair_factor": 0.9999908862295106,
+          "fourth_max": 2.8210314645247543,
+          "W2_moment_floor": 7.769077084048349e-06
+        },
+        {
+          "A": 0.03125,
+          "defect_over_A2": -0.009685391785090758,
+          "repair_factor": 0.9999992284785588,
+          "fourth_max": 2.90842763480752,
+          "W2_moment_floor": 1.8487017422439302e-06
+        },
+        {
+          "A": 0.015625,
+          "defect_over_A2": -0.009499358983735107,
+          "repair_factor": 0.9999999969558777,
+          "fourth_max": 2.9536751719722396,
+          "W2_moment_floor": 4.4981271872512255e-07
+        },
+        {
+          "A": 0.0078125,
+          "defect_over_A2": -0.00940173820569612,
+          "repair_factor": 1.0000000230607111,
+          "fourth_max": 2.9767007742022997,
+          "W2_moment_floor": 1.1086625300398738e-07
+        },
+        {
+          "A": 0.00390625,
+          "defect_over_A2": -0.009351761990501473,
+          "repair_factor": 1.0000000087486713,
+          "fourth_max": 2.988315910638129,
+          "W2_moment_floor": 2.7515601195199207e-08
+        }
+      ]
+    },
+    "global_gauss": {
+      "nodes": 32,
+      "beta": 0.7854024078342008,
+      "lambda_chord": 0.2662861155364795,
+      "first_coefficient": 0.06065306597126342,
+      "second_coefficient": -0.08511774698503641,
+      "delta": -0.00930141452095723,
+      "rows": [
+        {
+          "A": 0.0625,
+          "defect_over_A2": -0.010021970221291365,
+          "repair_factor": 0.9999908861116199,
+          "fourth_max": 2.821031464711734,
+          "W2_moment_floor": 7.769407900412648e-06
+        },
+        {
+          "A": 0.03125,
+          "defect_over_A2": -0.009685811211987527,
+          "repair_factor": 0.9999992284688879,
+          "fourth_max": 2.908427634858527,
+          "W2_moment_floor": 1.8487818004485944e-06
+        },
+        {
+          "A": 0.015625,
+          "defect_over_A2": -0.009499774559603935,
+          "repair_factor": 0.9999999969558879,
+          "fourth_max": 2.9536751719855276,
+          "W2_moment_floor": 4.498323970320591e-07
+        },
+        {
+          "A": 0.0078125,
+          "defect_over_A2": -0.00940215179841175,
+          "repair_factor": 1.000000023061014,
+          "fourth_max": 2.9767007742056864,
+          "W2_moment_floor": 1.1087113013128613e-07
+        },
+        {
+          "A": 0.00390625,
+          "defect_over_A2": -0.0093521745882299,
+          "repair_factor": 1.0000000087487844,
+          "fourth_max": 2.988315910638984,
+          "W2_moment_floor": 2.751681517760425e-08
+        }
+      ]
+    }
+  },
+  "matrix": [
+    {
+      "d": 1,
+      "pointwise_error": 1.1102230246251565e-16
+    },
+    {
+      "d": 3,
+      "pointwise_error": 2.220446049250313e-16
+    },
+    {
+      "d": 7,
+      "pointwise_error": 2.220446049250313e-16
+    }
+  ],
+  "replay": [
+    {
+      "A": 0.25,
+      "replay_error": 2.1949162627832166e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.25,
+      "replay_error": 7.888947017547799e-12,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.25,
+      "replay_error": 1.7428899228900685e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.25,
+      "replay_error": 1.7138751359810898e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.25,
+      "replay_error": 1.5335177208217884e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.25,
+      "replay_error": 1.0026759094593662e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.25,
+      "replay_error": 7.766575283195853e-12,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.1,
+      "replay_error": 2.2153853392476382e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.1,
+      "replay_error": 2.5219875252525798e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.1,
+      "replay_error": 7.506947718594368e-12,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.1,
+      "replay_error": 1.2931082491529476e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.1,
+      "replay_error": 2.278279285814579e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.1,
+      "replay_error": 8.723650828928696e-12,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.1,
+      "replay_error": 1.157266487223075e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.025,
+      "replay_error": 1.1983112296331797e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.025,
+      "replay_error": 1.2563679501520482e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.025,
+      "replay_error": 1.194890967540745e-12,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.025,
+      "replay_error": 2.122776474445624e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.025,
+      "replay_error": 1.4539509283970742e-11,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.025,
+      "replay_error": 5.7185291134299386e-12,
+      "original_value_sites": 65
+    },
+    {
+      "A": 0.025,
+      "replay_error": 1.4152045987942713e-11,
+      "original_value_sites": 65
+    }
+  ],
+  "lift": [
+    {
+      "A": 0.25,
+      "LQ": 8.11699039087448,
+      "full_curl": 3.354489528021401e-05,
+      "fixed_u_curl": 2.2005413350473387e-05
+    },
+    {
+      "A": 0.25,
+      "LQ": 8.11699039087448,
+      "full_curl": 2.9009261706533173e-05,
+      "fixed_u_curl": 8.75188667701142e-06
+    },
+    {
+      "A": 0.25,
+      "LQ": 8.11699039087448,
+      "full_curl": 1.892930990959059e-05,
+      "fixed_u_curl": 6.098030338865705e-06
+    },
+    {
+      "A": 0.25,
+      "LQ": 8.11699039087448,
+      "full_curl": 3.0800259853966297e-05,
+      "fixed_u_curl": 1.422521953434023e-05
+    },
+    {
+      "A": 0.25,
+      "LQ": 8.11699039087448,
+      "full_curl": 2.5469647934912845e-05,
+      "fixed_u_curl": 2.2456578083790597e-06
+    },
+    {
+      "A": 0.25,
+      "LQ": 8.11699039087448,
+      "full_curl": 2.40625741392323e-05,
+      "fixed_u_curl": 1.84812675874614e-05
+    },
+    {
+      "A": 0.25,
+      "LQ": 8.11699039087448,
+      "full_curl": 2.2283461136044754e-05,
+      "fixed_u_curl": 7.157644355227418e-06
+    },
+    {
+      "A": 0.25,
+      "LQ": 8.11699039087448,
+      "full_curl": 2.0903785995711945e-06,
+      "fixed_u_curl": 1.8897689589067305e-06
+    },
+    {
+      "A": 0.08,
+      "LQ": 8.11699039087448,
+      "full_curl": 1.4330664003744444e-06,
+      "fixed_u_curl": 2.0290889104541575e-07
+    },
+    {
+      "A": 0.08,
+      "LQ": 8.11699039087448,
+      "full_curl": 6.64981747660477e-07,
+      "fixed_u_curl": 1.3626086251183938e-06
+    },
+    {
+      "A": 0.08,
+      "LQ": 8.11699039087448,
+      "full_curl": 1.9589204387112562e-07,
+      "fixed_u_curl": 2.518178823391123e-07
+    },
+    {
+      "A": 0.08,
+      "LQ": 8.11699039087448,
+      "full_curl": 3.2825419152960164e-06,
+      "fixed_u_curl": 5.980117536458099e-07
+    },
+    {
+      "A": 0.08,
+      "LQ": 8.11699039087448,
+      "full_curl": 4.572859108478905e-07,
+      "fixed_u_curl": 4.2090036927518875e-07
+    },
+    {
+      "A": 0.08,
+      "LQ": 8.11699039087448,
+      "full_curl": 1.140109841774351e-06,
+      "fixed_u_curl": 1.41365979772116e-06
+    },
+    {
+      "A": 0.08,
+      "LQ": 8.11699039087448,
+      "full_curl": 1.0072131020407926e-06,
+      "fixed_u_curl": 1.1779328663353867e-08
+    },
+    {
+      "A": 0.08,
+      "LQ": 8.11699039087448,
+      "full_curl": 2.5168103895031485e-07,
+      "fixed_u_curl": 1.1755780735569807e-06
+    },
+    {
+      "A": 0.02,
+      "LQ": 8.11699039087448,
+      "full_curl": 7.14378979876513e-09,
+      "fixed_u_curl": 6.36392444124544e-08
+    },
+    {
+      "A": 0.02,
+      "LQ": 8.11699039087448,
+      "full_curl": 3.299279830476425e-08,
+      "fixed_u_curl": 4.207244957427086e-09
+    },
+    {
+      "A": 0.02,
+      "LQ": 8.11699039087448,
+      "full_curl": 2.271002433619785e-08,
+      "fixed_u_curl": 1.1840786960734302e-07
+    },
+    {
+      "A": 0.02,
+      "LQ": 8.11699039087448,
+      "full_curl": 2.8053239783682708e-08,
+      "fixed_u_curl": 6.885094273014199e-10
+    },
+    {
+      "A": 0.02,
+      "LQ": 8.11699039087448,
+      "full_curl": 5.568848869224178e-09,
+      "fixed_u_curl": 3.3427191664088684e-08
+    },
+    {
+      "A": 0.02,
+      "LQ": 8.11699039087448,
+      "full_curl": 3.315563130047558e-08,
+      "fixed_u_curl": 5.827881424353166e-09
+    },
+    {
+      "A": 0.02,
+      "LQ": 8.11699039087448,
+      "full_curl": 1.806619008896321e-08,
+      "fixed_u_curl": 2.518152634032841e-08
+    },
+    {
+      "A": 0.02,
+      "LQ": 8.11699039087448,
+      "full_curl": 4.5308074743774504e-08,
+      "fixed_u_curl": 3.328235846692259e-08
+    }
+  ],
+  "gaussianization": [
+    {
+      "t": 0.25,
+      "predicted": -9.610176475517251e-05,
+      "observed": -9.598571924385353e-05
+    },
+    {
+      "t": 0.5,
+      "predicted": -0.0007760529196380645,
+      "observed": -0.000775144193462066
+    }
+  ],
+  "scope": "Independent diagnostics of a finite VALUE chord obstruction only; no all-order impossibility or general near-gradient-consumer admission."
+}

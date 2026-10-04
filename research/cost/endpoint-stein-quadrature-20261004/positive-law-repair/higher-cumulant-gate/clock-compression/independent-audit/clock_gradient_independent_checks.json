@@ -1,0 +1,166 @@
+{
+  "status": "PASS",
+  "assertions": 1060,
+  "seed": 620041004,
+  "scope": "Independent finite tests of the protected-endpoint gradient lift, calibration, actual firsts/origins, and cosine separator. No execution or proof of the imported high-order LOW30 consumer.",
+  "source_sha256": "003476b645b0d83f49ece98d8a7d4e1bbd09cede992859e4d7714f950e46376d",
+  "low30_sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+  "low30_pin_status": "external_not_reverified",
+  "mathematical_assertions_removed": 0,
+  "maxima": {
+    "factor_error": 1.1102230246251565e-15,
+    "readout_error": 5.551115123125783e-17,
+    "potential_fd_error": 2.61869796680525e-11,
+    "private_fd_error": 9.817893026342617e-12,
+    "caller_fd_error": 2.4558119426920655e-11,
+    "centered_caller_fd_error": 2.1612649834406618e-11
+  },
+  "source_cases": [
+    {
+      "panels": 2,
+      "order": 2,
+      "nodes": 5,
+      "factor": "OU",
+      "private_scalar_roots": 5,
+      "readout_norm2": 2.306779577119585,
+      "quadratic_energy_ratio": 0.573247764055235
+    },
+    {
+      "panels": 2,
+      "order": 2,
+      "nodes": 5,
+      "factor": "calibrated",
+      "private_scalar_roots": 10,
+      "readout_norm2": 3.1917786811145765,
+      "quadratic_energy_ratio": 0.5330175502058385
+    },
+    {
+      "panels": 3,
+      "order": 3,
+      "nodes": 10,
+      "factor": "OU",
+      "private_scalar_roots": 10,
+      "readout_norm2": 2.7961604479832474,
+      "quadratic_energy_ratio": 0.536652758237863
+    },
+    {
+      "panels": 3,
+      "order": 3,
+      "nodes": 10,
+      "factor": "calibrated",
+      "private_scalar_roots": 20,
+      "readout_norm2": 3.122026234977283,
+      "quadratic_energy_ratio": 0.5121186871933073
+    },
+    {
+      "panels": 5,
+      "order": 5,
+      "nodes": 26,
+      "factor": "OU",
+      "private_scalar_roots": 26,
+      "readout_norm2": 3.5722137162555088,
+      "quadratic_energy_ratio": 0.5125510362827421
+    },
+    {
+      "panels": 5,
+      "order": 5,
+      "nodes": 26,
+      "factor": "calibrated",
+      "private_scalar_roots": 52,
+      "readout_norm2": 3.703753199786576,
+      "quadratic_energy_ratio": 0.501311933236959
+    },
+    {
+      "panels": 8,
+      "order": 4,
+      "nodes": 33,
+      "factor": "OU",
+      "private_scalar_roots": 33,
+      "readout_norm2": 3.911867629779707,
+      "quadratic_energy_ratio": 0.5217515599000314
+    },
+    {
+      "panels": 8,
+      "order": 4,
+      "nodes": 33,
+      "factor": "calibrated",
+      "private_scalar_roots": 66,
+      "readout_norm2": 4.1432928289722755,
+      "quadratic_energy_ratio": 0.5058206470006019
+    }
+  ],
+  "cosine_cases": [
+    {
+      "nodes": 5,
+      "s2": 0.21875,
+      "u": 18.285714285714285,
+      "coefficient_debt": 0.0002816618811213267,
+      "lower_bound": 0.000186920166015625,
+      "inner_error": 0.0,
+      "eta": 0.2772745833636395,
+      "readout_norm2": 3.1917786811145765
+    },
+    {
+      "nodes": 17,
+      "s2": 0.09459997106481485,
+      "u": 42.2833110303957,
+      "coefficient_debt": 5.4485311703835504e-05,
+      "lower_bound": 3.4957634865092996e-05,
+      "inner_error": -5.421010862427522e-20,
+      "eta": 0.05623786012502248,
+      "readout_norm2": 3.398751843357495
+    },
+    {
+      "nodes": 65,
+      "s2": 0.04828984340572568,
+      "u": 82.83315326563523,
+      "coefficient_debt": 1.4674348679736843e-05,
+      "lower_bound": 9.109019438084016e-06,
+      "inner_error": 0.0,
+      "eta": 0.013696503951012608,
+      "readout_norm2": 4.573226046257378
+    },
+    {
+      "nodes": 145,
+      "s2": 0.032859494548516055,
+      "u": 121.73041779733161,
+      "coefficient_debt": 6.834121572937818e-06,
+      "lower_bound": 4.217759304624829e-06,
+      "inner_error": 0.0,
+      "eta": 0.0060440109454031376,
+      "readout_norm2": 5.613250046454985
+    },
+    {
+      "nodes": 401,
+      "s2": 0.020050101058225325,
+      "u": 199.50024133963385,
+      "coefficient_debt": 2.5564035911301176e-06,
+      "lower_bound": 1.5703380954884698e-06,
+      "inner_error": -3.3881317890172014e-21,
+      "eta": 0.002161472095611895,
+      "readout_norm2": 7.469403701210473
+    }
+  ],
+  "common_auxiliary_case": {
+    "raw_S": 0.4472404040404041,
+    "S0": 0.44316800000000006,
+    "Smax": 0.6464113009864035,
+    "eta": 0.2648961106697252,
+    "branch": "common",
+    "roots": 4,
+    "t_norm2": 3.8279191830099473,
+    "log_bound": 5.817944745914156
+  },
+  "half_mixing_guard_counterexample": {
+    "raw_S": 0.9518901900382793,
+    "S0": 0.437375,
+    "Smax": 0.9993329949048382,
+    "eta": 0.8782834769264231,
+    "branch": "independent",
+    "roots": 8,
+    "t_norm2": 8.87379817037602,
+    "log_bound": 8.873954603313836
+  },
+  "max_rank_one_gaussian_integration_error": 1.6653345369377348e-16,
+  "consumer_dimension_warning": "Safe square-gradient consumer has n=M*D, readout beta=||t||, and normalized radius at most beta*A*sum(w*c)/sqrt(v). Its printed theorem has sqrt(M*D), not a proved sqrt(D) replacement."
+}

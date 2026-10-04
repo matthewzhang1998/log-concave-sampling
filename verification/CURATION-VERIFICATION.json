@@ -1,49 +1,49 @@
 {
-  "verified_utc": "2026-10-04T21:20:59.908854Z",
+  "verified_utc": "2026-10-04T22:44:32.040529Z",
   "curation": "Mathematical publication snapshot; original source files remain unchanged. Edited public copies are identified in INVENTORY.json.",
-  "research_files": 401,
-  "research_bytes": 4263284,
+  "research_files": 464,
+  "research_bytes": 4812203,
   "public_copy_counts": {
-    "unchanged_source_copy": 305,
-    "sanitized_publication_copy": 96
+    "unchanged_source_copy": 357,
+    "sanitized_publication_copy": 107
   },
   "original_version_counts": {
     "historical_bytes_verified": 17,
     "reconstructed_new_version": 29,
-    "new_research_or_diagnostic": 355
+    "new_research_or_diagnostic": 418
   },
   "kinds": {
-    "mathematical_proof_audit_or_certificate": 196,
-    "diagnostic_script": 91,
-    "saved_diagnostic_result": 95,
-    "source_manifest": 14,
+    "mathematical_proof_audit_or_certificate": 216,
+    "diagnostic_script": 107,
+    "saved_diagnostic_result": 113,
+    "source_manifest": 23,
     "publication_manifest_utility": 1,
     "saved_diagnostic_stdout": 3,
     "baseline_manuscript": 1
   },
   "diagnostics": {
-    "bundled_scripts": 91,
-    "passed": 91,
+    "bundled_scripts": 107,
+    "passed": 107,
     "failed": 0,
     "not_run": 0,
-    "isolation": "Every diagnostic ran in its own disposable research copy. V8, all selected frozen original files and the complete V9 research bytes remain unchanged by diagnostics.",
+    "isolation": "Every script ran in a separate disposable research copy. All 91 inherited publication diagnostics and all 16 new originals passed before curation; all 107 public diagnostics passed after curation. Frozen source files and archived research bytes were not execution outputs.",
     "archived_research_bytes_unchanged": true,
     "changed_saved_result_comparisons": 5,
-    "comparison_differences": "Four inherited result files differ only in sanitized source hashes. The V9 author positive-law result has floating-point changes below 1.4e-17; mathematical counts and verdicts are unchanged. All other V9 public saved outputs reproduce exactly."
+    "comparison_differences": "Four inherited source-hash differences and the inherited positive-law roundoff differences below 1.4e-17 remain. All 16 new default-public saved results reproduce byte-for-byte."
   },
   "historical_results_not_rerun": [
     "research/r-native-twin/common_two_twin_lift_checks.json",
     "research/r-shear-consumer/weighted_scalar_width_checks.json",
     "research/no-copy-rank-20261004/fenchel-inverse-audit/centered_energy_extension_checks.json"
   ],
-  "tex_build": "Unchanged baseline; no new TeX build performed for V9. Prior format limitation remains. No PDF build is claimed.",
+  "tex_build": "Unchanged baseline; no new TeX build performed for V10. No PDF build is claimed.",
   "safety_review_findings": [],
   "safety_review_scope": "Selected plaintext, executable source, file list, and curation diffs reviewed; local-path and credential-marker scans found no release blockers. Scan results are not a universal secret-detection guarantee.",
   "incoming_payload_integrity_verified": true,
   "historical_source_index_mismatches": 1,
   "mismatch_resolution": "The earlier mixed-descendant index hash remains marked stale. Final source f805e8d3 and its separate included scoped audit 73fa9893 are explicitly identified.",
-  "proof_verification_limit": "General-C2 marginal order-two law/physical order 5/2; exact matrix-quadratic amplifier and specific nonlinear separator; guarded fixed-unit-buffer conditional OU velocity law; bounded positive buffer gluing and exact covariance/cumulant ledger. No general nonlinear all-order posterior transition, strong mean oracle, high-order time discretization or sublinear complete-cost recurrence. Diagnostic passes support finite cases, not analytic or formal-proof verification. The imported LOW30 compiler was not executed.",
-  "snapshot_version": "2026-10-04-public-v9-positive-endpoint-law-components",
+  "proof_verification_limit": "Guarded general-C2 full nonlinear fixed-order endpoint law: standardized Lambda A^3 sqrt(D), physical Lambda A^(7/2) sqrt(D), complete public-log original-gradient VALUE work and root counts, with finite-mode/numerical floors. No all-order recurrence, eventual-sublinear complete-cost theorem, strong paired source, retained/private-observer, protected, or proxy admission. Diagnostic passes support finite cases, not analytic or formal-proof verification. The imported LOW30 compiler was not executed.",
+  "snapshot_version": "2026-10-04-public-v10-full-nonlinear-third-order-endpoint",
   "fixed_seed_audit": {
     "original_sha256": "03ba0c8daee0c774d5495659938cc0c3558be7a06051e856fa41c0b4078f1395",
     "original_checker_passed": 60826,
@@ -381,5 +381,117 @@
     "source_manifest_pin": "5abb984346340b7b20eec034bff50e396901269089e7a0e3594fed8aefa6e45c",
     "independent_public_scope_review": "PASS; exact four-component scope, external LOW30 boundary and explicit portable source-pin qualification.",
     "final_bundle_checksums_before_and_after_passed": true
+  },
+  "v10_additions": {
+    "new_payload_files": 63,
+    "higher_cumulant_files": 55,
+    "curvature_dependency_files": 8,
+    "original_new_diagnostics_passed": 16,
+    "public_new_diagnostics_passed": 16,
+    "new_original_saved_results_byte_identical": 16,
+    "new_public_saved_results_byte_identical": 16,
+    "new_diagnostic_assertion_counts": {
+      "higher-cumulant-gate/check_cubic_gaussianization.py": 156,
+      "higher-cumulant-gate/check_same_root_chord.py": 439,
+      "higher-cumulant-gate/check_two_stage_word_repair.py": 213,
+      "higher-cumulant-gate/clock-compression/check_clock_compression.py": 285,
+      "higher-cumulant-gate/clock-compression/independent-audit/check_clock_gradient_independent.py": 1060,
+      "higher-cumulant-gate/clock-compression/independent-audit/check_conditional_covariance_square.py": 93,
+      "higher-cumulant-gate/clock-compression/independent-audit/check_square_clock_value_action.py": 675,
+      "higher-cumulant-gate/full-bridge-independent-audit/check_full_bridge_independent.py": 400,
+      "higher-cumulant-gate/independent-audit/check_chord_independent.py": 366,
+      "higher-cumulant-gate/nested-mean-independent-audit/check_nested_force_mean.py": 541,
+      "higher-cumulant-gate/predictor-independent-audit/check_bilinear_identity.py": 52,
+      "higher-cumulant-gate/predictor-independent-audit/check_predictor_independent.py": 130,
+      "higher-cumulant-gate/predictor-independent-audit/check_reference_ports.py": 41,
+      "reverse-ou-curvature/check_value_curvature_reserve.py": 908,
+      "reverse-ou-curvature/independent-audit/check_reserve_algebra_independent.py": 830
+    },
+    "sum_of_15_explicit_assertion_counts": 6189,
+    "gaussianization_checker_count_note": "The sixteenth checker reports detailed fixture arrays without one aggregate assertion count; no invented total is assigned.",
+    "historical_higher_cumulant_checker_count": 13,
+    "actual_higher_cumulant_checker_count": 14,
+    "new_mathematical_assertions_removed": 0,
+    "new_external_hash_assertions_removed": 0,
+    "new_report_only_external_hash_reads_made_optional": 1,
+    "all_manifest_records_reverified": 140,
+    "all_audit_manifest_records_reverified": 73,
+    "external_LOW30_records": 3,
+    "historical_selected_audit_pin_count": 47,
+    "new_sanitized_artifact_count": 11,
+    "all_63_original_sources_unchanged": true,
+    "all_415_v9_files_preserved_in_base": true,
+    "all_400_inherited_nonutility_research_files_unchanged": true,
+    "inherited_publication_utility_changed": true,
+    "main_full_law_proof_and_audit_exact": true,
+    "curvature_proof_and_audit_exact": true,
+    "unchanged_baseline_manuscript": true,
+    "LOW30_not_published": true,
+    "adapter_checks": {
+      "status": "PASS",
+      "output_path_guards": [
+        {
+          "program": "run_diagnostics.py",
+          "case": "existing",
+          "rejected_before_execution": true,
+          "archive_unchanged": true
+        },
+        {
+          "program": "run_diagnostics.py",
+          "case": "new",
+          "rejected_before_execution": true,
+          "archive_unchanged": true
+        },
+        {
+          "program": "run_diagnostics.py",
+          "case": "symlink_alias",
+          "rejected_before_execution": true,
+          "archive_unchanged": true
+        },
+        {
+          "program": "regenerate_package_manifest.py",
+          "case": "existing",
+          "rejected_before_execution": true,
+          "archive_unchanged": true
+        },
+        {
+          "program": "regenerate_package_manifest.py",
+          "case": "new",
+          "rejected_before_execution": true,
+          "archive_unchanged": true
+        },
+        {
+          "program": "regenerate_package_manifest.py",
+          "case": "symlink_alias",
+          "rejected_before_execution": true,
+          "archive_unchanged": true
+        }
+      ],
+      "LOW30_adapter_tests": [
+        {
+          "case": "default",
+          "assertions": 1060,
+          "mathematical_report_exact": true
+        },
+        {
+          "case": "correct_pin",
+          "assertions": 1060,
+          "mathematical_report_exact": true
+        }
+      ],
+      "wrong_LOW30_pin_rejected": true,
+      "mathematical_AST_functions_and_loops_unchanged": true,
+      "new_mathematical_assertions_removed": 0,
+      "new_hash_assertions_removed": 0,
+      "report_only_hash_read_optional": true,
+      "portable_manifest_utility": {
+        "status": "PASS",
+        "files": 31,
+        "components": 4,
+        "v10_frozen_additional_files": 63,
+        "external_prerequisites_not_reverified": 1
+      }
+    },
+    "independent_scope_review": "See V10-INDEPENDENT-CURATION-REVIEW.md; final checksum and source mapping checks are part of this release verification."
   }
 }

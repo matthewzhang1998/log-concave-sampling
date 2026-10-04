@@ -1,0 +1,264 @@
+{
+  "status": "PASS",
+  "assertions": 675,
+  "seed": 620041005,
+  "service_sha256": "108af2124e3da0e2a04af92e9f0403bfce2f82f7e2912ba6b7e1975ef1c8b18b",
+  "scope": "Actual finite VALUE-only source/query/anchor/oddness/carrier and matrix-quadratic checks. Imported calibration and Gaussian-buffer inequalities are justified analytically in the audit, not inferred from these finite checks.",
+  "uniform_rule_coefficients": [
+    {
+      "panels": 1,
+      "order": 1,
+      "nodes": 2,
+      "caller_coefficient": 0.45748489335377573,
+      "value_coefficient": 0.6960461543874215
+    },
+    {
+      "panels": 2,
+      "order": 2,
+      "nodes": 5,
+      "caller_coefficient": 0.5710697770254409,
+      "value_coefficient": 0.7901770369258365
+    },
+    {
+      "panels": 5,
+      "order": 5,
+      "nodes": 26,
+      "caller_coefficient": 0.7118949964894475,
+      "value_coefficient": 0.9266591205867456
+    },
+    {
+      "panels": 12,
+      "order": 12,
+      "nodes": 145,
+      "caller_coefficient": 0.7789258855717872,
+      "value_coefficient": 0.9935278312803784
+    },
+    {
+      "panels": 20,
+      "order": 20,
+      "nodes": 401,
+      "caller_coefficient": 0.7849936579188368,
+      "value_coefficient": 0.9995954945480202
+    }
+  ],
+  "action_cases": [
+    {
+      "D": 1,
+      "filter_nodes": 2,
+      "source": "quadratic",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 1,
+      "filter_nodes": 2,
+      "source": "nonlinear",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 1,
+      "filter_nodes": 2,
+      "source": "zero",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 1,
+      "filter_nodes": 4,
+      "source": "quadratic",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 1,
+      "filter_nodes": 4,
+      "source": "nonlinear",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 1,
+      "filter_nodes": 4,
+      "source": "zero",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 1,
+      "filter_nodes": 7,
+      "source": "quadratic",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 1,
+      "filter_nodes": 7,
+      "source": "nonlinear",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 1,
+      "filter_nodes": 7,
+      "source": "zero",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 2,
+      "source": "quadratic",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 2,
+      "source": "nonlinear",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 2,
+      "source": "zero",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 4,
+      "source": "quadratic",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 4,
+      "source": "nonlinear",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 4,
+      "source": "zero",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 7,
+      "source": "quadratic",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 7,
+      "source": "nonlinear",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 3,
+      "filter_nodes": 7,
+      "source": "zero",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 2,
+      "source": "quadratic",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 2,
+      "source": "nonlinear",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 2,
+      "source": "zero",
+      "g_values": 450,
+      "raw_f_occurrences": 40,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 4,
+      "source": "quadratic",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 4,
+      "source": "nonlinear",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 4,
+      "source": "zero",
+      "g_values": 650,
+      "raw_f_occurrences": 60,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 7,
+      "source": "quadratic",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 7,
+      "source": "nonlinear",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    },
+    {
+      "D": 7,
+      "filter_nodes": 7,
+      "source": "zero",
+      "g_values": 950,
+      "raw_f_occurrences": 90,
+      "basic_scalar_roots": 22
+    }
+  ],
+  "count_formula": "N_r*N_q*(2*K_filter+5) with one exact same-X anchor bank; no-cache upper bound 2*N_r*N_q*(2*K_filter+4).",
+  "basic_tape_formula": "D*(4*N_q+2), before external host and added numerical-restoration tapes."
+}

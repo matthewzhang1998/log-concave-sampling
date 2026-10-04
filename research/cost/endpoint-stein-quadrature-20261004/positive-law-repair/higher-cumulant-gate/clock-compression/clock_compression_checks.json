@@ -1,0 +1,222 @@
+{
+  "status": "PASS",
+  "assertions": 285,
+  "scope": "Positive finite quadratic calibration and a uniform-C2 obstruction for direct nested finite path predictors, not for all positive law compilers.",
+  "rules": [
+    {
+      "raw_energy": 0.5390894769659427,
+      "raw_energy_debt": 0.03908947696594267,
+      "independent_energy": 0.3981119791666667,
+      "mix_weight": 0.27727458336363964,
+      "K": 2,
+      "m": 2,
+      "outer_nodes": 5,
+      "inner_nodes": 401,
+      "literal_value_count": 2010,
+      "weight_square_mass": 0.21875,
+      "frequency": 4.27617987059879,
+      "cosine_rank_two_debt": 0.004506590097941228,
+      "inner_F_error": -2.168404344971009e-19,
+      "normalized_variance_coefficient_debt": 0.004506590097941228,
+      "a_half_b_quarter_variance_coefficient_debt": 0.0002816618811213267,
+      "proven_lower_bound": 0.000186920166015625
+    },
+    {
+      "raw_energy": 0.5104193633637195,
+      "raw_energy_debt": 0.010419363363719514,
+      "independent_energy": 0.3251462512546116,
+      "mix_weight": 0.05623786012502191,
+      "K": 4,
+      "m": 4,
+      "outer_nodes": 17,
+      "inner_nodes": 401,
+      "literal_value_count": 6834,
+      "weight_square_mass": 0.09459997106481484,
+      "frequency": 6.502561882088913,
+      "cosine_rank_two_debt": 0.0008717649872613681,
+      "inner_F_error": -1.5178830414797062e-18,
+      "normalized_variance_coefficient_debt": 0.0008717649872613665,
+      "a_half_b_quarter_variance_coefficient_debt": 5.448531170383541e-05,
+      "proven_lower_bound": 3.495763486509299e-05
+    },
+    {
+      "raw_energy": 0.5049775765951924,
+      "raw_energy_debt": 0.004977576595192379,
+      "independent_energy": 0.30192465620239584,
+      "mix_weight": 0.024513691236567717,
+      "K": 6,
+      "m": 6,
+      "outer_nodes": 37,
+      "inner_nodes": 401,
+      "literal_value_count": 14874,
+      "weight_square_mass": 0.06330281575520832,
+      "frequency": 7.949109538191563,
+      "cosine_rank_two_debt": 0.00040027704120931714,
+      "inner_F_error": -2.2768245622195593e-18,
+      "normalized_variance_coefficient_debt": 0.00040027704120931487,
+      "a_half_b_quarter_variance_coefficient_debt": 2.501731507558218e-05,
+      "proven_lower_bound": 1.5653306572413483e-05
+    },
+    {
+      "raw_energy": 0.5029198078727674,
+      "raw_energy_debt": 0.002919807872767355,
+      "independent_energy": 0.28974074530246174,
+      "mix_weight": 0.013696503951012608,
+      "K": 8,
+      "m": 8,
+      "outer_nodes": 65,
+      "inner_nodes": 401,
+      "literal_value_count": 26130,
+      "weight_square_mass": 0.048289843405725674,
+      "frequency": 9.101272068542686,
+      "cosine_rank_two_debt": 0.00023478957887578946,
+      "inner_F_error": -2.9815559743351372e-18,
+      "normalized_variance_coefficient_debt": 0.0002347895788757865,
+      "a_half_b_quarter_variance_coefficient_debt": 1.4674348679736656e-05,
+      "proven_lower_bound": 9.109019438084013e-06
+    },
+    {
+      "raw_energy": 0.5013557029806616,
+      "raw_energy_debt": 0.0013557029806615661,
+      "independent_energy": 0.2770505200635498,
+      "mix_weight": 0.006044010945402646,
+      "K": 12,
+      "m": 12,
+      "outer_nodes": 145,
+      "inner_nodes": 401,
+      "literal_value_count": 58290,
+      "weight_square_mass": 0.03285949454851607,
+      "frequency": 11.033150855369085,
+      "cosine_rank_two_debt": 0.00010934594516700528,
+      "inner_F_error": -4.397795062144327e-18,
+      "normalized_variance_coefficient_debt": 0.00010934594516700088,
+      "a_half_b_quarter_variance_coefficient_debt": 6.834121572937555e-06,
+      "proven_lower_bound": 4.217759304624833e-06
+    },
+    {
+      "raw_energy": 0.5005057848484913,
+      "raw_energy_debt": 0.0005057848484912864,
+      "independent_energy": 0.2665056099129857,
+      "mix_weight": 0.002161472095611421,
+      "K": 20,
+      "m": 20,
+      "outer_nodes": 401,
+      "inner_nodes": 401,
+      "literal_value_count": 161202,
+      "weight_square_mass": 0.020050101058225325,
+      "frequency": 14.12445543515338,
+      "cosine_rank_two_debt": 4.0902457458081915e-05,
+      "inner_F_error": -7.209944447028604e-18,
+      "normalized_variance_coefficient_debt": 4.0902457458074706e-05,
+      "a_half_b_quarter_variance_coefficient_debt": 2.556403591129669e-06,
+      "proven_lower_bound": 1.5703380954884698e-06
+    }
+  ],
+  "moments": [
+    {
+      "nodes": 17,
+      "moments": [
+        {
+          "degree": 1,
+          "product_error": 0.010419363363719514,
+          "triangle_error": 0.0
+        },
+        {
+          "degree": 2,
+          "product_error": 0.018642274515477786,
+          "triangle_error": -2.034505208331483e-05
+        },
+        {
+          "degree": 10,
+          "product_error": 0.050917469531949255,
+          "triangle_error": -0.0007123774127272275
+        },
+        {
+          "degree": 100,
+          "product_error": 0.08527420648622569,
+          "triangle_error": -0.007273913887266701
+        },
+        {
+          "degree": 1000,
+          "product_error": 0.09360097023795302,
+          "triangle_error": -0.0009990009989999814
+        },
+        {
+          "degree": 1000000,
+          "product_error": 0.09459897106581484,
+          "triangle_error": -9.99999000001e-07
+        }
+      ]
+    },
+    {
+      "nodes": 65,
+      "moments": [
+        {
+          "degree": 1,
+          "product_error": 0.002919807872767355,
+          "triangle_error": 0.0
+        },
+        {
+          "degree": 2,
+          "product_error": 0.005589743483472132,
+          "triangle_error": -4.967053712778835e-09
+        },
+        {
+          "degree": 10,
+          "product_error": 0.01953806810966005,
+          "triangle_error": -2.2005109905076647e-07
+        },
+        {
+          "degree": 100,
+          "product_error": 0.0407559770313288,
+          "triangle_error": -2.0336984050215584e-05
+        },
+        {
+          "degree": 1000,
+          "product_error": 0.047319959382824524,
+          "triangle_error": -0.00042616935964606825
+        },
+        {
+          "degree": 1000000,
+          "product_error": 0.04828884340672567,
+          "triangle_error": -9.99999000001e-07
+        }
+      ]
+    },
+    {
+      "nodes": 145,
+      "moments": [
+        {
+          "degree": 1,
+          "product_error": 0.0013557029806615661,
+          "triangle_error": 0.0
+        },
+        {
+          "degree": 2,
+          "product_error": 0.0026465480385952644,
+          "triangle_error": -1.2126410986468272e-12
+        },
+        {
+          "degree": 10,
+          "product_error": 0.010396266769516174,
+          "triangle_error": -5.45164191567693e-11
+        },
+        {
+          "degree": 100,
+          "product_error": 0.026044629696496874,
+          "triangle_error": -5.931321310839732e-09
+        },
+        {
+          "degree": 1000,
+          "product_error": 0.03191157429174118,
+          "triangle_error": -5.366421365800029e-07
+        },
+        {
+          "degree": 1000000,
+          "product_error": 0.03285849454969477,
+          "triangle_error": -9.99999000001e-07
+        }
+      ]
+    }
+  ]
+}
