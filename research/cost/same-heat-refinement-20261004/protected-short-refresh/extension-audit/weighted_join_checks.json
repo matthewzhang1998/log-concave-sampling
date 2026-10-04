@@ -1,0 +1,163 @@
+{
+  "status": "PASS bounded weighted-graph, exact-scaling, gradient-reference, child-scale, and recurrence checks",
+  "weighted_cases": [
+    {
+      "Nq": 4,
+      "Ns": 3,
+      "nodes": 18,
+      "absolute_edge_norm": 0.01910209265929337,
+      "affine_operator_norm": 2.9837029259206402,
+      "affine_frobenius_norm": 3.2295510523910287,
+      "terminal_norm_over_a": 1.101983149497615,
+      "restricted_L_norm_over_h": 0.6084684078033548,
+      "exact_scaled_program_error": 1.1102230246251565e-16
+    },
+    {
+      "Nq": 17,
+      "Ns": 7,
+      "nodes": 52,
+      "absolute_edge_norm": 0.019217045548286522,
+      "affine_operator_norm": 3.0189971713632304,
+      "affine_frobenius_norm": 3.2295510523910287,
+      "terminal_norm_over_a": 1.108701454944614,
+      "restricted_L_norm_over_h": 0.7282499747114437,
+      "exact_scaled_program_error": 1.6653345369377348e-16
+    },
+    {
+      "Nq": 64,
+      "Ns": 9,
+      "nodes": 150,
+      "absolute_edge_norm": 0.019223128182211165,
+      "affine_operator_norm": 3.0265312259116226,
+      "affine_frobenius_norm": 3.2295510523910287,
+      "terminal_norm_over_a": 1.1090681247710168,
+      "restricted_L_norm_over_h": 0.7479176496998438,
+      "exact_scaled_program_error": 1.6653345369377348e-16
+    },
+    {
+      "Nq": 127,
+      "Ns": 23,
+      "nodes": 304,
+      "absolute_edge_norm": 0.019222885938338936,
+      "affine_operator_norm": 3.027865937641447,
+      "affine_frobenius_norm": 3.229551052391029,
+      "terminal_norm_over_a": 1.1090888963462247,
+      "restricted_L_norm_over_h": 0.7896007514660474,
+      "exact_scaled_program_error": 2.220446049250313e-16
+    }
+  ],
+  "symmetric_reference_curl_fd": 3.3301253716750984e-10,
+  "child_scaling": [
+    {
+      "a": 0.1,
+      "eta_over_a": 0.5,
+      "gamma_over_a_v": 0.20625611989875342,
+      "force_over_r_a_J": 0.09473228540689989
+    },
+    {
+      "a": 0.1,
+      "eta_over_a": 0.43429448190325176,
+      "gamma_over_a_v": 0.15005558697641114,
+      "force_over_r_a_J": 0.05867683206171379
+    },
+    {
+      "a": 0.01,
+      "eta_over_a": 0.5,
+      "gamma_over_a_v": 0.207725172475713,
+      "force_over_r_a_J": 0.09473228540689989
+    },
+    {
+      "a": 0.01,
+      "eta_over_a": 0.21714724095162588,
+      "gamma_over_a_v": 0.031374863765542986,
+      "force_over_r_a_J": 0.005558590401643004
+    },
+    {
+      "a": 0.001,
+      "eta_over_a": 0.5,
+      "gamma_over_a_v": 0.2078049111917801,
+      "force_over_r_a_J": 0.09473228540689987
+    },
+    {
+      "a": 0.001,
+      "eta_over_a": 0.14476482730108395,
+      "gamma_over_a_v": 0.0125170199500662,
+      "force_over_r_a_J": 0.001400407385125698
+    }
+  ],
+  "known_center_recurrence": [
+    {
+      "R": "15/2",
+      "k_R": "6",
+      "accuracy_exponent": "7/13",
+      "kappa_exponent": "27/13"
+    },
+    {
+      "R": "8",
+      "k_R": "13/2",
+      "accuracy_exponent": "15/28",
+      "kappa_exponent": "29/14"
+    },
+    {
+      "R": "17/2",
+      "k_R": "7",
+      "accuracy_exponent": "8/15",
+      "kappa_exponent": "31/15"
+    },
+    {
+      "R": "9",
+      "k_R": "15/2",
+      "accuracy_exponent": "17/32",
+      "kappa_exponent": "33/16"
+    },
+    {
+      "R": "19/2",
+      "k_R": "8",
+      "accuracy_exponent": "9/17",
+      "kappa_exponent": "35/17"
+    },
+    {
+      "R": "10",
+      "k_R": "17/2",
+      "accuracy_exponent": "19/36",
+      "kappa_exponent": "37/18"
+    },
+    {
+      "R": "21/2",
+      "k_R": "9",
+      "accuracy_exponent": "10/19",
+      "kappa_exponent": "39/19"
+    },
+    {
+      "R": "11",
+      "k_R": "19/2",
+      "accuracy_exponent": "21/40",
+      "kappa_exponent": "41/20"
+    },
+    {
+      "R": "23/2",
+      "k_R": "10",
+      "accuracy_exponent": "11/21",
+      "kappa_exponent": "43/21"
+    },
+    {
+      "R": "12",
+      "k_R": "21/2",
+      "accuracy_exponent": "23/44",
+      "kappa_exponent": "45/22"
+    },
+    {
+      "R": "25/2",
+      "k_R": "11",
+      "accuracy_exponent": "12/23",
+      "kappa_exponent": "47/23"
+    },
+    {
+      "R": "13",
+      "k_R": "23/2",
+      "accuracy_exponent": "25/48",
+      "kappa_exponent": "49/24"
+    }
+  ],
+  "scope": "Relative admission only; existing seed and finite numerical source restoration remain explicit obligations."
+}

@@ -1,5 +1,5 @@
 {
-  "snapshot_utc": "2026-10-04T16:09:04Z",
+  "snapshot_utc": "2026-10-04T16:46:56Z",
   "policy": "Historical audits apply only to the cited original source bytes and stated mathematical scope. Public copies may contain clearly labeled nonmathematical sanitization; their distinct hashes are mapped here and in INVENTORY.json. Sanitization does not constitute a fresh mathematical audit.",
   "bindings": [
     {
@@ -2566,6 +2566,213 @@
       "matches_original_source": true,
       "public_sha256": "636cf00fbc7199782a66d77defa2cb121c1db59fc2b036d82bb0b05a5a3c7a50",
       "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/DETERMINISTIC-KNOWN-CENTER-SOURCE-WITH-PROTECTED-REFRESH.md",
+      "recorded_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "source_index_id": "sha256:1acb733b6996c8d74ce80c30a88280fcfef5d1044217379539a86c952dd12b80",
+      "original_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "matches_original_source": true,
+      "public_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/check_weighted_source_graph.py",
+      "recorded_sha256": "fef138f5e9c0c838e46e66881172d49a98cf2144c343fbb676ebcf67057c4cba",
+      "source_index_id": "sha256:1acb733b6996c8d74ce80c30a88280fcfef5d1044217379539a86c952dd12b80",
+      "original_sha256": "fef138f5e9c0c838e46e66881172d49a98cf2144c343fbb676ebcf67057c4cba",
+      "matches_original_source": true,
+      "public_sha256": "fef138f5e9c0c838e46e66881172d49a98cf2144c343fbb676ebcf67057c4cba",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/extension-audit/INDEPENDENT-WEIGHTED-GRAPH-AND-KNOWN-CENTER-ADMISSION.md",
+      "recorded_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "source_index_id": "sha256:3940efef80afb9d618543fb2428b830e9ffb1c8a67f5e9f9458beee6652d0527",
+      "original_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "matches_original_source": true,
+      "public_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/extension-audit/REVIEWED-SOURCE-44cfd4b2d5ef.md",
+      "recorded_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "source_index_id": "sha256:3940efef80afb9d618543fb2428b830e9ffb1c8a67f5e9f9458beee6652d0527",
+      "original_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "matches_original_source": true,
+      "public_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/extension-audit/check_weighted_join.py",
+      "recorded_sha256": "81f3c7536527e120d6b5cfd1597f5d5310e7a8c14924ecd8f6987d71145ffdc8",
+      "source_index_id": "sha256:3940efef80afb9d618543fb2428b830e9ffb1c8a67f5e9f9458beee6652d0527",
+      "original_sha256": "81f3c7536527e120d6b5cfd1597f5d5310e7a8c14924ecd8f6987d71145ffdc8",
+      "matches_original_source": true,
+      "public_sha256": "81f3c7536527e120d6b5cfd1597f5d5310e7a8c14924ecd8f6987d71145ffdc8",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/extension-audit/weighted_join_checks.json",
+      "recorded_sha256": "1dd092a3aa1572ccfbef4361e323a9ad8803998795aae92136d0b3b3fd4e08cc",
+      "source_index_id": "sha256:3940efef80afb9d618543fb2428b830e9ffb1c8a67f5e9f9458beee6652d0527",
+      "original_sha256": "1dd092a3aa1572ccfbef4361e323a9ad8803998795aae92136d0b3b3fd4e08cc",
+      "matches_original_source": true,
+      "public_sha256": "1dd092a3aa1572ccfbef4361e323a9ad8803998795aae92136d0b3b3fd4e08cc",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/independent-audit/INDEPENDENT-PROTECTED-SHORT-REFRESH-AUDIT.md",
+      "recorded_sha256": "43914ab982e96c73e9538851c4ac4c6bb9ed9a980b10176c3a883404223c5917",
+      "source_index_id": "sha256:17d24243239457643e9b6ff4719c5d0ca69d9696aaa7624b1cdd8e7f3e6e79f3",
+      "original_sha256": "43914ab982e96c73e9538851c4ac4c6bb9ed9a980b10176c3a883404223c5917",
+      "matches_original_source": true,
+      "public_sha256": "43914ab982e96c73e9538851c4ac4c6bb9ed9a980b10176c3a883404223c5917",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/independent-audit/check_protected_short_refresh.py",
+      "recorded_sha256": "b554bba1e823216be81f15c6fa39a8e345951c686e1a5f4581e03d7f4b119a3c",
+      "source_index_id": "sha256:17d24243239457643e9b6ff4719c5d0ca69d9696aaa7624b1cdd8e7f3e6e79f3",
+      "original_sha256": "b554bba1e823216be81f15c6fa39a8e345951c686e1a5f4581e03d7f4b119a3c",
+      "matches_original_source": true,
+      "public_sha256": "b554bba1e823216be81f15c6fa39a8e345951c686e1a5f4581e03d7f4b119a3c",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/independent-audit/protected_short_refresh_checks.json",
+      "recorded_sha256": "8fd32d830ab94804b26edad851ec15cdd829476f1251cc990399f2816c38facf",
+      "source_index_id": "sha256:17d24243239457643e9b6ff4719c5d0ca69d9696aaa7624b1cdd8e7f3e6e79f3",
+      "original_sha256": "8fd32d830ab94804b26edad851ec15cdd829476f1251cc990399f2816c38facf",
+      "matches_original_source": true,
+      "public_sha256": "8fd32d830ab94804b26edad851ec15cdd829476f1251cc990399f2816c38facf",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/weighted_source_graph_checks.json",
+      "recorded_sha256": "b95b384b2b4c7c351e6759c43052b7ed2b867c2f3ac439c5f34960dc3b60a4a4",
+      "source_index_id": "sha256:1acb733b6996c8d74ce80c30a88280fcfef5d1044217379539a86c952dd12b80",
+      "original_sha256": "b95b384b2b4c7c351e6759c43052b7ed2b867c2f3ac439c5f34960dc3b60a4a4",
+      "matches_original_source": true,
+      "public_sha256": "b95b384b2b4c7c351e6759c43052b7ed2b867c2f3ac439c5f34960dc3b60a4a4",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/INDEPENDENT-K3-CARRIER-CUT-AUDIT.md",
+      "recorded_sha256": "2ebd382e79cb14c1a294925d0cb19bb348a1eac206abc3edb9776cfd140940bf",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "2ebd382e79cb14c1a294925d0cb19bb348a1eac206abc3edb9776cfd140940bf",
+      "matches_original_source": true,
+      "public_sha256": "2ebd382e79cb14c1a294925d0cb19bb348a1eac206abc3edb9776cfd140940bf",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/INDEPENDENT-PAIRED-K3-DRIFT-AUDIT.md",
+      "recorded_sha256": "a525a964a5debb9707e0acb2dd2fa0dcb833afa37f74f6fee4349b4f4b724ca8",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "a525a964a5debb9707e0acb2dd2fa0dcb833afa37f74f6fee4349b4f4b724ca8",
+      "matches_original_source": true,
+      "public_sha256": "a525a964a5debb9707e0acb2dd2fa0dcb833afa37f74f6fee4349b4f4b724ca8",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/INDEPENDENT-SAME-POTENTIAL-WITNESS-AUDIT.md",
+      "recorded_sha256": "276ff0e038e88ce78f5228178c9d06022f50343bba7337bf6233bfc800021051",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "276ff0e038e88ce78f5228178c9d06022f50343bba7337bf6233bfc800021051",
+      "matches_original_source": true,
+      "public_sha256": "276ff0e038e88ce78f5228178c9d06022f50343bba7337bf6233bfc800021051",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/INTERNAL-K3-ANCESTOR-TERMINAL-COMPARISON-CYCLE.md",
+      "recorded_sha256": "74aeab2629a713e0af048ccbc287dd88ba9196fd359d5b8ce01dbd12af18a575",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "74aeab2629a713e0af048ccbc287dd88ba9196fd359d5b8ce01dbd12af18a575",
+      "matches_original_source": true,
+      "public_sha256": "44f47909109a83112c717a70892daf12bb15ada3e2cb2d7125e116b439e3a337",
+      "public_copy_is_sanitized": true
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/LITERAL-K3-CARRIER-RESCALING-CUT-FAILURE.md",
+      "recorded_sha256": "6d0ae5e42cf6e317d4406fbd8d213b8d3e60cd181aed6d895f75cc982526a2e6",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "6d0ae5e42cf6e317d4406fbd8d213b8d3e60cd181aed6d895f75cc982526a2e6",
+      "matches_original_source": true,
+      "public_sha256": "6d0ae5e42cf6e317d4406fbd8d213b8d3e60cd181aed6d895f75cc982526a2e6",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/PAIRED-K3-COHERENT-DRIFT-REGENERATION-GAP.md",
+      "recorded_sha256": "940ede0a925c8028b4177d5c75cc140a8f63adeeb4647877f47114f862aa88da",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "940ede0a925c8028b4177d5c75cc140a8f63adeeb4647877f47114f862aa88da",
+      "matches_original_source": true,
+      "public_sha256": "940ede0a925c8028b4177d5c75cc140a8f63adeeb4647877f47114f862aa88da",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/check_internal_k3_packet.py",
+      "recorded_sha256": "20d52052c4ed7b15bbae95714b909684f22c9a6a65797e35eb0208a2c1e7c97e",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "20d52052c4ed7b15bbae95714b909684f22c9a6a65797e35eb0208a2c1e7c97e",
+      "matches_original_source": true,
+      "public_sha256": "20d52052c4ed7b15bbae95714b909684f22c9a6a65797e35eb0208a2c1e7c97e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/check_k3_carrier_cut.py",
+      "recorded_sha256": "c2233258134f9aa234c1ad625b56db064df5e606777d399f3019ea5e36159fb2",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "c2233258134f9aa234c1ad625b56db064df5e606777d399f3019ea5e36159fb2",
+      "matches_original_source": true,
+      "public_sha256": "c2233258134f9aa234c1ad625b56db064df5e606777d399f3019ea5e36159fb2",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/check_paired_coherent_drift_gap.py",
+      "recorded_sha256": "f01635178934a76ad024e5e7e370e7462ffaec0cf7e0d5c1ec02e713dc52864e",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "f01635178934a76ad024e5e7e370e7462ffaec0cf7e0d5c1ec02e713dc52864e",
+      "matches_original_source": true,
+      "public_sha256": "f01635178934a76ad024e5e7e370e7462ffaec0cf7e0d5c1ec02e713dc52864e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/internal_k3_packet_checks.json",
+      "recorded_sha256": "8710b884d25e3d5d3a68c130ce5f286012805eb1aeb344c4fac125cd116f1d70",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "8710b884d25e3d5d3a68c130ce5f286012805eb1aeb344c4fac125cd116f1d70",
+      "matches_original_source": true,
+      "public_sha256": "8710b884d25e3d5d3a68c130ce5f286012805eb1aeb344c4fac125cd116f1d70",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/k3_carrier_cut_checks.json",
+      "recorded_sha256": "2067910ba0b56286e005b16eb5b0e80fec68c0c9a069dba8baff02eaa44c0d6d",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "2067910ba0b56286e005b16eb5b0e80fec68c0c9a069dba8baff02eaa44c0d6d",
+      "matches_original_source": true,
+      "public_sha256": "2067910ba0b56286e005b16eb5b0e80fec68c0c9a069dba8baff02eaa44c0d6d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/no-copy-rank-20261004/internal-packet-audit/paired_coherent_drift_gap_checks.json",
+      "recorded_sha256": "de95d6d43b5e0185584de8eb546e14bdd94d03585ec3d8af80a37867ab24750c",
+      "source_index_id": "sha256:041bc648544fa908335b763831d2009481f80a51a71af273403c0cbbfeca0f79",
+      "original_sha256": "de95d6d43b5e0185584de8eb546e14bdd94d03585ec3d8af80a37867ab24750c",
+      "matches_original_source": true,
+      "public_sha256": "de95d6d43b5e0185584de8eb546e14bdd94d03585ec3d8af80a37867ab24750c",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/cost/same-heat-refinement-20261004/protected-short-refresh/CONSUMER-DEPTH-AND-ACTUAL-REPLAY-AUDIT.md",
+      "recorded_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
+      "source_index_id": "sha256:ac2c4ff379e5257bea537ca3f084f64723c98fd38a207bae7cb8c4df4d31892d",
+      "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
+      "matches_original_source": true,
+      "public_sha256": "e37902274ac18d7f73e61345b7042bc14dd6d806daf1c9fe863adfb57c8f8402",
+      "public_copy_is_sanitized": true
     }
   ],
   "stale_binding_count": 1,
@@ -2598,5 +2805,17 @@
     "host_reentry_original_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
     "host_reentry_audit_original_sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
     "scope": "Selected CW7 external host uses the sufficient output (captured caller, complete statistic); arbitrary integrated fine-record observers are not an external requirement. Actual within-packet aliases, any baseline reading integrated fine records, and retained-source reconstruction remain separate gates. No generic all-rank compiler or admitted general c_P improvement."
+  },
+  "v5_known_center_admission": {
+    "construction_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+    "extension_audit_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+    "original_short_audit_sha256": "43914ab982e96c73e9538851c4ac4c6bb9ed9a980b10176c3a883404223c5917",
+    "scope": "Admitted relative standalone known-center law/source/query induction under the completed seed, genuine-gradient-reference/finite-restoration ports, and consistent full caller/anchor/row encoding. k_R <= max(k_P,R-3/2); old uniform hidden-family c_P remains separate.",
+    "outer_exponent": "(R-1/2)/(2(R-1)) tends to 1/2; no denominator-32 or subpolynomial improvement.",
+    "internal_packet_scope": "Concrete comparison-cycle and selected paired-word obstruction; no W2 lower bound inferred from a word gap and no blanket impossibility for another complete repair producer."
+  },
+  "v5_consumer_depth_scope": {
+    "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
+    "scope": "Read-set and cost clarification only. New proximal-chain application has external hidden depth zero; selected fixed kinetic consumer has seven external levels with its fixed inner libraries already charged. The same growing-order outer reference requires J>=ceil(R-1). Optional depth-adapter cost algebra is conditional, not a new hidden-family admission."
   }
 }

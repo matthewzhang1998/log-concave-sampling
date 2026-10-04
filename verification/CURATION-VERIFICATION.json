@@ -1,26 +1,26 @@
 {
-  "verified_utc": "2026-10-04T16:12:11Z",
+  "verified_utc": "2026-10-04T16:52:11Z",
   "curation": "Mathematical publication snapshot; original source files remain unchanged. Edited public copies are identified in INVENTORY.json.",
-  "research_files": 259,
-  "research_bytes": 1725004,
+  "research_files": 282,
+  "research_bytes": 1965678,
   "public_copy_counts": {
-    "unchanged_source_copy": 191,
-    "sanitized_publication_copy": 68
+    "unchanged_source_copy": 212,
+    "sanitized_publication_copy": 70
   },
   "original_version_counts": {
     "historical_bytes_verified": 17,
     "reconstructed_new_version": 29,
-    "new_research_or_diagnostic": 213
+    "new_research_or_diagnostic": 236
   },
   "kinds": {
-    "mathematical_proof_audit_or_certificate": 144,
-    "diagnostic_script": 56,
-    "saved_diagnostic_result": 58,
+    "mathematical_proof_audit_or_certificate": 155,
+    "diagnostic_script": 62,
+    "saved_diagnostic_result": 64,
     "baseline_manuscript": 1
   },
   "diagnostics": {
-    "bundled_scripts": 56,
-    "passed": 56,
+    "bundled_scripts": 62,
+    "passed": 62,
     "failed": 0,
     "not_run": 0,
     "isolation": "Separate disposable research copy per script; final complete bundle also rerun from a separate copy with checksum verification before and after.",
@@ -39,7 +39,7 @@
   "historical_source_index_mismatches": 1,
   "mismatch_resolution": "The earlier mixed-descendant index hash remains marked stale. Final source f805e8d3 and its separate included scoped audit 73fa9893 are explicitly identified.",
   "proof_verification_limit": "Numerical/algebraic diagnostics are not analytic proof verification. General matrix constrained-input and nonlinear endpoint joins remain open.",
-  "snapshot_version": "2026-10-04-public-v4-host-separator-randomized-weak",
+  "snapshot_version": "2026-10-04-public-v5-relative-known-center-linear",
   "fixed_seed_audit": {
     "original_sha256": "03ba0c8daee0c774d5495659938cc0c3558be7a06051e856fa41c0b4078f1395",
     "original_checker_passed": 60826,
@@ -86,5 +86,26 @@
     "original_final_scalar_audit_sha256": "fc5a1efdef09818394767fb847dc643b4ff8194a507056f00e227ab8845ed5ed",
     "host_gate": "For the selected CW7 physical law host, captured caller and complete statistic T are a sufficient output boundary. Arbitrary source-fine observers are not an external requirement. Internal packet fine-record ownership and the separate retained-source/graph proof remain required.",
     "scope": "Fixture-specific positive gradient/V-column construction, source-qualified cache and host composition, scalar terminal weak-law gain, conditional paired currents/reserve tests and paired scalar/matrix diagnostics. No generic all-rank closure or admitted general c_P improvement."
+  },
+  "v5_additions": {
+    "new_payload_files": 23,
+    "new_diagnostics_passed": 6,
+    "new_diagnostic_results_reproduced_byte_for_byte": true,
+    "known_center_construction_sha256": "44cfd4b2d5ef98b86df8b824c1b98217281547eb7cf19c3d3ff05f095d816036",
+    "known_center_extension_audit_sha256": "2302ba7190ae64eab60c9441f216cb1fb1cd2668aac595eed0ca2cbf76b6d729",
+    "original_short_audit_sha256": "43914ab982e96c73e9538851c4ac4c6bb9ed9a980b10176c3a883404223c5917",
+    "milestone_scope": "Admitted relative standalone known-center law/source/query family under completed seed, genuine-gradient reference/finite-restoration ports and consistent caller/anchor/row encoding; k_R <= max(k_P,R-3/2).",
+    "separate_hidden_bill": "Old uniform known/hidden-family c_P asymptotic to 2P^2 is not replaced. The construction separately bills any hidden service.",
+    "simple_outer_exponent": "(R-1/2)/(2(R-1)) tends to 1/2; no improvement over the source-relative denominator-32 result.",
+    "internal_packet_checks": 8563,
+    "carrier_cut_checks": 540,
+    "paired_drift_checks": 351,
+    "paired_drift_limit_t_0_75": 5.363676888830365e-05,
+    "paired_drift_unit_clock_integral": 8.054269493647355e-05,
+    "word_gap_scope": "Specified paired selected-word producer/regeneration obstruction, not a W2 lower bound or an impossibility theorem for all repair producers.",
+    "consumer_depth_clarification": {
+      "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
+      "scope": "Read-set and cost clarification only. New proximal-chain application has external hidden depth zero; selected fixed kinetic consumer has seven external levels with its fixed inner libraries already charged. The same growing-order outer reference requires J>=ceil(R-1). Optional depth-adapter cost algebra is conditional, not a new hidden-family admission."
+    }
   }
 }

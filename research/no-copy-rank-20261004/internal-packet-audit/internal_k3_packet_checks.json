@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "checks": 8563,
+  "random_seed": 2026100416,
+  "same_potential": {
+    "a": 0.0625,
+    "r": 0.0625,
+    "epsilon": 0.08246924442330589,
+    "v": 0.5,
+    "h": 0.8660254037844386,
+    "k": 2.0,
+    "hessian_sandwich": [
+      0.3,
+      0.7
+    ]
+  },
+  "zero_coarse_root": {
+    "covariance_analytic_lower": 0.0670260701223285,
+    "covariance_quadrature": 0.07483063178988503,
+    "K0_11_gap_analytic_lower": 0.0006702607012232852,
+    "K0_11_gap_quadrature": 0.0007483063178988504
+  },
+  "integrated_same_root": {
+    "linear_phase_covariance_exact": 0.04897571130321817,
+    "actual_covariance_analytic_lower": 0.03647571130321817,
+    "actual_covariance_quadrature": 0.049077280755151706,
+    "K0_11_gap_analytic_lower": 0.00036475711303218176
+  },
+  "frozen_labels_new_primitive_heat": {
+    "widths": [
+      0.5,
+      0.5
+    ],
+    "K0_12_gap_analytic_lower": 0.0023231359013937487,
+    "K0_12_gap_quadrature": 0.0023349945554664575
+  },
+  "fresh_root_independent_banks": {
+    "covariance_analytic_lower": 0.08765695526933419
+  },
+  "six_query_native_jacobian_max_error": 1.6519547201905219e-12,
+  "minimal_terminal_label_inverse_max_error": 3.9063118631097967e-13,
+  "primitive_seed_filter_degrees_checked": [
+    2,
+    4,
+    6,
+    8
+  ],
+  "scope": [
+    "same-potential complete positive-clock K3 source; branch K0 target",
+    "six original VALUE sites and first-only analytic ledger",
+    "same-root split-bank gap remains after owned-root integration",
+    "positive additive primitive heat at frozen physical labels changes target",
+    "acyclic native graph; cyclic prerequisites for separate primitive replacements",
+    "minimal actual terminal labels recover complete native fine record in M=I strong-gradient subclass",
+    "literal concrete finite first-chaos tail source and K+6 unoptimized call count"
+  ],
+  "not_claimed": [
+    "paired K0-K1 noncancellation lower bound",
+    "lower bound on every completed pair law error",
+    "impossibility for all finite VALUE producers",
+    "new joint selected-word stationary kernel",
+    "uniform integrated restoration impossibility"
+  ]
+}
