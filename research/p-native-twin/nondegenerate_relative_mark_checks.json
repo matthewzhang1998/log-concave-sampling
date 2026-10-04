@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "checks": 9720,
+  "scope": [
+    "literal simultaneous finite iterations K2 through K15",
+    "noncommuting strongly monotone original sources and nonsymmetric nondegenerate known M",
+    "uniform auxiliary inverse-Lipschitz and pointwise upper bounds"
+  ],
+  "seed": 412381
+}

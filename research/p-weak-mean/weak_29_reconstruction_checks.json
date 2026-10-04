@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 1724,
+  "scope": "finite scalar normalization, rational grades, Gaussian linear sharpness, exact centering and finite zero iteration only",
+  "source_sha256": "e1cc994a8325c586e54511a959de57102911bf2f269c4e688090ecd107070d2f"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": 1138,
+  "scope": [
+    "full eight-block ambient gradient matches scalar potential",
+    "ambient Hessian symmetry and small first",
+    "same-record graph restriction and zero blocks",
+    "exact extra p-channel identity",
+    "natural gradient and pullback unbounded-first fixture"
+  ],
+  "seed": 412221
+}

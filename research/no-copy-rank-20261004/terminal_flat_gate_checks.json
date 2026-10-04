@@ -1,0 +1,43 @@
+{
+  "checks": 46910,
+  "max_relative_first_error": 6.400183624397093e-09,
+  "cases": [
+    {
+      "a": 0.0625,
+      "q": 0.005154327776456618,
+      "common_norm": 0.0,
+      "word_skew_over_ra": 0.0010606601717798223
+    },
+    {
+      "a": 0.03125,
+      "q": 0.0013810679320049755,
+      "common_norm": 0.0,
+      "word_skew_over_ra": 0.0010606601717798223
+    },
+    {
+      "a": 0.015625,
+      "q": 0.00037004798987070263,
+      "common_norm": 0.0,
+      "word_skew_over_ra": 0.0010606601717798223
+    },
+    {
+      "a": 0.0078125,
+      "q": 9.915190385207953e-05,
+      "common_norm": 0.0,
+      "word_skew_over_ra": 0.0010606601717798223
+    },
+    {
+      "a": 0.001953125,
+      "q": 7.118476803106745e-06,
+      "common_norm": 0.0,
+      "word_skew_over_ra": 0.0010606601717798223
+    },
+    {
+      "a": 0.00048828125,
+      "q": 5.110614121133294e-07,
+      "common_norm": 0.0,
+      "word_skew_over_ra": 0.0010606601717798223
+    }
+  ],
+  "note": "Diagnostics verify finite algebra, Hessian sandwich and exponents; no all-order endpoint closure is claimed."
+}

@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "checks": 119960,
+  "examples": [
+    {
+      "g": "1/4",
+      "zeta": "1/40",
+      "gamma": "3/40",
+      "cross_edge_exponent": "1/40",
+      "side_outgoing_exponent": "11/10"
+    },
+    {
+      "g": "1/2",
+      "zeta": "1/20",
+      "gamma": "3/20",
+      "cross_edge_exponent": "1/20",
+      "side_outgoing_exponent": "6/5"
+    },
+    {
+      "g": "1",
+      "zeta": "1/10",
+      "gamma": "3/10",
+      "cross_edge_exponent": "1/10",
+      "side_outgoing_exponent": "7/5"
+    }
+  ],
+  "scope": "Exact rational source/law versus retention guards, cross-width penalty, outward masses and source-zero variance row. Does not substitute for the finite original-gradient path proof."
+}

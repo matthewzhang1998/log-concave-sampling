@@ -1,0 +1,7 @@
+{
+  "checks": 4200,
+  "max_pointwise_mark_ratio": 1.0048589671388342,
+  "max_mixed_difference_ratio": 0.23389836629074806,
+  "max_auxiliary_gradient_skew": 4.0222604199351414e-25,
+  "scope": "Exact source identities and finite-dimensional diagnostics. The dimension-uniform drift restoration is proved in the companion note, not inferred from these samples."
+}

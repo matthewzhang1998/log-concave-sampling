@@ -1,0 +1,86 @@
+{
+  "native_value_boundary": [
+    {
+      "a": 0.02,
+      "sigma": 0.3092494947109917,
+      "k": 429.9356981904844,
+      "kaepsilon": 0.2543082787833219,
+      "kasigma": 2.6591479484724947,
+      "normalized_energy": 0.1274141791507716,
+      "limit_energy": 0.1275,
+      "relative_value_change": 0.13598576785108768,
+      "limit_relative_value_change": 0.140028008402801,
+      "L2_expansion_error": 0.0027954469160087776,
+      "samples": 240000
+    },
+    {
+      "a": 0.006,
+      "sigma": 0.21549905751542067,
+      "k": 2778.852926362746,
+      "kaepsilon": 0.16686026832682727,
+      "kasigma": 3.5930411196308425,
+      "normalized_energy": 0.12732817225105034,
+      "limit_energy": 0.1275,
+      "relative_value_change": 0.1401596089167138,
+      "limit_relative_value_change": 0.140028008402801,
+      "L2_expansion_error": 0.0015774477663177307,
+      "samples": 240000
+    },
+    {
+      "a": 0.002,
+      "sigma": 0.1549918987548337,
+      "k": 15254.694222746937,
+      "kaepsilon": 0.11359533548066278,
+      "kasigma": 4.72870804501588,
+      "normalized_energy": 0.12755174610750958,
+      "limit_energy": 0.1275,
+      "relative_value_change": 0.1398067814909316,
+      "limit_relative_value_change": 0.140028008402801,
+      "L2_expansion_error": 0.0009874498439718536,
+      "samples": 240000
+    },
+    {
+      "a": 0.0006,
+      "sigma": 0.10800537648543813,
+      "k": 98597.42249844056,
+      "kaepsilon": 0.0745337440435008,
+      "kasigma": 6.389431042462728,
+      "normalized_energy": 0.12770988932512364,
+      "limit_energy": 0.1275,
+      "relative_value_change": 0.1396947807197194,
+      "limit_relative_value_change": 0.140028008402801,
+      "L2_expansion_error": 0.000614956462732344,
+      "samples": 240000
+    },
+    {
+      "a": 0.0002,
+      "sigma": 0.07767996097157338,
+      "k": 541256.9758894684,
+      "kaepsilon": 0.05074117250409621,
+      "kasigma": 8.40896415253715,
+      "normalized_energy": 0.1276478781890636,
+      "limit_energy": 0.1275,
+      "relative_value_change": 0.1405511784048855,
+      "limit_relative_value_change": 0.140028008402801,
+      "L2_expansion_error": 0.000404222302156568,
+      "samples": 240000
+    },
+    {
+      "a": 6e-05,
+      "sigma": 0.054130915857608784,
+      "k": 3498368.5646366477,
+      "kaepsilon": 0.03329300052581139,
+      "kasigma": 11.362193664674999,
+      "normalized_energy": 0.12745791509234372,
+      "limit_energy": 0.1275,
+      "relative_value_change": 0.14002065479776393,
+      "limit_relative_value_change": 0.140028008402801,
+      "L2_expansion_error": 0.00026127300377164344,
+      "samples": 240000
+    }
+  ],
+  "rotation_checks": 1440,
+  "max_rotation_orthogonality_error": 1.0383906067911246e-14,
+  "max_h_regression_identity_error": 5.063396036227354e-15,
+  "scope": "Native scalar common-heat source and exact known Gaussian algebra. Monte Carlo supports, but does not replace, the analytical limits."
+}

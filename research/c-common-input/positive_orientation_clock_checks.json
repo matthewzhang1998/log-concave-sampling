@@ -1,0 +1,98 @@
+{
+  "status": "PASS",
+  "spectral_node_rounding_cases": 56000,
+  "rows": [
+    {
+      "delta": 0.25,
+      "panels": 13,
+      "per_panel_degree": 6,
+      "nodes": 78,
+      "spectral_tests": 4000,
+      "max_relative_one_energy_multiplier": 0.019942896085845003,
+      "max_rounded_multiplier": 0.01994288628550336,
+      "sum_w": 0.9986884515204099,
+      "sum_w_over_v": 1.9371797639507757,
+      "sum_w_over_v_squared": 6.931624519452845,
+      "sqrt_weight_absolute_path_sum": 21.679291279482005
+    },
+    {
+      "delta": 0.1,
+      "panels": 15,
+      "per_panel_degree": 6,
+      "nodes": 90,
+      "spectral_tests": 4000,
+      "max_relative_one_energy_multiplier": 0.00797715633411784,
+      "max_rounded_multiplier": 0.00797715468208871,
+      "sum_w": 0.9938677393105447,
+      "sum_w_over_v": 1.9690159978983206,
+      "sum_w_over_v_squared": 8.758137432448644,
+      "sqrt_weight_absolute_path_sum": 26.818970527960666
+    },
+    {
+      "delta": 0.03,
+      "panels": 19,
+      "per_panel_degree": 7,
+      "nodes": 133,
+      "spectral_tests": 4000,
+      "max_relative_one_energy_multiplier": 0.0023931467062906983,
+      "max_rounded_multiplier": 0.0023931463597121295,
+      "sum_w": 0.9993578305838142,
+      "sum_w_over_v": 1.9918718206664163,
+      "sum_w_over_v_squared": 11.171377604505816,
+      "sqrt_weight_absolute_path_sum": 36.4922446564151
+    },
+    {
+      "delta": 0.01,
+      "panels": 23,
+      "per_panel_degree": 8,
+      "nodes": 184,
+      "spectral_tests": 4000,
+      "max_relative_one_energy_multiplier": 0.000797715845796429,
+      "max_rounded_multiplier": 0.0007977158570261544,
+      "sum_w": 0.999996406943291,
+      "sum_w_over_v": 1.997497970416728,
+      "sum_w_over_v_squared": 13.369222206012331,
+      "sqrt_weight_absolute_path_sum": 46.253221674983266
+    },
+    {
+      "delta": 0.003,
+      "panels": 26,
+      "per_panel_degree": 9,
+      "nodes": 234,
+      "spectral_tests": 4000,
+      "max_relative_one_energy_multiplier": 0.00023931475678029947,
+      "max_rounded_multiplier": 0.00023931475671756355,
+      "sum_w": 0.9999201548341987,
+      "sum_w_over_v": 1.9991702938972673,
+      "sum_w_over_v_squared": 15.777089426582386,
+      "sqrt_weight_absolute_path_sum": 57.39404305520412
+    },
+    {
+      "delta": 0.001,
+      "panels": 30,
+      "per_panel_degree": 10,
+      "nodes": 300,
+      "spectral_tests": 4000,
+      "max_relative_one_energy_multiplier": 7.977133296701857e-05,
+      "max_rounded_multiplier": 7.977133335586592e-05,
+      "sum_w": 0.9999999326443815,
+      "sum_w_over_v": 1.9997499482703562,
+      "sum_w_over_v_squared": 17.974393597405808,
+      "sqrt_weight_absolute_path_sum": 68.53242457432114
+    },
+    {
+      "delta": 0.0001,
+      "panels": 37,
+      "per_panel_degree": 11,
+      "nodes": 407,
+      "spectral_tests": 4000,
+      "max_relative_one_energy_multiplier": 7.977041341227664e-06,
+      "max_rounded_multiplier": 7.977041342252989e-06,
+      "sum_w": 0.9999999993721246,
+      "sum_w_over_v": 1.9999749995283753,
+      "sum_w_over_v_squared": 22.57956382691853,
+      "sqrt_weight_absolute_path_sum": 89.5755983248734
+    }
+  ],
+  "scope": "New independent scalar clock diagnostics. Uniform infinite-degree bounds and source-value encoding obligations are proved in the source, not inferred from this finite sweep."
+}

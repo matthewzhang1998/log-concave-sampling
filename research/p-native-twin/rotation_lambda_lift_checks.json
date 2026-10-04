@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": 3500,
+  "seed": 413145,
+  "scope": [
+    "singular and nonsymmetric M",
+    "known common coisometry and fixed-gap fill",
+    "exact raw lambda readout",
+    "genuine full-gradient Hessian and radius",
+    "all actual companion blocks and zero columns"
+  ]
+}

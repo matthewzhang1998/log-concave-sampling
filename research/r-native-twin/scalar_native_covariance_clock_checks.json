@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "gauss_nodes_per_input": 9,
+  "clock_nodes": 16,
+  "native_source": "K3, same .5x+.1sin(.7x)/.7 primitive at both nodes",
+  "normalization": "all quantities divided by (r*a^2*epsilon)^2",
+  "variance": 0.03786734105831683,
+  "S_forward_square": 0.0002882705892667622,
+  "U_true_square": 3.473909286367879e-05,
+  "Z_true_square": 0.0375443145627567,
+  "covariance_clock_residual": 1.681342969017674e-08,
+  "scope": "Numerical quadrature of the actual same-source scalar K3 covariance identity; analytical theorem does not depend on quadrature accuracy."
+}

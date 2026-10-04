@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 3600,
+  "max_exact_residual": 5.438959822042073e-16,
+  "scope": "Exact K3 leading/subleading curl split and joint-gradient feedback source. No missing joint observer calibration is tested."
+}

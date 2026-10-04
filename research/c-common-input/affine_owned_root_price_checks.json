@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "same_root_Price_current_cases": 1200,
+  "worst_identity_residual": 2.914335439641036e-16,
+  "scope": "Independent Gaussian conditional-covariance tests of the exact \u2212q/4 root/Price current, including shared sine/cosine root fields and noncommuting matrix coefficients. Does not prove a new native source law."
+}

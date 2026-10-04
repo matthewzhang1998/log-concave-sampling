@@ -1,0 +1,6 @@
+{
+  "checks": 856,
+  "largest_scalar_transfer_to_a_ratio": 0.01574146200614848,
+  "self_adjoint_residual": 0.0,
+  "scope": "Scalar nonlinear common-root high-frequency transfer and vector Hilbert/OU algebra; this does not certify host retention or an arbitrary nonlinear ancestor."
+}

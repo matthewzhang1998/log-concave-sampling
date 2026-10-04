@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 2400,
+  "max_residual": 1.2560739669470201e-15,
+  "scope": "Both exact padded finite-twin selector identities, common coisometry and physical-row overlap."
+}

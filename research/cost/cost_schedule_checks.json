@@ -1,0 +1,248 @@
+{
+  "status": "PASS",
+  "checks": 95233,
+  "meaning": "Rational cost algebra only; no substitute for source/host proof.",
+  "rows": [
+    {
+      "P": "7",
+      "uniform": "0",
+      "adaptive_N": "0",
+      "conditional_hybrid": "0",
+      "nested_prescribed_count": "0"
+    },
+    {
+      "P": "15/2",
+      "uniform": "21/2",
+      "adaptive_N": "21/10",
+      "conditional_hybrid": "21/10",
+      "nested_prescribed_count": "21/10",
+      "adaptive_N_ratio": "7/50",
+      "hybrid_ratio": "7/50"
+    },
+    {
+      "P": "8",
+      "uniform": "1048/15",
+      "adaptive_N": "56/5",
+      "conditional_hybrid": "47/10",
+      "nested_prescribed_count": "47/10",
+      "adaptive_N_ratio": "7/10",
+      "hybrid_ratio": "47/160"
+    },
+    {
+      "P": "17/2",
+      "uniform": "37213/90",
+      "adaptive_N": "952/15",
+      "conditional_hybrid": "39/5",
+      "nested_prescribed_count": "39/5",
+      "adaptive_N_ratio": "56/15",
+      "hybrid_ratio": "39/85"
+    },
+    {
+      "P": "9",
+      "uniform": "37537/15",
+      "adaptive_N": "1904/5",
+      "conditional_hybrid": "981/85",
+      "nested_prescribed_count": "57/5",
+      "adaptive_N_ratio": "952/45",
+      "hybrid_ratio": "109/170"
+    },
+    {
+      "P": "19/2",
+      "uniform": "1428743/90",
+      "adaptive_N": "36176/15",
+      "conditional_hybrid": "2717/170",
+      "nested_prescribed_count": "31/2",
+      "adaptive_N_ratio": "1904/15",
+      "hybrid_ratio": "143/170"
+    },
+    {
+      "P": "10",
+      "uniform": "2858314/27",
+      "adaptive_N": "144704/9",
+      "conditional_hybrid": "6828/323",
+      "nested_prescribed_count": "201/10",
+      "adaptive_N_ratio": "36176/45",
+      "hybrid_ratio": "1707/1615"
+    },
+    {
+      "P": "21/2",
+      "uniform": "200091619/270",
+      "adaptive_N": "1012928/9",
+      "conditional_hybrid": "872949/32300",
+      "nested_prescribed_count": "126/5",
+      "adaptive_N_ratio": "144704/27",
+      "hybrid_ratio": "41569/32300"
+    },
+    {
+      "P": "11",
+      "uniform": "2201024441/405",
+      "adaptive_N": "22284416/27",
+      "conditional_hybrid": "3804823/113050",
+      "nested_prescribed_count": "154/5",
+      "adaptive_N_ratio": "1012928/27",
+      "hybrid_ratio": "345893/226100"
+    },
+    {
+      "P": "23/2",
+      "uniform": "101247237929/2430",
+      "adaptive_N": "512541568/81",
+      "conditional_hybrid": "102071769/2487100",
+      "nested_prescribed_count": "369/10",
+      "adaptive_N_ratio": "22284416/81",
+      "hybrid_ratio": "4437903/2487100"
+    },
+    {
+      "P": "12",
+      "uniform": "404989015868/1215",
+      "adaptive_N": "4100332544/81",
+      "conditional_hybrid": "703458474/14300825",
+      "nested_prescribed_count": "87/2",
+      "adaptive_N_ratio": "512541568/243",
+      "hybrid_ratio": "117243079/57203300"
+    },
+    {
+      "P": "25/2",
+      "uniform": "4049890244945/1458",
+      "adaptive_N": "102508313600/243",
+      "conditional_hybrid": "265947973/4576264",
+      "nested_prescribed_count": "253/5",
+      "adaptive_N_ratio": "4100332544/243",
+      "hybrid_ratio": "265947973/114406600"
+    },
+    {
+      "P": "13",
+      "uniform": "263242866641677/10935",
+      "adaptive_N": "2665216153600/729",
+      "conditional_hybrid": "19398564081/286016500",
+      "nested_prescribed_count": "291/5",
+      "adaptive_N_ratio": "102508313600/729",
+      "hybrid_ratio": "1492197237/572033000"
+    },
+    {
+      "P": "27/2",
+      "uniform": "526485733460501/2430",
+      "adaptive_N": "2665216153600/81",
+      "conditional_hybrid": "582451815987/7436429000",
+      "nested_prescribed_count": "663/10",
+      "adaptive_N_ratio": "2665216153600/2187",
+      "hybrid_ratio": "21572289481/7436429000"
+    },
+    {
+      "P": "14",
+      "uniform": "7370800268739586/3645",
+      "adaptive_N": "74626052300800/243",
+      "conditional_hybrid": "23803218181/265586750",
+      "nested_prescribed_count": "749/10",
+      "adaptive_N_ratio": "2665216153600/243",
+      "hybrid_ratio": "23803218181/7436429000"
+    },
+    {
+      "P": "29/2",
+      "uniform": "427506415588819819/21870",
+      "adaptive_N": "2164155516723200/729",
+      "conditional_hybrid": "108075808957/1062347000",
+      "nested_prescribed_count": "84",
+      "adaptive_N_ratio": "74626052300800/729",
+      "hybrid_ratio": "3726752033/1062347000"
+    },
+    {
+      "P": "15",
+      "uniform": "427506415589029771/2187",
+      "adaptive_N": "21641555167232000/729",
+      "conditional_hybrid": "353229499971/3080806300",
+      "nested_prescribed_count": "468/5",
+      "adaptive_N_ratio": "2164155516723200/2187",
+      "hybrid_ratio": "117743166657/30808063000"
+    },
+    {
+      "P": "31/2",
+      "uniform": "132526988832606076507/65610",
+      "adaptive_N": "670888210184192000/2187",
+      "conditional_hybrid": "3955654151327/30808063000",
+      "nested_prescribed_count": "1037/10",
+      "adaptive_N_ratio": "21641555167232000/2187",
+      "hybrid_ratio": "127601746817/30808063000"
+    },
+    {
+      "P": "16",
+      "uniform": "2120431821321708351568/98415",
+      "adaptive_N": "21468422725894144000/6561",
+      "conditional_hybrid": "17067262350508/119381244125",
+      "nested_prescribed_count": "1143/10",
+      "adaptive_N_ratio": "670888210184192000/6561",
+      "hybrid_ratio": "4266815587627/955049953000"
+    },
+    {
+      "P": "33/2",
+      "uniform": "46649500069077607767439/196830",
+      "adaptive_N": "236152649984835584000/6561",
+      "conditional_hybrid": "54998110614699/347290892000",
+      "nested_prescribed_count": "627/5",
+      "adaptive_N_ratio": "21468422725894144000/19683",
+      "hybrid_ratio": "18332703538233/3820199812000"
+    },
+    {
+      "P": "17",
+      "uniform": "793041501174319370861339/295245",
+      "adaptive_N": "8029190099484409856000/19683",
+      "conditional_hybrid": "19617679838633/112358818000",
+      "nested_prescribed_count": "137",
+      "adaptive_N_ratio": "236152649984835584000/19683",
+      "hybrid_ratio": "19617679838633/3820199812000"
+    },
+    {
+      "P": "35/2",
+      "uniform": "11102581016440471242073249/354294",
+      "adaptive_N": "281021653481954344960000/59049",
+      "conditional_hybrid": "146447294892031/764039962400",
+      "nested_prescribed_count": "1491/10",
+      "adaptive_N_ratio": "8029190099484409856000/59049",
+      "hybrid_ratio": "20921042127433/3820199812000"
+    },
+    {
+      "P": "18",
+      "uniform": "111025810164404712465373534/295245",
+      "adaptive_N": "1124086613927817379840000/19683",
+      "conditional_hybrid": "1401229605933639/6685349671000",
+      "nested_prescribed_count": "1617/10",
+      "adaptive_N_ratio": "281021653481954344960000/177147",
+      "hybrid_ratio": "155692178437071/26741398684000"
+    },
+    {
+      "P": "37/2",
+      "uniform": "8215909952165948722723852019/1771470",
+      "adaptive_N": "41591204715329243054080000/59049",
+      "conditional_hybrid": "6106911715129427/26741398684000",
+      "nested_prescribed_count": "874/5",
+      "adaptive_N_ratio": "1124086613927817379840000/59049",
+      "hybrid_ratio": "165051667976471/26741398684000"
+    },
+    {
+      "P": "19",
+      "uniform": "156102289091153025732210936209/2657205",
+      "adaptive_N": "1580465779182511236055040000/177147",
+      "conditional_hybrid": "6457224037889827/26037677666000",
+      "nested_prescribed_count": "942/5",
+      "adaptive_N_ratio": "41591204715329243054080000/177147",
+      "hybrid_ratio": "6457224037889827/989431751308000"
+    },
+    {
+      "P": "39/2",
+      "uniform": "4058659516369978669038458472787/5314410",
+      "adaptive_N": "20546055129372646068715520000/177147",
+      "conditional_hybrid": "20434009362442281/76110134716000",
+      "nested_prescribed_count": "405/2",
+      "adaptive_N_ratio": "1580465779182511236055040000/531441",
+      "hybrid_ratio": "6811336454147427/989431751308000"
+    },
+    {
+      "P": "20",
+      "uniform": "16234638065479914676154144252692/1594323",
+      "adaptive_N": "821842205174905842748620800000/531441",
+      "conditional_hybrid": "7169054087312627/24735793782700",
+      "nested_prescribed_count": "2171/10",
+      "adaptive_N_ratio": "20546055129372646068715520000/531441",
+      "hybrid_ratio": "7169054087312627/989431751308000"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "arithmetic_status": "PASS",
+  "checks": 2776,
+  "whole_family_acceptance": "NOT ESTABLISHED",
+  "unclosed_ports": [
+    "Complete mean-bias correction",
+    "Original true-covariance orientation",
+    "All successor self/mixture/tail rows",
+    "Generalized weaker-curl private input/return",
+    "Actual stable source and width return through every recursion"
+  ],
+  "warning": "Candidate exponent arithmetic does not certify the current owned-X endpoint/source program or an all-order repair queue."
+}

@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "checks": 114270,
+  "scope": "Exact weighted scalar-width law, source, variance and cross-width retention guards."
+}

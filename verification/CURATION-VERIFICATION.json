@@ -1,0 +1,73 @@
+{
+  "verified_utc": "2026-10-04T14:58:21Z",
+  "curation": "Mathematical publication snapshot; original source files remain unchanged. Edited public copies are identified in INVENTORY.json.",
+  "research_files": 216,
+  "research_bytes": 1305181,
+  "public_copy_counts": {
+    "unchanged_source_copy": 156,
+    "sanitized_publication_copy": 60
+  },
+  "original_version_counts": {
+    "historical_bytes_verified": 17,
+    "reconstructed_new_version": 29,
+    "new_research_or_diagnostic": 170
+  },
+  "kinds": {
+    "mathematical_proof_audit_or_certificate": 123,
+    "diagnostic_script": 45,
+    "saved_diagnostic_result": 47,
+    "baseline_manuscript": 1
+  },
+  "diagnostics": {
+    "bundled_scripts": 45,
+    "passed": 45,
+    "failed": 0,
+    "not_run": 0,
+    "isolation": "Separate disposable research copy per script; final complete bundle also rerun from a separate copy with checksum verification before and after.",
+    "archived_research_bytes_unchanged": true,
+    "changed_saved_result_comparisons": 4,
+    "comparison_differences": "Only embedded source SHA-256 values changed for sanitized source documents; mathematical result data, counts, and verdicts unchanged."
+  },
+  "historical_results_not_rerun": [
+    "research/r-native-twin/common_two_twin_lift_checks.json",
+    "research/r-shear-consumer/weighted_scalar_width_checks.json"
+  ],
+  "tex_build": "Attempted; blocked because pdflatex.fmt and its format configuration entry are unavailable. No PDF build is claimed.",
+  "safety_review_findings": [],
+  "safety_review_scope": "Selected plaintext, executable source, file list, and curation diffs reviewed; local-path and credential-marker scans found no release blockers. Scan results are not a universal secret-detection guarantee.",
+  "incoming_payload_integrity_verified": true,
+  "historical_source_index_mismatches": 1,
+  "mismatch_resolution": "The earlier mixed-descendant index hash remains marked stale. Final source f805e8d3 and its separate included scoped audit 73fa9893 are explicitly identified.",
+  "proof_verification_limit": "Numerical/algebraic diagnostics are not analytic proof verification. General matrix constrained-input and nonlinear endpoint joins remain open.",
+  "snapshot_version": "2026-10-04-public-v3-retained-kernel-same-heat",
+  "fixed_seed_audit": {
+    "original_sha256": "03ba0c8daee0c774d5495659938cc0c3558be7a06051e856fa41c0b4078f1395",
+    "original_checker_passed": 60826,
+    "public_checker_passed": 60824,
+    "identical_mathematical_checks_in_both": 60813,
+    "original_hash_checks": 13,
+    "public_hash_checks": 11,
+    "reason": "The public adaptation omits two historical status/overview input files; every mathematical test remains."
+  },
+  "v3_additions": {
+    "new_payload_files": 14,
+    "retained_mixed_kernel_original_sha256": "b5fdb18b7b00be25ac89f97918b8ef8f5dd5d6ea4dc92722f70a1790cb02925c",
+    "retained_mixed_audit_original_sha256": "518410fd0fa5b77613e70a183dcfaf16402dcfdbec9e7f340d5e0d6400668d37",
+    "same_heat_report_original_sha256": "37efa7576cfac04fbe86141aa09963cd856f03cded90b74135d18929583a8ada",
+    "same_heat_audit_original_sha256": "ff7414e849925eeea4b204758ab43661052175144ccc68d2eddafc76a41dbecd",
+    "terminal_flat_checks_passed": 46910,
+    "observer_parameter_fixtures_passed": {
+      "nominal": 15,
+      "weak_energy": 12,
+      "total": 27
+    },
+    "same_heat_primary_displayed_parameter_fixtures": {
+      "quadratic": 5,
+      "blind_bump": 6,
+      "product_integration": 3
+    },
+    "same_heat_independent_checks_passed": 900,
+    "scope": "Retained conditional covariance reserve and scoped exact-flow/finite-DAG query results; no complete generic matrix endpoint, protected-host join, or improved admitted general c_P family.",
+    "same_heat_lower_bound_scope": "Deterministic first-Picard integral at fixed input, including adaptive baseline oracle transcripts. No exact-flow, randomized, Gaussian-input Lp, or posterior-law lower bound."
+  }
+}

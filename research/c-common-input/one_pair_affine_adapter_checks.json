@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "general_symmetric_D_cases": 320,
+  "max_identity_residual": 3.3306690738754696e-15,
+  "scope": "Known-contraction and stationary conditional covariance algebra, exact skew factor and fork readout; source/caller contracts still use the original finite pair proof."
+}

@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 3060,
+  "scope": "Actual finite nonlinear same-potential iterations, coisometry/column signs, same-Z mark, complete first/curl, and conditional-coordinate identities",
+  "source_sha256": "c8b20bf4eff6986f5e1f2d749e740beb935491a1043153ec62b39ef05bf4bca3"
+}

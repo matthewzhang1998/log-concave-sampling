@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "checks": 5993,
+  "max_exact_residual": 2.220446049250313e-16,
+  "max_mixed_cubic_ratio": 0.03310719342321825,
+  "scope": "Scalar physical Gram identity, positive reference, conditional-root product, exact mixed sine-source padding and additive work. Does not prove all source-class estimates."
+}

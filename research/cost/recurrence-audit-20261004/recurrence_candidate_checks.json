@@ -1,0 +1,92 @@
+{
+  "status": "PASS",
+  "checks": 60824,
+  "scope": "Exact rational recurrence, budget, variance, and cumulant algebra; numerical evaluation only for stated smooth scalar / Gaussian diagnostics. No new all-order source theorem.",
+  "current_trajectory": [
+    {
+      "P": "15/2",
+      "c": "21/10",
+      "ratio": 0.28
+    },
+    {
+      "P": "8",
+      "c": "47/10",
+      "ratio": 0.5875
+    },
+    {
+      "P": "17/2",
+      "c": "39/5",
+      "ratio": 0.9176470588235294
+    },
+    {
+      "P": "10",
+      "c": "6828/323",
+      "ratio": 2.1139318885448914
+    },
+    {
+      "P": "20",
+      "c": "7169054087312627/24735793782700",
+      "ratio": 14.491255365183795
+    },
+    {
+      "P": "50",
+      "c": "37861358090364630069825875865463639606823/11737436907359002889652156386416212720",
+      "ratio": 64.51384299518875
+    },
+    {
+      "P": "100",
+      "c": "1634424646336770120277901142433248917622220248218423489122436746164451340144474377245961023/104102959516335266864032644072481915874195797155912726613841673431245067302678206810800",
+      "ratio": 157.00078594598506
+    }
+  ],
+  "ideal_shared_core_limit_ratio": 1,
+  "nine_weight_fourth_power_sum": "1/54",
+  "sin_gaussian_fourth_cumulant": -0.2533595131014501,
+  "public_cost_source_hashes_verified": [
+    {
+      "file": "COST-OPTIMIZATION-PROOFS-RECONSTRUCTED.md",
+      "sha256": "ece35741d1cae46c6bd85d82851fe56f18376d5478da4aae74d315483260ca9e"
+    },
+    {
+      "file": "GROWTH-AND-SUBCRITICAL-TARGETS-RECONSTRUCTED.md",
+      "sha256": "edf398befbc5c6efb131b60824fa64e06c914f67bfebb2670464cee2c55e9e2a"
+    },
+    {
+      "file": "NO-COPY-ACCEPTANCE-CRITERION-RECONSTRUCTED.md",
+      "sha256": "a69a234b182beccb4f1ae091b57e983dc3a9638c8b9f3b9c37a7f2a2cd7e7d2f"
+    },
+    {
+      "file": "check_cost_schedules.py",
+      "sha256": "e67a0abe6b38c7fdcd27f2f7c1d10ac6c16b0a5814b058a3240e9b49a0cc7a9a"
+    },
+    {
+      "file": "check_extended_cost_schedules.py",
+      "sha256": "03e4c36781cd9f0d093631362c34f3297217291e4e614d0600d1390371cf6954"
+    },
+    {
+      "file": "check_no_copy_acceptance_arithmetic.py",
+      "sha256": "9c8a992e44dbded925e23348c86bf4f65f9edf2a57cf1eaa58598386bad2efe0"
+    },
+    {
+      "file": "check_recovery_additional.py",
+      "sha256": "80192e85a3e08d512ff286527cfebc94db88aeb7ab4c4d338486d914170659ed"
+    },
+    {
+      "file": "cost_schedule_checks.json",
+      "sha256": "d386ca0fbd567c62e5ddef6c5bf1dd698093ec927c5d44a6e8b7dee91a21dcc7"
+    },
+    {
+      "file": "extended_cost_schedule_checks.json",
+      "sha256": "50b6c44b67bde1bdb83599d22459d2bf9e55c4e5b9eddba31aeebe0de2003b76"
+    },
+    {
+      "file": "no_copy_acceptance_arithmetic.json",
+      "sha256": "d373d46e5442942358df428b41f4eec25ae924db21a3802244a109b00e91a78b"
+    },
+    {
+      "file": "recovery_additional_checks.json",
+      "sha256": "11893de074ef3be7ae5579d7c17687c69d9352ba51f064d1ac01e887ed233d7e"
+    }
+  ],
+  "whole_family_no_copy_status": "OPEN"
+}

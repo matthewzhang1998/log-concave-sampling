@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "provenance": "New diagnostic for exact preserved source a025c546; no historical test count is reused.",
+  "analytic_limit_coefficient_div_eps_kappa_squared": 0.010543860537485109,
+  "uniform_full_Riesz_remainder_div_eps_kappa_squared": 0.0004,
+  "certified_eventual_lower_coefficient": 0.004,
+  "radial_quadrature_rows": [
+    {
+      "m": 100,
+      "s": 0.31622776601683794,
+      "h0": 0.44769641978801816,
+      "hs": 0.369044651264335,
+      "main_coefficient_div_eps_kappa_squared": 0.014782831545891674,
+      "lower_after_full_Riesz_remainder": 0.014382831545891674
+    },
+    {
+      "m": 1000,
+      "s": 0.1778279410038923,
+      "h0": 0.44726135582791177,
+      "hs": 0.3670280007564446,
+      "main_coefficient_div_eps_kappa_squared": 0.01190960505643722,
+      "lower_after_full_Riesz_remainder": 0.01150960505643722
+    },
+    {
+      "m": 10000,
+      "s": 0.1,
+      "h0": 0.44721836635256973,
+      "hs": 0.36642250679091315,
+      "main_coefficient_div_eps_kappa_squared": 0.010971944975220034,
+      "lower_after_full_Riesz_remainder": 0.010571944975220035
+    },
+    {
+      "m": 100000,
+      "s": 0.05623413251903491,
+      "h0": 0.44721407252289014,
+      "hs": 0.36623413673064303,
+      "main_coefficient_div_eps_kappa_squared": 0.010672369033622052,
+      "lower_after_full_Riesz_remainder": 0.010272369033622053
+    },
+    {
+      "m": 1000000,
+      "s": 0.03162277660168379,
+      "h0": 0.4472136431894562,
+      "hs": 0.3661748787648091,
+      "main_coefficient_div_eps_kappa_squared": 0.010577323650964447,
+      "lower_after_full_Riesz_remainder": 0.010177323650964448
+    }
+  ],
+  "matrix_identity_cases": 1000,
+  "max_matrix_identity_error": 6.938893903907228e-18,
+  "scope": "The proof uses CLT and a uniform full-mark remainder bound. These numerical radial integrals and matrix checks do not replace that proof or imply an actual CW7 batch admission."
+}

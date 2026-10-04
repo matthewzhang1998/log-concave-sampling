@@ -1,0 +1,6 @@
+{
+  "checks": 1000,
+  "status": "PASS",
+  "scope": "noncommuting matrix identities, contraction rows, exact reference covariance and cross sign; not nonlinear law tests",
+  "source_sha256": "0ad6959e1e356bf9d455db3f9192031aa4ab38cca5bc7076dd63c963ba4edd16"
+}

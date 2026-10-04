@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "known_nonsymmetric_B_cases": 320,
+  "max_algebra_error": 3.4416913763379853e-15,
+  "scope": "Known near-identity affine row, skew extraction, stationary covariance and fork readout. No random/nonlinear B or native nonlinear ancestor is inferred."
+}

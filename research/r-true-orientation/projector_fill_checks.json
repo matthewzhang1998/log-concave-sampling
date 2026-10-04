@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 96,
+  "max_error": 1.9665092980352025e-15,
+  "scope": "New exact projector-fill covariance and one-pair skew identity checks; finite pair contracts remain imported."
+}

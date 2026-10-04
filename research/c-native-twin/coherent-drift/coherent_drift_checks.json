@@ -1,0 +1,72 @@
+{
+  "rows": [
+    {
+      "N": 200,
+      "a": 0.052680513844533226,
+      "epsilon": 0.07071067811865475,
+      "dimension": "910415631692",
+      "mean_shift": -3.1376721086764476,
+      "shift_L2_error": 0.004365542361150952,
+      "coordinate_L2_limit_error": 0.0018577903766864455,
+      "hidden_first_chaos": 0.01115702249179325,
+      "limit_first_chaos": 0.011131945829917386,
+      "energy_over_ra": 0.04654939509419224,
+      "samples": 180000
+    },
+    {
+      "N": 1000,
+      "a": 0.021544346900318832,
+      "epsilon": 0.03162277660168379,
+      "dimension": "136085875831029",
+      "mean_shift": -3.140807917899442,
+      "shift_L2_error": 0.0008602310363164162,
+      "coordinate_L2_limit_error": 0.0006070704936367479,
+      "hidden_first_chaos": 0.011107297133408193,
+      "limit_first_chaos": 0.011131945829917386,
+      "energy_over_ra": 0.04635566381377885,
+      "samples": 180000
+    },
+    {
+      "N": 5000,
+      "a": 0.008810826802697265,
+      "epsilon": 0.01414213562373095,
+      "dimension": "20341660397771288",
+      "mean_shift": -3.141435463536551,
+      "shift_L2_error": 0.0001698978603066087,
+      "coordinate_L2_limit_error": 0.00022669578398148356,
+      "hidden_first_chaos": 0.011074666182873628,
+      "limit_first_chaos": 0.011131945829917386,
+      "energy_over_ra": 0.046265036810145994,
+      "samples": 180000
+    },
+    {
+      "N": 20000,
+      "a": 0.004078860865480239,
+      "epsilon": 0.007071067811865475,
+      "dimension": "1518664804300522496",
+      "mean_shift": -3.1415534401000462,
+      "shift_L2_error": 4.1938016925550985e-05,
+      "coordinate_L2_limit_error": 0.00010200359327773363,
+      "hidden_first_chaos": 0.011124148095276686,
+      "limit_first_chaos": 0.011131945829917386,
+      "energy_over_ra": 0.04619121741062456,
+      "samples": 180000
+    },
+    {
+      "N": 100000,
+      "a": 0.0016681005372000584,
+      "epsilon": 0.0031622776601683794,
+      "dimension": "227004922579079823360",
+      "mean_shift": -3.141584788406449,
+      "shift_L2_error": 8.321754230474007e-06,
+      "coordinate_L2_limit_error": 4.1140618534271486e-05,
+      "hidden_first_chaos": 0.011189521780069402,
+      "limit_first_chaos": 0.011131945829917386,
+      "energy_over_ra": 0.04623614582117299,
+      "samples": 180000
+    }
+  ],
+  "analytic_positive_first_chaos": 0.011131945829917386,
+  "orientation_limit_lower_bound": 0.00012392021796021508,
+  "scope": "Exact low-dimensional sampling of native radial sufficient statistics; proof uses Gaussian concentration and heat-gradient isometry, not this Monte Carlo diagnostic."
+}

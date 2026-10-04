@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 5400,
+  "max_exact_residual": 1.0663958000678934e-14,
+  "scope": "Known noncommuting/singular-M rotation, exact graph and defect identities, lambda gradient, regression covariance and OU spectral frame."
+}

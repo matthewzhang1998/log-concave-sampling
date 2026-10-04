@@ -1,0 +1,13 @@
+# Independent rank-aware auxiliary-heat restoration audit
+
+Scoped PASS against C's held theorem2150afee25a8e62ff19165244404cdae10070dbee5d6375421c861f451f0d251. The complete source text was read and its14,400 deterministic matrix checks rerun. This binds only the exact native K3 source with both original Hessians in[.4I,.6I], not arbitrary later finite iterates or an ambient stationary-law theorem.
+
+The exact positive auxiliary derivative is ra^2 epsilon H_out M H0 M*H_plus. With Q=MM*, the Schatten/row estimate ||M R M*||HS<=||R||op||Q||HS is valid without invertibility. Expanding around .5I leaves a .125Q main term and seven error words of total Hilbert norm at most .091||Q||HS. The fixed Q/||Q||HS test therefore has pointwise pairing at least .034||Q||HS. Conditional Gaussian integration by parts and first-chaos Bessel give the actual centered energy lower bound .034ra^2epsilon||Q||HS. The structural M=0 branch is correctly separated.
+
+The literal common displacement changes each of the two terminal VALUES by at most a sigma|MV|, so its L2 difference from the unheated E is at most2ra sigma||M||HS. Combining it with the actual lower bound, rather than a nominal sqrt(d) profile, gives delta_sigma<=C sigma R_M e/(a epsilon). The same bound applies to the private auxiliary mean by Jensen.
+
+For two physical fields on one complete Gaussian tape, the covariance difference has one-energy bound (L_F+L_G)||F-G||2 using ordinary Gaussian covariance frames. The physical forward difference is J_delta J_F+J_G J_delta in its actual order. The exact Gaussian covariance-gradient identity gives integral E||J_delta,S||HS^2<=Var(delta), and Cauchy-Schwarz on the unit clock interval gives the printed L1 bound. Thus the total continuity estimate2(L_F+L_G)||F-G||2 holds, with no Hessian convergence or differentiated VALUE error.
+
+Consequently sigma<=c b a^2epsilon/R_M restores the complete-source physical orientation to b(ra)e. The sigma width is real, known and finite. It adds no VALUE calls to the literal six-query source and no inverse-sigma replica count. Original numeric source and known-matrix precision must still be chosen for this width and any later readout. For projection M, R_M=1 exactly, independent of rank and dimension.
+
+The theorem correctly leaves the old-root mean field unresolved. An accurate conditional auxiliary mean does not remove its order-kappa e orientation. The new source's conditional gradient is M*E_sigma; inverse-M recovery and every later pair/mean readout remain separate. The theorem does not promote the nonlinear ambient feature law to a Gaussian law or erase shared observers.

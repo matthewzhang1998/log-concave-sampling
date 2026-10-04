@@ -1,0 +1,12 @@
+{
+  "checks": 946,
+  "odd_residual_variance": 0.06445291721025131,
+  "even_residual_variance": 0.19978820044686407,
+  "uniform_shift_gaussian_W2_constant": 0.025387579091014436,
+  "uniform_joint_pair_constant": 0.017951729333166112,
+  "paired_E_constant_in_units_r_a_rho": 0.004062012654562311,
+  "paired_E_constant_relative_to_actual_e_upper": 0.01880561414149218,
+  "max_projection_identity_error": 3.903127820947816e-18,
+  "smallest_optimized_paired_E_ratio": 0.005035468984335122,
+  "scope": "One original strongly convex primitive; exact conditional Gaussian insertion only. Gaussian mixtures or weaker same-E coefficient comparisons are not ruled out."
+}

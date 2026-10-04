@@ -1,0 +1,98 @@
+{
+  "status": "PASS",
+  "checks": 567,
+  "exact_proof_lower_companion_over_ra": 0.01,
+  "records": [
+    {
+      "a": 0.0625,
+      "epsilon": 0.08246924442330589,
+      "frequency_multiple": 1.0,
+      "companion_over_ra": 0.017366964595667337,
+      "actual_e_over_ra2epsilon": 0.1273150065377563,
+      "measured_L2_approx_error": 0.0005812571911881526,
+      "analytic_error_allowance": 0.005666750054989299,
+      "first_over_ra_k": 0.09992794962127384
+    },
+    {
+      "a": 0.0625,
+      "epsilon": 0.08246924442330589,
+      "frequency_multiple": 3.0,
+      "companion_over_ra": 0.04182030603062246,
+      "actual_e_over_ra2epsilon": 0.1269113424445214,
+      "measured_L2_approx_error": 0.0013031086982715975,
+      "analytic_error_allowance": 0.005666750054989299,
+      "first_over_ra_k": 0.09997421845133135
+    },
+    {
+      "a": 0.0625,
+      "epsilon": 0.08246924442330589,
+      "frequency_multiple": 11.0,
+      "companion_over_ra": 0.05082934284162956,
+      "actual_e_over_ra2epsilon": 0.12627855747945035,
+      "measured_L2_approx_error": 0.0015829123203642422,
+      "analytic_error_allowance": 0.005666750054989299,
+      "first_over_ra_k": 0.099992122361447
+    },
+    {
+      "a": 0.03,
+      "epsilon": 0.042599953911887034,
+      "frequency_multiple": 1.0,
+      "companion_over_ra": 0.01728022765452034,
+      "actual_e_over_ra2epsilon": 0.12739194110582458,
+      "measured_L2_approx_error": 0.0002782059397978559,
+      "analytic_error_allowance": 0.0027049688586242822,
+      "first_over_ra_k": 0.09999443276559458
+    },
+    {
+      "a": 0.03,
+      "epsilon": 0.042599953911887034,
+      "frequency_multiple": 3.0,
+      "companion_over_ra": 0.041288059724741866,
+      "actual_e_over_ra2epsilon": 0.12699990232225777,
+      "measured_L2_approx_error": 0.0006244756534507906,
+      "analytic_error_allowance": 0.0027049688586242822,
+      "first_over_ra_k": 0.09999481945979934
+    },
+    {
+      "a": 0.03,
+      "epsilon": 0.042599953911887034,
+      "frequency_multiple": 11.0,
+      "companion_over_ra": 0.05031771112466733,
+      "actual_e_over_ra2epsilon": 0.12621022590671385,
+      "measured_L2_approx_error": 0.0007562581251522591,
+      "analytic_error_allowance": 0.0027049688586242822,
+      "first_over_ra_k": 0.0999977828878985
+    },
+    {
+      "a": 0.01,
+      "epsilon": 0.015848931924611134,
+      "frequency_multiple": 1.0,
+      "companion_over_ra": 0.017072717670986913,
+      "actual_e_over_ra2epsilon": 0.1273341179718917,
+      "measured_L2_approx_error": 9.254017661830012e-05,
+      "analytic_error_allowance": 0.0009002054021577429,
+      "first_over_ra_k": 0.10000301397731777
+    },
+    {
+      "a": 0.01,
+      "epsilon": 0.015848931924611134,
+      "frequency_multiple": 3.0,
+      "companion_over_ra": 0.041055506875129065,
+      "actual_e_over_ra2epsilon": 0.12685997567048837,
+      "measured_L2_approx_error": 0.00020800010785489864,
+      "analytic_error_allowance": 0.0009002054021577429,
+      "first_over_ra_k": 0.09999938202210229
+    },
+    {
+      "a": 0.01,
+      "epsilon": 0.015848931924611134,
+      "frequency_multiple": 11.0,
+      "companion_over_ra": 0.050260161570611285,
+      "actual_e_over_ra2epsilon": 0.1261992305772348,
+      "measured_L2_approx_error": 0.00025327922676740783,
+      "analytic_error_allowance": 0.0009002054021577429,
+      "first_over_ra_k": 0.10000027286768098
+    }
+  ],
+  "scope": "Deterministic Gaussian phase/envelope and exact first witnesses; Monte Carlo entries are diagnostics only."
+}

@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 7700,
+  "scope": "exact rational law/first/cross-width/variance exponent checks; source graph proof is in the text",
+  "audit_sha256": "fb469200ad216faa866694dce85096409250f074227e86005b29c3c9e359cb01"
+}

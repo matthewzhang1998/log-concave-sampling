@@ -1,0 +1,6 @@
+{
+  "checks": 576,
+  "max_calibration_ratio_to_e_4minusK_over_s0v": 0.29440065218622896,
+  "max_energy_ratio_to_K_e_over_s0v": 1.5201031313723927,
+  "scope": "Literal paired finite filter with one shared ancestor Gaussian and fixed terminal/twin feedback; no adjoint or stationary completion."
+}

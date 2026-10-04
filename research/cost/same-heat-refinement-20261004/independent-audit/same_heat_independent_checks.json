@@ -1,0 +1,283 @@
+{
+  "status": "PASS",
+  "checks": 900,
+  "scope": "Independent finite matrix derivative bounds, prefix identity, exact gap-area arithmetic, quadratic invariance, source output hashes. No exact-flow, Gaussian-Lp, randomized, or posterior-law lower bound asserted.",
+  "derivative_trials": [
+    {
+      "a": 0.001,
+      "N": 2,
+      "M": 8,
+      "old_endpoint_norm": 0.00043024120270370505,
+      "old_bound": 0.001001001001001001
+    },
+    {
+      "a": 0.001,
+      "N": 5,
+      "M": 8,
+      "old_endpoint_norm": 0.00046641734886339597,
+      "old_bound": 0.001001001001001001
+    },
+    {
+      "a": 0.001,
+      "N": 12,
+      "M": 8,
+      "old_endpoint_norm": 0.00048729170930352205,
+      "old_bound": 0.001001001001001001
+    },
+    {
+      "a": 0.001,
+      "N": 31,
+      "M": 8,
+      "old_endpoint_norm": 0.00046437484851977054,
+      "old_bound": 0.001001001001001001
+    },
+    {
+      "a": 0.01,
+      "N": 2,
+      "M": 8,
+      "old_endpoint_norm": 0.007837956757896544,
+      "old_bound": 0.010101010101010102
+    },
+    {
+      "a": 0.01,
+      "N": 5,
+      "M": 8,
+      "old_endpoint_norm": 0.0062879294018176966,
+      "old_bound": 0.010101010101010102
+    },
+    {
+      "a": 0.01,
+      "N": 12,
+      "M": 8,
+      "old_endpoint_norm": 0.0045502559859230875,
+      "old_bound": 0.010101010101010102
+    },
+    {
+      "a": 0.01,
+      "N": 31,
+      "M": 8,
+      "old_endpoint_norm": 0.0035789359675161285,
+      "old_bound": 0.010101010101010102
+    },
+    {
+      "a": 0.05,
+      "N": 2,
+      "M": 8,
+      "old_endpoint_norm": 0.027886502259621172,
+      "old_bound": 0.052631578947368425
+    },
+    {
+      "a": 0.05,
+      "N": 5,
+      "M": 8,
+      "old_endpoint_norm": 0.033653123795351327,
+      "old_bound": 0.052631578947368425
+    },
+    {
+      "a": 0.05,
+      "N": 12,
+      "M": 8,
+      "old_endpoint_norm": 0.01717051501167141,
+      "old_bound": 0.052631578947368425
+    },
+    {
+      "a": 0.05,
+      "N": 31,
+      "M": 8,
+      "old_endpoint_norm": 0.018834458492099648,
+      "old_bound": 0.052631578947368425
+    },
+    {
+      "a": 0.2,
+      "N": 2,
+      "M": 8,
+      "old_endpoint_norm": 0.14315507488007495,
+      "old_bound": 0.25
+    },
+    {
+      "a": 0.2,
+      "N": 5,
+      "M": 8,
+      "old_endpoint_norm": 0.12929066679108459,
+      "old_bound": 0.25
+    },
+    {
+      "a": 0.2,
+      "N": 12,
+      "M": 8,
+      "old_endpoint_norm": 0.10765360371804136,
+      "old_bound": 0.25
+    },
+    {
+      "a": 0.2,
+      "N": 31,
+      "M": 8,
+      "old_endpoint_norm": 0.08267995873913503,
+      "old_bound": 0.25
+    },
+    {
+      "a": 0.49,
+      "N": 2,
+      "M": 8,
+      "old_endpoint_norm": 0.32400866142290563,
+      "old_bound": 0.9607843137254901
+    },
+    {
+      "a": 0.49,
+      "N": 5,
+      "M": 8,
+      "old_endpoint_norm": 0.27007025750008684,
+      "old_bound": 0.9607843137254901
+    },
+    {
+      "a": 0.49,
+      "N": 12,
+      "M": 8,
+      "old_endpoint_norm": 0.20303884682068013,
+      "old_bound": 0.9607843137254901
+    },
+    {
+      "a": 0.49,
+      "N": 31,
+      "M": 8,
+      "old_endpoint_norm": 0.19974404239499413,
+      "old_bound": 0.9607843137254901
+    }
+  ],
+  "quadratic": [
+    {
+      "a": 0.0001,
+      "lambda": 0.01,
+      "variance_error": -1.3552527156068805e-20,
+      "decoupled_variance_error": 9.999998668486134e-11
+    },
+    {
+      "a": 0.0001,
+      "lambda": 0.1,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 9.999986685070572e-10
+    },
+    {
+      "a": 0.0001,
+      "lambda": 0.5,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 4.9999667126732336e-09
+    },
+    {
+      "a": 0.0001,
+      "lambda": 1.0,
+      "variance_error": 1.3552527156068805e-20,
+      "decoupled_variance_error": 9.999866851077583e-09
+    },
+    {
+      "a": 0.001,
+      "lambda": 0.01,
+      "variance_error": 2.168404344971009e-19,
+      "decoupled_variance_error": 9.999986685287413e-09
+    },
+    {
+      "a": 0.001,
+      "lambda": 0.1,
+      "variance_error": 2.168404344971009e-19,
+      "decoupled_variance_error": 9.999866851088425e-08
+    },
+    {
+      "a": 0.001,
+      "lambda": 0.5,
+      "variance_error": -4.336808689942018e-19,
+      "decoupled_variance_error": 4.999667135873777e-07
+    },
+    {
+      "a": 0.001,
+      "lambda": 1.0,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 9.998668584244603e-07
+    },
+    {
+      "a": 0.01,
+      "lambda": 0.01,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 9.999866851084088e-07
+    },
+    {
+      "a": 0.01,
+      "lambda": 0.1,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 9.99866858424417e-06
+    },
+    {
+      "a": 0.01,
+      "lambda": 0.5,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 4.9966722754131096e-05
+    },
+    {
+      "a": 0.01,
+      "lambda": 1.0,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 9.986693174366887e-05
+    },
+    {
+      "a": 0.1,
+      "lambda": 0.01,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 9.998668584243475e-05
+    },
+    {
+      "a": 0.1,
+      "lambda": 0.1,
+      "variance_error": -1.3877787807814457e-17,
+      "decoupled_variance_error": 0.0009986693174366679
+    },
+    {
+      "a": 0.1,
+      "lambda": 0.5,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 0.004966814261435706
+    },
+    {
+      "a": 0.1,
+      "lambda": 1.0,
+      "variance_error": -1.3877787807814457e-17,
+      "decoupled_variance_error": 0.009867662388536744
+    },
+    {
+      "a": 0.4,
+      "lambda": 0.01,
+      "variance_error": 1.1102230246251565e-16,
+      "decoupled_variance_error": 0.001599148050364041
+    },
+    {
+      "a": 0.4,
+      "lambda": 0.1,
+      "variance_error": -5.551115123125783e-17,
+      "decoupled_variance_error": 0.015914992515836612
+    },
+    {
+      "a": 0.4,
+      "lambda": 0.5,
+      "variance_error": 0.0,
+      "decoupled_variance_error": 0.07789550095998543
+    },
+    {
+      "a": 0.4,
+      "lambda": 1.0,
+      "variance_error": -5.551115123125783e-17,
+      "decoupled_variance_error": 0.1516841428584656
+    }
+  ],
+  "verified_hashes": [
+    {
+      "file": "SAME-HEAT-POSTERIOR-REFINEMENT-AND-FLOW-GATE.md",
+      "sha256": "37efa7576cfac04fbe86141aa09963cd856f03cded90b74135d18929583a8ada"
+    },
+    {
+      "file": "check_same_heat_refinement.py",
+      "sha256": "57b02b55b5dac2d2d6467740cc692df16dbff52795d66fbe60462aa30b1443ef"
+    },
+    {
+      "file": "same_heat_refinement_checks.json",
+      "sha256": "74e31939d3e5840fe98cfba1917597c2feba93cec65dd6474eaf579af21d4b28"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 5520,
+  "max_reference_residual": 4.807406716705118e-17,
+  "scope": "Literal positive child/parent covariance, rational marked grades, complete first returns and declared nominal child-floor selection. Does not remove absolute finite-prior floors."
+}

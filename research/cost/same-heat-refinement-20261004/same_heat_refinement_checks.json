@@ -1,0 +1,117 @@
+{
+  "status": "All displayed algebraic fixtures passed; nonlinear compiler remains open",
+  "quadratic": [
+    {
+      "a": 0.1,
+      "c": -0.03878120798144656,
+      "c_over_a": -0.3878120798144656,
+      "bound": 0.11111111111111112,
+      "covariance_identity_error": 0.0,
+      "independent_bank_w2": 0.007944890657084536,
+      "independent_bank_w2_over_a_1p5": 0.251239502373789
+    },
+    {
+      "a": 0.03,
+      "c": -0.011736852587529226,
+      "c_over_a": -0.39122841958430754,
+      "bound": 0.030927835051546393,
+      "covariance_identity_error": -3.469446951953614e-18,
+      "independent_bank_w2": 0.0013012089323399256,
+      "independent_bank_w2_over_a_1p5": 0.2504177757861339
+    },
+    {
+      "a": 0.01,
+      "c": -0.00392208425662328,
+      "c_over_a": -0.392208425662328,
+      "bound": 0.010101010101010102,
+      "covariance_identity_error": 0.0,
+      "independent_bank_w2": 0.00025014377829805923,
+      "independent_bank_w2_over_a_1p5": 0.2501437782980592
+    },
+    {
+      "a": 0.003,
+      "c": -0.0011776555174488727,
+      "c_over_a": -0.3925518391496242,
+      "bound": 0.0030090270812437314,
+      "covariance_identity_error": 4.336808689942018e-19,
+      "independent_bank_w2": 4.108635811460315e-05,
+      "independent_bank_w2_over_a_1p5": 0.25004361272337305
+    },
+    {
+      "a": 0.001,
+      "c": -0.0003926499964921519,
+      "c_over_a": -0.3926499964921519,
+      "bound": 0.001001001001001001,
+      "covariance_identity_error": -4.336808689942018e-19,
+      "independent_bank_w2": 7.90615531689326e-06,
+      "independent_bank_w2_over_a_1p5": 0.2500145833643301
+    }
+  ],
+  "quadrature_blind_bumps": [
+    {
+      "queries": 1,
+      "integral_psi": 0.016666666666666666,
+      "guaranteed_integral": 0.016666666666666666,
+      "normalized_two_potential_endpoint_gap_coefficient": 0.03333333333333333,
+      "hessian_min": 0.307549912412,
+      "hessian_max": 0.692450087588
+    },
+    {
+      "queries": 2,
+      "integral_psi": 0.0125,
+      "guaranteed_integral": 0.011111111111111112,
+      "normalized_two_potential_endpoint_gap_coefficient": 0.025,
+      "hessian_min": 0.307549912412,
+      "hessian_max": 0.692450087588
+    },
+    {
+      "queries": 4,
+      "integral_psi": 0.007291666666666667,
+      "guaranteed_integral": 0.006666666666666667,
+      "normalized_two_potential_endpoint_gap_coefficient": 0.014583333333333334,
+      "hessian_min": 0.307549912412,
+      "hessian_max": 0.692450087588
+    },
+    {
+      "queries": 8,
+      "integral_psi": 0.00390625,
+      "guaranteed_integral": 0.003703703703703704,
+      "normalized_two_potential_endpoint_gap_coefficient": 0.0078125,
+      "hessian_min": 0.307549912412,
+      "hessian_max": 0.692450087588
+    },
+    {
+      "queries": 16,
+      "integral_psi": 0.002018229166666667,
+      "guaranteed_integral": 0.00196078431372549,
+      "normalized_two_potential_endpoint_gap_coefficient": 0.004036458333333334,
+      "hessian_min": 0.307549912412,
+      "hessian_max": 0.692450087588
+    },
+    {
+      "queries": 32,
+      "integral_psi": 0.001025390625,
+      "guaranteed_integral": 0.00101010101010101,
+      "normalized_two_potential_endpoint_gap_coefficient": 0.00205078125,
+      "hessian_min": 0.307549912412,
+      "hessian_max": 0.692450087588
+    }
+  ],
+  "product_integration": [
+    {
+      "intervals": 4,
+      "min_weight": 0.07612046748871326,
+      "max_row_sum_error": 0.0
+    },
+    {
+      "intervals": 16,
+      "min_weight": 0.004815273327803071,
+      "max_row_sum_error": 1.1102230246251565e-16
+    },
+    {
+      "intervals": 64,
+      "min_weight": 0.00030118130379575003,
+      "max_row_sum_error": 1.1102230246251565e-16
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "checks": 237,
+  "rows": [
+    {
+      "N": 200,
+      "maximum_h_j_plus_pi_L2_for_3_to_41": 0.004371205230642486,
+      "h2_plus_pi_L2": 0.004364182883168529,
+      "supremum_Lh_minus_L0_L2": 4.975402445166681e-06
+    },
+    {
+      "N": 1000,
+      "maximum_h_j_plus_pi_L2_for_3_to_41": 0.0008622659364809373,
+      "h2_plus_pi_L2": 0.0008610415016107037,
+      "supremum_Lh_minus_L0_L2": 3.833292537374803e-07
+    },
+    {
+      "N": 5000,
+      "maximum_h_j_plus_pi_L2_for_3_to_41": 0.0001697299658431825,
+      "h2_plus_pi_L2": 0.0001695198014606203,
+      "supremum_Lh_minus_L0_L2": 2.8417945353380937e-08
+    }
+  ],
+  "scope": "Literal two-step finite twin recurrence on exact radial Gaussian sufficient statistics; no iteration is replaced by a law reference."
+}

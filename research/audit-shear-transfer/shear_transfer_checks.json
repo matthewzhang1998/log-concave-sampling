@@ -1,0 +1,3925 @@
+{
+  "all_pass": true,
+  "count": 625,
+  "checks": [
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "same_potential_source_energy_sandwich",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_Bessel_tail_certificate",
+      "pass": true
+    },
+    {
+      "name": "nonlinear_matched_transfer",
+      "pass": true
+    },
+    {
+      "name": "transverse_heat_first_no_ancestor_frequency_loss",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "exact_quadratic_terminal_transfer",
+      "pass": true
+    },
+    {
+      "name": "raw_same_Z_mark_is_a_real_counterexample_to_illegal_genealogy",
+      "pass": true
+    },
+    {
+      "name": "unpriced_fast_ancestor_observer_not_covered",
+      "pass": true
+    },
+    {
+      "name": "clock_positive",
+      "pass": true
+    },
+    {
+      "name": "clock_total_mass",
+      "pass": true
+    },
+    {
+      "name": "clock_w_over_s2",
+      "pass": true
+    },
+    {
+      "name": "clock_individual_weight",
+      "pass": true
+    },
+    {
+      "name": "clock_inverse_eta_path_no_extra_power",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_side_path_identity",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_transfer_identity",
+      "pass": true
+    },
+    {
+      "name": "clock_positive",
+      "pass": true
+    },
+    {
+      "name": "clock_total_mass",
+      "pass": true
+    },
+    {
+      "name": "clock_w_over_s2",
+      "pass": true
+    },
+    {
+      "name": "clock_individual_weight",
+      "pass": true
+    },
+    {
+      "name": "clock_inverse_eta_path_no_extra_power",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_side_path_identity",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_transfer_identity",
+      "pass": true
+    },
+    {
+      "name": "clock_positive",
+      "pass": true
+    },
+    {
+      "name": "clock_total_mass",
+      "pass": true
+    },
+    {
+      "name": "clock_w_over_s2",
+      "pass": true
+    },
+    {
+      "name": "clock_individual_weight",
+      "pass": true
+    },
+    {
+      "name": "clock_inverse_eta_path_no_extra_power",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_side_path_identity",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_transfer_identity",
+      "pass": true
+    },
+    {
+      "name": "clock_positive",
+      "pass": true
+    },
+    {
+      "name": "clock_total_mass",
+      "pass": true
+    },
+    {
+      "name": "clock_w_over_s2",
+      "pass": true
+    },
+    {
+      "name": "clock_individual_weight",
+      "pass": true
+    },
+    {
+      "name": "clock_inverse_eta_path_no_extra_power",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_side_path_identity",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_transfer_identity",
+      "pass": true
+    },
+    {
+      "name": "clock_positive",
+      "pass": true
+    },
+    {
+      "name": "clock_total_mass",
+      "pass": true
+    },
+    {
+      "name": "clock_w_over_s2",
+      "pass": true
+    },
+    {
+      "name": "clock_individual_weight",
+      "pass": true
+    },
+    {
+      "name": "clock_inverse_eta_path_no_extra_power",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_side_path_identity",
+      "pass": true
+    },
+    {
+      "name": "literal_weighted_transfer_identity",
+      "pass": true
+    },
+    {
+      "name": "smaller_delta_has_real_extra_path_cost",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    },
+    {
+      "name": "full_square_DJD_skew_identity",
+      "pass": true
+    },
+    {
+      "name": "known_middle_fill_covariance",
+      "pass": true
+    },
+    {
+      "name": "same_passive_cross_orientation_and_transposes",
+      "pass": true
+    },
+    {
+      "name": "negative_fork_readout_sign",
+      "pass": true
+    }
+  ],
+  "nonlinear_fourier_cases": [
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 9.545936230125153e-08,
+      "error": 1.8020897447882706e-22,
+      "error_over_kappa_eta_e_s2": 2.097564754659358e-12,
+      "Bessel_tail_bound": 4.0876728282788406e-83
+    },
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 2.8637823202763274e-08,
+      "error": 1.3052558068837982e-23,
+      "error_over_kappa_eta_e_s2": 5.064226493761399e-13,
+      "Bessel_tail_bound": 1.9551345685165317e-90
+    },
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 9.54594149285943e-09,
+      "error": 4.049936530583478e-25,
+      "error_over_kappa_eta_e_s2": 4.713971358186231e-14,
+      "Bessel_tail_bound": 4.0877028572196123e-97
+    },
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 9.545856492436927e-08,
+      "error": 1.8065565558945266e-20,
+      "error_over_kappa_eta_e_s2": 2.102781519600026e-10,
+      "Bessel_tail_bound": 1.0971483587769845e-74
+    },
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 2.8637801673402013e-08,
+      "error": 1.3085288003211148e-21,
+      "error_over_kappa_eta_e_s2": 5.0769291086893863e-11,
+      "Bessel_tail_bound": 5.2482209611102083e-82
+    },
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 9.545940695475076e-09,
+      "error": 4.06010222395852e-23,
+      "error_over_kappa_eta_e_s2": 4.7258042315574355e-12,
+      "Bessel_tail_bound": 1.0972832489056388e-88
+    },
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 9.544580870539754e-08,
+      "error": 1.414016407451113e-24,
+      "error_over_kappa_eta_e_s2": 1.646095688142563e-14,
+      "Bessel_tail_bound": 2.9395922501034123e-66
+    },
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 2.8637457208023494e-08,
+      "error": 1.0246752222006995e-25,
+      "error_over_kappa_eta_e_s2": 3.975660326254305e-15,
+      "Bessel_tail_bound": 1.408571507671927e-73
+    },
+    {
+      "s": 0.03,
+      "b": 0.03,
+      "eta": 2.7e-05,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 9.545927937343522e-09,
+      "error": 3.1794903143388685e-27,
+      "error_over_kappa_eta_e_s2": 3.700810480783064e-16,
+      "Bessel_tail_bound": 2.9454433911419704e-80
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 3.1819608269568283e-07,
+      "error": 2.2247547026088676e-20,
+      "error_over_kappa_eta_e_s2": 2.330590919244161e-11,
+      "Bessel_tail_bound": 8.545637933800999e-76
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 9.545936230125153e-08,
+      "error": 1.6114238288158914e-21,
+      "error_over_kappa_eta_e_s2": 5.626910376552156e-12,
+      "Bessel_tail_bound": 4.0876728282788406e-83
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 3.1819803184544315e-08,
+      "error": 4.9999205762778205e-23,
+      "error_over_kappa_eta_e_s2": 5.237745131315382e-13,
+      "Bessel_tail_bound": 8.546365404645529e-90
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 3.181665530447169e-07,
+      "error": 2.2295557924936568e-18,
+      "error_over_kappa_eta_e_s2": 2.3358371804094092e-09,
+      "Bessel_tail_bound": 2.2909550127620643e-67
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 9.545856492436927e-08,
+      "error": 1.615418039357435e-19,
+      "error_over_kappa_eta_e_s2": 5.640904828314122e-10,
+      "Bessel_tail_bound": 1.0971483587769845e-74
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 3.181977365181871e-08,
+      "error": 5.012454775952649e-21,
+      "error_over_kappa_eta_e_s2": 5.250880402021291e-11,
+      "Bessel_tail_bound": 2.294118531339392e-81
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 3.1769482281261186e-07,
+      "error": 1.7362020047642022e-22,
+      "error_over_kappa_eta_e_s2": 1.821666454821098e-13,
+      "Bessel_tail_bound": 6.022166132665179e-59
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 9.544580870539754e-08,
+      "error": 1.2644096887478137e-23,
+      "error_over_kappa_eta_e_s2": 4.41580308204185e-14,
+      "Bessel_tail_bound": 2.9395922501034123e-66
+    },
+    {
+      "s": 0.03,
+      "b": 0.1,
+      "eta": 8.999999999999999e-05,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 3.181930113566343e-08,
+      "error": 3.925082365237194e-25,
+      "error_over_kappa_eta_e_s2": 4.111846400504292e-15,
+      "Bessel_tail_bound": 6.156946782645574e-73
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 9.545409985995259e-07,
+      "error": 1.801713458068376e-18,
+      "error_over_kappa_eta_e_s2": 2.0972423869014843e-10,
+      "Bessel_tail_bound": 4.0845057106348375e-69
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 2.8637681109577044e-07,
+      "error": 1.3052312748539177e-19,
+      "error_over_kappa_eta_e_s2": 5.0641564395900484e-11,
+      "Bessel_tail_bound": 1.9550000294344573e-76
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 9.545936230125149e-08,
+      "error": 4.0499280729627374e-21,
+      "error_over_kappa_eta_e_s2": 4.71396411267532e-12,
+      "Bessel_tail_bound": 4.0876728282788216e-83
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 9.537443682537582e-07,
+      "error": 1.8005331353045415e-16,
+      "error_over_kappa_eta_e_s2": 2.0976190677000298e-08,
+      "Bessel_tail_bound": 1.0835732555395692e-60
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 2.8635528355008153e-07,
+      "error": 1.3081353746502797e-17,
+      "error_over_kappa_eta_e_s2": 5.075805592241563e-09,
+      "Bessel_tail_bound": 5.242360888446587e-68
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 9.545856492436924e-08,
+      "error": 4.0599665650789973e-19,
+      "error_over_kappa_eta_e_s2": 4.725688014242578e-10,
+      "Bessel_tail_bound": 1.0971483587769807e-74
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 9.411767105173412e-07,
+      "error": 1.3409396893008006e-20,
+      "error_over_kappa_eta_e_s2": 1.5830533963096284e-12,
+      "Bessel_tail_bound": 2.4113740347504097e-52
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 2.860112823927072e-07,
+      "error": 1.019760126048737e-21,
+      "error_over_kappa_eta_e_s2": 3.961615769985828e-13,
+      "Bessel_tail_bound": 1.3835421125536624e-59
+    },
+    {
+      "s": 0.03,
+      "b": 0.3,
+      "eta": 0.00026999999999999995,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 9.544580870539752e-08,
+      "error": 3.177791095436811e-23,
+      "error_over_kappa_eta_e_s2": 3.6993546839004534e-14,
+      "Bessel_tail_bound": 2.9395922501034033e-66
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 1.060653608984394e-06,
+      "error": 2.224760965805543e-20,
+      "error_over_kappa_eta_e_s2": 2.330597480396823e-11,
+      "Bessel_tail_bound": 8.545637933801015e-76
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 3.1819787433749297e-07,
+      "error": 1.6114283653449556e-21,
+      "error_over_kappa_eta_e_s2": 5.626926217600522e-12,
+      "Bessel_tail_bound": 4.087672828278847e-83
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 1.0606601061514749e-07,
+      "error": 4.999934652205334e-23,
+      "error_over_kappa_eta_e_s2": 5.237759876773784e-13,
+      "Bessel_tail_bound": 8.546365404645487e-90
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 1.0605551768157233e-06,
+      "error": 2.2295557924936583e-18,
+      "error_over_kappa_eta_e_s2": 2.3358371804094105e-09,
+      "Bessel_tail_bound": 2.2909550127620686e-67
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 3.181952164145644e-07,
+      "error": 1.6154180393574345e-19,
+      "error_over_kappa_eta_e_s2": 5.640904828314118e-10,
+      "Bessel_tail_bound": 1.0971483587769845e-74
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 1.0606591217272907e-07,
+      "error": 5.012454775952652e-21,
+      "error_over_kappa_eta_e_s2": 5.250880402021293e-11,
+      "Bessel_tail_bound": 2.294118531339392e-81
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 1.0589827427087061e-06,
+      "error": 1.7362020047642027e-22,
+      "error_over_kappa_eta_e_s2": 1.8216664548210984e-13,
+      "Bessel_tail_bound": 6.02216613266519e-59
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 3.1815269568465854e-07,
+      "error": 1.2644096887478142e-23,
+      "error_over_kappa_eta_e_s2": 4.415803082041851e-14,
+      "Bessel_tail_bound": 2.9395922501034123e-66
+    },
+    {
+      "s": 0.1,
+      "b": 0.03,
+      "eta": 0.00030000000000000003,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 1.0606433711887809e-07,
+      "error": 3.925082365237194e-25,
+      "error_over_kappa_eta_e_s2": 4.111846400504292e-15,
+      "Bessel_tail_bound": 6.156946782645545e-73
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 3.535290854544526e-06,
+      "error": 2.745967670161202e-18,
+      "error_over_kappa_eta_e_s2": 2.589101135890352e-10,
+      "Bessel_tail_bound": 1.7851075978046648e-68
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 1.060653608984394e-06,
+      "error": 1.989375303914023e-19,
+      "error_over_kappa_eta_e_s2": 6.252042096379e-11,
+      "Bessel_tail_bound": 8.545637933801015e-76
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 3.5355314752546686e-07,
+      "error": 6.1727442013636826e-21,
+      "error_over_kappa_eta_e_s2": 5.8197230454760716e-12,
+      "Bessel_tail_bound": 1.786817584958327e-82
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 3.5316490912779726e-06,
+      "error": 2.7421272945015515e-16,
+      "error_over_kappa_eta_e_s2": 2.5881462395511077e-08,
+      "Bessel_tail_bound": 4.722607195637926e-60
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 1.0605551768157235e-06,
+      "error": 1.9936628251113526e-17,
+      "error_over_kappa_eta_e_s2": 6.2660980735808235e-09,
+      "Bessel_tail_bound": 2.290955012762073e-67
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 3.5354950154875027e-07,
+      "error": 6.187981135926174e-19,
+      "error_over_kappa_eta_e_s2": 5.834148739020754e-10,
+      "Bessel_tail_bound": 4.795760502444881e-74
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 3.4743845753542213e-06,
+      "error": 2.0184964324013896e-20,
+      "error_over_kappa_eta_e_s2": 1.936550573320455e-12,
+      "Bessel_tail_bound": 1.0061462979160012e-51
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 1.0589827427087063e-06,
+      "error": 1.5525071879501042e-21,
+      "error_over_kappa_eta_e_s2": 4.886787811666135e-13,
+      "Bessel_tail_bound": 6.02216613266519e-59
+    },
+    {
+      "s": 0.1,
+      "b": 0.1,
+      "eta": 0.0010000000000000002,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 3.534911761445941e-07,
+      "error": 4.842842031546923e-23,
+      "error_over_kappa_eta_e_s2": 4.5666788483625195e-14,
+      "Bessel_tail_bound": 1.284360702198078e-65
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 1.0600042929581748e-05,
+      "error": 2.2196063512210082e-16,
+      "error_over_kappa_eta_e_s2": 2.326621972682676e-09,
+      "Bessel_tail_bound": 8.472081719425219e-62
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 3.1818033285732956e-06,
+      "error": 1.6110918898194192e-17,
+      "error_over_kappa_eta_e_s2": 5.626061434167987e-10,
+      "Bessel_tail_bound": 4.084505710634847e-69
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 1.0606536089843937e-06,
+      "error": 4.999818636727314e-19,
+      "error_over_kappa_eta_e_s2": 5.23767042675463e-11,
+      "Bessel_tail_bound": 8.545637933800983e-76
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 1.0502625568459296e-05,
+      "error": 2.1487125033391474e-14,
+      "error_over_kappa_eta_e_s2": 2.2732014213791791e-07,
+      "Bessel_tail_bound": 1.9959584836265465e-53
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 3.179147894179195e-06,
+      "error": 1.6100319127798026e-15,
+      "error_over_kappa_eta_e_s2": 5.627056076279162e-08,
+      "Bessel_tail_bound": 1.0835732555395692e-60
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 1.0605551768157233e-06,
+      "error": 5.01059429496815e-17,
+      "error_over_kappa_eta_e_s2": 5.249445871477188e-09,
+      "Bessel_tail_bound": 2.29095501276206e-67
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 9.156225339844979e-06,
+      "error": 1.0024868731473152e-18,
+      "error_over_kappa_eta_e_s2": 1.2165212870524176e-11,
+      "Bessel_tail_bound": 7.711780971539475e-46
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 3.1372557017244712e-06,
+      "error": 1.1990646828735853e-19,
+      "error_over_kappa_eta_e_s2": 4.2466863359254805e-12,
+      "Bessel_tail_bound": 2.4113740347504097e-52
+    },
+    {
+      "s": 0.1,
+      "b": 0.3,
+      "eta": 0.003,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 1.0589827427087061e-06,
+      "error": 3.901855198812459e-21,
+      "error_over_kappa_eta_e_s2": 4.093923810559878e-13,
+      "Bessel_tail_bound": 6.022166132665179e-59
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 9.545409312343111e-06,
+      "error": 2.1156612394395344e-18,
+      "error_over_kappa_eta_e_s2": 2.462686128554645e-10,
+      "Bessel_tail_bound": 4.084505710634858e-69
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 2.8637680928478972e-06,
+      "error": 1.5326672531342623e-19,
+      "error_over_kappa_eta_e_s2": 5.946583519966866e-11,
+      "Bessel_tail_bound": 1.9550000294344613e-76
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 9.545936223426292e-07,
+      "error": 4.755626266826795e-21,
+      "error_over_kappa_eta_e_s2": 5.535370299662997e-12,
+      "Bessel_tail_bound": 4.087672828278828e-83
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 9.53744368104701e-06,
+      "error": 1.8005331372856604e-16,
+      "error_over_kappa_eta_e_s2": 2.0976190703358603e-08,
+      "Bessel_tail_bound": 1.0835732555395692e-60
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 2.8635528354887114e-06,
+      "error": 1.308135376089615e-17,
+      "error_over_kappa_eta_e_s2": 5.075805597847902e-09,
+      "Bessel_tail_bound": 5.242360888446587e-68
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 9.545856492435434e-07,
+      "error": 4.059966569546159e-19,
+      "error_over_kappa_eta_e_s2": 4.725688019442967e-10,
+      "Bessel_tail_bound": 1.0971483587769807e-74
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 9.411767105173411e-06,
+      "error": 1.3409396893008051e-20,
+      "error_over_kappa_eta_e_s2": 1.5830533963096336e-12,
+      "Bessel_tail_bound": 2.4113740347504164e-52
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 2.8601128239270716e-06,
+      "error": 1.0197601260487405e-21,
+      "error_over_kappa_eta_e_s2": 3.961615769985843e-13,
+      "Bessel_tail_bound": 1.3835421125536653e-59
+    },
+    {
+      "s": 0.3,
+      "b": 0.03,
+      "eta": 0.0026999999999999997,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 9.544580870539753e-07,
+      "error": 3.177791095436831e-23,
+      "error_over_kappa_eta_e_s2": 3.6993546839004774e-14,
+      "Bessel_tail_bound": 2.9395922501034075e-66
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 3.1800103532113594e-05,
+      "error": 2.6063644487760836e-16,
+      "error_over_kappa_eta_e_s2": 2.7320293115230746e-09,
+      "Bessel_tail_bound": 8.472081719425245e-62
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 9.545409312343111e-06,
+      "error": 1.8918186204625356e-17,
+      "error_over_kappa_eta_e_s2": 6.606382043831396e-10,
+      "Bessel_tail_bound": 4.084505710634858e-69
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 3.1819608021096316e-06,
+      "error": 5.871018317246035e-19,
+      "error_over_kappa_eta_e_s2": 6.150314939301543e-11,
+      "Bessel_tail_bound": 8.545637933800999e-76
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 3.1507876526302775e-05,
+      "error": 2.1487125057033658e-14,
+      "error_over_kappa_eta_e_s2": 2.2732014368001186e-07,
+      "Bessel_tail_bound": 1.9959584836265527e-53
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 9.53744368104701e-06,
+      "error": 1.6100319145513142e-15,
+      "error_over_kappa_eta_e_s2": 5.6270560833500226e-08,
+      "Bessel_tail_bound": 1.0835732555395692e-60
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 3.181665530428723e-06,
+      "error": 5.010594300481285e-17,
+      "error_over_kappa_eta_e_s2": 5.249445877283564e-09,
+      "Bessel_tail_bound": 2.29095501276206e-67
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 2.7468676019534932e-05,
+      "error": 1.0024868731473185e-18,
+      "error_over_kappa_eta_e_s2": 1.2165212870524215e-11,
+      "Bessel_tail_bound": 7.711780971539475e-46
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 9.411767105173411e-06,
+      "error": 1.1990646828735894e-19,
+      "error_over_kappa_eta_e_s2": 4.246686335925496e-12,
+      "Bessel_tail_bound": 2.4113740347504164e-52
+    },
+    {
+      "s": 0.3,
+      "b": 0.1,
+      "eta": 0.009,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 3.176948228126118e-06,
+      "error": 3.901855198812469e-21,
+      "error_over_kappa_eta_e_s2": 4.0939238105598893e-13,
+      "Bessel_tail_bound": 6.022166132665156e-59
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 9.493006536129145e-05,
+      "error": 9.112005626165175e-13,
+      "error_over_kappa_eta_e_s2": 1.0665167728692427e-06,
+      "Bessel_tail_bound": 3.779168936913982e-55
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 2.8623460504838937e-05,
+      "error": 1.5297900648380277e-15,
+      "error_over_kappa_eta_e_s2": 5.9383691165558605e-09,
+      "Bessel_tail_bound": 1.9413603124287552e-62
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 9.545409312343111e-06,
+      "error": 4.754633264666855e-17,
+      "error_over_kappa_eta_e_s2": 5.534519973699315e-10,
+      "Bessel_tail_bound": 4.084505710634858e-69
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 8.764971553125531e-05,
+      "error": 1.903700336065003e-12,
+      "error_over_kappa_eta_e_s2": 2.4132680668809547e-06,
+      "Bessel_tail_bound": 3.2842122957027095e-47
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 2.841000441576681e-05,
+      "error": 1.2695431618422455e-13,
+      "error_over_kappa_eta_e_s2": 4.965164709285305e-07,
+      "Bessel_tail_bound": 4.688051398992785e-54
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 9.53744368104701e-06,
+      "error": 4.0464298296362694e-15,
+      "error_over_kappa_eta_e_s2": 4.7140861790616944e-08,
+      "Bessel_tail_bound": 1.0835732555395692e-60
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 3.9352920680391455e-05,
+      "error": 1.5219911014001056e-13,
+      "error_over_kappa_eta_e_s2": 4.2972699218752713e-07,
+      "Bessel_tail_bound": 1.1113591738840666e-43
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 2.5381251908447826e-05,
+      "error": 6.494387784670871e-18,
+      "error_over_kappa_eta_e_s2": 2.843038024066232e-11,
+      "Bessel_tail_bound": 2.558631695373708e-46
+    },
+    {
+      "s": 0.3,
+      "b": 0.3,
+      "eta": 0.027,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 9.411767105173411e-06,
+      "error": 3.0135620645726076e-19,
+      "error_over_kappa_eta_e_s2": 3.557676530403129e-12,
+      "Bessel_tail_bound": 2.4113740347504164e-52
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 5.195653380873371e-05,
+      "error": 8.211962517606909e-17,
+      "error_over_kappa_eta_e_s2": 1.7561607998967843e-09,
+      "Bessel_tail_bound": 5.771618957354156e-64
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 1.559127741987748e-05,
+      "error": 5.954141467147471e-18,
+      "error_over_kappa_eta_e_s2": 4.243214050466787e-10,
+      "Bessel_tail_bound": 2.771314610506706e-71
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 5.197219022700064e-06,
+      "error": 1.8476153432208696e-19,
+      "error_over_kappa_eta_e_s2": 3.950008510215815e-11,
+      "Bessel_tail_bound": 5.796104563372783e-78
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 5.172141670887173e-05,
+      "error": 5.678500031828335e-15,
+      "error_over_kappa_eta_e_s2": 1.2198901115419383e-07,
+      "Bessel_tail_bound": 1.4530974347934333e-55
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 1.5584899655302474e-05,
+      "error": 4.182097784846338e-16,
+      "error_over_kappa_eta_e_s2": 2.981588216331538e-08,
+      "Bessel_tail_bound": 7.396344368887984e-63
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 5.1969827136316145e-06,
+      "error": 1.2995259651652159e-17,
+      "error_over_kappa_eta_e_s2": 2.7783770288192136e-09,
+      "Bessel_tail_bound": 1.554885142806877e-69
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 4.822896761906066e-05,
+      "error": 3.1609907304054325e-19,
+      "error_over_kappa_eta_e_s2": 7.282370110872195e-12,
+      "Bessel_tail_bound": 1.4520911636125269e-47
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 1.548354503533205e-05,
+      "error": 2.958451423538147e-20,
+      "error_over_kappa_eta_e_s2": 2.1230075159627194e-12,
+      "Bessel_tail_bound": 1.8105286561204858e-54
+    },
+    {
+      "s": 0.7,
+      "b": 0.03,
+      "eta": 0.014699999999999998,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 5.193204083960084e-06,
+      "error": 9.397030791358503e-22,
+      "error_over_kappa_eta_e_s2": 2.010540151114139e-13,
+      "Bessel_tail_bound": 4.1312099665182005e-61
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 0.00017265719813978222,
+      "error": 1.0544798574053222e-14,
+      "error_over_kappa_eta_e_s2": 2.0357870369077068e-08,
+      "Bessel_tail_bound": 1.1556319823535795e-56
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 5.195653380873371e-05,
+      "error": 7.343114914495819e-16,
+      "error_over_kappa_eta_e_s2": 4.711062867490895e-09,
+      "Bessel_tail_bound": 5.771618957354156e-64
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 1.732353026404378e-05,
+      "error": 2.2807417399491455e-17,
+      "error_over_kappa_eta_e_s2": 4.388523788523996e-10,
+      "Bessel_tail_bound": 1.211299561294464e-70
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 0.00016437922834413392,
+      "error": 5.857892908637075e-13,
+      "error_over_kappa_eta_e_s2": 1.1878818201152446e-06,
+      "Bessel_tail_bound": 1.5489271632325973e-48
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 5.172141670887173e-05,
+      "error": 5.0776995372642087e-14,
+      "error_over_kappa_eta_e_s2": 3.2724674228250175e-07,
+      "Bessel_tail_bound": 1.4530974347934333e-55
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 1.7314782556026474e-05,
+      "error": 1.6013758890954252e-15,
+      "error_over_kappa_eta_e_s2": 3.0828684178076504e-08,
+      "Bessel_tail_bound": 3.228449705793159e-62
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 9.301736546770347e-05,
+      "error": 1.8612447681738223e-16,
+      "error_over_kappa_eta_e_s2": 6.669882764418022e-10,
+      "Bessel_tail_bound": 1.3548701635350646e-43
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 4.822896761906066e-05,
+      "error": 2.8265494548052748e-18,
+      "error_over_kappa_eta_e_s2": 1.9535627613753778e-11,
+      "Bessel_tail_bound": 1.4520911636125269e-47
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "eta": 0.048999999999999995,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 1.71759902054272e-05,
+      "error": 1.1263104834850863e-19,
+      "error_over_kappa_eta_e_s2": 2.1858234857966623e-12,
+      "Bessel_tail_bound": 7.734431774298706e-54
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 0.25,
+      "k_eta": 0.3,
+      "e": 0.0005044824397275072,
+      "error": 7.527179884318662e-09,
+      "error_over_kappa_eta_e_s2": 0.0016578442669512971,
+      "Bessel_tail_bound": 3.8001025824592996e-50
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 0.25,
+      "k_eta": 1.0,
+      "e": 0.0001554910667106797,
+      "error": 5.899839248101873e-14,
+      "error_over_kappa_eta_e_s2": 4.215918689742429e-08,
+      "Bessel_tail_bound": 2.667668640607578e-57
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 0.25,
+      "k_eta": 3.0,
+      "e": 5.195653380873372e-05,
+      "error": 1.8455161642397293e-15,
+      "error_over_kappa_eta_e_s2": 3.9467096157157945e-09,
+      "Bessel_tail_bound": 5.771618957354169e-64
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 1.0,
+      "k_eta": 0.3,
+      "e": 0.00035038532694952956,
+      "error": 3.6724960056769056e-09,
+      "error_over_kappa_eta_e_s2": 0.0011645896113699297,
+      "Bessel_tail_bound": 5.855069753202826e-44
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 1.0,
+      "k_eta": 1.0,
+      "e": 0.0001493933675553048,
+      "error": 3.5635607951809866e-12,
+      "error_over_kappa_eta_e_s2": 2.6503934273921136e-06,
+      "Bessel_tail_bound": 4.067826517767437e-49
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 1.0,
+      "k_eta": 3.0,
+      "e": 5.172141670887174e-05,
+      "error": 1.2761582356112566e-13,
+      "error_over_kappa_eta_e_s2": 2.7415211828109065e-07,
+      "Bessel_tail_bound": 1.4530974347934365e-55
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 4.0,
+      "k_eta": 0.3,
+      "e": 5.930421810456264e-05,
+      "error": 1.0175463831401414e-10,
+      "error_over_kappa_eta_e_s2": 0.00019064530795844857,
+      "Bessel_tail_bound": 2.347461321256588e-46
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 4.0,
+      "k_eta": 1.0,
+      "e": 9.179217594996115e-05,
+      "error": 6.269971056973641e-17,
+      "error_over_kappa_eta_e_s2": 7.58957333307604e-11,
+      "Bessel_tail_bound": 1.133454718905343e-43
+    },
+    {
+      "s": 0.7,
+      "b": 0.3,
+      "eta": 0.147,
+      "lambda_s": 4.0,
+      "k_eta": 3.0,
+      "e": 4.822896761906067e-05,
+      "error": 7.10385547360631e-18,
+      "error_over_kappa_eta_e_s2": 1.6366041277922724e-11,
+      "Bessel_tail_bound": 1.4520911636125303e-47
+    }
+  ],
+  "quadratic_exact_formula_cases": [
+    {
+      "s": 0.05,
+      "b": 0.02,
+      "regime": "k_s_one",
+      "normalized_error": 7.964821548406746e-06
+    },
+    {
+      "s": 0.05,
+      "b": 0.02,
+      "regime": "k_eta_one",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.05,
+      "b": 0.02,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.05,
+      "b": 0.1,
+      "regime": "k_s_one",
+      "normalized_error": 3.982386879836297e-05
+    },
+    {
+      "s": 0.05,
+      "b": 0.1,
+      "regime": "k_eta_one",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.05,
+      "b": 0.1,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.05,
+      "b": 0.4,
+      "regime": "k_s_one",
+      "normalized_error": 0.00015928054220709019
+    },
+    {
+      "s": 0.05,
+      "b": 0.4,
+      "regime": "k_eta_one",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.05,
+      "b": 0.4,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.2,
+      "b": 0.02,
+      "regime": "k_s_one",
+      "normalized_error": 3.1859166721612394e-05
+    },
+    {
+      "s": 0.2,
+      "b": 0.02,
+      "regime": "k_eta_one",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.2,
+      "b": 0.02,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.2,
+      "b": 0.1,
+      "regime": "k_s_one",
+      "normalized_error": 0.00015928054220709019
+    },
+    {
+      "s": 0.2,
+      "b": 0.1,
+      "regime": "k_eta_one",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.2,
+      "b": 0.1,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.2,
+      "b": 0.4,
+      "regime": "k_s_one",
+      "normalized_error": 0.0006361674723504062
+    },
+    {
+      "s": 0.2,
+      "b": 0.4,
+      "regime": "k_eta_one",
+      "normalized_error": 3.6873873530157022e-68
+    },
+    {
+      "s": 0.2,
+      "b": 0.4,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.7,
+      "b": 0.02,
+      "regime": "k_s_one",
+      "normalized_error": 0.00012145073005605704
+    },
+    {
+      "s": 0.7,
+      "b": 0.02,
+      "regime": "k_eta_one",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.7,
+      "b": 0.02,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "regime": "k_s_one",
+      "normalized_error": 0.0006065400911870724
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "regime": "k_eta_one",
+      "normalized_error": 8.122477820457006e-89
+    },
+    {
+      "s": 0.7,
+      "b": 0.1,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    },
+    {
+      "s": 0.7,
+      "b": 0.4,
+      "regime": "k_s_one",
+      "normalized_error": 0.0023821386737887295
+    },
+    {
+      "s": 0.7,
+      "b": 0.4,
+      "regime": "k_eta_one",
+      "normalized_error": 6.275163386842263e-07
+    },
+    {
+      "s": 0.7,
+      "b": 0.4,
+      "regime": "k_eta_ten",
+      "normalized_error": 0.0
+    }
+  ],
+  "clock_cases": [
+    {
+      "delta": 0.2,
+      "nodes": 78,
+      "panels": 13,
+      "M": 6,
+      "s_min": 0.02541445645758881,
+      "sum_w": 0.9933991723759653,
+      "sum_w_over_s2": 7.3720774324167975,
+      "sum_sqrtw_over_s2": 225.66228074337738,
+      "path_times_smin_over_sqrtM": 2.3413383236119967
+    },
+    {
+      "delta": 0.1,
+      "nodes": 90,
+      "panels": 15,
+      "M": 6,
+      "s_min": 0.012708767627512113,
+      "sum_w": 0.9938677393105445,
+      "sum_w_over_s2": 8.758137432448644,
+      "sum_sqrtw_over_s2": 454.57835417410735,
+      "path_times_smin_over_sqrtM": 2.35850372050609
+    },
+    {
+      "delta": 0.03,
+      "nodes": 133,
+      "panels": 19,
+      "M": 7,
+      "s_min": 0.003797397927371995,
+      "sum_w": 0.9993578305838142,
+      "sum_w_over_s2": 11.171377604505814,
+      "sum_sqrtw_over_s2": 1641.1573755866982,
+      "path_times_smin_over_sqrtM": 2.355522830313376
+    },
+    {
+      "delta": 0.01,
+      "nodes": 184,
+      "panels": 23,
+      "M": 8,
+      "s_min": 0.0012623479234954692,
+      "sum_w": 0.9999964069432908,
+      "sum_w_over_s2": 13.36922220601233,
+      "sum_sqrtw_over_s2": 5260.482076065882,
+      "path_times_smin_over_sqrtM": 2.3477920174106637
+    },
+    {
+      "delta": 0.003,
+      "nodes": 234,
+      "panels": 26,
+      "M": 9,
+      "s_min": 0.00037797317755972764,
+      "sum_w": 0.9999201548341989,
+      "sum_w_over_s2": 15.77708942658239,
+      "sum_sqrtw_over_s2": 18577.168285612188,
+      "path_times_smin_over_sqrtM": 2.3405571089915456
+    }
+  ],
+  "invalid_raw_mark_ratio": 869.4526209568564,
+  "invalid_retained_ancestor_loss": 0.1967346701436833,
+  "source_sha256": {
+    "p-shear-heat/NONLINEAR-SHEAR-CONDITIONAL-HEAT-CANDIDATE.md": "81c01db6986b0f86fe7315b07928fbb7a3ad3d8c42487a3d371141bf24de34fd",
+    "r-true-orientation/POSITIVE-COMMON-INPUT-ORIENTATION-CLOCK.md": "67ca0e5c2df108bdc7a7ddf1f00918274241c3c57b665d691aa3d75a59b68bc4",
+    "p-shear-heat/FULL-SQUARE-SHEAR-SOURCE-GENEALOGY-AND-COST.md": "a6542cddd67a9ecec004b764291569d431f9b0a0621a2f6d058382f64a3b62f6"
+  },
+  "scope": "Coefficient-transfer audit only. Fourier truncation diagnostics have explicit tail bounds; executable retained-host closure is not inferred."
+}

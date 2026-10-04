@@ -1,0 +1,5 @@
+{
+  "checks": 2400,
+  "max_relative_or_algebra_residual": 7.575801869934156e-13,
+  "scope": "Exact fork covariance, full-square wedge, Price/Riesz coefficient, and rational exponent guards. Source admission and retained-host return are not inferred from these tests."
+}

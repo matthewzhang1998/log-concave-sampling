@@ -1,0 +1,8 @@
+{
+  "checks": 14400,
+  "max_relative_product_error": 0.08108712275125957,
+  "min_fixed_Q_pairing": 0.0722037208502108,
+  "max_common_readout_residual": 8.179129209738071e-16,
+  "max_gradient_first_multiplier": 8.131330840206303,
+  "scope": "Exact deterministic matrix diagnostics for the analytical rank-aware energy bound and projected-gradient offspring. No sample-estimated Gaussian lower bound is used."
+}

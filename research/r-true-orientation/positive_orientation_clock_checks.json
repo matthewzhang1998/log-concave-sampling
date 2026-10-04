@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "checks": 42701,
+  "rows": [
+    {
+      "delta": 0.25,
+      "panels": 13,
+      "gauss_degree": 6,
+      "nodes": 78,
+      "max_spectral_error": 0.01994289620751586,
+      "rounded_max_error": 0.01994341457890019,
+      "weight_mass": 0.9986884515204099,
+      "root_square_mass": 6.931624519452845,
+      "caller_mass": 21.679291279482
+    },
+    {
+      "delta": 0.1,
+      "panels": 15,
+      "gauss_degree": 6,
+      "nodes": 90,
+      "max_spectral_error": 0.007977103000599894,
+      "rounded_max_error": 0.007977092665136975,
+      "weight_mass": 0.9938677393105447,
+      "root_square_mass": 8.758137432448644,
+      "caller_mass": 26.818970527960666
+    },
+    {
+      "delta": 0.03,
+      "panels": 19,
+      "gauss_degree": 7,
+      "nodes": 133,
+      "max_spectral_error": 0.002393147190765805,
+      "rounded_max_error": 0.002393148352315102,
+      "weight_mass": 0.9993578305838142,
+      "root_square_mass": 11.171377604505816,
+      "caller_mass": 36.4922446564151
+    },
+    {
+      "delta": 0.01,
+      "panels": 23,
+      "gauss_degree": 8,
+      "nodes": 184,
+      "max_spectral_error": 0.0007977143645837484,
+      "rounded_max_error": 0.000797714592923185,
+      "weight_mass": 0.9999964069432911,
+      "root_square_mass": 13.36922220601233,
+      "caller_mass": 46.25322167498325
+    },
+    {
+      "delta": 0.003,
+      "panels": 26,
+      "gauss_degree": 9,
+      "nodes": 234,
+      "max_spectral_error": 0.00023931197898772644,
+      "rounded_max_error": 0.00023931199504670958,
+      "weight_mass": 0.9999201548341986,
+      "root_square_mass": 15.777089426582386,
+      "caller_mass": 57.39404305520412
+    },
+    {
+      "delta": 0.001,
+      "panels": 30,
+      "gauss_degree": 10,
+      "nodes": 300,
+      "max_spectral_error": 7.9771371931597e-05,
+      "rounded_max_error": 7.977137599872119e-05,
+      "weight_mass": 0.9999999326443816,
+      "root_square_mass": 17.974393597405808,
+      "caller_mass": 68.53242457432114
+    },
+    {
+      "delta": 1e-05,
+      "panels": 44,
+      "gauss_degree": 13,
+      "nodes": 572,
+      "max_spectral_error": 7.977155360790486e-07,
+      "rounded_max_error": 7.977155360029481e-07,
+      "weight_mass": 0.9999999999972836,
+      "root_square_mass": 27.184734013299757,
+      "caller_mass": 116.48170500016035
+    }
+  ],
+  "scope": "New positive scalar spectral clock checks and positive within-panel rounding. Exact Gaussian chaos factorization is proved in the source; native coefficient and root-observer admission are separate."
+}
