@@ -71,6 +71,15 @@ def main():
             raise RuntimeError('V11 original source mapping mismatch: '+item['path'])
         if ROOT in path.parents:
             expected.add(str(path.relative_to(ROOT)))
+    # V12 additions are admitted only by the explicit frozen selection.
+    admission = json.loads((ARCHIVE/'verification/V12-FROZEN-SELECTION.json').read_text())
+    for item in admission['files']:
+        path = ARCHIVE/item['path']; entry = entries[item['path']]
+        if sha(path) != entry['sha256'] or path.stat().st_size != entry['bytes']:
+            raise RuntimeError('V12 publication integrity mismatch: '+item['path'])
+        if entry['original_sha256'] != item['original_sha256']:
+            raise RuntimeError('V12 original source mapping mismatch: '+item['path'])
+        if ROOT in path.parents: expected.add(str(path.relative_to(ROOT)))
     if actual != expected:
         raise RuntimeError('Frozen package file-set mismatch')
     dependencies = []

@@ -1,0 +1,71 @@
+{
+  "status": "Scalar diagnostic PASS; analytical source proof and independent audit remain distinct",
+  "c": 0.5,
+  "d": 0.25,
+  "bump_normalization": 0.8879876323361587,
+  "bump_supremum": 0.4142844199345527,
+  "minimum_beta": 0.5833333333333334,
+  "minimum_covariance_gap": 0.09027777777777785,
+  "h_H": 0.03125,
+  "h_Q_min": 0.04253472222222223,
+  "h_Q_continuous_common_root": 0.07710628438351061,
+  "m_0": 0.35550641501885816,
+  "m_hH": 0.35539193276536984,
+  "m_hQ_min": 0.35529433701153207,
+  "uniform_limiting_shell_witness": 1.8145100150926317e-06,
+  "uniform_kappa_quadrature_error_estimate": 2.01451079716878e-20,
+  "continuous_clock_limiting_shell_witness": 1.6717362757990184e-05,
+  "proven_lower_constant_c_star": 5.670343797164474e-08,
+  "dimensions": [
+    {
+      "D": 256,
+      "A": 0.25,
+      "R": 16.0,
+      "R0": 15.0,
+      "radial_inflation_scale": 1.0,
+      "fourth_order_allowance": 0.0625,
+      "asymptotic_counterexample_scale": 0.25,
+      "scale_ratio": 4.0,
+      "exact_gaussian_proxy_difference_bound": 0.03125
+    },
+    {
+      "D": 4096,
+      "A": 0.125,
+      "R": 64.0,
+      "R0": 62.0,
+      "radial_inflation_scale": 1.0,
+      "fourth_order_allowance": 0.015625,
+      "asymptotic_counterexample_scale": 0.125,
+      "scale_ratio": 8.0,
+      "exact_gaussian_proxy_difference_bound": 0.0078125
+    },
+    {
+      "D": 65536,
+      "A": 0.0625,
+      "R": 256.0,
+      "R0": 252.0,
+      "radial_inflation_scale": 1.0,
+      "fourth_order_allowance": 0.00390625,
+      "asymptotic_counterexample_scale": 0.0625,
+      "scale_ratio": 16.0,
+      "exact_gaussian_proxy_difference_bound": 0.001953125
+    },
+    {
+      "D": 1048576,
+      "A": 0.03125,
+      "R": 1024.0,
+      "R0": 1016.0,
+      "radial_inflation_scale": 1.0,
+      "fourth_order_allowance": 0.0009765625,
+      "asymptotic_counterexample_scale": 0.03125,
+      "scale_ratio": 32.0,
+      "exact_gaussian_proxy_difference_bound": 0.00048828125
+    }
+  ],
+  "exclusions": [
+    "No OU path grid",
+    "No numerical proof of the source estimates",
+    "No generic trace/Hodge estimate",
+    "No general finite mean consumer"
+  ]
+}

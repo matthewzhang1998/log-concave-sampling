@@ -1,0 +1,251 @@
+{
+  "status": "PASS: independent diagnostics; analytical verdict in accompanying report",
+  "assertions": 723,
+  "input_pins": {
+    "RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md": "c6024a6ba2ca4fbb293063d0746ee92fa083398a3bf4c01fb4de1908f322dfaf",
+    "check_centered_radial_inflation_constants.py": "555c6a5bca6d4503bd41b04090254846b58c66c72972336b5e257da2ac495f8f",
+    "centered_radial_inflation_constants.json": "0f748a70f15987be389c155c787b904edbbd3ef3424dcac1c73a488e4f7646b0",
+    "SINGLE-HISTORY-EXACT-CENTERED-RESUMMED-CURRENT.md": "276d5873cc7d3f5ca8650955c08abe128cec7eda96680319f5c2a00b45118e9a",
+    "../../../ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+  },
+  "bump_normalization": 0.8879876323361586,
+  "bump_maximum": 0.41428441993455273,
+  "max_sampled_HS_to_vector_D2f_norm": 0.46880818784109585,
+  "finite_rules": [
+    {
+      "D": 256,
+      "A": 0.25,
+      "nodes": 25,
+      "certificate": 0.0625,
+      "beta": 0.78551038165629,
+      "shared_variance": 0.6170265596898102,
+      "incorrect_independent_variance": 0.07493721817930542
+    },
+    {
+      "D": 4096,
+      "A": 0.125,
+      "nodes": 41,
+      "certificate": 0.015625,
+      "beta": 0.7854121419969633,
+      "shared_variance": 0.616872232796258,
+      "incorrect_independent_variance": 0.061328272539600534
+    },
+    {
+      "D": 65536,
+      "A": 0.0625,
+      "nodes": 61,
+      "certificate": 0.00390625,
+      "beta": 0.7853999092228479,
+      "shared_variance": 0.6168530174072576,
+      "incorrect_independent_variance": 0.051921164876759934
+    }
+  ],
+  "largest_literal_source_decomposition_error": 6.945089780060476e-16,
+  "largest_literal_terminal_error": 3.745801401495556e-16,
+  "largest_pointwise_proxy_error_over_dA2": 0.49565063204217896,
+  "uniform_limiting_kappa": 1.8145100150935224e-06,
+  "lower_bound_c_star": 5.6703437971672573e-08,
+  "witnesses": [
+    {
+      "beta": 0.5833333333333334,
+      "hH": 0.03125,
+      "h_beta": 0.04253472222222223,
+      "mean_q": 1.8145100150935224e-06,
+      "direct_mean_q": 1.81451001508761e-06,
+      "leading_resolvent_coefficient": 2.268137518866903e-07
+    },
+    {
+      "beta": 0.6666666666666666,
+      "hH": 0.03125,
+      "h_beta": 0.05555555555555555,
+      "mean_q": 5.507335443697584e-06,
+      "direct_mean_q": 5.5073354436573074e-06,
+      "leading_resolvent_coefficient": 6.88416930462198e-07
+    },
+    {
+      "beta": 0.7853981633974483,
+      "hH": 0.03125,
+      "h_beta": 0.07710628438351061,
+      "mean_q": 1.6717362757993328e-05,
+      "direct_mean_q": 1.671736275804525e-05,
+      "leading_resolvent_coefficient": 2.089670344749166e-06
+    },
+    {
+      "beta": 1.0,
+      "hH": 0.03125,
+      "h_beta": 0.125,
+      "mean_q": 7.507621035488139e-05,
+      "direct_mean_q": 7.507621035483109e-05,
+      "leading_resolvent_coefficient": 9.384526294360174e-06
+    }
+  ],
+  "exact_radial_geometry_diagnostics": [
+    {
+      "D": 4096,
+      "A": 0.125,
+      "sigma": 0.0,
+      "radial_residual_l2": 0.02209301077239915,
+      "radial_residual_over_A": 0.1767440861791932,
+      "direction_l2_over_A": 0.0,
+      "Euclidean_noise_rms": 0.0,
+      "limiting_radial_inflation": 0.0
+    },
+    {
+      "D": 4096,
+      "A": 0.125,
+      "sigma": 0.5,
+      "radial_residual_l2": 0.03852257524823418,
+      "radial_residual_over_A": 0.30818060198587344,
+      "direction_l2_over_A": 0.25799173678969506,
+      "Euclidean_noise_rms": 2.0,
+      "limiting_radial_inflation": 0.03125
+    },
+    {
+      "D": 4096,
+      "A": 0.125,
+      "sigma": 0.7853981633974483,
+      "radial_residual_l2": 0.054221807936657936,
+      "radial_residual_over_A": 0.4337744634932635,
+      "direction_l2_over_A": 0.40502106584460357,
+      "Euclidean_noise_rms": 3.141592653589793,
+      "limiting_radial_inflation": 0.07710628438351061
+    },
+    {
+      "D": 4096,
+      "A": 0.125,
+      "sigma": 1.0,
+      "radial_residual_l2": 0.0667969385347972,
+      "radial_residual_over_A": 0.5343755082783777,
+      "direction_l2_over_A": 0.5153816377208784,
+      "Euclidean_noise_rms": 4.0,
+      "limiting_radial_inflation": 0.125
+    },
+    {
+      "D": 1048576,
+      "A": 0.03125,
+      "sigma": 0.0,
+      "radial_residual_l2": 0.00552134925124627,
+      "radial_residual_over_A": 0.17668317603988065,
+      "direction_l2_over_A": 0.0,
+      "Euclidean_noise_rms": 0.0,
+      "limiting_radial_inflation": 0.0
+    },
+    {
+      "D": 1048576,
+      "A": 0.03125,
+      "sigma": 0.5,
+      "radial_residual_l2": 0.009566391660077053,
+      "radial_residual_over_A": 0.3061245331224657,
+      "direction_l2_over_A": 0.25196485182858935,
+      "Euclidean_noise_rms": 8.0,
+      "limiting_radial_inflation": 0.03125
+    },
+    {
+      "D": 1048576,
+      "A": 0.03125,
+      "sigma": 0.7853981633974483,
+      "radial_residual_l2": 0.013492534904218255,
+      "radial_residual_over_A": 0.43176111693498415,
+      "direction_l2_over_A": 0.39577196179976687,
+      "Euclidean_noise_rms": 12.566370614359172,
+      "limiting_radial_inflation": 0.07710628438351061
+    },
+    {
+      "D": 1048576,
+      "A": 0.03125,
+      "sigma": 1.0,
+      "radial_residual_l2": 0.016643547854554713,
+      "radial_residual_over_A": 0.5325935313457508,
+      "direction_l2_over_A": 0.5038945596729049,
+      "Euclidean_noise_rms": 16.0,
+      "limiting_radial_inflation": 0.125
+    },
+    {
+      "D": 268435456,
+      "A": 0.0078125,
+      "sigma": 0.0,
+      "radial_residual_l2": 0.001379495270355205,
+      "radial_residual_over_A": 0.17657539460546623,
+      "direction_l2_over_A": 0.0,
+      "Euclidean_noise_rms": 0.0,
+      "limiting_radial_inflation": 0.0
+    },
+    {
+      "D": 268435456,
+      "A": 0.0078125,
+      "sigma": 0.5,
+      "radial_residual_l2": 0.0023779674647774235,
+      "radial_residual_over_A": 0.3043798354915102,
+      "direction_l2_over_A": 0.2504890014553246,
+      "Euclidean_noise_rms": 32.0,
+      "limiting_radial_inflation": 0.03125
+    },
+    {
+      "D": 268435456,
+      "A": 0.0078125,
+      "sigma": 0.7853981633974483,
+      "radial_residual_l2": 0.0033494059982100604,
+      "radial_residual_over_A": 0.4287239677708877,
+      "direction_l2_over_A": 0.3934663742817541,
+      "Euclidean_noise_rms": 50.26548245743669,
+      "limiting_radial_inflation": 0.07710628438351061
+    },
+    {
+      "D": 268435456,
+      "A": 0.0078125,
+      "sigma": 1.0,
+      "radial_residual_l2": 0.004129694544555647,
+      "radial_residual_over_A": 0.5286009017031228,
+      "direction_l2_over_A": 0.5009758446883098,
+      "Euclidean_noise_rms": 64.0,
+      "limiting_radial_inflation": 0.125
+    },
+    {
+      "D": 68719476736,
+      "A": 0.001953125,
+      "sigma": 0.0,
+      "radial_residual_l2": 0.00034677995280409324,
+      "radial_residual_over_A": 0.17755133583569574,
+      "direction_l2_over_A": 0.0,
+      "Euclidean_noise_rms": 0.0,
+      "limiting_radial_inflation": 0.0
+    },
+    {
+      "D": 68719476736,
+      "A": 0.001953125,
+      "sigma": 0.5,
+      "radial_residual_l2": 0.0006010371777359698,
+      "radial_residual_over_A": 0.30773103500081656,
+      "direction_l2_over_A": 0.2501221131641552,
+      "Euclidean_noise_rms": 128.0,
+      "limiting_radial_inflation": 0.03125
+    },
+    {
+      "D": 68719476736,
+      "A": 0.001953125,
+      "sigma": 0.7853981633974483,
+      "radial_residual_l2": 0.0008452101707025058,
+      "radial_residual_over_A": 0.432747607399683,
+      "direction_l2_over_A": 0.39289084501439375,
+      "Euclidean_noise_rms": 201.06192982974676,
+      "limiting_radial_inflation": 0.07710628438351061
+    },
+    {
+      "D": 68719476736,
+      "A": 0.001953125,
+      "sigma": 1.0,
+      "radial_residual_l2": 0.001041134454376227,
+      "radial_residual_over_A": 0.5330608406406282,
+      "direction_l2_over_A": 0.5002440920261443,
+      "Euclidean_noise_rms": 256.0,
+      "limiting_radial_inflation": 0.125
+    }
+  ],
+  "limits": [
+    "The checks do not prove the infinite-dimensional Bessel inequality or uniform Lp bounds by computation.",
+    "Radial sampling uses exact marginal laws, not a true OU-history simulation.",
+    "No finite-D onset threshold for the asymptotic positive witness is certified.",
+    "The true same-g source and all correlations are justified analytically in the audit.",
+    "No generic shifted-current consumer, expectation compiler, m3 closure, or endpoint-law theorem is supplied."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "status": "SEALED SOURCE-QUALIFIED COUNTEREXAMPLE / GENERAL PROGRAM OPEN",
+  "claim": "Explicit bounded-PSD-Hessian original gradient, unchanged exact five-clock genealogy and shields, normalized tight center-center six-tree, HS-unit symmetric rank-six H: Var <H,J> >= (D-1)/2^40 for D>=129.",
+  "local_assertions": 313,
+  "independent_assertions": 514,
+  "prior_tight_manifest_sha256": "c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179",
+  "scope": [
+    "Refutes unweighted shield-uniform scalar-test port.",
+    "Retains obstruction under positive normalized common-bank Price-panel averaging.",
+    "Restores fixed-node A^14 beta^2 factor; does not claim arbitrary original-clock weighted aggregate lower bound.",
+    "General positive grouped VALUE/current realization and all-order recurrence remain open."
+  ],
+  "files": {
+    "MODULATED-C2-SIX-TREE-COUNTEREXAMPLE.md": "8d0086e37b9cb1273ff483dc3dd9ddbeee297c9e93b7675b4aad11f2d6bd4dc3",
+    "README.md": "68686cfac816a66340f7ecf59a7b9fcba203b12ccda82a1220f6077fbbe041ba",
+    "check_modulated_six_tree.py": "608c6b927fa2a246735c9df772e17cfb93d509f9a4f2794085b5d31670749215",
+    "checks.json": "7229718b0a60a68ce88c85b6090ac10fae5bf3038b7532e25d61de29a1413f16",
+    "independent-audit/AUDIT-MANIFEST.json": "e80ed143d10ac1d5fbb62e975b41e125ac885db353aa44134ba0d3dcf7c5e674",
+    "independent-audit/AUDIT.md": "3d1872930f89446309cb6275636b13e69d2b2c67c8473fad984b7263cbcf6cb2",
+    "independent-audit/INDEPENDENT-MODULATED-JET-AUDIT.md": "0bcb72bc1a579d7694633cfdcde808480897b7f4709b58c19f909eb4aac98c8b",
+    "independent-audit/check_modulated_jet_audit.py": "1e10aaab4019d4c4af74a3d05012c7c7ac76f83ba24dd2d0e235df69d1f592f4",
+    "independent-audit/modulated_jet_audit_checks.json": "7d34313307079b3a6e4e50c0d0ab1cf9129e2ddf9f9f7d2b0e17ef445d43af00"
+  }
+}

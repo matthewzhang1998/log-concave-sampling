@@ -1,0 +1,175 @@
+{
+  "HS_to_vector_operator_norm": {
+    "cases": 12,
+    "exact_norm": "max(sqrt(psi_double_prime^2+(D-1)*a_r^2), sqrt(2)*abs(a_r))",
+    "maximum_absolute_error": 1.1102230246251565e-16
+  },
+  "OU_linear_integral": {
+    "conditional_variance": "1/4",
+    "mean_coefficient": "1/2"
+  },
+  "asymptotic_separation": {
+    "A": "D^(-1/2)",
+    "claimed_scale": "D**(-3/2)",
+    "fixed_polylog_limit": "sqrt(D)/(log D)^p -> infinity for every fixed p",
+    "lower_scale": "D^(-1)",
+    "scale_ratio": "sqrt(D)"
+  },
+  "bump": {
+    "analytical_upper_bound": 0.6978062125430448,
+    "maximum_psi_prime": 0.4142844199345527,
+    "normalizer": 0.8879876323361587,
+    "normalizer_error_estimate": 5.92095234609339e-14,
+    "radial_Hessian_upper_ratio": 0.5,
+    "tangential_Hessian_upper_ratio": 0.375
+  },
+  "canonical": {
+    "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md",
+    "sha256": "2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035"
+  },
+  "finite_dimension_leading_witness": [
+    {
+      "D": 16,
+      "linear_resolvent_witness": -0.00013601072149725245,
+      "note": "Evaluates the leading-field witness only, not the unknown full finite-D remainder.",
+      "quadrature_error_estimate": 4.091222783351762e-13
+    },
+    {
+      "D": 64,
+      "linear_resolvent_witness": -0.0005306572005492696,
+      "note": "Evaluates the leading-field witness only, not the unknown full finite-D remainder.",
+      "quadrature_error_estimate": 7.447102759872895e-13
+    },
+    {
+      "D": 256,
+      "linear_resolvent_witness": -0.0007237084418320553,
+      "note": "Evaluates the leading-field witness only, not the unknown full finite-D remainder.",
+      "quadrature_error_estimate": 7.692806533475847e-13
+    },
+    {
+      "D": 1024,
+      "linear_resolvent_witness": -0.0008194430117616084,
+      "note": "Evaluates the leading-field witness only, not the unknown full finite-D remainder.",
+      "quadrature_error_estimate": 7.110329154756861e-13
+    },
+    {
+      "D": 16384,
+      "linear_resolvent_witness": -0.0008909614423435681,
+      "note": "Evaluates the leading-field witness only, not the unknown full finite-D remainder.",
+      "quadrature_error_estimate": 6.668172717700805e-13
+    },
+    {
+      "D": 262144,
+      "linear_resolvent_witness": -0.0009088075461613776,
+      "note": "Evaluates the leading-field witness only, not the unknown full finite-D remainder.",
+      "quadrature_error_estimate": 6.61482856371169e-13
+    }
+  ],
+  "finite_positive_clocks": [
+    {
+      "D": 16,
+      "analytical_uniform_Hermite_bound": 0.0625,
+      "beta_Q": 0.78551038165629,
+      "beta_Q_squared_minus_quarter": 0.36702655968981024,
+      "delta": 0.0625,
+      "dyadic_panels": 6,
+      "first_moment": 0.5,
+      "gauss_order_per_panel": 4,
+      "mass": 1.0,
+      "minimum_weight": 0.002717615977636356,
+      "node_count": 25,
+      "note": "The analytical bound covers all degrees; the finite degree sample is only a diagnostic.",
+      "sampled_Hermite_error": 0.0018339408298496387,
+      "sampled_degrees_max": 1073741824,
+      "second_moment": 0.3333330154418946
+    },
+    {
+      "D": 256,
+      "analytical_uniform_Hermite_bound": 0.00390625,
+      "beta_Q": 0.7853999092228479,
+      "beta_Q_squared_minus_quarter": 0.3668530174072576,
+      "delta": 0.00390625,
+      "dyadic_panels": 10,
+      "first_moment": 0.5000000000000001,
+      "gauss_order_per_panel": 6,
+      "mass": 1.0,
+      "minimum_weight": 8.365453729451674e-05,
+      "node_count": 61,
+      "note": "The analytical bound covers all degrees; the finite degree sample is only a diagnostic.",
+      "sampled_Hermite_error": 0.00010752479645417183,
+      "sampled_degrees_max": 1073741824,
+      "second_moment": 0.33333333325572306
+    },
+    {
+      "D": 4096,
+      "analytical_uniform_Hermite_bound": 0.000244140625,
+      "beta_Q": 0.7853981906687039,
+      "beta_Q_squared_minus_quarter": 0.3668503179056737,
+      "delta": 0.000244140625,
+      "dyadic_panels": 14,
+      "first_moment": 0.5,
+      "gauss_order_per_panel": 8,
+      "mass": 0.9999999999999999,
+      "minimum_weight": 3.0892497647209797e-06,
+      "node_count": 113,
+      "note": "The analytical bound covers all degrees; the finite degree sample is only a diagnostic.",
+      "sampled_Hermite_error": 6.719179123602128e-06,
+      "sampled_degrees_max": 1073741824,
+      "second_moment": 0.3333333333333144
+    },
+    {
+      "D": 65536,
+      "analytical_uniform_Hermite_bound": 1.52587890625e-05,
+      "beta_Q": 0.7853981638235544,
+      "beta_Q_squared_minus_quarter": 0.3668502757374108,
+      "delta": 1.52587890625e-05,
+      "dyadic_panels": 18,
+      "first_moment": 0.5,
+      "gauss_order_per_panel": 10,
+      "mass": 0.9999999999999997,
+      "minimum_weight": 1.2716549741494777e-07,
+      "node_count": 181,
+      "note": "The analytical bound covers all degrees; the finite degree sample is only a diagnostic.",
+      "sampled_Hermite_error": 4.1994431885705465e-07,
+      "sampled_degrees_max": 1073741824,
+      "second_moment": 0.3333333333333333
+    }
+  ],
+  "limitations": [
+    "The checker does not prove uniform Lp or L2 remainders; the accompanying analytical audit does.",
+    "Floating-point quadrature error estimates are diagnostics, not formal interval certificates.",
+    "No OU path discretization, simulated cheap-law substitution, or full-m3 validation is performed.",
+    "No explicit dimension threshold for the full residual lower bound is claimed."
+  ],
+  "limiting_shell_witness": {
+    "E_h_S": -0.0018295069327453435,
+    "S_distribution": "N(0, 1/2)",
+    "possible_eventual_c_star": 1.612927932786015e-07,
+    "quadrature_error_estimate": 6.61904817711333e-16,
+    "radial_shift": 0.125,
+    "resolvent_linear_witness_limit": -0.0009147534663726717,
+    "strict_sign_proof": "Positive layer-cake intervals and strictly decreasing translated centered Gaussian interval mass; see audit.",
+    "uniform_absolute_leading_witness_coefficient_floor": 6.45171173114406e-07
+  },
+  "purpose": "Independent exact-text hash, symbolic identities, finite positive-clock diagnostics, and scalar witness checks.",
+  "radial_contraction_symbolic": {
+    "component_residuals": [
+      "0",
+      "0",
+      "0"
+    ],
+    "dimension_for_symbolic_identity": 3,
+    "general_nonsymmetric_matrix": true
+  },
+  "status": "PASS",
+  "uniform_finite_clock_gap": {
+    "absolute_k_lower_bound": "13/18432",
+    "beta_lower_bound": "7/12",
+    "beta_squared_minus_quarter_lower_bound": "13/144"
+  },
+  "versions": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "sympy": "1.14.0"
+  }
+}

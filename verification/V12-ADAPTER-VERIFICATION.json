@@ -1,0 +1,88 @@
+{
+  "all_pass": true,
+  "tests": [
+    {
+      "test": "exact mathematical body unchanged",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/check_tight_bridge_independent.py",
+      "passed": true
+    },
+    {
+      "test": "exact mathematical body unchanged",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/check_resummed_m3_independent.py",
+      "passed": true
+    },
+    {
+      "test": "exact mathematical body unchanged",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/check_p3_radial_corollary.py",
+      "passed": true
+    },
+    {
+      "test": "all function/assertion/check ASTs unchanged except report source-label normalization",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/check_modulated_six_tree.py",
+      "passed": true
+    },
+    {
+      "test": "all function/assertion/check ASTs unchanged except report source-label normalization",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/check_modulated_jet_audit.py",
+      "passed": true
+    },
+    {
+      "test": "all function/assertion/check ASTs unchanged except report source-label normalization",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/check_gaussian_rms_extension.py",
+      "passed": true
+    },
+    {
+      "test": "all function/assertion/check ASTs unchanged except report source-label normalization",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/check_independent_radial_mean_audit.py",
+      "passed": true
+    },
+    {
+      "test": "correct optional LOW30 restores original assertion count",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/check_tight_bridge_independent.py",
+      "passed": true
+    },
+    {
+      "test": "wrong supplied LOW30 rejected",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/check_tight_bridge_independent.py",
+      "passed": true
+    },
+    {
+      "test": "correct optional LOW30 restores original assertion count",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/check_resummed_m3_independent.py",
+      "passed": true
+    },
+    {
+      "test": "wrong supplied LOW30 rejected",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/check_resummed_m3_independent.py",
+      "passed": true
+    },
+    {
+      "test": "frozen manifest utility verifies",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/regenerate_manifest.py",
+      "passed": true
+    },
+    {
+      "test": "archive output write rejected",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/regenerate_manifest.py",
+      "passed": true
+    },
+    {
+      "test": "frozen manifest utility verifies",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/regenerate_package_manifest.py",
+      "passed": true
+    },
+    {
+      "test": "archive output write rejected",
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/regenerate_package_manifest.py",
+      "passed": true
+    },
+    {
+      "test": "changed public bytes rejected",
+      "passed": true
+    },
+    {
+      "test": "wrong original pin rejected",
+      "passed": true
+    }
+  ]
+}

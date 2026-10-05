@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "status": "SEALED BOUNDED PASS / GENERAL PORT OPEN",
+  "files": {
+    "README.md": "90ae8a5270f9b1b1dd0f45ffdedf1fa0f19ad5e6dcafb2f2232fa9c0a754ac0c",
+    "TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+    "COVARIANCE-TEST-PORT-REDUCTION.md": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f",
+    "check_tight_bridge.py": "743db9d0b096f7eb9618e354488202d73339af75f17925deda19e15de7340910",
+    "tight_bridge_checks.json": "6c7b95f58bcc0051a42e5ab0ecd54717fd5e8035da393febde1928003ca57ff5",
+    "independent-audit/INDEPENDENT-TIGHT-BRIDGE-AND-REROOT-AUDIT.md": "539799d2fd736f7dbbdcce54c6909d245f1eb4dc07e088168180ba9ede432510",
+    "independent-audit/check_tight_bridge_independent.py": "42d043fd5c87a699a4b13b47d912777e31908f417d41de2be2467b6f4722d585",
+    "independent-audit/tight_bridge_independent_checks.json": "3169c996a4d9b17f398e300def2102c2262c19cc148030a6d01b533c6f7ae5c9",
+    "independent-audit/MANIFEST.json": "f6dc381517d33d840f150e69528bac13a423a149869cce5b84b3dfd666db54c3",
+    "covariance-test-audit/AUDIT.md": "94db6b80e31744c9c306b4f0fa19da8b956611b38489b1872f65af9942270f17",
+    "covariance-test-audit/check_covariance_tensor.py": "2479d72253a76f73856237c2c94ef37595754b575b8bcdcebf7a7e4988feabd0",
+    "covariance-test-audit/checks.json": "0fe8812abd8eb8dc8e5b5d12b353730547146bc58950ceab8245001faa10e1ce",
+    "covariance-test-audit/MANIFEST.sha256": "24a5fccc2d2906937aab3a575bcd0b0a7215b698d38229d538513c050578a0a8"
+  },
+  "unproved": [
+    "source-qualified uniform higher-heat-jet covariance-test estimate",
+    "positive whole-coarse coefficient/current producer",
+    "all-descendant tilt/chunk/spine closure",
+    "eventual-sublinear c(P)/P theorem"
+  ]
+}

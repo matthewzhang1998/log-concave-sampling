@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-05",
+  "status": "PASS for matrix-free residual-qualified fixed-order m3 component; quantitative smooth general-C2 obstruction; endpoint/all-order OPEN",
+  "entry": "README.md",
+  "theorem": "MATRIX-FREE-GAUSSIAN-BACKBONE-M3.md",
+  "incoming_manifest": {
+    "path": "../gaussian-rms-backbone/MANIFEST.json",
+    "sha256": "321cd1922f7b8a32b3ea76f138ca3b463a4cfb016c9b7d79056a6b822041acd0",
+    "inventory_pins_verified": 7
+  },
+  "author_assertions": 1784,
+  "independent_results": {
+    "status": "PASS",
+    "assertions": 1540,
+    "seed": 610052026,
+    "scope": "Independent raw-source/covariance/chain-rule/port/cost/obstruction diagnostics; not execution of imported complete mean compilers.",
+    "metrics": {
+      "conditional_covariance": [
+        [
+          "1/4",
+          "1/4"
+        ],
+        [
+          "1/4",
+          "5/16"
+        ]
+      ],
+      "max_directional_chain_rule_error": 3.6106893322620784e-11,
+      "max_observed_G_skew": 0.0029230937382908324,
+      "max_private_bound_ratio": 0.1612390497576472,
+      "max_curl_bound_ratio": 0.2338382076376896,
+      "max_quadratic_value_error": 2.2887833992611187e-16,
+      "obstruction": {
+        "q_first_hermite": -0.01838937651717789,
+        "R1_q_L2_lower_bound": 0.009194688258588945,
+        "Taylor_remainder_constant_at_A_half": 3.0312523067017936,
+        "certified_lower_bound": "(0.009194688258588945) A^2 - 3.04 A^3"
+      }
+    },
+    "source_sha256": {
+      "MATRIX-FREE-GAUSSIAN-BACKBONE-M3.md": "772a0b758f7a4294ec9127629bec5bdd78b1f2ba167f32912ed5e7495e3ba06b",
+      "README.md": "23a14c33044d01c9ca84da6306d4686f37cd2025d3ce2e25776b65ca0699c903",
+      "../gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md": "18640f9c6c567acba4fe830c7b0d64394924887ee4335a7a49f57f817435dccf",
+      "../resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md": "798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3",
+      "../resummed-linear-backbone/independent-audit/INDEPENDENT-BOUNDED-RESUMMED-M3-AUDIT.md": "49d135ba6692c54012acd9d0d94f603c0015fca98b5d1be1164457ff45d1213a"
+    }
+  },
+  "scope": [
+    "Four original VALUES per raw source node implement anisotropic conditional Gaussian backbone without matrix oracle/reconstruction.",
+    "Five explicit Gaussian residual norms certify integrated nonlinear target bias; common radial envelope is computable sample-free.",
+    "Every matrix quadratic has exact canonical m3 mean; nonlinear anisotropic radial-tail class has bias <=sqrt(2)/3*(3+2A)*A^4.",
+    "Complete source first/curl/caller/root/zero/numerical ledger admits existing guarded positive fixed-order own-mean compilers.",
+    "Smooth one-dimensional sine source has actual bias at least c*A^2-3.04*A^3 with c=0.009194688258588945.",
+    "General C2 m3 closure, automatic certification, uniform conditional rescaling, fourth-order endpoint and all-order recurrence remain open."
+  ],
+  "inventory": [
+    {
+      "path": "MATRIX-FREE-GAUSSIAN-BACKBONE-M3.md",
+      "sha256": "772a0b758f7a4294ec9127629bec5bdd78b1f2ba167f32912ed5e7495e3ba06b",
+      "bytes": 25155
+    },
+    {
+      "path": "README.md",
+      "sha256": "93ad544283886c0cbf306888e2886a294f9a0475f57d414ce5b8982fb086049f",
+      "bytes": 3049
+    },
+    {
+      "path": "check_matrix_free_backbone.py",
+      "sha256": "934f84476cebea84da68654f6d5fcbd80ed89dd84434e31d104d7bb58d58e095",
+      "bytes": 8449
+    },
+    {
+      "path": "independent-audit/GENERAL-C2-BIAS-OBSTRUCTION.md",
+      "sha256": "de0668564f50d528bd165ebd211e9fc7ed9b523d0cac5ca794dd28e868e945a1",
+      "bytes": 6743
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-MATRIX-FREE-M3-AUDIT.md",
+      "sha256": "d0a2477c3f6d5137411e89fd7a9901f656e56e668499f68d9d6e5c5fb68171a4",
+      "bytes": 14663
+    },
+    {
+      "path": "independent-audit/check_matrix_free_m3_independent.py",
+      "sha256": "c978e1500bfb01756b90645dd771551ac1d2fdc03787475e717eed6a0d189c0e",
+      "bytes": 13526
+    },
+    {
+      "path": "independent-audit/independent_matrix_free_m3_checks.json",
+      "sha256": "600be1134310b86f8fbcd22961d658bcb7943335eb81c14b2e3b19d777ba362d",
+      "bytes": 1564
+    },
+    {
+      "path": "matrix_free_backbone_checks.json",
+      "sha256": "eee93cfd25611dc5f4d69985a2aea76f4a5556a38e15b08f6c3f8f7993f871e0",
+      "bytes": 8769
+    },
+    {
+      "path": "regenerate_manifest.py",
+      "sha256": "2bd295a982935bbbe7bc5e1d5118fc9243cbd2c9389702669affe506c162d24c",
+      "bytes": 2846
+    }
+  ]
+}

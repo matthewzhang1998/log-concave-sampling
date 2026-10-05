@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "assertions": 1540,
+  "seed": 610052026,
+  "scope": "Independent raw-source/covariance/chain-rule/port/cost/obstruction diagnostics; not execution of imported complete mean compilers.",
+  "metrics": {
+    "conditional_covariance": [
+      [
+        "1/4",
+        "1/4"
+      ],
+      [
+        "1/4",
+        "5/16"
+      ]
+    ],
+    "max_directional_chain_rule_error": 3.6106893322620784e-11,
+    "max_observed_G_skew": 0.0029230937382908324,
+    "max_private_bound_ratio": 0.1612390497576472,
+    "max_curl_bound_ratio": 0.2338382076376896,
+    "max_quadratic_value_error": 2.2887833992611187e-16,
+    "obstruction": {
+      "q_first_hermite": -0.01838937651717789,
+      "R1_q_L2_lower_bound": 0.009194688258588945,
+      "Taylor_remainder_constant_at_A_half": 3.0312523067017936,
+      "certified_lower_bound": "(0.009194688258588945) A^2 - 3.04 A^3"
+    }
+  },
+  "source_sha256": {
+    "MATRIX-FREE-GAUSSIAN-BACKBONE-M3.md": "772a0b758f7a4294ec9127629bec5bdd78b1f2ba167f32912ed5e7495e3ba06b",
+    "README.md": "23a14c33044d01c9ca84da6306d4686f37cd2025d3ce2e25776b65ca0699c903",
+    "../gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md": "18640f9c6c567acba4fe830c7b0d64394924887ee4335a7a49f57f817435dccf",
+    "../resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md": "798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3",
+    "../resummed-linear-backbone/independent-audit/INDEPENDENT-BOUNDED-RESUMMED-M3-AUDIT.md": "49d135ba6692c54012acd9d0d94f603c0015fca98b5d1be1164457ff45d1213a"
+  }
+}

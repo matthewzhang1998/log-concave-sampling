@@ -1,0 +1,1367 @@
+{
+  "status": "PASS",
+  "assertions": 313,
+  "limiting_variance_over_n": 2.163278239334616e-09,
+  "scope": "Diagnostics supporting the printed original-gradient counterexample. Not a positive producer or general-law no-go.",
+  "source_pins": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/SEALED-MANIFEST.json": "c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/COVARIANCE-TEST-PORT-REDUCTION.md": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668"
+  },
+  "checks": [
+    {
+      "name": "symbolic Hessian ii"
+    },
+    {
+      "name": "symbolic Hessian 0i"
+    },
+    {
+      "name": "symbolic C2 iiii"
+    },
+    {
+      "name": "symbolic C2 iii0"
+    },
+    {
+      "name": "symbolic forbidden mixed center index"
+    },
+    {
+      "name": "global Hessian fixture n=3 sample=0"
+    },
+    {
+      "name": "global Hessian fixture n=3 sample=1"
+    },
+    {
+      "name": "global Hessian fixture n=3 sample=2"
+    },
+    {
+      "name": "global Hessian fixture n=3 sample=3"
+    },
+    {
+      "name": "global Hessian fixture n=3 sample=4"
+    },
+    {
+      "name": "global Hessian fixture n=3 sample=5"
+    },
+    {
+      "name": "global Hessian fixture n=3 sample=6"
+    },
+    {
+      "name": "global Hessian fixture n=3 sample=7"
+    },
+    {
+      "name": "global Hessian fixture n=8 sample=0"
+    },
+    {
+      "name": "global Hessian fixture n=8 sample=1"
+    },
+    {
+      "name": "global Hessian fixture n=8 sample=2"
+    },
+    {
+      "name": "global Hessian fixture n=8 sample=3"
+    },
+    {
+      "name": "global Hessian fixture n=8 sample=4"
+    },
+    {
+      "name": "global Hessian fixture n=8 sample=5"
+    },
+    {
+      "name": "global Hessian fixture n=8 sample=6"
+    },
+    {
+      "name": "global Hessian fixture n=8 sample=7"
+    },
+    {
+      "name": "global Hessian fixture n=16 sample=0"
+    },
+    {
+      "name": "global Hessian fixture n=16 sample=1"
+    },
+    {
+      "name": "global Hessian fixture n=16 sample=2"
+    },
+    {
+      "name": "global Hessian fixture n=16 sample=3"
+    },
+    {
+      "name": "global Hessian fixture n=16 sample=4"
+    },
+    {
+      "name": "global Hessian fixture n=16 sample=5"
+    },
+    {
+      "name": "global Hessian fixture n=16 sample=6"
+    },
+    {
+      "name": "global Hessian fixture n=16 sample=7"
+    },
+    {
+      "name": "global Hessian fixture n=64 sample=0"
+    },
+    {
+      "name": "global Hessian fixture n=64 sample=1"
+    },
+    {
+      "name": "global Hessian fixture n=64 sample=2"
+    },
+    {
+      "name": "global Hessian fixture n=64 sample=3"
+    },
+    {
+      "name": "global Hessian fixture n=64 sample=4"
+    },
+    {
+      "name": "global Hessian fixture n=64 sample=5"
+    },
+    {
+      "name": "global Hessian fixture n=64 sample=6"
+    },
+    {
+      "name": "global Hessian fixture n=64 sample=7"
+    },
+    {
+      "name": "C2 proper cut n=3 mask=1"
+    },
+    {
+      "name": "C2 proper cut n=3 mask=3"
+    },
+    {
+      "name": "C2 proper cut n=3 mask=5"
+    },
+    {
+      "name": "C2 proper cut n=3 mask=7"
+    },
+    {
+      "name": "C2 proper cut n=3 mask=9"
+    },
+    {
+      "name": "C2 proper cut n=3 mask=11"
+    },
+    {
+      "name": "C2 proper cut n=3 mask=13"
+    },
+    {
+      "name": "C2 diagonal n=3 i=1"
+    },
+    {
+      "name": "C2 cross n=3 i=1"
+    },
+    {
+      "name": "C2 diagonal n=3 i=2"
+    },
+    {
+      "name": "C2 cross n=3 i=2"
+    },
+    {
+      "name": "C2 diagonal n=3 i=3"
+    },
+    {
+      "name": "C2 cross n=3 i=3"
+    },
+    {
+      "name": "C2 proper cut n=5 mask=1"
+    },
+    {
+      "name": "C2 proper cut n=5 mask=3"
+    },
+    {
+      "name": "C2 proper cut n=5 mask=5"
+    },
+    {
+      "name": "C2 proper cut n=5 mask=7"
+    },
+    {
+      "name": "C2 proper cut n=5 mask=9"
+    },
+    {
+      "name": "C2 proper cut n=5 mask=11"
+    },
+    {
+      "name": "C2 proper cut n=5 mask=13"
+    },
+    {
+      "name": "C2 diagonal n=5 i=1"
+    },
+    {
+      "name": "C2 cross n=5 i=1"
+    },
+    {
+      "name": "C2 diagonal n=5 i=2"
+    },
+    {
+      "name": "C2 cross n=5 i=2"
+    },
+    {
+      "name": "C2 diagonal n=5 i=3"
+    },
+    {
+      "name": "C2 cross n=5 i=3"
+    },
+    {
+      "name": "C2 diagonal n=5 i=4"
+    },
+    {
+      "name": "C2 cross n=5 i=4"
+    },
+    {
+      "name": "C2 diagonal n=5 i=5"
+    },
+    {
+      "name": "C2 cross n=5 i=5"
+    },
+    {
+      "name": "C2 proper cut n=8 mask=1"
+    },
+    {
+      "name": "C2 proper cut n=8 mask=3"
+    },
+    {
+      "name": "C2 proper cut n=8 mask=5"
+    },
+    {
+      "name": "C2 proper cut n=8 mask=7"
+    },
+    {
+      "name": "C2 proper cut n=8 mask=9"
+    },
+    {
+      "name": "C2 proper cut n=8 mask=11"
+    },
+    {
+      "name": "C2 proper cut n=8 mask=13"
+    },
+    {
+      "name": "C2 diagonal n=8 i=1"
+    },
+    {
+      "name": "C2 cross n=8 i=1"
+    },
+    {
+      "name": "C2 diagonal n=8 i=2"
+    },
+    {
+      "name": "C2 cross n=8 i=2"
+    },
+    {
+      "name": "C2 diagonal n=8 i=3"
+    },
+    {
+      "name": "C2 cross n=8 i=3"
+    },
+    {
+      "name": "C2 diagonal n=8 i=4"
+    },
+    {
+      "name": "C2 cross n=8 i=4"
+    },
+    {
+      "name": "C2 diagonal n=8 i=5"
+    },
+    {
+      "name": "C2 cross n=8 i=5"
+    },
+    {
+      "name": "C2 diagonal n=8 i=6"
+    },
+    {
+      "name": "C2 cross n=8 i=6"
+    },
+    {
+      "name": "C2 diagonal n=8 i=7"
+    },
+    {
+      "name": "C2 cross n=8 i=7"
+    },
+    {
+      "name": "C2 diagonal n=8 i=8"
+    },
+    {
+      "name": "C2 cross n=8 i=8"
+    },
+    {
+      "name": "HS unit diagonal six-test"
+    },
+    {
+      "name": "complete six-tree diagonal contraction"
+    },
+    {
+      "name": "six-tree proper cut mask=1"
+    },
+    {
+      "name": "six-tree proper cut mask=3"
+    },
+    {
+      "name": "six-tree proper cut mask=5"
+    },
+    {
+      "name": "six-tree proper cut mask=7"
+    },
+    {
+      "name": "six-tree proper cut mask=9"
+    },
+    {
+      "name": "six-tree proper cut mask=11"
+    },
+    {
+      "name": "six-tree proper cut mask=13"
+    },
+    {
+      "name": "six-tree proper cut mask=15"
+    },
+    {
+      "name": "six-tree proper cut mask=17"
+    },
+    {
+      "name": "six-tree proper cut mask=19"
+    },
+    {
+      "name": "six-tree proper cut mask=21"
+    },
+    {
+      "name": "six-tree proper cut mask=23"
+    },
+    {
+      "name": "six-tree proper cut mask=25"
+    },
+    {
+      "name": "six-tree proper cut mask=27"
+    },
+    {
+      "name": "six-tree proper cut mask=29"
+    },
+    {
+      "name": "six-tree proper cut mask=31"
+    },
+    {
+      "name": "six-tree proper cut mask=33"
+    },
+    {
+      "name": "six-tree proper cut mask=35"
+    },
+    {
+      "name": "six-tree proper cut mask=37"
+    },
+    {
+      "name": "six-tree proper cut mask=39"
+    },
+    {
+      "name": "six-tree proper cut mask=41"
+    },
+    {
+      "name": "six-tree proper cut mask=43"
+    },
+    {
+      "name": "six-tree proper cut mask=45"
+    },
+    {
+      "name": "six-tree proper cut mask=47"
+    },
+    {
+      "name": "six-tree proper cut mask=49"
+    },
+    {
+      "name": "six-tree proper cut mask=51"
+    },
+    {
+      "name": "six-tree proper cut mask=53"
+    },
+    {
+      "name": "six-tree proper cut mask=55"
+    },
+    {
+      "name": "six-tree proper cut mask=57"
+    },
+    {
+      "name": "six-tree proper cut mask=59"
+    },
+    {
+      "name": "six-tree proper cut mask=61"
+    },
+    {
+      "name": "leaf difference proper cut mask=1"
+    },
+    {
+      "name": "leaf difference proper cut mask=3"
+    },
+    {
+      "name": "leaf difference proper cut mask=5"
+    },
+    {
+      "name": "leaf difference proper cut mask=7"
+    },
+    {
+      "name": "leaf difference proper cut mask=9"
+    },
+    {
+      "name": "leaf difference proper cut mask=11"
+    },
+    {
+      "name": "leaf difference proper cut mask=13"
+    },
+    {
+      "name": "leaf difference proper cut mask=15"
+    },
+    {
+      "name": "leaf difference proper cut mask=17"
+    },
+    {
+      "name": "leaf difference proper cut mask=19"
+    },
+    {
+      "name": "leaf difference proper cut mask=21"
+    },
+    {
+      "name": "leaf difference proper cut mask=23"
+    },
+    {
+      "name": "leaf difference proper cut mask=25"
+    },
+    {
+      "name": "leaf difference proper cut mask=27"
+    },
+    {
+      "name": "leaf difference proper cut mask=29"
+    },
+    {
+      "name": "leaf difference proper cut mask=31"
+    },
+    {
+      "name": "leaf difference proper cut mask=33"
+    },
+    {
+      "name": "leaf difference proper cut mask=35"
+    },
+    {
+      "name": "leaf difference proper cut mask=37"
+    },
+    {
+      "name": "leaf difference proper cut mask=39"
+    },
+    {
+      "name": "leaf difference proper cut mask=41"
+    },
+    {
+      "name": "leaf difference proper cut mask=43"
+    },
+    {
+      "name": "leaf difference proper cut mask=45"
+    },
+    {
+      "name": "leaf difference proper cut mask=47"
+    },
+    {
+      "name": "leaf difference proper cut mask=49"
+    },
+    {
+      "name": "leaf difference proper cut mask=51"
+    },
+    {
+      "name": "leaf difference proper cut mask=53"
+    },
+    {
+      "name": "leaf difference proper cut mask=55"
+    },
+    {
+      "name": "leaf difference proper cut mask=57"
+    },
+    {
+      "name": "leaf difference proper cut mask=59"
+    },
+    {
+      "name": "leaf difference proper cut mask=61"
+    },
+    {
+      "name": "leaf difference HS error"
+    },
+    {
+      "name": "positive exact conditional variance n=16 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=16 f=0"
+    },
+    {
+      "name": "positive exact conditional variance n=16 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=16 f=0.125"
+    },
+    {
+      "name": "positive exact conditional variance n=16 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=16 f=0.5"
+    },
+    {
+      "name": "positive exact conditional variance n=16 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=16 f=1"
+    },
+    {
+      "name": "positive exact conditional variance n=16 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=16 f=2"
+    },
+    {
+      "name": "positive exact conditional variance n=32 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=32 f=0"
+    },
+    {
+      "name": "positive exact conditional variance n=32 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=32 f=0.125"
+    },
+    {
+      "name": "positive exact conditional variance n=32 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=32 f=0.5"
+    },
+    {
+      "name": "positive exact conditional variance n=32 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=32 f=1"
+    },
+    {
+      "name": "positive exact conditional variance n=32 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=32 f=2"
+    },
+    {
+      "name": "positive exact conditional variance n=64 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=64 f=0"
+    },
+    {
+      "name": "positive exact conditional variance n=64 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=64 f=0.125"
+    },
+    {
+      "name": "positive exact conditional variance n=64 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=64 f=0.5"
+    },
+    {
+      "name": "positive exact conditional variance n=64 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=64 f=1"
+    },
+    {
+      "name": "positive exact conditional variance n=64 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=64 f=2"
+    },
+    {
+      "name": "positive exact conditional variance n=128 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=128 f=0"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=128 f=0",
+      "lower": 2.589865821308307e-07,
+      "target": 1.1641532182693481e-10
+    },
+    {
+      "name": "positive exact conditional variance n=128 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=128 f=0.125"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=128 f=0.125",
+      "lower": 2.589829250266625e-07,
+      "target": 1.1641532182693481e-10
+    },
+    {
+      "name": "positive exact conditional variance n=128 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=128 f=0.5"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=128 f=0.5",
+      "lower": 2.5897195403670045e-07,
+      "target": 1.1641532182693481e-10
+    },
+    {
+      "name": "positive exact conditional variance n=128 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=128 f=1"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=128 f=1",
+      "lower": 2.5895732680265655e-07,
+      "target": 1.1641532182693481e-10
+    },
+    {
+      "name": "positive exact conditional variance n=128 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=128 f=2"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=128 f=2",
+      "lower": 2.5892807491461903e-07,
+      "target": 1.1641532182693481e-10
+    },
+    {
+      "name": "positive exact conditional variance n=256 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=256 f=0"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=256 f=0",
+      "lower": 5.403640770264764e-07,
+      "target": 2.3283064365386963e-10
+    },
+    {
+      "name": "positive exact conditional variance n=256 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=256 f=0.125"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=256 f=0.125",
+      "lower": 5.4036216544217e-07,
+      "target": 2.3283064365386963e-10
+    },
+    {
+      "name": "positive exact conditional variance n=256 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=256 f=0.5"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=256 f=0.5",
+      "lower": 5.403564307307401e-07,
+      "target": 2.3283064365386963e-10
+    },
+    {
+      "name": "positive exact conditional variance n=256 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=256 f=1"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=256 f=1",
+      "lower": 5.403487845456391e-07,
+      "target": 2.3283064365386963e-10
+    },
+    {
+      "name": "positive exact conditional variance n=256 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=256 f=2"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=256 f=2",
+      "lower": 5.403334925073399e-07,
+      "target": 2.3283064365386963e-10
+    },
+    {
+      "name": "positive exact conditional variance n=512 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=512 f=0"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=512 f=0",
+      "lower": 1.0940953904341713e-06,
+      "target": 4.656612873077393e-10
+    },
+    {
+      "name": "positive exact conditional variance n=512 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=512 f=0.125"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=512 f=0.125",
+      "lower": 1.0940944175383746e-06,
+      "target": 4.656612873077393e-10
+    },
+    {
+      "name": "positive exact conditional variance n=512 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=512 f=0.5"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=512 f=0.5",
+      "lower": 1.0940914988562365e-06,
+      "target": 4.656612873077393e-10
+    },
+    {
+      "name": "positive exact conditional variance n=512 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=512 f=1"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=512 f=1",
+      "lower": 1.0940876072922974e-06,
+      "target": 4.656612873077393e-10
+    },
+    {
+      "name": "positive exact conditional variance n=512 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=512 f=2"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=512 f=2",
+      "lower": 1.094079824206412e-06,
+      "target": 4.656612873077393e-10
+    },
+    {
+      "name": "positive exact conditional variance n=1024 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=1024 f=0"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1024 f=0",
+      "lower": 2.201659750581608e-06,
+      "target": 9.313225746154785e-10
+    },
+    {
+      "name": "positive exact conditional variance n=1024 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=1024 f=0.125"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1024 f=0.125",
+      "lower": 2.2016592598071514e-06,
+      "target": 9.313225746154785e-10
+    },
+    {
+      "name": "positive exact conditional variance n=1024 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=1024 f=0.5"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1024 f=0.5",
+      "lower": 2.2016577874844502e-06,
+      "target": 9.313225746154785e-10
+    },
+    {
+      "name": "positive exact conditional variance n=1024 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=1024 f=1"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1024 f=1",
+      "lower": 2.2016558243890573e-06,
+      "target": 9.313225746154785e-10
+    },
+    {
+      "name": "positive exact conditional variance n=1024 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=1024 f=2"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1024 f=2",
+      "lower": 2.201651898203545e-06,
+      "target": 9.313225746154785e-10
+    },
+    {
+      "name": "positive exact conditional variance n=4096 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=4096 f=0"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=4096 f=0",
+      "lower": 8.847224866648824e-06,
+      "target": 3.725290298461914e-09
+    },
+    {
+      "name": "positive exact conditional variance n=4096 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=4096 f=0.125"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=4096 f=0.125",
+      "lower": 8.847224743138403e-06,
+      "target": 3.725290298461914e-09
+    },
+    {
+      "name": "positive exact conditional variance n=4096 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=4096 f=0.5"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=4096 f=0.5",
+      "lower": 8.847224372607106e-06,
+      "target": 3.725290298461914e-09
+    },
+    {
+      "name": "positive exact conditional variance n=4096 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=4096 f=1"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=4096 f=1",
+      "lower": 8.847223878565421e-06,
+      "target": 3.725290298461914e-09
+    },
+    {
+      "name": "positive exact conditional variance n=4096 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=4096 f=2"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=4096 f=2",
+      "lower": 8.847222890482135e-06,
+      "target": 3.725290298461914e-09
+    },
+    {
+      "name": "positive exact conditional variance n=16384 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=16384 f=0"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=16384 f=0",
+      "lower": 3.542958145456997e-05,
+      "target": 1.4901161193847656e-08
+    },
+    {
+      "name": "positive exact conditional variance n=16384 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=16384 f=0.125"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=16384 f=0.125",
+      "lower": 3.542958142364109e-05,
+      "target": 1.4901161193847656e-08
+    },
+    {
+      "name": "positive exact conditional variance n=16384 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=16384 f=0.5"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=16384 f=0.5",
+      "lower": 3.5429581330854564e-05,
+      "target": 1.4901161193847656e-08
+    },
+    {
+      "name": "positive exact conditional variance n=16384 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=16384 f=1"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=16384 f=1",
+      "lower": 3.542958120713917e-05,
+      "target": 1.4901161193847656e-08
+    },
+    {
+      "name": "positive exact conditional variance n=16384 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=16384 f=2"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=16384 f=2",
+      "lower": 3.5429580959708396e-05,
+      "target": 1.4901161193847656e-08
+    },
+    {
+      "name": "positive exact conditional variance n=65536 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=65536 f=0"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=65536 f=0",
+      "lower": 0.00014175903186957472,
+      "target": 5.960464477539063e-08
+    },
+    {
+      "name": "positive exact conditional variance n=65536 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=65536 f=0.125"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=65536 f=0.125",
+      "lower": 0.00014175903186183924,
+      "target": 5.960464477539063e-08
+    },
+    {
+      "name": "positive exact conditional variance n=65536 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=65536 f=0.5"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=65536 f=0.5",
+      "lower": 0.00014175903183863287,
+      "target": 5.960464477539063e-08
+    },
+    {
+      "name": "positive exact conditional variance n=65536 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=65536 f=1"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=65536 f=1",
+      "lower": 0.00014175903180769115,
+      "target": 5.960464477539063e-08
+    },
+    {
+      "name": "positive exact conditional variance n=65536 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=65536 f=2"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=65536 f=2",
+      "lower": 0.00014175903174580792,
+      "target": 5.960464477539063e-08
+    },
+    {
+      "name": "positive exact conditional variance n=1000000 f=0"
+    },
+    {
+      "name": "printed sd coefficient bound n=1000000 f=0"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1000000 f=0",
+      "lower": 0.002163264668011249,
+      "target": 9.094947017729282e-07
+    },
+    {
+      "name": "positive exact conditional variance n=1000000 f=0.125"
+    },
+    {
+      "name": "printed sd coefficient bound n=1000000 f=0.125"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1000000 f=0.125",
+      "lower": 0.0021632646680107416,
+      "target": 9.094947017729282e-07
+    },
+    {
+      "name": "positive exact conditional variance n=1000000 f=0.5"
+    },
+    {
+      "name": "printed sd coefficient bound n=1000000 f=0.5"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1000000 f=0.5",
+      "lower": 0.0021632646680092215,
+      "target": 9.094947017729282e-07
+    },
+    {
+      "name": "positive exact conditional variance n=1000000 f=1"
+    },
+    {
+      "name": "printed sd coefficient bound n=1000000 f=1"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1000000 f=1",
+      "lower": 0.0021632646680071928,
+      "target": 9.094947017729282e-07
+    },
+    {
+      "name": "positive exact conditional variance n=1000000 f=2"
+    },
+    {
+      "name": "printed sd coefficient bound n=1000000 f=2"
+    },
+    {
+      "name": "robust actual-leaf variance lower n=1000000 f=2",
+      "lower": 0.0021632646680031374,
+      "target": 9.094947017729282e-07
+    },
+    {
+      "name": "nonzero analytic limiting variance",
+      "value": 2.163278239334616e-09
+    },
+    {
+      "name": "large-n exact moment agrees with limit 0"
+    },
+    {
+      "name": "large-n exact moment agrees with limit 0.125"
+    },
+    {
+      "name": "large-n exact moment agrees with limit 0.5"
+    },
+    {
+      "name": "large-n exact moment agrees with limit 1"
+    },
+    {
+      "name": "large-n exact moment agrees with limit 2"
+    },
+    {
+      "name": "explicit leaf-error constant at n=128"
+    },
+    {
+      "name": "sealed source manifest unchanged"
+    }
+  ],
+  "exact_moment_records": [
+    {
+      "n": 16,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 1.4405438853574869e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 16,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 1.4394413275015232e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 16,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 1.4361410361302957e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 16,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 1.431757814080362e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 16,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 1.423049851292629e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 32,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 1.7719445873611627e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 32,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 1.7715732302687779e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 32,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 1.7704597197819234e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 32,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 1.768976346681515e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 32,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 1.7660140773284396e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 64,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 1.9596000046024963e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 64,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 1.959492673967794e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 64,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 1.95917072066467e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 64,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 1.9587415396476124e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 64,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 1.95788348627184e-09,
+      "robust_actual_lower_over_n": 0.0
+    },
+    {
+      "n": 128,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 2.059368617646797e-09,
+      "robust_actual_lower_over_n": 2.023332672897115e-09
+    },
+    {
+      "n": 128,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 2.059339793213835e-09,
+      "robust_actual_lower_over_n": 2.023304101770801e-09
+    },
+    {
+      "n": 128,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 2.0592533224464224e-09,
+      "robust_actual_lower_over_n": 2.0232183909117222e-09
+    },
+    {
+      "n": 128,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 2.0591380339964322e-09,
+      "robust_actual_lower_over_n": 2.0231041156457543e-09
+    },
+    {
+      "n": 128,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 2.058907477345972e-09,
+      "robust_actual_lower_over_n": 2.022875585270461e-09
+    },
+    {
+      "n": 256,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 2.1107971800004293e-09,
+      "robust_actual_lower_over_n": 2.1107971758846735e-09
+    },
+    {
+      "n": 256,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 2.1107897128742252e-09,
+      "robust_actual_lower_over_n": 2.1107897087584764e-09
+    },
+    {
+      "n": 256,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 2.1107673116576802e-09,
+      "robust_actual_lower_over_n": 2.1107673075419534e-09
+    },
+    {
+      "n": 256,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 2.1107374437471003e-09,
+      "robust_actual_lower_over_n": 2.110737439631403e-09
+    },
+    {
+      "n": 256,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 2.1106777092224357e-09,
+      "robust_actual_lower_over_n": 2.1106777051067965e-09
+    },
+    {
+      "n": 512,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 2.1369050594417413e-09,
+      "robust_actual_lower_over_n": 2.136905059441741e-09
+    },
+    {
+      "n": 512,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 2.1369031592546382e-09,
+      "robust_actual_lower_over_n": 2.136903159254638e-09
+    },
+    {
+      "n": 512,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 2.136897458703587e-09,
+      "robust_actual_lower_over_n": 2.136897458703587e-09
+    },
+    {
+      "n": 512,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 2.1368898579927687e-09,
+      "robust_actual_lower_over_n": 2.1368898579927683e-09
+    },
+    {
+      "n": 512,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 2.1368746566531486e-09,
+      "robust_actual_lower_over_n": 2.1368746566531486e-09
+    },
+    {
+      "n": 1024,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 2.1500583501773515e-09,
+      "robust_actual_lower_over_n": 2.1500583501773515e-09
+    },
+    {
+      "n": 1024,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 2.1500578709054213e-09,
+      "robust_actual_lower_over_n": 2.1500578709054213e-09
+    },
+    {
+      "n": 1024,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 2.1500564330902834e-09,
+      "robust_actual_lower_over_n": 2.1500564330902834e-09
+    },
+    {
+      "n": 1024,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 2.150054516004939e-09,
+      "robust_actual_lower_over_n": 2.150054516004939e-09
+    },
+    {
+      "n": 1024,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 2.1500506818393992e-09,
+      "robust_actual_lower_over_n": 2.1500506818393992e-09
+    },
+    {
+      "n": 4096,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 2.159967008459186e-09,
+      "robust_actual_lower_over_n": 2.1599670084591855e-09
+    },
+    {
+      "n": 4096,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 2.1599669783052737e-09,
+      "robust_actual_lower_over_n": 2.159966978305274e-09
+    },
+    {
+      "n": 4096,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 2.1599668878435322e-09,
+      "robust_actual_lower_over_n": 2.159966887843532e-09
+    },
+    {
+      "n": 4096,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 2.159966767227886e-09,
+      "robust_actual_lower_over_n": 2.159966767227886e-09
+    },
+    {
+      "n": 4096,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 2.159966525996615e-09,
+      "robust_actual_lower_over_n": 2.159966525996615e-09
+    },
+    {
+      "n": 16384,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 2.1624500399517806e-09,
+      "robust_actual_lower_over_n": 2.1624500399517802e-09
+    },
+    {
+      "n": 16384,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 2.1624500380640312e-09,
+      "robust_actual_lower_over_n": 2.1624500380640312e-09
+    },
+    {
+      "n": 16384,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 2.1624500324007913e-09,
+      "robust_actual_lower_over_n": 2.1624500324007913e-09
+    },
+    {
+      "n": 16384,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 2.1624500248498023e-09,
+      "robust_actual_lower_over_n": 2.1624500248498027e-09
+    },
+    {
+      "n": 16384,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 2.162450009747827e-09,
+      "robust_actual_lower_over_n": 2.162450009747827e-09
+    },
+    {
+      "n": 65536,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 2.1630711650020553e-09,
+      "robust_actual_lower_over_n": 2.1630711650020557e-09
+    },
+    {
+      "n": 65536,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 2.163071164884021e-09,
+      "robust_actual_lower_over_n": 2.1630711648840216e-09
+    },
+    {
+      "n": 65536,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 2.16307116452992e-09,
+      "robust_actual_lower_over_n": 2.1630711645299205e-09
+    },
+    {
+      "n": 65536,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 2.1630711640577877e-09,
+      "robust_actual_lower_over_n": 2.1630711640577873e-09
+    },
+    {
+      "n": 65536,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 2.1630711631135242e-09,
+      "robust_actual_lower_over_n": 2.1630711631135242e-09
+    },
+    {
+      "n": 1000000,
+      "price_panel_fraction": 0,
+      "var_ideal_over_n": 2.163264668011249e-09,
+      "robust_actual_lower_over_n": 2.163264668011249e-09
+    },
+    {
+      "n": 1000000,
+      "price_panel_fraction": 0.125,
+      "var_ideal_over_n": 2.163264668010742e-09,
+      "robust_actual_lower_over_n": 2.1632646680107416e-09
+    },
+    {
+      "n": 1000000,
+      "price_panel_fraction": 0.5,
+      "var_ideal_over_n": 2.163264668009222e-09,
+      "robust_actual_lower_over_n": 2.1632646680092217e-09
+    },
+    {
+      "n": 1000000,
+      "price_panel_fraction": 1,
+      "var_ideal_over_n": 2.1632646680071926e-09,
+      "robust_actual_lower_over_n": 2.1632646680071926e-09
+    },
+    {
+      "n": 1000000,
+      "price_panel_fraction": 2,
+      "var_ideal_over_n": 2.1632646680031374e-09,
+      "robust_actual_lower_over_n": 2.1632646680031374e-09
+    }
+  ]
+}

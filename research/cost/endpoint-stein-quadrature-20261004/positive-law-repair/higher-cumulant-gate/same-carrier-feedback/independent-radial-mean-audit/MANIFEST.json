@@ -1,0 +1,89 @@
+{
+  "artifacts": [
+    {
+      "bytes": 17915,
+      "path": "INDEPENDENT-CANONICAL-RADIAL-MEAN-AUDIT.md",
+      "sha256": "ffc4b21539b0eadb5cd639b968befb59cc8d0ee3b57e268296b5576e233bc66d"
+    },
+    {
+      "bytes": 11028,
+      "path": "check_independent_radial_mean_audit.py",
+      "sha256": "07982cf0e721f4620bbba8963b8eb9668923caff04fbc41950cc20c03e21d824"
+    },
+    {
+      "bytes": 6756,
+      "path": "independent_radial_mean_checks.json",
+      "sha256": "77cac951002218b59b13dffb0d176ca8e74a756ec9e86a43a64abb889bf1a6d1"
+    }
+  ],
+  "canonical_sha256": "2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035",
+  "checker": {
+    "E_h_S": -0.0018295069327453435,
+    "command": "python check_independent_radial_mean_audit.py",
+    "exit_code": 0,
+    "limitations": "Floating-point diagnostics corroborate the separately supplied analytical proof; they are not an interval certificate or proof of uniform remainders.",
+    "repeat_results_identical": true,
+    "symbolic_identity_residuals": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  "date_utc": "2026-10-05",
+  "inputs": [
+    {
+      "bytes": 12070,
+      "path": "positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md",
+      "role": "canonical exact text",
+      "sha256": "2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035"
+    },
+    {
+      "bytes": 9371,
+      "path": "positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-SHELL-REFUTES-THE-UNSHIFTED-MEAN-COVARIANCE-REDUCTION.md",
+      "role": "comparison only, read after independent canonical derivation",
+      "sha256": "9f8037bd618c82e188acbbc807935ee2b606c011d405603e31c27649d0dd0060"
+    },
+    {
+      "bytes": 4031,
+      "path": "positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-mean-separator-audit/INDEPENDENT-RADIAL-PARALLEL-PROOF-AUDIT.md",
+      "role": "comparison only",
+      "sha256": "6d6d6885ef698a71758ef498424b4ac735b29ccf23b49cabf18ab2f3df622e3e"
+    },
+    {
+      "bytes": 12317,
+      "path": "ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "role": "positive finite quadrature existence premise",
+      "sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+    },
+    {
+      "bytes": 8566,
+      "path": "positive-law-repair/higher-cumulant-gate/same-carrier-feedback/P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md",
+      "role": "full-m3 scope boundary",
+      "sha256": "87b61a6a4ca03f81f7d910cdaa83b3783cd4792b3a428b89c8f0f629062e4467"
+    }
+  ],
+  "inputs_relative_to": "research/cost/endpoint-stein-quadrature-20261004",
+  "reviewed_claim": "The unshifted single-history covariance-at-x formula with uniform O(Lambda A^4 sqrt(D)) remainder is false for the canonical smooth same-g family at A=D^(-1/2).",
+  "schema_version": 1,
+  "scope_exclusions": [
+    "No refutation of full m3, the literal F3_Q source, or every positive compiler",
+    "No proof of a general centered or resummed fourth-order theorem",
+    "No native original-VALUE consumer or complete-cost theorem",
+    "No Markov path grid or substitution of a simulated cheap history for the true history",
+    "No explicit sufficiently-large-D threshold for the complete residual bound"
+  ],
+  "seal": "SHA256SUMS hashes all three artifacts and this manifest; it intentionally does not self-hash.",
+  "source_mutation": "No reviewed source file was edited.",
+  "title": "Independent exact-text audit of the canonical same-g radial-shell separator",
+  "validated_components": [
+    "Global C-infinity anchored convex gradient and Hessian sandwich",
+    "Exact linear-plus-bounded-nonlinear decompositions for the true OU history and finite common-root rule",
+    "Conditional mean quadrature floor, with exact linear first moment",
+    "Uniform radial Lp estimates and correlation-safe cancellation",
+    "Conditional first-chaos Bessel bound for actual covariance remainders",
+    "Exact D2f HS-to-vector norm and O(A^3) covariance-current remainder",
+    "Nonzero linear R1 witness and fixed-polylogarithmic separation",
+    "Centered evaluation restores the leading location for this family"
+  ],
+  "verdict": "PASS"
+}

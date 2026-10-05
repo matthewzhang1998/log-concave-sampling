@@ -1,3 +1,19 @@
+# V12 publication verification
+
+Verified 2026-10-05T02:33:48.678151+00:00. The fixed V12 candidate contains 697 research files and 148 diagnostics. All 148 public checks and all 17 new exact-original checks pass from separate disposable copies. Archived source and saved-result bytes remained unchanged. No imported full mean compiler or nonlinear sampler was executed; no TeX/PDF build is claimed.
+
+Six exact source seals select 96 additions; two additional exact provenance dependencies make 98. All 276 new structured manifest/checksum records verify against original bytes and map to bundled current or explicitly historical original/public copies, except the intentionally external LOW30 records, whose exact original hash was checked locally without redistribution. No record is unresolved. All 36 new mathematical Markdown files retain exact original bytes. All 598 inherited nonutility research files retain V11 bytes; only the public immutable scoped-manifest validator is extended with the explicit V12 selection.
+
+The public adapters preserve every new mathematical assertion. The tight-bridge checker has 4,609 default checks versus 4,610 original checks, and the bounded-remainder checker has 1,435 versus 1,436, solely because each declines to claim verification of the absent external LOW30 hash. Correct optional original bytes restore both counts, and wrong supplied bytes reject. The p3 radial-corollary checker preserves all eight source-pin assertions through explicit original/public mapping, including an inherited sanitized audit. An initial raw-public-hash failure during curation identified that necessary adapter; the final suite passes all 148 scripts. Exact-body and assertion/function-AST comparisons, mutation rejection, wrong-pin rejection and immutable-output guards pass 17 adapter tests.
+
+Four new saved-result comparisons differ. Two report the explicit external omission/status; the modulated audit records its honestly changed report-only script hash and a floating-point difference of 3.3881317890172014e-21; the matrix-free independent audit reads the final README rather than its previously audited pre-final version. Both README versions are bundled with exact distinct hashes. The only README change is the contents bullet recording PASS and 1,540 assertions; the final theorem is unchanged. Saved historical audit evidence is preserved rather than rewritten to match reruns. Nine inherited comparisons remain as recorded in V11.
+
+Current mathematical scope and links are in ../STATUS-V12.md. Full same-carrier covariance is boundedly closed. Unshifted and centered covariance truncations are refuted in their specified scopes. The bounded/RMS/matrix-free m3 consumers remain residual-qualified components. Matrix quadratics are exact for the four-VALUE graph, but its smooth sine-source A² bias rules out unrestricted C² closure for that graph. General m3, conditional-rescaling grades, the fourth-order endpoint and all-order o(P) complete cost remain open. The six-tree uniform-test variance counterexample is not an arbitrary weighted-global lower bound or a general impossibility theorem.
+
+The review combines exact selection, six-seal closure, original/public provenance, finite reruns and deterministic disclosure scans. It is not a new universal mathematical proof or a universal secret detector. Original source work and V11 are preserved. No external upload, publication or message is performed by this curation.
+
+# Historical V11 and earlier verification
+
 # V11 publication verification
 
 Verified 2026-10-05T00:48:04.424146+00:00. The local candidate contains 599 research files, including the 135-file explicit addition (134 bounded-package files and one host dependency manifest), with 131 diagnostic scripts. All 131 public checks pass in disposable copies; no archived research bytes were execution outputs.

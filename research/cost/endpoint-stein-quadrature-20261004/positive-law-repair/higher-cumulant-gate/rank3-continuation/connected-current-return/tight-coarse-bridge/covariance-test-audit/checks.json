@@ -1,0 +1,97 @@
+{
+  "status": "PASS",
+  "source_sha256": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f",
+  "seed": 20261005,
+  "numpy_version": "2.3.5",
+  "tolerance": 1e-10,
+  "checks": [
+    {
+      "label": "random_rank_1",
+      "rank": 1,
+      "dimension": 2,
+      "samples": 9,
+      "K": 0.0,
+      "v_squared": 0.8225403051571166,
+      "h_squared": 1.1939423929707245,
+      "T_HS_squared": 0.8145120644402692,
+      "cut_counts": {
+        "both_split": 0,
+        "one_whole": 0,
+        "balanced_whole": 2
+      },
+      "largest_ratio_to_sharper_case_bound": 1.0
+    },
+    {
+      "label": "random_rank_2",
+      "rank": 2,
+      "dimension": 2,
+      "samples": 9,
+      "K": 2.810837098929108,
+      "v_squared": 1.4396324240813974,
+      "h_squared": 3.045823860637456,
+      "T_HS_squared": 3.202295129119599,
+      "cut_counts": {
+        "both_split": 4,
+        "one_whole": 8,
+        "balanced_whole": 2
+      },
+      "largest_ratio_to_sharper_case_bound": 0.9999999999999999
+    },
+    {
+      "label": "random_rank_3",
+      "rank": 3,
+      "dimension": 2,
+      "samples": 9,
+      "K": 3.8060574598121084,
+      "v_squared": 3.1952931812844603,
+      "h_squared": 7.21139501795036,
+      "T_HS_squared": 14.855687332767646,
+      "cut_counts": {
+        "both_split": 36,
+        "one_whole": 24,
+        "balanced_whole": 2
+      },
+      "largest_ratio_to_sharper_case_bound": 0.9999999999999999
+    },
+    {
+      "label": "random_rank_4",
+      "rank": 4,
+      "dimension": 2,
+      "samples": 9,
+      "K": 3.878011087848088,
+      "v_squared": 3.732484520721169,
+      "h_squared": 11.44609438334207,
+      "T_HS_squared": 26.876257131536747,
+      "cut_counts": {
+        "both_split": 196,
+        "one_whole": 56,
+        "balanced_whole": 2
+      },
+      "largest_ratio_to_sharper_case_bound": 0.9999999999999997
+    },
+    {
+      "label": "diagonal_sign_balanced_necessity",
+      "rank": 3,
+      "dimension": 5,
+      "samples": 2,
+      "K": 1.0,
+      "v_squared": 5.0,
+      "h_squared": 5.0,
+      "T_HS_squared": 25.0,
+      "cut_counts": {
+        "both_split": 36,
+        "one_whole": 24,
+        "balanced_whole": 2
+      },
+      "largest_ratio_to_sharper_case_bound": 1.0000000000000002
+    }
+  ],
+  "empty_cut_orientation": {
+    "whole_left_covariance_gram": 1.0000000000000002,
+    "whole_left_scalar_gram": 8.000000000000002,
+    "whole_right_covariance_gram": 1.0000000000000002,
+    "whole_right_scalar_gram": 8.000000000000002
+  },
+  "source_specific_variance": "OPEN; not tested or established",
+  "positive_grouped_producer": "OPEN; not tested or established"
+}

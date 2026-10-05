@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "scope": "Independent finite diagnostics and pin verification for a bounded candidate/failure audit; not a native compiler or closure proof.",
+  "checks": 4610,
+  "groups": {
+    "source_pins": 8,
+    "native_topology": 4,
+    "amplitude_ledger": 320,
+    "wick_exact_cumulants": 3329,
+    "retained_R_channel": 32,
+    "bounded_reroot": 420,
+    "original_gradient_witness": 35,
+    "grouped_tensor_cuts": 316,
+    "width_ledger": 116,
+    "joint_score": 30
+  },
+  "source_sha256": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+  "source_pins": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/REVIEWED-TIGHT-BRIDGE-SOURCE.md": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/check_tight_bridge.py": "743db9d0b096f7eb9618e354488202d73339af75f17925deda19e15de7340910",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/INTERMEDIATE-SCALE-B-MARK-COROLLARY.md": "070cac5569e9c6a1386bc26c5f98146bc8e25b5e00850cd146950c769e2235c7",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/CONDITIONAL-QUARTIC-PACKET-AND-CYCLE-RETURN.md": "ccaae83e8308c578921cc3a0f85239758bdaafd44c209a9a75cd39f9fd02e02b",
+    "external:LOW30": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5"
+  },
+  "open": [
+    "tight whole-coarse positive current compiler",
+    "all-proper-cut higher joint physical-R score return",
+    "source-qualified all-order closure"
+  ]
+}

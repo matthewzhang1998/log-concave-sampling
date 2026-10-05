@@ -1,0 +1,13 @@
+{
+  "date_utc": "2026-10-05T01:06:00.420841+00:00",
+  "status": "PASS",
+  "main_proof_sha256": "8d0086e37b9cb1273ff483dc3dd9ddbeee297c9e93b7675b4aad11f2d6bd4dc3",
+  "deterministic_checks_passed": 514,
+  "files_sha256": {
+    "AUDIT.md": "3d1872930f89446309cb6275636b13e69d2b2c67c8473fad984b7263cbcf6cb2",
+    "INDEPENDENT-MODULATED-JET-AUDIT.md": "0bcb72bc1a579d7694633cfdcde808480897b7f4709b58c19f909eb4aac98c8b",
+    "check_modulated_jet_audit.py": "1e10aaab4019d4c4af74a3d05012c7c7ac76f83ba24dd2d0e235df69d1f592f4",
+    "modulated_jet_audit_checks.json": "7d34313307079b3a6e4e50c0d0ab1cf9129e2ddf9f9f7d2b0e17ef445d43af00"
+  },
+  "scope": "Source-qualified fixed-node normalized six-tree scalar-test counterexample; Sections 7\u20138 audited; no original-clock aggregate or general-program impossibility claim."
+}

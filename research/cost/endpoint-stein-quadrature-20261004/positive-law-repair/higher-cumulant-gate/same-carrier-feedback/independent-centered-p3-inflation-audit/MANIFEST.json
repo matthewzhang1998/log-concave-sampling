@@ -1,0 +1,76 @@
+{
+  "audit": "Independent exact-text centered actual-P3 covariance-correction audit",
+  "date_utc": "2026-10-05",
+  "verdict": "PASS for the two precisely stated C1/C2 centered covariance-derivative candidates; no general resummed impossibility",
+  "primary_input_sha256": "810128a4b47c568273f05442a510498ac5f77eedf1cb864366368ebb4bd356af",
+  "assertions": 473,
+  "inputs": [
+    {
+      "path_relative_to_parent": "RADIAL-INFLATION-REFUTES-CENTERED-P3-COVARIANCE-CORRECTION.md",
+      "sha256": "810128a4b47c568273f05442a510498ac5f77eedf1cb864366368ebb4bd356af",
+      "bytes": 12661
+    },
+    {
+      "path_relative_to_parent": "RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md",
+      "sha256": "c6024a6ba2ca4fbb293063d0746ee92fa083398a3bf4c01fb4de1908f322dfaf",
+      "bytes": 15634
+    },
+    {
+      "path_relative_to_parent": "P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md",
+      "sha256": "87b61a6a4ca03f81f7d910cdaa83b3783cd4792b3a428b89c8f0f629062e4467",
+      "bytes": 8566
+    },
+    {
+      "path_relative_to_parent": "resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md",
+      "sha256": "798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3",
+      "bytes": 10537
+    },
+    {
+      "path_relative_to_parent": "../../../ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f",
+      "bytes": 12317
+    }
+  ],
+  "outputs": [
+    {
+      "path": "REPORT.md",
+      "sha256": "975f6ae0bdcc09218ae238603140a0c505599360ef993febf540c796d4fde5b9",
+      "bytes": 16718
+    },
+    {
+      "path": "check_centered_p3_inflation.py",
+      "sha256": "81cc6edb445f0e568405725042b01cfb60918ae9c04116e557da38a24c8008ae",
+      "bytes": 13731
+    },
+    {
+      "path": "checks.json",
+      "sha256": "1034b0f5c0c08cb9fc318c5a35b6965faaba4c0daab6f5c8f81f5ec579268cf7",
+      "bytes": 8577
+    },
+    {
+      "path": "checker.log",
+      "sha256": "1034b0f5c0c08cb9fc318c5a35b6965faaba4c0daab6f5c8f81f5ec579268cf7",
+      "bytes": 8577
+    }
+  ],
+  "command": "python check_centered_p3_inflation.py > checker.log 2>&1",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "sympy": "1.14.0"
+  },
+  "scope": [
+    "Actual canonical m3 and literal finite F3_Q conditional target",
+    "Actual F2 and first-displacement covariance choices",
+    "Uniform coherent centers and theta-averaged centered currents",
+    "Finite outer-clock and coherent-mean floors",
+    "No source edits, external sends, or uploads"
+  ],
+  "numerical_limitations": [
+    "No OU path simulation or path-grid construction",
+    "No finite-D threshold or numerical lower-bound proof",
+    "No numerical certification of the imported OWN-mean compiler",
+    "No generic resummed-current impossibility claim"
+  ]
+}

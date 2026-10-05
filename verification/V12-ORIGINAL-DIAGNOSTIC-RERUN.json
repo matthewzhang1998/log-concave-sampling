@@ -1,0 +1,497 @@
+{
+  "scope": "Original diagnostics executed from disposable copies; absolute source-only reads retained and checked against final source freeze. No imported compiler was executed.",
+  "script_count": 17,
+  "passed_count": 17,
+  "all_pass": true,
+  "original_copy_unchanged": true,
+  "results": [
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/check_tight_bridge.py",
+      "script_sha256": "743db9d0b096f7eb9618e354488202d73339af75f17925deda19e15de7340910",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": 195,\n  \"scope\": \"finite matrix, scalar Gaussian, amplitude and endpoint-ledger diagnostics only\",\n  \"open\": \"positive whole-coarse compiler, higher joint physical tilts and full source-qualified closure\"\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.108
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/covariance-test-audit/check_covariance_tensor.py",
+      "script_sha256": "2479d72253a76f73856237c2c94ef37595754b575b8bcdcebf7a7e4988feabd0",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"source_sha256\": \"e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f\",\n  \"families\": 5,\n  \"proper_cuts_checked\": 394,\n  \"source_specific_variance\": \"OPEN\",\n  \"positive_grouped_producer\": \"OPEN\"\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.212
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/check_tight_bridge_independent.py",
+      "script_sha256": "42d043fd5c87a699a4b13b47d912777e31908f417d41de2be2467b6f4722d585",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"scope\": \"Independent finite diagnostics and pin verification for a bounded candidate/failure audit; not a native compiler or closure proof.\",\n  \"checks\": 4610,\n  \"groups\": {\n    \"source_pins\": 8,\n    \"native_topology\": 4,\n    \"amplitude_ledger\": 320,\n    \"wick_exact_cumulants\": 3329,\n    \"retained_R_channel\": 32,\n    \"bounded_reroot\": 420,\n    \"original_gradient_witness\": 35,\n    \"grouped_tensor_cuts\": 316,\n    \"width_ledger\": 116,\n    \"joint_score\": 30\n  },\n  \"source_sha256\": \"d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a\",\n  \"versions\": {\n    \"python\": \"3.12.14\",\n    \"numpy\": \"2.3.5\"\n  },\n  \"open\": [\n    \"tight whole-coarse positive current compiler\",\n    \"all-proper-cut higher joint physical-R score return\",\n    \"source-qualified all-order closure\"\n  ]\n}\n",
+      "stderr": "",
+      "changed_result_files": [
+        {
+          "path": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/tight_bridge_independent_checks.json",
+          "saved_sha256": "3169c996a4d9b17f398e300def2102c2262c19cc148030a6d01b533c6f7ae5c9",
+          "rerun_sha256": "c0bbb13c9446d5fdfd5cd9f626a5f93a0024ec9b313cc201a54e9b6f445c202a",
+          "json_differences": [
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+              "saved": null,
+              "rerun": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/CONDITIONAL-QUARTIC-PACKET-AND-CYCLE-RETURN.md",
+              "saved": null,
+              "rerun": "ccaae83e8308c578921cc3a0f85239758bdaafd44c209a9a75cd39f9fd02e02b"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md",
+              "saved": null,
+              "rerun": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/check_tight_bridge.py",
+              "saved": null,
+              "rerun": "743db9d0b096f7eb9618e354488202d73339af75f17925deda19e15de7340910"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/REVIEWED-TIGHT-BRIDGE-SOURCE.md",
+              "saved": null,
+              "rerun": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/INTERMEDIATE-SCALE-B-MARK-COROLLARY.md",
+              "saved": null,
+              "rerun": "070cac5569e9c6a1386bc26c5f98146bc8e25b5e00850cd146950c769e2235c7"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md",
+              "saved": null,
+              "rerun": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+              "saved": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/CONDITIONAL-QUARTIC-PACKET-AND-CYCLE-RETURN.md",
+              "saved": "ccaae83e8308c578921cc3a0f85239758bdaafd44c209a9a75cd39f9fd02e02b",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md",
+              "saved": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/check_tight_bridge.py",
+              "saved": "743db9d0b096f7eb9618e354488202d73339af75f17925deda19e15de7340910",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/REVIEWED-TIGHT-BRIDGE-SOURCE.md",
+              "saved": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/INTERMEDIATE-SCALE-B-MARK-COROLLARY.md",
+              "saved": "070cac5569e9c6a1386bc26c5f98146bc8e25b5e00850cd146950c769e2235c7",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md",
+              "saved": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668",
+              "rerun": null
+            }
+          ]
+        }
+      ],
+      "elapsed_seconds": 0.149
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/check_modulated_six_tree.py",
+      "script_sha256": "608c6b927fa2a246735c9df772e17cfb93d509f9a4f2794085b5d31670749215",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\"status\": \"PASS\", \"assertions\": 313, \"limiting_variance_over_n\": 2.163278239334616e-09, \"report\": \"research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/checks.json\"}\n",
+      "stderr": "",
+      "changed_result_files": [
+        {
+          "path": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/checks.json",
+          "saved_sha256": "7229718b0a60a68ce88c85b6090ac10fae5bf3038b7532e25d61de29a1413f16",
+          "rerun_sha256": "988711fc27ad5dfb6e6f7805726bcf2097a49d87dcfe38a2b8623956753becb8",
+          "json_differences": [
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+              "saved": null,
+              "rerun": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/COVARIANCE-TEST-PORT-REDUCTION.md",
+              "saved": null,
+              "rerun": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/SEALED-MANIFEST.json",
+              "saved": null,
+              "rerun": "c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md",
+              "saved": null,
+              "rerun": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md",
+              "saved": null,
+              "rerun": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668"
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+              "saved": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/COVARIANCE-TEST-PORT-REDUCTION.md",
+              "saved": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/SEALED-MANIFEST.json",
+              "saved": "c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md",
+              "saved": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+              "rerun": null
+            },
+            {
+              "key": "$.source_pins.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md",
+              "saved": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668",
+              "rerun": null
+            }
+          ]
+        }
+      ],
+      "elapsed_seconds": 0.484
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/check_modulated_jet_audit.py",
+      "script_sha256": "1e10aaab4019d4c4af74a3d05012c7c7ac76f83ba24dd2d0e235df69d1f592f4",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\"status\": \"PASS\", \"check_count\": 514, \"report\": \"research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/modulated_jet_audit_checks.json\"}\n",
+      "stderr": "",
+      "changed_result_files": [
+        {
+          "path": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/modulated_jet_audit_checks.json",
+          "saved_sha256": "7d34313307079b3a6e4e50c0d0ab1cf9129e2ddf9f9f7d2b0e17ef445d43af00",
+          "rerun_sha256": "084bea48f7dab92249ada671859480a259fa6f5a28353c36958b96423e144348",
+          "json_differences": [
+            {
+              "key": "$.checks[56].actual",
+              "saved": 2.4554735705776545e-05,
+              "rerun": 2.455473570577655e-05
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+              "saved": null,
+              "rerun": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26"
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/COVARIANCE-TEST-PORT-REDUCTION.md",
+              "saved": null,
+              "rerun": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f"
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md",
+              "saved": null,
+              "rerun": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a"
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/MODULATED-C2-SIX-TREE-COUNTEREXAMPLE.md",
+              "saved": null,
+              "rerun": "8d0086e37b9cb1273ff483dc3dd9ddbeee297c9e93b7675b4aad11f2d6bd4dc3"
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/INDEPENDENT-MODULATED-JET-AUDIT.md",
+              "saved": null,
+              "rerun": "0bcb72bc1a579d7694633cfdcde808480897b7f4709b58c19f909eb4aac98c8b"
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/check_modulated_jet_audit.py",
+              "saved": null,
+              "rerun": "1e10aaab4019d4c4af74a3d05012c7c7ac76f83ba24dd2d0e235df69d1f592f4"
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md",
+              "saved": null,
+              "rerun": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668"
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+              "saved": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+              "rerun": null
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/COVARIANCE-TEST-PORT-REDUCTION.md",
+              "saved": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f",
+              "rerun": null
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md",
+              "saved": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+              "rerun": null
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/MODULATED-C2-SIX-TREE-COUNTEREXAMPLE.md",
+              "saved": "8d0086e37b9cb1273ff483dc3dd9ddbeee297c9e93b7675b4aad11f2d6bd4dc3",
+              "rerun": null
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/INDEPENDENT-MODULATED-JET-AUDIT.md",
+              "saved": "0bcb72bc1a579d7694633cfdcde808480897b7f4709b58c19f909eb4aac98c8b",
+              "rerun": null
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/check_modulated_jet_audit.py",
+              "saved": "1e10aaab4019d4c4af74a3d05012c7c7ac76f83ba24dd2d0e235df69d1f592f4",
+              "rerun": null
+            },
+            {
+              "key": "$.sources_sha256.research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md",
+              "saved": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668",
+              "rerun": null
+            }
+          ]
+        }
+      ],
+      "elapsed_seconds": 0.232
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_centered_radial_inflation_constants.py",
+      "script_sha256": "555c6a5bca6d4503bd41b04090254846b58c66c72972336b5e257da2ac495f8f",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"Scalar diagnostic PASS; analytical source proof and independent audit remain distinct\",\n  \"c\": 0.5,\n  \"d\": 0.25,\n  \"bump_normalization\": 0.8879876323361587,\n  \"bump_supremum\": 0.4142844199345527,\n  \"minimum_beta\": 0.5833333333333334,\n  \"minimum_covariance_gap\": 0.09027777777777785,\n  \"h_H\": 0.03125,\n  \"h_Q_min\": 0.04253472222222223,\n  \"h_Q_continuous_common_root\": 0.07710628438351061,\n  \"m_0\": 0.35550641501885816,\n  \"m_hH\": 0.35539193276536984,\n  \"m_hQ_min\": 0.35529433701153207,\n  \"uniform_limiting_shell_witness\": 1.8145100150926317e-06,\n  \"uniform_kappa_quadrature_error_estimate\": 2.01451079716878e-20,\n  \"continuous_clock_limiting_shell_witness\": 1.6717362757990184e-05,\n  \"proven_lower_constant_c_star\": 5.670343797164474e-08,\n  \"dimensions\": [\n    {\n      \"D\": 256,\n      \"A\": 0.25,\n      \"R\": 16.0,\n      \"R0\": 15.0,\n      \"radial_inflation_scale\": 1.0,\n      \"fourth_order_allowance\": 0.0625,\n      \"asymptotic_counterexample_scale\": 0.25,\n      \"scale_ratio\": 4.0,\n      \"exact_gaussian_proxy_difference_bound\": 0.03125\n    },\n    {\n      \"D\": 4096,\n      \"A\": 0.125,\n      \"R\": 64.0,\n      \"R0\": 62.0,\n      \"radial_inflation_scale\": 1.0,\n      \"fourth_order_allowance\": 0.015625,\n      \"asymptotic_counterexample_scale\": 0.125,\n      \"scale_ratio\": 8.0,\n      \"exact_gaussian_proxy_difference_bound\": 0.0078125\n    },\n    {\n      \"D\": 65536,\n      \"A\": 0.0625,\n      \"R\": 256.0,\n      \"R0\": 252.0,\n      \"radial_inflation_scale\": 1.0,\n      \"fourth_order_allowance\": 0.00390625,\n      \"asymptotic_counterexample_scale\": 0.0625,\n      \"scale_ratio\": 16.0,\n      \"exact_gaussian_proxy_difference_bound\": 0.001953125\n    },\n    {\n      \"D\": 1048576,\n      \"A\": 0.03125,\n      \"R\": 1024.0,\n      \"R0\": 1016.0,\n      \"radial_inflation_scale\": 1.0,\n      \"fourth_order_allowance\": 0.0009765625,\n      \"asymptotic_counterexample_scale\": 0.03125,\n      \"scale_ratio\": 32.0,\n      \"exact_gaussian_proxy_difference_bound\": 0.00048828125\n    }\n  ],\n  \"exclusions\": [\n    \"No OU path grid\",\n    \"No numerical proof of the source estimates\",\n    \"No generic trace/Hodge estimate\",\n    \"No general finite mean consumer\"\n  ]\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.526
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_independent_node_cuts.py",
+      "script_sha256": "273b5815aef866798e48b49cdc86b1a432ef665f466160b5b6a6cf0277506352",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS algebraic diagnostics only; no mean-current admission\",\n  \"assertions\": 960,\n  \"cases\": 96,\n  \"scope\": [\n    \"Changed independent-node covariance and raw Gaussian first\",\n    \"Marked-score independence only at the stated subset cut\",\n    \"All-inner-site posterior precision\",\n    \"Full inner-plus-terminal record has no original Gaussian innovation for invertible linear g\"\n  ]\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.243
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_radial_shell_separator_constants.py",
+      "script_sha256": "2ca6cb3345ab841feef484efce8143909e3dc8a91437b75b94b3a32c44e53d49",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 9,\n  \"scope\": \"Author scalar constants and witness diagnostics only; independent exact-text proof review pending.\",\n  \"source\": \"RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md\",\n  \"source_sha256\": \"2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035\",\n  \"bump_normalization\": 0.8879876323361573,\n  \"bump_max\": 0.41428441993455334,\n  \"radial_shift\": 0.125,\n  \"limiting_shell_h_mean\": -0.0018295069327453506,\n  \"uniform_min_abs_k\": 0.0007052951388888889,\n  \"asymptotic_min_abs_Ax_witness_per_A2\": 6.451711731144085e-07\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.418
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/check_gaussian_rms_extension.py",
+      "script_sha256": "3c6a850cc6c631cbda45ace31bc7b59aad19dd00a503f8d33bd48993e416cebe",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 1350,\n  \"groups\": {\n    \"provenance\": 3,\n    \"symbolic\": 4,\n    \"smooth_step\": 9,\n    \"scalar_obstruction\": 11,\n    \"linear_RMS\": 720,\n    \"scope\": 1,\n    \"tail_certificate\": 144,\n    \"tail_Hessian\": 272,\n    \"ancestry\": 5,\n    \"raw_counts\": 48,\n    \"raw_graph\": 133\n  },\n  \"ancestry\": {\n    \"samples\": 7000,\n    \"nodes_per_future_window\": 200,\n    \"dt\": 0.04,\n    \"max_decomposition_error\": 3.885780586188048e-16,\n    \"sigma_discrete\": 0.8810213084938835,\n    \"sigma_continuum\": 0.8838834764831844,\n    \"epsilon0_exact_quadrature\": 0.12058905126884617,\n    \"epsilon1_discrete_exact_quadrature\": 0.09494432267755902,\n    \"sampled_Delta1_RMS\": 0.08031103505875799,\n    \"sampled_R2_RMS\": 0.037190336799889964,\n    \"R2_bound\": 0.1552388483119821,\n    \"geometric_marginal_errors\": [\n      0.024606570245221504,\n      0.012411598763581555,\n      0.006229175127244746,\n      0.0031199549458365006,\n      0.0015612589839292257\n    ],\n    \"qualification\": \"Finite-window Monte Carlo diagnostic; continuum proof is in report.\"\n  }\n}\n",
+      "stderr": "",
+      "changed_result_files": [
+        {
+          "path": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/gaussian_rms_independent_checks.json",
+          "saved_sha256": "6cc97033fc57fe62ea48fcc73c654ba3384bd5ec84140be3b142c05ec84cbc48",
+          "rerun_sha256": "8c22d35b06125b6d56cac8b37b2823c8038a7a3bc05bb39c7d1fc1e23166691f",
+          "json_differences": [
+            {
+              "key": "$.audited_imports[0].path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md"
+            },
+            {
+              "key": "$.audited_imports[1].path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md"
+            },
+            {
+              "key": "$.audited_imports[2].path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/INDEPENDENT-BOUNDED-RESUMMED-M3-AUDIT.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/INDEPENDENT-BOUNDED-RESUMMED-M3-AUDIT.md"
+            },
+            {
+              "key": "$.author_files[0].path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md"
+            }
+          ]
+        }
+      ],
+      "elapsed_seconds": 1.648
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-center-inflation-audit/check_center_inflation_independent.py",
+      "script_sha256": "57d6f917e655d31b375889082d6660394dafeb0d83d72ffd289d0b7eb49a0620",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS: independent diagnostics; analytical verdict in accompanying report\",\n  \"assertions\": 723,\n  \"uniform_limiting_kappa\": 1.8145100150935224e-06,\n  \"lower_bound_c_star\": 5.6703437971672573e-08,\n  \"largest_literal_source_decomposition_error\": 6.945089780060476e-16,\n  \"largest_literal_terminal_error\": 3.745801401495556e-16,\n  \"largest_pointwise_proxy_error_over_dA2\": 0.49565063204217896\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.844
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-centered-p3-inflation-audit/check_centered_p3_inflation.py",
+      "script_sha256": "81cc6edb445f0e568405725042b01cfb60918ae9c04116e557da38a24c8008ae",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS: independent diagnostics; analytical verdict is in REPORT.md\",\n  \"assertions\": 473,\n  \"input_pins\": {\n    \"RADIAL-INFLATION-REFUTES-CENTERED-P3-COVARIANCE-CORRECTION.md\": \"810128a4b47c568273f05442a510498ac5f77eedf1cb864366368ebb4bd356af\",\n    \"RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md\": \"c6024a6ba2ca4fbb293063d0746ee92fa083398a3bf4c01fb4de1908f322dfaf\",\n    \"P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md\": \"87b61a6a4ca03f81f7d910cdaa83b3783cd4792b3a428b89c8f0f629062e4467\",\n    \"resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md\": \"798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3\",\n    \"../../../ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md\": \"4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f\"\n  },\n  \"exact_conditional_covariances\": [\n    \"1/4\",\n    \"1/4\",\n    \"5/16\"\n  ],\n  \"b_H_squared\": \"5*lambda**4/16 - lambda**3/2 + lambda**2/4\",\n  \"b_Q_squared\": \"beta_in**2*lambda**4 + beta_mid**2*lambda**2*(1 - lambda/2)**2\",\n  \"bump_normalization\": 0.8879876323361586,\n  \"bump_supremum\": 0.41428441993455273,\n  \"finite_actual_source_checks\": [\n    {\n      \"D\": 256,\n      \"A\": 0.25,\n      \"R0\": 15.0625,\n      \"n_mid\": 25,\n      \"n_in\": 55,\n      \"beta_mid\": 0.78551038165629,\n      \"beta_in\": 0.785403102711208,\n      \"bH_squared\": 0.0030059814453125,\n      \"bQ_squared\": 0.008624170414135796,\n      \"mid_certificate\": 0.0625,\n      \"inner_certificate\": 0.005859375,\n      \"outer_certificate\": 0.015625,\n      \"allowed_remainder\": 0.0703125,\n      \"gaussian_response_error_bound\": 0.017578125\n    },\n    {\n      \"D\": 4096,\n      \"A\": 0.125,\n      \"R0\": 62.0625,\n      \"n_mid\": 41,\n      \"n_in\": 85,\n      \"beta_mid\": 0.7854121419969633,\n      \"beta_in\": 0.7853983815790827,\n      \"bH_squared\": 0.0008592605590820312,\n      \"bQ_squared\": 0.002270819161179932,\n      \"mid_certificate\": 0.015625,\n      \"inner_certificate\": 0.0009765625,\n      \"outer_certificate\": 0.00146484375,\n      \"allowed_remainder\": 0.033203125,\n      \"gaussian_response_error_bound\": 0.004150390625\n    }\n  ],\n  \"largest_literal_decomposition_error\": 7.099459580465128e-16,\n  \"largest_terminal_proxy_error_over_A_epsilon_1_plus_lambda\": 0.2500120206286831,\n  \"largest_sampled_HS_to_vector_D2f_norm\": 0.4682467207439118,\n  \"uniform_limiting_kappa\": 1.8145100150935224e-06,\n  \"c_star\": 5.6703437971672573e-08,\n  \"limiting_witnesses\": [\n    {\n      \"beta\": 0.5833333333333334,\n      \"h_H\": 0.03125,\n      \"h_Q\": 0.04253472222222223,\n      \"mean_q\": 1.8145100150935224e-06,\n      \"direct_mean_q\": 1.81451001508761e-06,\n      \"quadrature_error_estimate\": 2.0145107971697687e-20\n    },\n    {\n      \"beta\": 0.6666666666666666,\n      \"h_H\": 0.03125,\n      \"h_Q\": 0.05555555555555555,\n      \"mean_q\": 5.507335443697584e-06,\n      \"direct_mean_q\": 5.5073354436573074e-06,\n      \"quadrature_error_estimate\": 6.11437061392726e-20\n    },\n    {\n      \"beta\": 0.7853981633974483,\n      \"h_H\": 0.03125,\n      \"h_Q\": 0.07710628438351061,\n      \"mean_q\": 1.6717362757993328e-05,\n      \"direct_mean_q\": 1.671736275804525e-05,\n      \"quadrature_error_estimate\": 1.8560001044935302e-19\n    },\n    {\n      \"beta\": 1.0,\n      \"h_H\": 0.03125,\n      \"h_Q\": 0.125,\n      \"mean_q\": 7.507621035488139e-05,\n      \"direct_mean_q\": 7.507621035483109e-05,\n      \"quadrature_error_estimate\": 8.335133733759092e-19\n    }\n  ],\n  \"radial_geometry_diagnostics\": [\n    {\n      \"D\": 4096,\n      \"A\": 0.125,\n      \"branch\": \"true\",\n      \"variance\": 0.0008592605590820312,\n      \"radial_error_over_A\": 0.29168573592264285,\n      \"direction_error_over_A\": 0.24178294645313023,\n      \"limiting_inflation\": 0.03125,\n      \"noise_rms\": 1.8760413774754543\n    },\n    {\n      \"D\": 4096,\n      \"A\": 0.125,\n      \"branch\": \"finite_min\",\n      \"variance\": 0.0012498739030626087,\n      \"radial_error_over_A\": 0.3313791639473656,\n      \"direction_error_over_A\": 0.2915607936145667,\n      \"limiting_inflation\": 0.04253472222222223,\n      \"noise_rms\": 2.2626275669991394\n    },\n    {\n      \"D\": 4096,\n      \"A\": 0.125,\n      \"branch\": \"finite_limit\",\n      \"variance\": 0.002270738660586174,\n      \"radial_error_over_A\": 0.4193231770371278,\n      \"direction_error_over_A\": 0.3928292839967264,\n      \"limiting_inflation\": 0.07710628438351061,\n      \"noise_rms\": 3.049745162101412\n    },\n    {\n      \"D\": 4096,\n      \"A\": 0.125,\n      \"branch\": \"finite_max\",\n      \"variance\": 0.003681182861328125,\n      \"radial_error_over_A\": 0.5169677976256806,\n      \"direction_error_over_A\": 0.499886243915533,\n      \"limiting_inflation\": 0.125,\n      \"noise_rms\": 3.8830561417522667\n    },\n    {\n      \"D\": 1048576,\n      \"A\": 0.03125,\n      \"branch\": \"true\",\n      \"variance\": 5.914643406867981e-05,\n      \"radial_error_over_A\": 0.3020575736681493,\n      \"direction_error_over_A\": 0.24801675378926752,\n      \"limiting_inflation\": 0.03125,\n      \"noise_rms\": 7.875248011967623\n    },\n    {\n      \"D\": 1048576,\n      \"A\": 0.03125,\n      \"branch\": \"finite_min\",\n      \"variance\": 8.179217990901736e-05,\n      \"radial_error_over_A\": 0.3372141453805504,\n      \"direction_error_over_A\": 0.2916546353554751,\n      \"limiting_inflation\": 0.04253472222222223,\n      \"noise_rms\": 9.260956583435524\n    },\n    {\n      \"D\": 1048576,\n      \"A\": 0.03125,\n      \"branch\": \"finite_limit\",\n      \"variance\": 0.00014829107355584817,\n      \"radial_error_over_A\": 0.42600259789120964,\n      \"direction_error_over_A\": 0.3926987340938015,\n      \"limiting_inflation\": 0.07710628438351061,\n      \"noise_rms\": 12.469741807467269\n    },\n    {\n      \"D\": 1048576,\n      \"A\": 0.03125,\n      \"branch\": \"finite_max\",\n      \"variance\": 0.00024040043354034424,\n      \"radial_error_over_A\": 0.5249655000813193,\n      \"direction_error_over_A\": 0.4999820241145217,\n      \"limiting_inflation\": 0.125,\n      \"noise_rms\": 15.876968381904652\n    },\n    {\n      \"D\": 268435456,\n      \"A\": 0.0078125,\n      \"branch\": \"true\",\n      \"variance\": 3.7849677028134465e-06,\n      \"radial_error_over_A\": 0.307289042519225,\n      \"direction_error_over_A\": 0.24950990437941623,\n      \"limiting_inflation\": 0.03125,\n      \"noise_rms\": 31.87506127445091\n    },\n    {\n      \"D\": 268435456,\n      \"A\": 0.0078125,\n      \"branch\": \"finite_min\",\n      \"variance\": 5.172001757374448e-06,\n      \"radial_error_over_A\": 0.3418469051804606,\n      \"direction_error_over_A\": 0.29166600021866296,\n      \"limiting_inflation\": 0.04253472222222223,\n      \"noise_rms\": 37.260550857087594\n    },\n    {\n      \"D\": 268435456,\n      \"A\": 0.0078125,\n      \"branch\": \"finite_limit\",\n      \"variance\": 9.375800615942202e-06,\n      \"radial_error_over_A\": 0.4320383762849569,\n      \"direction_error_over_A\": 0.39269915658963167,\n      \"limiting_inflation\": 0.07710628438351061,\n      \"noise_rms\": 50.167691931217306\n    },\n    {\n      \"D\": 268435456,\n      \"A\": 0.0078125,\n      \"branch\": \"finite_max\",\n      \"variance\": 1.5199475456029177e-05,\n      \"radial_error_over_A\": 0.5325552016081772,\n      \"direction_error_over_A\": 0.4999989993932302,\n      \"limiting_inflation\": 0.125,\n      \"noise_rms\": 63.87548923491702\n    },\n    {\n      \"D\": 68719476736,\n      \"A\": 0.001953125,\n      \"branch\": \"true\",\n      \"variance\": 2.3795320203134906e-07,\n      \"radial_error_over_A\": 0.30678402246704845,\n      \"direction_error_over_A\": 0.24987781814190443,\n      \"limiting_inflation\": 0.03125,\n      \"noise_rms\": 127.87501527370388\n    },\n    {\n      \"D\": 68719476736,\n      \"A\": 0.001953125,\n      \"branch\": \"finite_min\",\n      \"variance\": 3.2419749162373697e-07,\n      \"radial_error_over_A\": 0.34112911781843913,\n      \"direction_error_over_A\": 0.29166662725185755,\n      \"limiting_inflation\": 0.04253472222222223,\n      \"noise_rms\": 149.26045016516247\n    },\n    {\n      \"D\": 68719476736,\n      \"A\": 0.001953125,\n      \"branch\": \"finite_limit\",\n      \"variance\": 5.877004790918057e-07,\n      \"radial_error_over_A\": 0.4308500401053816,\n      \"direction_error_over_A\": 0.39269908908964224,\n      \"limiting_inflation\": 0.07710628438351061,\n      \"noise_rms\": 200.96385097993468\n    },\n    {\n      \"D\": 68719476736,\n      \"A\": 0.001953125,\n      \"branch\": \"finite_max\",\n      \"variance\": 9.527441307000117e-07,\n      \"radial_error_over_A\": 0.5307655982486947,\n      \"direction_error_over_A\": 0.49999994089424377,\n      \"limiting_inflation\": 0.125,\n      \"noise_rms\": 255.87512212991712\n    }\n  ],\n  \"limitations\": [\n    \"No OU path simulation or path-grid construction\",\n    \"No finite-D threshold or numerical lower-bound proof\",\n    \"No numerical certification of the imported OWN-mean compiler\",\n    \"No generic resummed-current impossibility claim\"\n  ]\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 2.018
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-node-cut-audit/check_independent_node_audit.py",
+      "script_sha256": "f96ec84d13322323d36fbc0fe56ce1f0e665df9d195948039d49ce4c50fb14b7",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS: bounded independent-node source/covariance/cut diagnostics only\",\n  \"source_sha256\": \"c463ea3ce5f2d7584dca346c00bbec345592e07e90481f10bd708048de56476c\",\n  \"seed\": 907314,\n  \"gaussian_configurations\": 72,\n  \"nonlinear_configurations\": 72,\n  \"assertions\": 3174,\n  \"endpoint_precision_stress\": [\n    {\n      \"epsilon\": 0.01,\n      \"all_site_precision\": 51.29217261793858,\n      \"innovation_variance\": 0.019496152121469438\n    },\n    {\n      \"epsilon\": 0.0001,\n      \"all_site_precision\": 5001.290828838962,\n      \"innovation_variance\": 0.00019994838017291382\n    },\n    {\n      \"epsilon\": 1e-06,\n      \"all_site_precision\": 500001.29079654324,\n      \"innovation_variance\": 1.9999948368271563e-06\n    },\n    {\n      \"epsilon\": 1e-08,\n      \"all_site_precision\": 50000001.06713412,\n      \"innovation_variance\": 1.9999999573146363e-08\n    }\n  ],\n  \"scope_exclusions\": [\n    \"No m3 current closure\",\n    \"No current-to-law compiler\",\n    \"No full endpoint theorem\",\n    \"No author covariance receipt reused\"\n  ]\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.273
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/check_p3_radial_corollary.py",
+      "script_sha256": "09d4c2c347009596b6e9521afe439bc7343ffb25be5689e1d7a994a1344480de",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS finite/algebra diagnostics\",\n  \"assertions\": 200,\n  \"largest_literal_F2_decomposition_residual\": 9.758093987185266e-17,\n  \"gaussian_shell_mean_difference\": -0.0018295069327453617,\n  \"linear_resolvent_witness_limit\": -0.0009147534663726808,\n  \"limits\": [\n    \"No true-history simulation or formal interval certificate.\",\n    \"Lp estimates, imported mean theorem, and uniform asymptotic separator are analytical.\",\n    \"No centered/resummed consumer or full endpoint law is verified.\"\n  ]\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 1.299
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/check_independent_radial_mean_audit.py",
+      "script_sha256": "07982cf0e721f4620bbba8963b8eb9668923caff04fbc41950cc20c03e21d824",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"canonical_sha256\": \"2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035\",\n  \"E_h_S\": -0.0018295069327453435,\n  \"results\": \"research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/independent_radial_mean_checks.json\"\n}\n",
+      "stderr": "",
+      "changed_result_files": [
+        {
+          "path": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/independent_radial_mean_checks.json",
+          "saved_sha256": "77cac951002218b59b13dffb0d176ca8e74a756ec9e86a43a64abb889bf1a6d1",
+          "rerun_sha256": "b945121b9dc9618999d0021fd926d3b0bcb39ce3395ff590903f3ffafb4cef1b",
+          "json_differences": [
+            {
+              "key": "$.canonical.path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md"
+            }
+          ]
+        }
+      ],
+      "elapsed_seconds": 1.42
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/check_matrix_free_backbone.py",
+      "script_sha256": "934f84476cebea84da68654f6d5fcbd80ed89dd84434e31d104d7bb58d58e095",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 1784,\n  \"groups\": {\n    \"symbolic\": 6,\n    \"quadratic\": 452,\n    \"ledger\": 60,\n    \"zero\": 60,\n    \"nonlinear_ports\": 541,\n    \"guards\": 216,\n    \"chain_rule\": 108,\n    \"origins\": 216,\n    \"envelope\": 125\n  }\n}\n",
+      "stderr": "",
+      "changed_result_files": [],
+      "elapsed_seconds": 0.57
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/independent-audit/check_matrix_free_m3_independent.py",
+      "script_sha256": "c978e1500bfb01756b90645dd771551ac1d2fdc03787475e717eed6a0d189c0e",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 1540,\n  \"seed\": 610052026,\n  \"scope\": \"Independent raw-source/covariance/chain-rule/port/cost/obstruction diagnostics; not execution of imported complete mean compilers.\",\n  \"metrics\": {\n    \"conditional_covariance\": [\n      [\n        \"1/4\",\n        \"1/4\"\n      ],\n      [\n        \"1/4\",\n        \"5/16\"\n      ]\n    ],\n    \"max_directional_chain_rule_error\": 3.6106893322620784e-11,\n    \"max_observed_G_skew\": 0.0029230937382908324,\n    \"max_private_bound_ratio\": 0.1612390497576472,\n    \"max_curl_bound_ratio\": 0.2338382076376896,\n    \"max_quadratic_value_error\": 2.2887833992611187e-16,\n    \"obstruction\": {\n      \"q_first_hermite\": -0.01838937651717789,\n      \"R1_q_L2_lower_bound\": 0.009194688258588945,\n      \"Taylor_remainder_constant_at_A_half\": 3.0312523067017936,\n      \"certified_lower_bound\": \"(0.009194688258588945) A^2 - 3.04 A^3\"\n    }\n  },\n  \"source_sha256\": {\n    \"MATRIX-FREE-GAUSSIAN-BACKBONE-M3.md\": \"772a0b758f7a4294ec9127629bec5bdd78b1f2ba167f32912ed5e7495e3ba06b\",\n    \"README.md\": \"93ad544283886c0cbf306888e2886a294f9a0475f57d414ce5b8982fb086049f\",\n    \"../gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md\": \"18640f9c6c567acba4fe830c7b0d64394924887ee4335a7a49f57f817435dccf\",\n    \"../resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md\": \"798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3\",\n    \"../resummed-linear-backbone/independent-audit/INDEPENDENT-BOUNDED-RESUMMED-M3-AUDIT.md\": \"49d135ba6692c54012acd9d0d94f603c0015fca98b5d1be1164457ff45d1213a\"\n  }\n}\n",
+      "stderr": "",
+      "changed_result_files": [
+        {
+          "path": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/independent-audit/independent_matrix_free_m3_checks.json",
+          "saved_sha256": "600be1134310b86f8fbcd22961d658bcb7943335eb81c14b2e3b19d777ba362d",
+          "rerun_sha256": "3126524c3e2843503c2901718dba91c8a7f3c35e0ffd916d3b649e6093dedbc8",
+          "json_differences": [
+            {
+              "key": "$.source_sha256.README.md",
+              "saved": "23a14c33044d01c9ca84da6306d4686f37cd2025d3ce2e25776b65ca0699c903",
+              "rerun": "93ad544283886c0cbf306888e2886a294f9a0475f57d414ce5b8982fb086049f"
+            }
+          ]
+        }
+      ],
+      "elapsed_seconds": 0.674
+    },
+    {
+      "script": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/check_resummed_m3_independent.py",
+      "script_sha256": "5fe55252e7a855658fe3b2857cdc617b4d4a384f60ce81a4ae2bacc314386f97",
+      "exit_code": 0,
+      "passed": true,
+      "status": "passed",
+      "stdout": "{\n  \"status\": \"PASS\",\n  \"assertions\": 1436,\n  \"assertions_by_group\": {\n    \"provenance\": 7,\n    \"symbolic\": 8,\n    \"coefficient_guards\": 204,\n    \"quadrature\": 21,\n    \"raw_source\": 217,\n    \"counts\": 324,\n    \"energy\": 54,\n    \"first_curl\": 324,\n    \"chain_rule\": 54,\n    \"origins\": 108,\n    \"history\": 55,\n    \"linear_law\": 14,\n    \"positivity\": 8,\n    \"grade\": 36,\n    \"conditional_rescaling\": 2\n  },\n  \"details\": {\n    \"exact_conditional_covariance\": [\n      [\n        \"1/4\",\n        \"1/4\"\n      ],\n      [\n        \"1/4\",\n        \"5/16\"\n      ]\n    ],\n    \"exact_covariance_determinant\": \"1/64\",\n    \"quadrature\": [\n      {\n        \"delta\": 0.01,\n        \"nodes\": 55,\n        \"K\": 9,\n        \"m\": 6,\n        \"max_tested_multiplier_error\": 0.00022874185516848268,\n        \"beta\": 0.785403102711208\n      },\n      {\n        \"delta\": 0.0001,\n        \"nodes\": 145,\n        \"K\": 16,\n        \"m\": 9,\n        \"max_tested_multiplier_error\": 1.7868073428587313e-06,\n        \"beta\": 0.7853981668063101\n      },\n      {\n        \"delta\": 1e-07,\n        \"nodes\": 365,\n        \"K\": 26,\n        \"m\": 14,\n        \"max_tested_multiplier_error\": 1.744584850130437e-09,\n        \"beta\": 0.7853981633975524\n      }\n    ],\n    \"finite_graph\": {\n      \"max_directional_first_error\": 6.993293463931603e-11,\n      \"max_G_block_skew\": 1.2458009010552414e-19,\n      \"max_Hessian_commutator\": 1.6867055560151196e-05,\n      \"max_curl_to_bound_ratio\": 0.5648451927844922,\n      \"max_private_first_to_bound_ratio\": 0.049512506546160184\n    },\n    \"finite_ancestry\": {\n      \"max_decomposition_error\": 1.959241433638517e-14,\n      \"max_terminal_bias_to_bound_ratio\": 0.11944328247520605,\n      \"qualification\": \"Positive discrete convolution diagnostic; continuum proved in report.\"\n    }\n  }\n}\n",
+      "stderr": "",
+      "changed_result_files": [
+        {
+          "path": "cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/independent_resummed_m3_checks.json",
+          "saved_sha256": "a3762270f67693a2fceee9b79b7b78228691b8a4bb11d2125b19815499bff053",
+          "rerun_sha256": "9714a81153a8f3c8fa9bda77eafbb14d606f13cc24903a5bce7cfc9bc2200eab",
+          "json_differences": [
+            {
+              "key": "$.imports[4].path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md"
+            },
+            {
+              "key": "$.imports[5].path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md"
+            },
+            {
+              "key": "$.imports[6].path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md"
+            },
+            {
+              "key": "$.imports[7].path",
+              "saved": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/nested-mean-independent-audit/INDEPENDENT-NESTED-FORCE-MEAN-AUDIT.md",
+              "rerun": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/nested-mean-independent-audit/INDEPENDENT-NESTED-FORCE-MEAN-AUDIT.md"
+            }
+          ]
+        }
+      ],
+      "elapsed_seconds": 0.481
+    }
+  ]
+}

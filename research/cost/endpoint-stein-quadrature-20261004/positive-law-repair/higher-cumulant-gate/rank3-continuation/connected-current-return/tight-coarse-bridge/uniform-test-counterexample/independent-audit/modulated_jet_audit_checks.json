@@ -1,0 +1,3614 @@
+{
+  "status": "PASS",
+  "description": "Deterministic diagnostics, not a substitute for the proof.",
+  "check_count": 514,
+  "sources_sha256": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/MODULATED-C2-SIX-TREE-COUNTEREXAMPLE.md": "8d0086e37b9cb1273ff483dc3dd9ddbeee297c9e93b7675b4aad11f2d6bd4dc3",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/COVARIANCE-TEST-PORT-REDUCTION.md": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/INDEPENDENT-MODULATED-JET-AUDIT.md": "0bcb72bc1a579d7694633cfdcde808480897b7f4709b58c19f909eb4aac98c8b",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/check_modulated_jet_audit.py": "1e10aaab4019d4c4af74a3d05012c7c7ac76f83ba24dd2d0e235df69d1f592f4"
+  },
+  "checks": [
+    {
+      "name": "hessian_op_n3_0",
+      "actual": 0.1106577669763242,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n3_0",
+      "actual": 0.3893422330236758,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n3_0",
+      "actual": 1.1709383462843448e-17,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n3_0",
+      "actual": 0.06576813852313758,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n3_1",
+      "actual": 0.11661274087580112,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n3_1",
+      "actual": 0.3833872591241991,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n3_1",
+      "actual": 6.938893903907228e-18,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n3_1",
+      "actual": 0.06916821509686756,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n3_2",
+      "actual": 0.09530445147838927,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n3_2",
+      "actual": 0.41821533703287367,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n3_2",
+      "actual": 3.469446951953614e-18,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n3_2",
+      "actual": 0.06778140010147418,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n4_0",
+      "actual": 0.10839176594775406,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n4_0",
+      "actual": 0.391608234052246,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n4_0",
+      "actual": 8.673617379884035e-18,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n4_0",
+      "actual": 0.06404070925412232,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n4_1",
+      "actual": 0.10798219507298489,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n4_1",
+      "actual": 0.468947053258833,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n4_1",
+      "actual": 6.938893903907228e-18,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n4_1",
+      "actual": 0.06178955695290677,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n4_2",
+      "actual": 0.10514863219670845,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n4_2",
+      "actual": 0.39485136780329144,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n4_2",
+      "actual": 6.938893903907228e-18,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n4_2",
+      "actual": 0.06425537925643016,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n5_0",
+      "actual": 0.08837902441647817,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n5_0",
+      "actual": 0.4116209755835218,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n5_0",
+      "actual": 6.938893903907228e-18,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n5_0",
+      "actual": 0.05509344562807622,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n5_1",
+      "actual": 0.11147471481411278,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n5_1",
+      "actual": 0.38852528518588725,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n5_1",
+      "actual": 2.0816681711721685e-17,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n5_1",
+      "actual": 0.06644554356137423,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n5_2",
+      "actual": 0.10980460892318421,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n5_2",
+      "actual": 0.3901953910768157,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n5_2",
+      "actual": 1.734723475976807e-17,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n5_2",
+      "actual": 0.06473061087006786,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n7_0",
+      "actual": 0.09647654853902726,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n7_0",
+      "actual": 0.41145629605699335,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n7_0",
+      "actual": 2.347297703431117e-17,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n7_0",
+      "actual": 0.05875817006303616,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n7_1",
+      "actual": 0.10237899154394725,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n7_1",
+      "actual": 0.3976210084560525,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n7_1",
+      "actual": 1.5178830414797062e-17,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n7_1",
+      "actual": 0.06089413590850944,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_op_n7_2",
+      "actual": 0.11584789316342765,
+      "bound": 0.25,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "hessian_min_n7_2",
+      "actual": 0.38415210683657247,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "fourier_derivative_n7_2",
+      "actual": 3.122502256758253e-17,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "center_all_cuts_n7_2",
+      "actual": 0.06801364653468035,
+      "bound": 2.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "six_tree_cuts_n3",
+      "actual": 5.1006700378015924e-05,
+      "bound": 4.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "leaf_difference_cuts_n3",
+      "actual": 1.2548626362199037e-05,
+      "bound": 2.4261226388505337,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "leaf_difference_HS_n3",
+      "actual": 1.5869007757240762e-05,
+      "bound": 4.852245277701067,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "diagonal_contraction_n3_i1",
+      "actual": 0.0,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "diagonal_contraction_n3_i2",
+      "actual": 0.0,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "diagonal_contraction_n3_i3",
+      "actual": 0.0,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "six_tree_cuts_n4",
+      "actual": 7.779785561234724e-05,
+      "bound": 4.0,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "leaf_difference_cuts_n4",
+      "actual": 1.605637626315167e-05,
+      "bound": 2.141045714075961,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "leaf_difference_HS_n4",
+      "actual": 2.4554735705776545e-05,
+      "bound": 4.787523759608428,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "diagonal_contraction_n4_i1",
+      "actual": 1.3552527156068805e-20,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "diagonal_contraction_n4_i2",
+      "actual": 0.0,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "diagonal_contraction_n4_i3",
+      "actual": 1.3552527156068805e-20,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "diagonal_contraction_n4_i4",
+      "actual": 1.3552527156068805e-20,
+      "bound": 1e-11,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n16",
+      "actual": 0.65625,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n16",
+      "actual": 0.00022147844861195268,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n16",
+      "actual": 0.34320548120184385,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n16",
+      "actual": 0.3020833333333333,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n16",
+      "actual": 0.05208333333333333,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t0",
+      "actual": 0.5000000000002692,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t0",
+      "actual": 0.49999999999973077,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t0",
+      "actual": 0.1608775693134625,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t0",
+      "actual": 0.00014252365787203024,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t1",
+      "actual": 0.4996552702607018,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t1",
+      "actual": 0.4996552702601629,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t1",
+      "actual": 0.16076623365373288,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t1",
+      "actual": 0.0001424250240752618,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t2",
+      "actual": 0.4993107781983202,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t2",
+      "actual": 0.49931077819778097,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t2",
+      "actual": 0.16065497663419512,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t2",
+      "actual": 0.00014232645994692415,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t3",
+      "actual": 0.4989665236492573,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t3",
+      "actual": 0.49896652364871774,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t3",
+      "actual": 0.16054379819782702,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t3",
+      "actual": 0.00014222796543650052,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t4",
+      "actual": 0.49862250644975575,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t4",
+      "actual": 0.49862250644921574,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t4",
+      "actual": 0.16043269828764803,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t4",
+      "actual": 0.00014212954049351104,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t5",
+      "actual": 0.4982787264361741,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t5",
+      "actual": 0.49827872643563376,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t5",
+      "actual": 0.1603216768467212,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t5",
+      "actual": 0.0001420311850675145,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t6",
+      "actual": 0.4979351834449816,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t6",
+      "actual": 0.49793518344444093,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t6",
+      "actual": 0.16021073381815126,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t6",
+      "actual": 0.00014193289910810657,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t7",
+      "actual": 0.4975918773127601,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t7",
+      "actual": 0.497591877312219,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t7",
+      "actual": 0.1600998691450856,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t7",
+      "actual": 0.00014183468256492073,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t8",
+      "actual": 0.49724880787620646,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t8",
+      "actual": 0.497248807875665,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t8",
+      "actual": 0.15998908277071466,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t8",
+      "actual": 0.00014173653538762868,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t9",
+      "actual": 0.4969059749721271,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t9",
+      "actual": 0.4969059749715852,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t9",
+      "actual": 0.15987837463827048,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t9",
+      "actual": 0.00014163845752593882,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n16_t10",
+      "actual": 0.4965633784374439,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n16_t10",
+      "actual": 0.4965633784369017,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n16_t10",
+      "actual": 0.1597677446910284,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n16_t10",
+      "actual": 0.00014154044892959803,
+      "bound": 7.62939453125e-06,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n32",
+      "actual": 0.703125,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n32",
+      "actual": 0.00024483099563411885,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n32",
+      "actual": 0.34427758456401053,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n32",
+      "actual": 0.32228478987729353,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n32",
+      "actual": 0.06770833333333333,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t0",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t0",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t0",
+      "actual": 0.16675945502319262,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t0",
+      "actual": 0.00023095738573583374,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t1",
+      "actual": 0.4999111254533318,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t1",
+      "actual": 0.4999111254533318,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t1",
+      "actual": 0.166729763783896,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t1",
+      "actual": 0.00023091626416340928,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t2",
+      "actual": 0.4998222667040336,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t2",
+      "actual": 0.4998222667040336,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t2",
+      "actual": 0.16670007785509577,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t2",
+      "actual": 0.00023087514994588027,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t3",
+      "actual": 0.49973342374929924,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t3",
+      "actual": 0.49973342374929924,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t3",
+      "actual": 0.16667039723583757,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t3",
+      "actual": 0.00023083404308192496,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t4",
+      "actual": 0.4996445965863179,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t4",
+      "actual": 0.4996445965863179,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t4",
+      "actual": 0.16664072192516566,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t4",
+      "actual": 0.00023079294357021974,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t5",
+      "actual": 0.4995557852122842,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t5",
+      "actual": 0.4995557852122842,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t5",
+      "actual": 0.16661105192212605,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t5",
+      "actual": 0.00023075185140944331,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t6",
+      "actual": 0.49946698962439173,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t6",
+      "actual": 0.49946698962439173,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t6",
+      "actual": 0.1665813872257644,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t6",
+      "actual": 0.00023071076659827395,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t7",
+      "actual": 0.4993782098198345,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t7",
+      "actual": 0.4993782098198345,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t7",
+      "actual": 0.1665517278351265,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t7",
+      "actual": 0.0002306696891353901,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t8",
+      "actual": 0.4992894457958087,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t8",
+      "actual": 0.4992894457958087,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t8",
+      "actual": 0.16652207374925898,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t8",
+      "actual": 0.00023062861901947137,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t9",
+      "actual": 0.499200697549506,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t9",
+      "actual": 0.499200697549506,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t9",
+      "actual": 0.16649242496720687,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t9",
+      "actual": 0.00023058755624919515,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n32_t10",
+      "actual": 0.49911196507812366,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n32_t10",
+      "actual": 0.49911196507812366,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n32_t10",
+      "actual": 0.16646278148801708,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n32_t10",
+      "actual": 0.0002305465008232414,
+      "bound": 1.0789593218788873e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n64",
+      "actual": 0.7265625,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n64",
+      "actual": 0.00025697607356656486,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n64",
+      "actual": 0.3447712339561012,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n64",
+      "actual": 0.3294270833333333,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n64",
+      "actual": 0.07552083333333333,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t0",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t0",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t0",
+      "actual": 0.16969209171276858,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t0",
+      "actual": 0.0003488544595491575,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t1",
+      "actual": 0.4999774461111089,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t1",
+      "actual": 0.4999774461111089,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t1",
+      "actual": 0.1696844311868975,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t1",
+      "actual": 0.00034883871097427904,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t2",
+      "actual": 0.49995489323957687,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t2",
+      "actual": 0.49995489323957687,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t2",
+      "actual": 0.16967677100722053,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t2",
+      "actual": 0.00034882296311110946,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t3",
+      "actual": 0.4999323413853515,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t3",
+      "actual": 0.4999323413853515,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t3",
+      "actual": 0.16966911117371972,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t3",
+      "actual": 0.00034880721595961176,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t4",
+      "actual": 0.49990979054839335,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t4",
+      "actual": 0.49990979054839335,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t4",
+      "actual": 0.16966145168638166,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t4",
+      "actual": 0.0003487914695197584,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t5",
+      "actual": 0.49988724072865015,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t5",
+      "actual": 0.49988724072865015,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t5",
+      "actual": 0.1696537925451885,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t5",
+      "actual": 0.00034877572379151273,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t6",
+      "actual": 0.4998646919260792,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t6",
+      "actual": 0.4998646919260792,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t6",
+      "actual": 0.16964613375012566,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t6",
+      "actual": 0.00034875997877484473,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t7",
+      "actual": 0.4998421441406379,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t7",
+      "actual": 0.4998421441406379,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t7",
+      "actual": 0.16963847530117857,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t7",
+      "actual": 0.00034874423446972446,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t8",
+      "actual": 0.49981959737227377,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t8",
+      "actual": 0.49981959737227377,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t8",
+      "actual": 0.16963081719832937,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t8",
+      "actual": 0.0003487284908761152,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t9",
+      "actual": 0.4997970516209476,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t9",
+      "actual": 0.4997970516209476,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t9",
+      "actual": 0.1696231594415646,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t9",
+      "actual": 0.00034871274799398933,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n64_t10",
+      "actual": 0.49977450688660685,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n64_t10",
+      "actual": 0.49977450688660685,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n64_t10",
+      "actual": 0.16961550203086645,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n64_t10",
+      "actual": 0.0003486970058233101,
+      "bound": 1.52587890625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n128",
+      "actual": 0.73828125,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n128",
+      "actual": 0.00026316884514758975,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n128",
+      "actual": 0.34500811764815914,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n128",
+      "actual": 0.33195226540132833,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n128",
+      "actual": 0.07942708333333333,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t0",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t0",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t0",
+      "actual": 0.17115637086451646,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t0",
+      "actual": 0.0005096036486538426,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t1",
+      "actual": 0.49999431970962016,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t1",
+      "actual": 0.49999431970962016,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t1",
+      "actual": 0.17115442567624334,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t1",
+      "actual": 0.0005095978570199333,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t2",
+      "actual": 0.49998863948377176,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t2",
+      "actual": 0.49998863948377176,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t2",
+      "actual": 0.17115248051008294,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t2",
+      "actual": 0.0005095920654518628,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t3",
+      "actual": 0.49998295932244735,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t3",
+      "actual": 0.49998295932244735,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t3",
+      "actual": 0.1711505353660328,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t3",
+      "actual": 0.0005095862739496236,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t4",
+      "actual": 0.49997727922565954,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t4",
+      "actual": 0.49997727922565954,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t4",
+      "actual": 0.17114859024409712,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t4",
+      "actual": 0.0005095804825132284,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t5",
+      "actual": 0.4999715991934009,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t5",
+      "actual": 0.4999715991934009,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t5",
+      "actual": 0.1711466451442734,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t5",
+      "actual": 0.0005095746911426697,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t6",
+      "actual": 0.49996591922567074,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t6",
+      "actual": 0.49996591922567074,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t6",
+      "actual": 0.17114470006656143,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t6",
+      "actual": 0.0005095688998379467,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t7",
+      "actual": 0.4999602393224683,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t7",
+      "actual": 0.4999602393224683,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t7",
+      "actual": 0.17114275501096093,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t7",
+      "actual": 0.000509563108599059,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t8",
+      "actual": 0.4999545594837862,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t8",
+      "actual": 0.4999545594837862,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t8",
+      "actual": 0.17114080997746933,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t8",
+      "actual": 0.0005095573174259986,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t9",
+      "actual": 0.49994887970963703,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t9",
+      "actual": 0.49994887970963703,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t9",
+      "actual": 0.17113886496609101,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t9",
+      "actual": 0.0005095515263187785,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n128_t10",
+      "actual": 0.4999432000000134,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n128_t10",
+      "actual": 0.4999432000000134,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n128_t10",
+      "actual": 0.1711369199768234,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n128_t10",
+      "actual": 0.0005095457352773913,
+      "bound": 2.1579186437577746e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "leaf_error_n128",
+      "actual": 5.958716587293747e-07,
+      "bound": 9.5367431640625e-07,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "final_sd_n128",
+      "actual": 1.3114769740831255e-06,
+      "bound": 9.5367431640625e-07,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n129",
+      "actual": 0.7383720930232558,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n129",
+      "actual": 0.00026321716766782683,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n129",
+      "actual": 0.345009928772537,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n129",
+      "actual": 0.33196829316848736,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n129",
+      "actual": 0.07945736434108527,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t0",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t0",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t0",
+      "actual": 0.17116771660032845,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t0",
+      "actual": 0.0005117182711269191,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t1",
+      "actual": 0.4999944071158671,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t1",
+      "actual": 0.4999944071158671,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t1",
+      "actual": 0.1711658012228502,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t1",
+      "actual": 0.0005117125449673886,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t2",
+      "actual": 0.4999888142942883,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t2",
+      "actual": 0.4999888142942883,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t2",
+      "actual": 0.1711638858668083,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t2",
+      "actual": 0.0005117068188719436,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t3",
+      "actual": 0.49998322153527613,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t3",
+      "actual": 0.49998322153527613,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t3",
+      "actual": 0.17116197053220708,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t3",
+      "actual": 0.000511701092840597,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t4",
+      "actual": 0.4999776288388233,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t4",
+      "actual": 0.4999776288388233,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t4",
+      "actual": 0.17116005521904404,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t4",
+      "actual": 0.0005116953668733415,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t5",
+      "actual": 0.4999720362049291,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t5",
+      "actual": 0.4999720362049291,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t5",
+      "actual": 0.1711581399273189,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t5",
+      "actual": 0.0005116896409701762,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t6",
+      "actual": 0.49996644363358606,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t6",
+      "actual": 0.49996644363358606,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t6",
+      "actual": 0.17115622465702915,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t6",
+      "actual": 0.0005116839151310934,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t7",
+      "actual": 0.4999608511248069,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t7",
+      "actual": 0.4999608511248069,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t7",
+      "actual": 0.17115430940817913,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t7",
+      "actual": 0.0005116781893561063,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t8",
+      "actual": 0.4999552586785843,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t8",
+      "actual": 0.4999552586785843,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t8",
+      "actual": 0.17115239418076628,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t8",
+      "actual": 0.0005116724636452072,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t9",
+      "actual": 0.49994966629491083,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t9",
+      "actual": 0.49994966629491083,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t9",
+      "actual": 0.1711504789747882,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t9",
+      "actual": 0.0005116667379983888,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n129_t10",
+      "actual": 0.49994407397379914,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n129_t10",
+      "actual": 0.49994407397379914,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n129_t10",
+      "actual": 0.17114856379024904,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n129_t10",
+      "actual": 0.0005116610124156636,
+      "bound": 2.1663316138459296e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "leaf_error_n129",
+      "actual": 5.258548931666181e-07,
+      "bound": 9.5367431640625e-07,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "final_sd_n129",
+      "actual": 1.3814937396458818e-06,
+      "bound": 9.5367431640625e-07,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n256",
+      "actual": 0.744140625,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n256",
+      "actual": 0.0002662956752251537,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n256",
+      "actual": 0.3451241525370247,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n256",
+      "actual": 0.3328450520833333,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n256",
+      "actual": 0.08138020833333333,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t0",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t0",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t0",
+      "actual": 0.17188800565808848,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t0",
+      "actual": 0.0007323685204772113,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t1",
+      "actual": 0.4999985747059686,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t1",
+      "actual": 0.4999985747059686,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t1",
+      "actual": 0.17188751558269774,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t1",
+      "actual": 0.0007323664323978979,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t2",
+      "actual": 0.49999714941598683,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t2",
+      "actual": 0.49999714941598683,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t2",
+      "actual": 0.1718870255086998,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t2",
+      "actual": 0.0007323643443245189,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t3",
+      "actual": 0.49999572413008125,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t3",
+      "actual": 0.49999572413008125,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t3",
+      "actual": 0.17188653543610377,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t3",
+      "actual": 0.0007323622562571129,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t4",
+      "actual": 0.4999942988482253,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t4",
+      "actual": 0.4999942988482253,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t4",
+      "actual": 0.17188604536490054,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t4",
+      "actual": 0.0007323601681956414,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t5",
+      "actual": 0.49999287357044553,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t5",
+      "actual": 0.49999287357044553,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t5",
+      "actual": 0.1718855552950992,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t5",
+      "actual": 0.0007323580801401428,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t6",
+      "actual": 0.49999144829672865,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t6",
+      "actual": 0.49999144829672865,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t6",
+      "actual": 0.17188506522669525,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t6",
+      "actual": 0.0007323559920905983,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t7",
+      "actual": 0.4999900230270613,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t7",
+      "actual": 0.4999900230270613,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t7",
+      "actual": 0.171884575159684,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t7",
+      "actual": 0.0007323539040469876,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t8",
+      "actual": 0.49998859776147014,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t8",
+      "actual": 0.49998859776147014,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t8",
+      "actual": 0.17188408509407468,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t8",
+      "actual": 0.0007323518160093503,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t9",
+      "actual": 0.4999871724999285,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t9",
+      "actual": 0.4999871724999285,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t9",
+      "actual": 0.17188359502985812,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t9",
+      "actual": 0.000732349727977647,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n256_t10",
+      "actual": 0.49998574724246303,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n256_t10",
+      "actual": 0.49998574724246303,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n256_t10",
+      "actual": 0.17188310496704345,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n256_t10",
+      "actual": 0.0007323476399519168,
+      "bound": 3.0517578125e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "leaf_error_n256",
+      "actual": 6.705652122536491e-14,
+      "bound": 9.5367431640625e-07,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "final_sd_n256",
+      "actual": 1.9073485657559788e-06,
+      "bound": 9.5367431640625e-07,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n1000",
+      "actual": 0.7484999999999999,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n1000",
+      "actual": 0.00026863529451963587,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n1000",
+      "actual": 0.34520945909352996,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n1000",
+      "actual": 0.33327008778012995,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n1000",
+      "actual": 0.08283333333333333,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t0",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t0",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t0",
+      "actual": 0.17243212481721823,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t0",
+      "actual": 0.0014648098495074462,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t1",
+      "actual": 0.499999906337501,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t1",
+      "actual": 0.499999906337501,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t1",
+      "actual": 0.17243209251480934,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t1",
+      "actual": 0.0014648095750986795,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t2",
+      "actual": 0.4999998126750196,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t2",
+      "actual": 0.4999998126750196,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t2",
+      "actual": 0.17243206021240648,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t2",
+      "actual": 0.001464809300689964,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t3",
+      "actual": 0.4999997190125557,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t3",
+      "actual": 0.4999997190125557,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t3",
+      "actual": 0.1724320279100097,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t3",
+      "actual": 0.0014648090262813003,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t4",
+      "actual": 0.49999962535016135,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t4",
+      "actual": 0.49999962535016135,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t4",
+      "actual": 0.1724319956076369,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t4",
+      "actual": 0.0014648087518728402,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t5",
+      "actual": 0.49999953168773253,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t5",
+      "actual": 0.49999953168773253,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t5",
+      "actual": 0.17243196330525218,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t5",
+      "actual": 0.0014648084774642792,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t6",
+      "actual": 0.4999994380253213,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t6",
+      "actual": 0.4999994380253213,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t6",
+      "actual": 0.17243193100287357,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t6",
+      "actual": 0.0014648082030557696,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t7",
+      "actual": 0.4999993443629276,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t7",
+      "actual": 0.4999993443629276,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t7",
+      "actual": 0.172431898700501,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t7",
+      "actual": 0.0014648079286473112,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t8",
+      "actual": 0.49999925070055146,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t8",
+      "actual": 0.49999925070055146,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t8",
+      "actual": 0.17243186639813446,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t8",
+      "actual": 0.0014648076542389044,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t9",
+      "actual": 0.4999991570381928,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t9",
+      "actual": 0.4999991570381928,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t9",
+      "actual": 0.17243183409577395,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t9",
+      "actual": 0.0014648073798305488,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000_t10",
+      "actual": 0.49999906337585176,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000_t10",
+      "actual": 0.49999906337585176,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000_t10",
+      "actual": 0.17243180179341952,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000_t10",
+      "actual": 0.001464807105422245,
+      "bound": 6.03156597169567e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "leaf_error_n1000",
+      "actual": 2.7356101235571345e-54,
+      "bound": 9.5367431640625e-07,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "final_sd_n1000",
+      "actual": 1.9073486328125e-06,
+      "bound": 9.5367431640625e-07,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n10000",
+      "actual": 0.74985,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n10000",
+      "actual": 0.0002693621239274764,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n10000",
+      "actual": 0.3452357011248559,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n10000",
+      "actual": 0.3333313333333333,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n10000",
+      "actual": 0.08328333333333333,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t0",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t0",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t0",
+      "actual": 0.17260058877737172,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t0",
+      "actual": 0.004649206118420579,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t1",
+      "actual": 0.4999999990628164,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t1",
+      "actual": 0.4999999990628164,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t1",
+      "actual": 0.17260058845385326,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t1",
+      "actual": 0.0046492061097062175,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t2",
+      "actual": 0.4999999981251124,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t2",
+      "actual": 0.4999999981251124,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t2",
+      "actual": 0.1726005881301552,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t2",
+      "actual": 0.004649206100987018,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t3",
+      "actual": 0.4999999971879288,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t3",
+      "actual": 0.4999999971879288,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t3",
+      "actual": 0.17260058780663676,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t3",
+      "actual": 0.004649206092272656,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t4",
+      "actual": 0.49999999625022484,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t4",
+      "actual": 0.49999999625022484,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t4",
+      "actual": 0.1726005874829387,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t4",
+      "actual": 0.004649206083553456,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t5",
+      "actual": 0.49999999531304123,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t5",
+      "actual": 0.49999999531304123,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t5",
+      "actual": 0.17260058715942023,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t5",
+      "actual": 0.0046492060748390945,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t6",
+      "actual": 0.4999999943753372,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t6",
+      "actual": 0.4999999943753372,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t6",
+      "actual": 0.17260058683572216,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t6",
+      "actual": 0.004649206066119894,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t7",
+      "actual": 0.49999999343815366,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t7",
+      "actual": 0.49999999343815366,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t7",
+      "actual": 0.17260058651220372,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t7",
+      "actual": 0.004649206057405533,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t8",
+      "actual": 0.4999999925004497,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t8",
+      "actual": 0.4999999925004497,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t8",
+      "actual": 0.17260058618850566,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t8",
+      "actual": 0.004649206048686333,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t9",
+      "actual": 0.4999999915632661,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t9",
+      "actual": 0.4999999915632661,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t9",
+      "actual": 0.1726005858649872,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t9",
+      "actual": 0.0046492060399719705,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n10000_t10",
+      "actual": 0.49999999062608247,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n10000_t10",
+      "actual": 0.49999999062608247,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n10000_t10",
+      "actual": 0.17260058554146873,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n10000_t10",
+      "actual": 0.004649206031257609,
+      "bound": 0.00019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "leaf_error_n10000",
+      "actual": 0.0,
+      "bound": 9.5367431640625e-07,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "final_sd_n10000",
+      "actual": 1.9073486328125e-06,
+      "bound": 9.5367431640625e-07,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "gamma_lower_n1000000",
+      "actual": 0.7499985,
+      "bound": 0.5,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cn_lower_n1000000",
+      "actual": 0.00026944214174856335,
+      "bound": 6.103515625e-05,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "cos_square_sd_n1000000",
+      "actual": 0.34523858270499413,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "sd_M_bound_n1000000",
+      "actual": 0.3333333313333333,
+      "bound": 0.25,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "conditional_sd_bound_n1000000",
+      "actual": 0.08333283333333333,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t0",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t0",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t0",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t0",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t1",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t1",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t1",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t1",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t2",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t2",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t2",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t2",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t3",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t3",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t3",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t3",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t4",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t4",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t4",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t4",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t5",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t5",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t5",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t5",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t6",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t6",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t6",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t6",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t7",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t7",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t7",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t7",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t8",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t8",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t8",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t8",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t9",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t9",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t9",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t9",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "mu_lower_n1000000_t10",
+      "actual": 0.5,
+      "bound": 0.3333333333333333,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "nu_upper_n1000000_t10",
+      "actual": 0.5,
+      "bound": 0.5,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "exact_conditional_sd_n1000000_t10",
+      "actual": 0.1726191187332057,
+      "bound": 0.03125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "exact_J0_sd_n1000000_t10",
+      "actual": 0.0465108650582245,
+      "bound": 0.0019073486328125,
+      "relation": "ge",
+      "pass": true
+    },
+    {
+      "name": "leaf_error_n1000000",
+      "actual": 0.0,
+      "bound": 9.5367431640625e-07,
+      "relation": "le",
+      "pass": true
+    },
+    {
+      "name": "final_sd_n1000000",
+      "actual": 1.9073486328125e-06,
+      "bound": 9.5367431640625e-07,
+      "relation": "ge",
+      "pass": true
+    }
+  ]
+}

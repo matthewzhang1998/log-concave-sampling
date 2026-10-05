@@ -1,0 +1,87 @@
+{
+  "status": "PASS: bounded independent-node source/covariance/cut diagnostics only",
+  "source_sha256": "c463ea3ce5f2d7584dca346c00bbec345592e07e90481f10bd708048de56476c",
+  "seed": 907314,
+  "gaussian_configurations": 72,
+  "nonlinear_configurations": 72,
+  "assertions": 3174,
+  "assertions_by_group": {
+    "frozen_source_pin": 2,
+    "rule_mass": 72,
+    "rule_first_moment": 72,
+    "literal_gaussian_dimension": 72,
+    "marked_annihilation_unmarked_motion": 72,
+    "subset_score_covariance": 72,
+    "score_changes_x_by_identity": 72,
+    "posterior_residual_score": 72,
+    "posterior_schur_covariance": 72,
+    "all_site_independence": 72,
+    "all_sites_leave_D_innovations": 72,
+    "x_and_all_sites_determine_roots": 72,
+    "all_sites_and_invertible_terminal_determine_roots": 72,
+    "independent_quadratic_covariance": 72,
+    "common_quadratic_covariance": 72,
+    "beta2_bound": 72,
+    "common_covariance_not_importable": 72,
+    "unmarked_feedback_bound": 72,
+    "raw_correction_VALUE_count": 72,
+    "raw_source_VALUE_count": 72,
+    "outer_actual_private_dimension": 72,
+    "inner_x_first_PSD": 288,
+    "inner_x_first_upper": 288,
+    "inner_private_first_upper": 288,
+    "positive_sum_energy_pointwise": 288,
+    "correction_full_first": 72,
+    "captured_Z_first": 72,
+    "full_private_curl": 72,
+    "correction_energy_pointwise": 72,
+    "first_sweep_finite_difference": 72,
+    "literal_global_source_zero": 72,
+    "literal_global_baseline_zero": 72,
+    "literal_fixed_Z_origin_bound": 72,
+    "algebraic_all_site_precision": 4
+  },
+  "largest_identity_residual_by_group": {
+    "rule_mass": 2.220446049250313e-16,
+    "rule_first_moment": 1.1102230246251565e-16,
+    "marked_annihilation_unmarked_motion": 1.9609334407468463e-16,
+    "subset_score_covariance": 7.105427357601002e-15,
+    "score_changes_x_by_identity": 1.1102230246251565e-16,
+    "posterior_residual_score": 5.273559366969494e-16,
+    "posterior_schur_covariance": 1.1102230246251565e-16,
+    "all_site_independence": 2.220446049250313e-16,
+    "independent_quadratic_covariance": 1.3877787807814457e-17,
+    "common_quadratic_covariance": 1.3877787807814457e-17,
+    "first_sweep_finite_difference": 2.879111012099589e-12,
+    "literal_global_source_zero": 0.0,
+    "literal_global_baseline_zero": 0.0
+  },
+  "endpoint_precision_stress": [
+    {
+      "epsilon": 0.01,
+      "all_site_precision": 51.29217261793858,
+      "innovation_variance": 0.019496152121469438
+    },
+    {
+      "epsilon": 0.0001,
+      "all_site_precision": 5001.290828838962,
+      "innovation_variance": 0.00019994838017291382
+    },
+    {
+      "epsilon": 1e-06,
+      "all_site_precision": 500001.29079654324,
+      "innovation_variance": 1.9999948368271563e-06
+    },
+    {
+      "epsilon": 1e-08,
+      "all_site_precision": 50000001.06713412,
+      "innovation_variance": 1.9999999573146363e-08
+    }
+  ],
+  "scope_exclusions": [
+    "No m3 current closure",
+    "No current-to-law compiler",
+    "No full endpoint theorem",
+    "No author covariance receipt reused"
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "status": "PASS",
+  "assertions": 1350,
+  "assertions_by_group": {
+    "provenance": 3,
+    "symbolic": 4,
+    "smooth_step": 9,
+    "scalar_obstruction": 11,
+    "linear_RMS": 720,
+    "scope": 1,
+    "tail_certificate": 144,
+    "tail_Hessian": 272,
+    "ancestry": 5,
+    "raw_counts": 48,
+    "raw_graph": 133
+  },
+  "details": {
+    "symbolic": {
+      "sigma1_squared": "1-lambda+lambda^2/2",
+      "conditional_covariance": [
+        [
+          "1/4",
+          "1/4"
+        ],
+        [
+          "1/4",
+          "5/16"
+        ]
+      ],
+      "linear_obstruction_minimum": "A^2 (2-A) sqrt(D)/(36 sqrt(10))"
+    },
+    "linear_checks": {
+      "max_R2_to_bound_ratio": 0.707032373153835,
+      "max_m3_bias_to_bound_ratio": 0.20431948061498648,
+      "contracted_Gaussian_residual_RMS_counterexample_ratio": 1.062549246503984,
+      "counterexample": "r(x)=eta x exp(-x^2/(2 width^2)), lambda=eta=A/2, width=0.1"
+    },
+    "tail_fixture": [
+      {
+        "A": 0.5,
+        "D": 1,
+        "R": 3.3548200450309493,
+        "epsilon0_numeric": 0.0008951494971472713,
+        "epsilon1_numeric": 0.0002461000651130714,
+        "epsilon_each_certificate": 0.08838834764831843,
+        "bias_to_A4sqrtD": 0.005549398509493656,
+        "old_bounded_certificate_to_grade": 11.564460135092848
+      },
+      {
+        "A": 0.5,
+        "D": 5,
+        "R": 4.59088802253074,
+        "epsilon0_numeric": 0.0007312337767307073,
+        "epsilon1_numeric": 0.0001145604818644568,
+        "epsilon_each_certificate": 0.08838834764831843,
+        "bias_to_A4sqrtD": 0.0017179347857455038,
+        "old_bounded_certificate_to_grade": 6.830143010530929
+      },
+      {
+        "A": 0.5,
+        "D": 100,
+        "R": 12.35482004503095,
+        "epsilon0_numeric": 0.0004345317464213061,
+        "epsilon1_numeric": 1.1299992238671246e-06,
+        "epsilon_each_certificate": 0.08838834764831843,
+        "bias_to_A4sqrtD": 0.00017471669794761615,
+        "old_bounded_certificate_to_grade": 3.8564460135092853
+      },
+      {
+        "A": 0.5,
+        "D": 10000,
+        "R": 102.35482004503095,
+        "epsilon0_numeric": 0.0003252367110180923,
+        "epsilon1_numeric": 1.957434297292632e-57,
+        "epsilon_each_certificate": 0.08838834764831843,
+        "bias_to_A4sqrtD": 1.3009468440723691e-05,
+        "old_bounded_certificate_to_grade": 3.085644601350929
+      },
+      {
+        "A": 0.2,
+        "D": 1,
+        "R": 4.5882451559882025,
+        "epsilon0_numeric": 1.6382955398344937e-05,
+        "epsilon1_numeric": 7.521405972167953e-06,
+        "epsilon_each_certificate": 0.005656854249492381,
+        "bias_to_A4sqrtD": 0.0013497496314796172,
+        "old_bounded_certificate_to_grade": 76.32367733982304
+      },
+      {
+        "A": 0.2,
+        "D": 5,
+        "R": 5.824313133487992,
+        "epsilon0_numeric": 9.69532836883319e-06,
+        "epsilon1_numeric": 3.3729539192459017e-06,
+        "epsilon_each_certificate": 0.005656854249492381,
+        "bias_to_A4sqrtD": 0.0002969509226946701,
+        "old_bounded_certificate_to_grade": 42.42478223242155
+      },
+      {
+        "A": 0.2,
+        "D": 100,
+        "R": 13.588245155988202,
+        "epsilon0_numeric": 2.8495637902435435e-06,
+        "epsilon1_numeric": 1.562638665975507e-07,
+        "epsilon_each_certificate": 0.005656854249492381,
+        "bias_to_A4sqrtD": 9.077207808078242e-06,
+        "old_bounded_certificate_to_grade": 21.132367733982303
+      },
+      {
+        "A": 0.2,
+        "D": 10000,
+        "R": 103.5882451559882,
+        "epsilon0_numeric": 1.3417565558108634e-06,
+        "epsilon1_numeric": 8.353153310045195e-22,
+        "epsilon_each_certificate": 0.005656854249492381,
+        "bias_to_A4sqrtD": 3.3543913895271687e-07,
+        "old_bounded_certificate_to_grade": 15.613236773398231
+      },
+      {
+        "A": 0.05,
+        "D": 1,
+        "R": 5.895493661361633,
+        "epsilon0_numeric": 7.362813487708217e-08,
+        "epsilon1_numeric": 5.5539371887513434e-08,
+        "epsilon_each_certificate": 8.838834764831845e-05,
+        "bias_to_A4sqrtD": 0.00047376622905094025,
+        "old_bounded_certificate_to_grade": 1343.053668885943
+      },
+      {
+        "A": 0.05,
+        "D": 5,
+        "R": 7.131561638861423,
+        "epsilon0_numeric": 2.8793635494213267e-08,
+        "epsilon1_numeric": 1.9950403679601234e-08,
+        "epsilon_each_certificate": 8.838834764831845e-05,
+        "bias_to_A4sqrtD": 7.652749619259338e-05,
+        "old_bounded_certificate_to_grade": 716.7170051569012
+      },
+      {
+        "A": 0.05,
+        "D": 100,
+        "R": 14.895493661361634,
+        "epsilon0_numeric": 2.9917438082291003e-09,
+        "epsilon1_numeric": 1.2021819989381672e-09,
+        "epsilon_each_certificate": 8.838834764831845e-05,
+        "bias_to_A4sqrtD": 1.0814153514796977e-06,
+        "old_bounded_certificate_to_grade": 323.30536688859434
+      },
+      {
+        "A": 0.05,
+        "D": 10000,
+        "R": 104.89549366136163,
+        "epsilon0_numeric": 6.255696802534821e-10,
+        "epsilon1_numeric": 2.3036036917540404e-13,
+        "epsilon_each_certificate": 8.838834764831845e-05,
+        "bias_to_A4sqrtD": 2.52070755054796e-09,
+        "old_bounded_certificate_to_grade": 221.33053668885944
+      },
+      {
+        "A": 0.01,
+        "D": 1,
+        "R": 7.069708517540586,
+        "epsilon0_numeric": 2.0311714565798337e-10,
+        "epsilon1_numeric": 1.8826489524962477e-10,
+        "epsilon_each_certificate": 7.071067811865476e-07,
+        "bias_to_A4sqrtD": 0.00019029606670620462,
+        "old_bounded_certificate_to_grade": 38227.028013579955
+      },
+      {
+        "A": 0.01,
+        "D": 5,
+        "R": 8.305776495040377,
+        "epsilon0_numeric": 5.217930997249714e-11,
+        "epsilon1_numeric": 4.739742821032911e-11,
+        "epsilon_each_certificate": 7.071067811865476e-07,
+        "bias_to_A4sqrtD": 2.1430127255627487e-05,
+        "old_bounded_certificate_to_grade": 19887.217985955926
+      },
+      {
+        "A": 0.01,
+        "D": 100,
+        "R": 16.069708517540587,
+        "epsilon0_numeric": 1.6817643567950106e-12,
+        "epsilon1_numeric": 1.3438577598631508e-12,
+        "epsilon_each_certificate": 7.071067811865476e-07,
+        "bias_to_A4sqrtD": 1.3606754034311012e-07,
+        "old_bounded_certificate_to_grade": 8367.702801357997
+      },
+      {
+        "A": 0.01,
+        "D": 10000,
+        "R": 106.06970851754059,
+        "epsilon0_numeric": 1.226616431800962e-13,
+        "epsilon1_numeric": 2.1454829061392845e-14,
+        "epsilon_each_certificate": 7.071067811865476e-07,
+        "bias_to_A4sqrtD": 2.268144549319381e-10,
+        "old_bounded_certificate_to_grade": 5381.7702801358
+      }
+    ],
+    "finite_ancestry": {
+      "samples": 7000,
+      "nodes_per_future_window": 200,
+      "dt": 0.04,
+      "max_decomposition_error": 3.885780586188048e-16,
+      "sigma_discrete": 0.8810213084938835,
+      "sigma_continuum": 0.8838834764831844,
+      "epsilon0_exact_quadrature": 0.12058905126884617,
+      "epsilon1_discrete_exact_quadrature": 0.09494432267755902,
+      "sampled_Delta1_RMS": 0.08031103505875799,
+      "sampled_R2_RMS": 0.037190336799889964,
+      "R2_bound": 0.1552388483119821,
+      "geometric_marginal_errors": [
+        0.024606570245221504,
+        0.012411598763581555,
+        0.006229175127244746,
+        0.0031199549458365006,
+        0.0015612589839292257
+      ],
+      "qualification": "Finite-window Monte Carlo diagnostic; continuum proof is in report."
+    },
+    "raw_finite_graph": {
+      "max_directional_first_error": 4.77666714883963e-11,
+      "max_Hessian_commutator": 0.005387267107230685,
+      "nodes": 7,
+      "qualification": "Original radial tail fixture, fixed scalar parameters; complete mean compilers imported."
+    }
+  },
+  "author_files": [
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md",
+      "sha256": "18640f9c6c567acba4fe830c7b0d64394924887ee4335a7a49f57f817435dccf"
+    }
+  ],
+  "audited_imports": [
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md",
+      "sha256": "18640f9c6c567acba4fe830c7b0d64394924887ee4335a7a49f57f817435dccf"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md",
+      "sha256": "798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/INDEPENDENT-BOUNDED-RESUMMED-M3-AUDIT.md",
+      "sha256": "49d135ba6692c54012acd9d0d94f603c0015fca98b5d1be1164457ff45d1213a"
+    }
+  ],
+  "limits": [
+    "No author checker imported.",
+    "No completed gradient/near-gradient compiler is executed.",
+    "Numerical checks supplement the written proof; sampled estimates are not theorem certificates."
+  ]
+}

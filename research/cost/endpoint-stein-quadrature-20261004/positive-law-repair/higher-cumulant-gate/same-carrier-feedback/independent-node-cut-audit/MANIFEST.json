@@ -1,0 +1,16 @@
+{
+  "verdict": "PASS bounded independent-node source/covariance/cuts; m3 current and law compiler remain OPEN",
+  "input": {
+    "path": "../INDEPENDENT-NODE-MEAN-SOURCE-COVARIANCE-AND-CUT-TEST.md",
+    "sha256": "c463ea3ce5f2d7584dca346c00bbec345592e07e90481f10bd708048de56476c"
+  },
+  "artifacts": {
+    "AUDIT.md": "2b7c663e5e79a9cbbf87a67be2df2ace84b66b1f4bc9fea1e37fcb15f27fdf8d",
+    "check_independent_node_audit.py": "f96ec84d13322323d36fbc0fe56ce1f0e665df9d195948039d49ce4c50fb14b7",
+    "independent_checks.json": "2835e9a9a49eafcf25cced429c972a90f86003956fe7f2687a4c326595a4dae6",
+    "author_check_reproduced.py": "273b5815aef866798e48b49cdc86b1a432ef665f466160b5b6a6cf0277506352",
+    "independent_node_cut_checks.json": "ffa52ec0062234c29a4807766a1d8bf3ab9c986f4617d20118d0be5e3deb809b"
+  },
+  "independent_assertions": 3174,
+  "reproduced_author_assertions": 960
+}

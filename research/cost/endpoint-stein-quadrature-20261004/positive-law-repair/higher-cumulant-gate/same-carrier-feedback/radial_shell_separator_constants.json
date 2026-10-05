@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "assertions": 9,
+  "scope": "Author scalar constants and witness diagnostics only; independent exact-text proof review pending.",
+  "source": "RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md",
+  "source_sha256": "2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035",
+  "bump_normalization": 0.8879876323361573,
+  "bump_max": 0.41428441993455334,
+  "radial_shift": 0.125,
+  "limiting_shell_h_mean": -0.0018295069327453506,
+  "uniform_min_abs_k": 0.0007052951388888889,
+  "asymptotic_min_abs_Ax_witness_per_A2": 6.451711731144085e-07
+}

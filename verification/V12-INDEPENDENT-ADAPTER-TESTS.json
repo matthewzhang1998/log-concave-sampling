@@ -1,0 +1,52 @@
+[
+  {
+    "action": "read_only_validator",
+    "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/regenerate_manifest.py",
+    "exit_code": 0,
+    "stdout": "{\"status\": \"PASS\", \"packet_files\": 11, \"incoming_inventory_pins_verified\": 7}\n",
+    "stderr": ""
+  },
+  {
+    "action": "archive_output_guard",
+    "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/regenerate_manifest.py",
+    "exit_code": 2,
+    "blocked": true
+  },
+  {
+    "action": "read_only_validator",
+    "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/regenerate_package_manifest.py",
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASS\",\n  \"files\": 31,\n  \"components\": 4,\n  \"v10_frozen_additional_files\": 63,\n  \"external_prerequisites_not_reverified\": 1\n}\n",
+    "stderr": ""
+  },
+  {
+    "action": "archive_output_guard",
+    "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/regenerate_package_manifest.py",
+    "exit_code": 2,
+    "blocked": true
+  },
+  {
+    "action": "public_original_mapping",
+    "passed": true
+  },
+  {
+    "action": "reject_wrong_original_pin",
+    "passed": true
+  },
+  {
+    "action": "reject_tampered_public_bytes",
+    "passed": true
+  },
+  {
+    "action": "default_external_skip_explicit",
+    "passed": true
+  },
+  {
+    "action": "reject_wrong_external_expected_pin",
+    "passed": true
+  },
+  {
+    "action": "reject_wrong_external_bytes",
+    "passed": true
+  }
+]

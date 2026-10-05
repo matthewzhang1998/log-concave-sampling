@@ -1,6 +1,21 @@
 # Log-concave sampling: mathematical research snapshot
 
-Snapshot version: 2026-10-05-public-v11-bounded-covariance-and-connected-current-packages, updated 5 October 2026. This is a curated research archive of proofs, scoped audits, source certificates and diagnostic code. Inclusion is not an assertion that every proposed construction is proved.
+Snapshot version: 2026-10-05-public-v12-resummed-m3-and-source-counterexamples, updated 5 October 2026. This is a curated research archive of proofs, scoped audits, source certificates and diagnostic code. Inclusion is not a blanket theorem admission.
+
+## V12: resummed m3 subclasses and source-qualified counterexamples
+
+V12 adds 98 research files and 17 diagnostics beyond [published V11](https://github.com/matthewzhang1998/log-concave-sampling/commit/7982385418f449c3494efceaec246c5daf63193c). The archive now contains 697 research files and 148 diagnostic scripts. All 148 portable checks and all 17 new original checks pass in disposable copies. No original research file or saved result is overwritten by those runs.
+
+- The full same-carrier covariance service remains boundedly closed. Both unshifted and centered covariance-truncation shortcuts for the general m3 mean are refuted.
+- A bounded-remainder resummed consumer extends to explicit Gaussian-RMS residual certificates. A matrix-free graph uses four original gradient VALUES per raw source node and is exact for every admissible matrix quadratic; its certified nonlinear class has an order-four bias bound.
+- The same four-VALUE graph has a smooth sine-source bias lower bound of 0.009194688258588945… A² − 3.04 A³. General C² m3 closure, uniform conditional rescaling, the full fourth-order endpoint and an all-order o(P) complete-cost theorem remain OPEN.
+- The normalized tight six-tree has a source-qualified scalar-test variance counterexample. This refutes the unweighted shield-uniform test port, including normalized positive common-bank averaging. It does not establish an arbitrary original-clock weighted aggregate lower bound or a global impossibility theorem.
+
+See [the V12 status and reproduction notes](STATUS-V12.md), [exact selection](verification/V12-FROZEN-SELECTION.json), and [verification review](verification/REVIEW.md). Six original seals and all original/public mappings are retained. LOW30 remains external; the baseline manuscript boundary is unchanged. Two new external LOW30 hash assertions alone are explicitly not run in default public mode and can be restored with verified supplied original bytes. No mathematical assertion is removed.
+
+## Historical V11 status
+
+The following version descriptions are historical. Only the exact newer scopes described above and in STATUS-V12.md supersede them. In particular, earlier tight-test ports recorded as open are refuted in the stated unweighted scope; positive grouped/current and weighted-global programs remain open. The archived source and audit texts retain their original status wording and hashes.
 
 ## V11: bounded covariance and connected-current packages
 

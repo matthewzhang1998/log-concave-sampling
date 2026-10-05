@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-05",
+  "status": "PASS for a strictly larger Gaussian-RMS source-qualified m3 consumer; exact scalar-backbone obstruction; general m3 and fourth-order endpoint OPEN",
+  "entry": "README.md",
+  "theorem": "GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md",
+  "incoming_manifest": {
+    "path": "../RESUMMED-MEAN-CONTINUATION-MANIFEST.json",
+    "sha256": "c4cd4c154c7f8ec98a49c72953a1f99faf428232acb079f29bf880a23401a1bd",
+    "inventory_pins_verified": 22
+  },
+  "independent_assertions": 1350,
+  "scope": [
+    "Integrated Gaussian-RMS bias A[epsilon1+(lambda+Lr)epsilon0] with two explicit centered Gaussian residual laws.",
+    "Explicit smooth convex-gradient class has unbounded bulk residual and bias <=(1+A)A^4/sqrt(2) for every D>=1.",
+    "Existing positive finite VALUE mean consumer, guards, actual caller paths and complete costs unchanged; source certification/parameter selection is not assumed free.",
+    "Exact best scalar-backbone canonical m3 mean gap A^2(2-A)sqrt(D)/(36sqrt(10)) on the balanced A/3,2A/3 quadratic.",
+    "No uniform endpoint/conditional-rescaling guarantee, general C2 closure, fourth-order endpoint join, or all-order recurrence."
+  ],
+  "inventory": [
+    {
+      "path": "GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md",
+      "sha256": "18640f9c6c567acba4fe830c7b0d64394924887ee4335a7a49f57f817435dccf",
+      "bytes": 20045
+    },
+    {
+      "path": "README.md",
+      "sha256": "8e9d46bb4a7bcf17ce3da3673d2715c33aef55f17268024712efe6a272af840c",
+      "bytes": 2445
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-GAUSSIAN-RMS-RESUMMED-M3-AUDIT.md",
+      "sha256": "5a67f9c6d54d101fff0fdcf72013f7c9de20f18bd7ebd0df4b1f6953031cc6c2",
+      "bytes": 16269
+    },
+    {
+      "path": "independent-audit/MANIFEST.json",
+      "sha256": "6b86185d81141d8b879063bbd6db2b188dad09bfccf354208563e19ada9268bd",
+      "bytes": 1592
+    },
+    {
+      "path": "independent-audit/SHA256SUMS",
+      "sha256": "3edb61af0407c2dad2fdaf831d59fccd11a016394f75c151f08251e0d97978e4",
+      "bytes": 499
+    },
+    {
+      "path": "independent-audit/check_gaussian_rms_extension.py",
+      "sha256": "3c6a850cc6c631cbda45ace31bc7b59aad19dd00a503f8d33bd48993e416cebe",
+      "bytes": 14985
+    },
+    {
+      "path": "independent-audit/gaussian_rms_independent_checks.json",
+      "sha256": "6cc97033fc57fe62ea48fcc73c654ba3384bd5ec84140be3b142c05ec84cbc48",
+      "bytes": 9351
+    }
+  ]
+}

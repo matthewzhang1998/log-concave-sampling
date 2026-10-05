@@ -1,0 +1,83 @@
+{
+  "status": "PASS algebraic diagnostics only; no mean-current admission",
+  "assertions": 960,
+  "cases": 96,
+  "scope": [
+    "Changed independent-node covariance and raw Gaussian first",
+    "Marked-score independence only at the stated subset cut",
+    "All-inner-site posterior precision",
+    "Full inner-plus-terminal record has no original Gaussian innovation for invertible linear g"
+  ],
+  "sample_cases": [
+    {
+      "N_inner": 2,
+      "conditional_x_variance": 0.10256811063848481,
+      "all_ancestor_precision": 9.749618997318137,
+      "beta2_squared": 0.3598590765175181,
+      "common_beta_squared": 0.7090411110078395
+    },
+    {
+      "N_inner": 2,
+      "conditional_x_variance": 0.03301846201565381,
+      "all_ancestor_precision": 30.28608659985154,
+      "beta2_squared": 0.3742042531727649,
+      "common_beta_squared": 0.7478765021811294
+    },
+    {
+      "N_inner": 2,
+      "conditional_x_variance": 0.023332854989831453,
+      "all_ancestor_precision": 42.8580214652602,
+      "beta2_squared": 0.3693028196176612,
+      "common_beta_squared": 0.7347285745753345
+    },
+    {
+      "N_inner": 2,
+      "conditional_x_variance": 0.2171348154132811,
+      "all_ancestor_precision": 4.605433716820867,
+      "beta2_squared": 0.3561499037998364,
+      "common_beta_squared": 0.6988125744783785
+    },
+    {
+      "N_inner": 2,
+      "conditional_x_variance": 0.23307333763078616,
+      "all_ancestor_precision": 4.290495044028202,
+      "beta2_squared": 0.3379986053535112,
+      "common_beta_squared": 0.6474212287954213
+    },
+    {
+      "N_inner": 16,
+      "conditional_x_variance": 0.0461630900359668,
+      "all_ancestor_precision": 21.662328046516738,
+      "beta2_squared": 0.050961167296629806,
+      "common_beta_squared": 0.6423763464141198
+    },
+    {
+      "N_inner": 16,
+      "conditional_x_variance": 0.04867381573701124,
+      "all_ancestor_precision": 20.544927182267465,
+      "beta2_squared": 0.053759003629202204,
+      "common_beta_squared": 0.6689111083717086
+    },
+    {
+      "N_inner": 16,
+      "conditional_x_variance": 0.028076185133831477,
+      "all_ancestor_precision": 35.61737448422127,
+      "beta2_squared": 0.04531189376770095,
+      "common_beta_squared": 0.6058113924371625
+    },
+    {
+      "N_inner": 16,
+      "conditional_x_variance": 0.025750973844297854,
+      "all_ancestor_precision": 38.833482805211816,
+      "beta2_squared": 0.052521033653360444,
+      "common_beta_squared": 0.6845763958848697
+    },
+    {
+      "N_inner": 16,
+      "conditional_x_variance": 0.03089420981333972,
+      "all_ancestor_precision": 32.36852491265896,
+      "beta2_squared": 0.0481885466935775,
+      "common_beta_squared": 0.6042927092879488
+    }
+  ]
+}

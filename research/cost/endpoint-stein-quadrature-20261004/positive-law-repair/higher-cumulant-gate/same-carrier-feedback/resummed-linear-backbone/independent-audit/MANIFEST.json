@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-05",
+  "verdict": "PASS, scoped guarded bounded mean component",
+  "audited_source": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md",
+  "audited_source_sha256": "798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3",
+  "assertions": 1436,
+  "artifacts": [
+    {
+      "file": "INDEPENDENT-BOUNDED-RESUMMED-M3-AUDIT.md",
+      "sha256": "49d135ba6692c54012acd9d0d94f603c0015fca98b5d1be1164457ff45d1213a",
+      "bytes": 20091
+    },
+    {
+      "file": "check_resummed_m3_independent.py",
+      "sha256": "5fe55252e7a855658fe3b2857cdc617b4d4a384f60ce81a4ae2bacc314386f97",
+      "bytes": 17969
+    },
+    {
+      "file": "independent_resummed_m3_checks.json",
+      "sha256": "a3762270f67693a2fceee9b79b7b78228691b8a4bb11d2125b19815499bff053",
+      "bytes": 4273
+    }
+  ],
+  "imports": [
+    {
+      "path": "external:LOW30",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md",
+      "sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0"
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md",
+      "sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md",
+      "sha256": "87b61a6a4ca03f81f7d910cdaa83b3783cd4792b3a428b89c8f0f629062e4467"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md",
+      "sha256": "c6024a6ba2ca4fbb293063d0746ee92fa083398a3bf4c01fb4de1908f322dfaf"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md",
+      "sha256": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/nested-mean-independent-audit/INDEPENDENT-NESTED-FORCE-MEAN-AUDIT.md",
+      "sha256": "c2fbd8b02e1d225226ef5cf822fafda31f3dfa05e505d747d0b8772cb9d2daf7"
+    }
+  ],
+  "command": "python check_resummed_m3_independent.py",
+  "limits": [
+    "No author checker is imported.",
+    "The imported completed mean compilers are not executed here.",
+    "Finite diagnostics supplement the written continuum/source-admission proof.",
+    "No generic closure, private-root retention, or endpoint join is certified."
+  ]
+}

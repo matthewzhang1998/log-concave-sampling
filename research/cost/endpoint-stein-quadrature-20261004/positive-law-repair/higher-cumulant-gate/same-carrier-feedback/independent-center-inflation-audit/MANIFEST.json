@@ -1,0 +1,17 @@
+{
+  "date_utc": "2026-10-05",
+  "verdict": "PASS with public-log qualification; centered single-history separator and family-specific shifted VALUE proxy only",
+  "assertions": 723,
+  "source_pins": {
+    "RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md": "c6024a6ba2ca4fbb293063d0746ee92fa083398a3bf4c01fb4de1908f322dfaf",
+    "check_centered_radial_inflation_constants.py": "555c6a5bca6d4503bd41b04090254846b58c66c72972336b5e257da2ac495f8f",
+    "centered_radial_inflation_constants.json": "0f748a70f15987be389c155c787b904edbbd3ef3424dcac1c73a488e4f7646b0",
+    "SINGLE-HISTORY-EXACT-CENTERED-RESUMMED-CURRENT.md": "276d5873cc7d3f5ca8650955c08abe128cec7eda96680319f5c2a00b45118e9a",
+    "../../../ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+  },
+  "artifacts": {
+    "INDEPENDENT-CENTER-INFLATION-AUDIT.md": "91617318aec9f2625300b4bce64494e3814a6ad8c698a73c04f3bdc18667a3da",
+    "check_center_inflation_independent.py": "57d6f917e655d31b375889082d6660394dafeb0d83d72ffd289d0b7eb49a0620",
+    "center_inflation_independent_checks.json": "b6873310383ba36cfce36209966041de0c6a55988405ba04fc13364861e2575e"
+  }
+}

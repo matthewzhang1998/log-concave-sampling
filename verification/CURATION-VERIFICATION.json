@@ -1,93 +1,62 @@
 {
-  "verified_utc": "2026-10-05T00:48:04.424146+00:00",
-  "snapshot_version": "2026-10-05-public-v11-bounded-covariance-and-connected-current-packages",
-  "research_files": 599,
-  "research_bytes": 5730056,
+  "verified_utc": "2026-10-05T02:33:48.678151+00:00",
+  "snapshot_version": "2026-10-05-public-v12-resummed-m3-and-source-counterexamples",
+  "base_commit": "7982385418f449c3494efceaec246c5daf63193c",
+  "research_files": 697,
+  "research_bytes": 6536712,
   "public_copy_counts": {
-    "unchanged_source_copy": 459,
-    "sanitized_publication_copy": 140
+    "unchanged_source_copy": 537,
+    "sanitized_publication_copy": 160
   },
   "kinds": {
-    "mathematical_proof_audit_or_certificate": 277,
-    "diagnostic_script": 131,
-    "saved_diagnostic_result": 137,
-    "source_manifest": 49,
+    "mathematical_proof_audit_or_certificate": 313,
+    "diagnostic_script": 150,
+    "saved_diagnostic_result": 156,
+    "source_manifest": 73,
     "publication_manifest_utility": 1,
     "saved_diagnostic_stdout": 3,
     "baseline_manuscript": 1
   },
   "diagnostics": {
-    "bundled_scripts": 131,
-    "passed": 131,
+    "bundled_scripts": 148,
+    "passed": 148,
     "failed": 0,
     "not_run": 0,
     "archived_research_bytes_unchanged": true,
-    "new_scripts": 24,
-    "new_original_passed": 24,
-    "new_public_passed": 24,
-    "new_original_location_dependent_checker": "Passed unchanged with its single known JSON output write redirected into memory; initial relocated path-key failure retained in original rerun report.",
-    "changed_saved_result_comparisons": 9,
-    "new_changed_saved_result_comparisons": 4,
-    "new_saved_result_differences": "Three new report-metadata/external-pin status differences and one resummed-current floating-point comparison. Historical source outputs are retained. Every mathematical assertion is unchanged.",
-    "new_maximum_numeric_roundoff_difference": 3.3881317890172014e-19,
-    "new_external_hash_assertions_not_run_by_default": 1,
-    "new_report_only_external_hash_reads_made_optional": 1,
+    "new_scripts": 17,
+    "new_original_passed": 17,
+    "new_public_passed": 17,
     "new_mathematical_assertions_removed": 0,
-    "force_reentry_original_assertions": 2435,
-    "force_reentry_public_assertions": 2434,
-    "force_reentry_difference": "One external LOW30 source-hash assertion not run by default; optional supplied original restores it.",
-    "typed_contract_original_and_public_assertions": 3965,
-    "auxiliary_audit_assertions": 1823,
-    "m3_bounded_audit_assertions": 1993,
-    "adapter_tests": 14
+    "new_external_hash_assertions_not_run_by_default": 2,
+    "new_external_report_reads_omitted_by_default": 1,
+    "tight_bridge_original_assertions": 4610,
+    "tight_bridge_public_default_assertions": 4609,
+    "bounded_resummed_original_assertions": 1436,
+    "bounded_resummed_public_default_assertions": 1435,
+    "optional_correct_LOW30_restores_original_counts": true,
+    "wrong_LOW30_bytes_rejected": true,
+    "new_changed_saved_result_comparisons": 4,
+    "all_changed_saved_result_comparisons": 13,
+    "new_maximum_numeric_roundoff_difference": 3.3881317890172014e-21,
+    "new_result_difference_explanation": "Two explicit external LOW30 omission/status reports, one self-hash/source-label adaptation with floating roundoff, and the exact separately preserved pre-final versus final README source record. Historical evidence was not overwritten.",
+    "adapter_tests": 17
   },
-  "v11_additions": {
-    "new_research_files": 135,
-    "new_core_files": 134,
-    "new_prerequisite_manifests": 1,
-    "order_reentry_files": 42,
-    "rank3_files": 41,
-    "same_carrier_files": 51,
-    "structured_source_records_verified": 257,
-    "external_LOW30_records": 5,
+  "v12_additions": {
+    "new_research_files": 98,
+    "new_six_seal_package_files": 96,
+    "new_exact_provenance_dependencies": 2,
+    "six_original_manifest_seals_verified": true,
+    "structured_source_records_verified": 276,
+    "external_LOW30_records": 2,
     "all_new_original_sources_unchanged": true,
-    "all_463_inherited_nonutility_research_files_unchanged": true,
+    "all_598_inherited_nonutility_research_files_unchanged": true,
     "only_inherited_research_change": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/regenerate_package_manifest.py",
-    "relocated_narrow_math_audit_files": 5,
-    "main_K_closure_exact": true,
-    "auxiliary_closure_and_audit_exact": true,
-    "new_manuscripts_added": 0,
-    "new_sanitized_research_files": 33
+    "new_sanitized_research_files": 20,
+    "new_mathematical_markdown_files": 36,
+    "all_new_mathematical_markdown_exact_original_bytes": true,
+    "new_manuscripts_added": 0
   },
-  "proof_verification_limit": "Independent audits and finite diagnostics support the explicitly bounded source/proof scopes. Same-carrier m3, full fourth-order endpoint, higher physical-R source admission, generic shared-clock/chunk closure and all-order eventual-sublinear complete cost remain open. The unshifted m3 candidate is not admitted. Imported LOW30/native compilers were not executed; diagnostic pass is not a formal proof.",
+  "proof_verification_limit": "Finite diagnostics and scoped independent audits support only the declared source qualifications. Full covariance remains boundedly closed; unshifted and centered truncations are refuted. The four-VALUE graph is exact on matrix quadratics and certified nonlinear classes but has a smooth A-squared general-C2 obstruction. General m3, full fourth-order endpoint, uniform conditional rescaling and all-order o(P) complete cost remain open. Uniform six-tree test-port failure is not an arbitrary weighted-global no-go. Imported full compilers are not executed.",
   "tex_build_performed": false,
-  "publication_status": "Local candidate only; no external write, upload or message by this preparation task.",
-  "guard_verification": {
-    "all_pass": true,
-    "tests": [
-      {
-        "test": "run_diagnostics.py refuses internal output overwrite",
-        "passed": true
-      },
-      {
-        "test": "regenerate_package_manifest.py refuses internal output overwrite",
-        "passed": true
-      },
-      {
-        "test": "manifest utility rejects unlisted payload",
-        "passed": true
-      },
-      {
-        "test": "manifest utility rejects altered V11 payload",
-        "passed": true
-      }
-    ]
-  },
-  "public_scope_review": "Author-confirmed frozen source scopes plus curation review; no additional independent mathematical review is claimed.",
-  "final_bundle_rerun": {
-    "all_131_passed": true,
-    "archived_research_bytes_unchanged": true,
-    "per_script_evidence_matches_prior_portable_rerun": true,
-    "final_mapping_helper_included": true
-  }
+  "publication_status": "Local candidate only; no external write, upload or message by this preparation task."
 }

@@ -1,0 +1,113 @@
+{
+  "status": "PASS",
+  "source_sha256": "798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3",
+  "assertions": 1436,
+  "assertions_by_group": {
+    "provenance": 7,
+    "symbolic": 8,
+    "coefficient_guards": 204,
+    "quadrature": 21,
+    "raw_source": 217,
+    "counts": 324,
+    "energy": 54,
+    "first_curl": 324,
+    "chain_rule": 54,
+    "origins": 108,
+    "history": 55,
+    "linear_law": 14,
+    "positivity": 8,
+    "grade": 36,
+    "conditional_rescaling": 2
+  },
+  "details": {
+    "exact_conditional_covariance": [
+      [
+        "1/4",
+        "1/4"
+      ],
+      [
+        "1/4",
+        "5/16"
+      ]
+    ],
+    "exact_covariance_determinant": "1/64",
+    "quadrature": [
+      {
+        "delta": 0.01,
+        "nodes": 55,
+        "K": 9,
+        "m": 6,
+        "max_tested_multiplier_error": 0.00022874185516848268,
+        "beta": 0.785403102711208
+      },
+      {
+        "delta": 0.0001,
+        "nodes": 145,
+        "K": 16,
+        "m": 9,
+        "max_tested_multiplier_error": 1.7868073428587313e-06,
+        "beta": 0.7853981668063101
+      },
+      {
+        "delta": 1e-07,
+        "nodes": 365,
+        "K": 26,
+        "m": 14,
+        "max_tested_multiplier_error": 1.744584850130437e-09,
+        "beta": 0.7853981633975524
+      }
+    ],
+    "finite_graph": {
+      "max_directional_first_error": 6.993293463931603e-11,
+      "max_G_block_skew": 1.2458009010552414e-19,
+      "max_Hessian_commutator": 1.6867055560151196e-05,
+      "max_curl_to_bound_ratio": 0.5648451927844922,
+      "max_private_first_to_bound_ratio": 0.049512506546160184
+    },
+    "finite_ancestry": {
+      "max_decomposition_error": 1.959241433638517e-14,
+      "max_terminal_bias_to_bound_ratio": 0.11944328247520605,
+      "qualification": "Positive discrete convolution diagnostic; continuum proved in report."
+    }
+  },
+  "imports": [
+    {
+      "path": "external:LOW30",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md",
+      "sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0"
+    },
+    {
+      "path": "research/no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md",
+      "sha256": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md",
+      "sha256": "87b61a6a4ca03f81f7d910cdaa83b3783cd4792b3a428b89c8f0f629062e4467"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md",
+      "sha256": "c6024a6ba2ca4fbb293063d0746ee92fa083398a3bf4c01fb4de1908f322dfaf"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md",
+      "sha256": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/nested-mean-independent-audit/INDEPENDENT-NESTED-FORCE-MEAN-AUDIT.md",
+      "sha256": "c2fbd8b02e1d225226ef5cf822fafda31f3dfa05e505d747d0b8772cb9d2daf7"
+    }
+  ],
+  "limits": [
+    "No author checker is imported.",
+    "The imported completed mean compilers are not executed here.",
+    "Finite diagnostics supplement the written continuum/source-admission proof.",
+    "No generic closure, private-root retention, or endpoint join is certified."
+  ]
+}

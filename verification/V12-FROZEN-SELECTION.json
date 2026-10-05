@@ -1,0 +1,523 @@
+{
+  "snapshot_version": "2026-10-05-public-v12-resummed-m3-and-source-counterexamples",
+  "base_commit": "7982385418f449c3494efceaec246c5daf63193c",
+  "scope": "Six exact seals, 96 new package files, one exact required reviewed-source dependency and one exact historical audited README. No live-directory admission.",
+  "source_manifest_seals": [
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/SEALED-MANIFEST.json",
+      "original_sha256": "c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/SEALED-MANIFEST.json",
+      "original_sha256": "82f72718fe11b0f8c0a11f5ab5a7db7c114cb323031c1f2554c3de2c25314b8c"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/MANIFEST.json",
+      "original_sha256": "7aef237c02d5dff10a45c6809e3c751a8a2ca73c3a887c52e64c611f5ab4b857"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RESUMMED-MEAN-CONTINUATION-MANIFEST.json",
+      "original_sha256": "c4cd4c154c7f8ec98a49c72953a1f99faf428232acb079f29bf880a23401a1bd"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/MANIFEST.json",
+      "original_sha256": "321cd1922f7b8a32b3ea76f138ca3b463a4cfb016c9b7d79056a6b822041acd0"
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/MANIFEST.json",
+      "original_sha256": "50af4b0dc59da95e5c656ffc5415515b61ff8882652f3de6538e3af46c8fbcb0"
+    }
+  ],
+  "files": [
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/COVARIANCE-TEST-PORT-REDUCTION.md",
+      "original_sha256": "e8424b630508dab9ed042f9275a1f414d662a011cfa2e66f240b3f573b4bcd9f",
+      "original_bytes": 5260
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/README.md",
+      "original_sha256": "90ae8a5270f9b1b1dd0f45ffdedf1fa0f19ad5e6dcafb2f2232fa9c0a754ac0c",
+      "original_bytes": 2338
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/SEALED-MANIFEST.json",
+      "original_sha256": "c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179",
+      "original_bytes": 1797
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/TIGHT-BRIDGE-LEDGER-AND-REROOT-GATE.md",
+      "original_sha256": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+      "original_bytes": 23685
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/check_tight_bridge.py",
+      "original_sha256": "743db9d0b096f7eb9618e354488202d73339af75f17925deda19e15de7340910",
+      "original_bytes": 2981
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/covariance-test-audit/AUDIT.md",
+      "original_sha256": "94db6b80e31744c9c306b4f0fa19da8b956611b38489b1872f65af9942270f17",
+      "original_bytes": 5558
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/covariance-test-audit/MANIFEST.sha256",
+      "original_sha256": "24a5fccc2d2906937aab3a575bcd0b0a7215b698d38229d538513c050578a0a8",
+      "original_bytes": 412
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/covariance-test-audit/check_covariance_tensor.py",
+      "original_sha256": "2479d72253a76f73856237c2c94ef37595754b575b8bcdcebf7a7e4988feabd0",
+      "original_bytes": 5103
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/covariance-test-audit/checks.json",
+      "original_sha256": "0fe8812abd8eb8dc8e5b5d12b353730547146bc58950ceab8245001faa10e1ce",
+      "original_bytes": 2634
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/INDEPENDENT-TIGHT-BRIDGE-AND-REROOT-AUDIT.md",
+      "original_sha256": "539799d2fd736f7dbbdcce54c6909d245f1eb4dc07e088168180ba9ede432510",
+      "original_bytes": 14270
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/MANIFEST.json",
+      "original_sha256": "f6dc381517d33d840f150e69528bac13a423a149869cce5b84b3dfd666db54c3",
+      "original_bytes": 3502
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/REVIEWED-TIGHT-BRIDGE-SOURCE.md",
+      "original_sha256": "d36ca9949386d3203ecde7a60d83ced13ac094b89cf1262bfb7de9f6acc8cc6a",
+      "original_bytes": 23685
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/check_tight_bridge_independent.py",
+      "original_sha256": "42d043fd5c87a699a4b13b47d912777e31908f417d41de2be2467b6f4722d585",
+      "original_bytes": 11262
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/tight_bridge_independent_checks.json",
+      "original_sha256": "3169c996a4d9b17f398e300def2102c2262c19cc148030a6d01b533c6f7ae5c9",
+      "original_bytes": 2966
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/tight_bridge_checks.json",
+      "original_sha256": "6c7b95f58bcc0051a42e5ab0ecd54717fd5e8035da393febde1928003ca57ff5",
+      "original_bytes": 240
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/MODULATED-C2-SIX-TREE-COUNTEREXAMPLE.md",
+      "original_sha256": "8d0086e37b9cb1273ff483dc3dd9ddbeee297c9e93b7675b4aad11f2d6bd4dc3",
+      "original_bytes": 16423
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/README.md",
+      "original_sha256": "68686cfac816a66340f7ecf59a7b9fcba203b12ccda82a1220f6077fbbe041ba",
+      "original_bytes": 1443
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/SEALED-MANIFEST.json",
+      "original_sha256": "82f72718fe11b0f8c0a11f5ab5a7db7c114cb323031c1f2554c3de2c25314b8c",
+      "original_bytes": 1860
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/check_modulated_six_tree.py",
+      "original_sha256": "608c6b927fa2a246735c9df772e17cfb93d509f9a4f2794085b5d31670749215",
+      "original_bytes": 6962
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/checks.json",
+      "original_sha256": "7229718b0a60a68ce88c85b6090ac10fae5bf3038b7532e25d61de29a1413f16",
+      "original_bytes": 34589
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/AUDIT-MANIFEST.json",
+      "original_sha256": "e80ed143d10ac1d5fbb62e975b41e125ac885db353aa44134ba0d3dcf7c5e674",
+      "original_bytes": 816
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/AUDIT.md",
+      "original_sha256": "3d1872930f89446309cb6275636b13e69d2b2c67c8473fad984b7263cbcf6cb2",
+      "original_bytes": 10242
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/INDEPENDENT-MODULATED-JET-AUDIT.md",
+      "original_sha256": "0bcb72bc1a579d7694633cfdcde808480897b7f4709b58c19f909eb4aac98c8b",
+      "original_bytes": 12034
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/check_modulated_jet_audit.py",
+      "original_sha256": "1e10aaab4019d4c4af74a3d05012c7c7ac76f83ba24dd2d0e235df69d1f592f4",
+      "original_bytes": 6586
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/modulated_jet_audit_checks.json",
+      "original_sha256": "7d34313307079b3a6e4e50c0d0ab1cf9129e2ddf9f9f7d2b0e17ef445d43af00",
+      "original_bytes": 83275
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/CENTERED-COVARIANCE-FAILURE-AND-RESUMMED-M3-SUBCLASS.md",
+      "original_sha256": "da63012e39f13738ca70c7c47254d6386b39c490a2b938343087347f5040c0bf",
+      "original_bytes": 7664
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/FULL-COVARIANCE-CLOSURE-AND-RESUMMED-MEAN-FRONTIER.md",
+      "original_sha256": "3b042e921a0cfbe0dc6636bb8b3886c6ae911e31ab3dde877ca31a7db547b6cf",
+      "original_bytes": 7539
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/INDEPENDENT-NODE-MEAN-SOURCE-COVARIANCE-AND-CUT-TEST.md",
+      "original_sha256": "c463ea3ce5f2d7584dca346c00bbec345592e07e90481f10bd708048de56476c",
+      "original_bytes": 8451
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/MANIFEST.json",
+      "original_sha256": "7aef237c02d5dff10a45c6809e3c751a8a2ca73c3a887c52e64c611f5ab4b857",
+      "original_bytes": 12315
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-COROLLARY-FOR-THE-UNSHIFTED-P3-MEAN-CANDIDATE.md",
+      "original_sha256": "bae3fff77a2cfe75e0888637b4d39a1346bb64c1eec1ef8217f3e151af1eecc0",
+      "original_bytes": 5916
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-INFLATION-REFUTES-CENTERED-P3-COVARIANCE-CORRECTION.md",
+      "original_sha256": "810128a4b47c568273f05442a510498ac5f77eedf1cb864366368ebb4bd356af",
+      "original_bytes": 12661
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-INFLATION-REFUTES-CENTERED-SINGLE-HISTORY-COVARIANCE.md",
+      "original_sha256": "c6024a6ba2ca4fbb293063d0746ee92fa083398a3bf4c01fb4de1908f322dfaf",
+      "original_bytes": 15634
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-SHELL-REFUTES-THE-UNSHIFTED-MEAN-COVARIANCE-REDUCTION.md",
+      "original_sha256": "9f8037bd618c82e188acbbc807935ee2b606c011d405603e31c27649d0dd0060",
+      "original_bytes": 9371
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md",
+      "original_sha256": "2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035",
+      "original_bytes": 12070
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/README.md",
+      "original_sha256": "2356b83b33c198a109b44adacb70e2c060258640e8e85a0602598c35395490f5",
+      "original_bytes": 7572
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RESUMMED-MEAN-CONTINUATION-MANIFEST.json",
+      "original_sha256": "c4cd4c154c7f8ec98a49c72953a1f99faf428232acb079f29bf880a23401a1bd",
+      "original_bytes": 5472
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/SINGLE-HISTORY-FIXED-D-CURRENT-EXISTENCE.md",
+      "original_sha256": "16d18b30ba8b944bdc65dc4cd38d991bf0d2af4de48b650a323f0144074c6772",
+      "original_bytes": 5515
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/centered_radial_inflation_constants.json",
+      "original_sha256": "0f748a70f15987be389c155c787b904edbbd3ef3424dcac1c73a488e4f7646b0",
+      "original_bytes": 2143
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_centered_radial_inflation_constants.py",
+      "original_sha256": "555c6a5bca6d4503bd41b04090254846b58c66c72972336b5e257da2ac495f8f",
+      "original_bytes": 2725
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_independent_node_cuts.py",
+      "original_sha256": "273b5815aef866798e48b49cdc86b1a432ef665f466160b5b6a6cf0277506352",
+      "original_bytes": 2313
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_radial_shell_separator_constants.py",
+      "original_sha256": "2ca6cb3345ab841feef484efce8143909e3dc8a91437b75b94b3a32c44e53d49",
+      "original_bytes": 1363
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/GAUSSIAN-RMS-RESIDUAL-RESUMMED-M3.md",
+      "original_sha256": "18640f9c6c567acba4fe830c7b0d64394924887ee4335a7a49f57f817435dccf",
+      "original_bytes": 20045
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/MANIFEST.json",
+      "original_sha256": "321cd1922f7b8a32b3ea76f138ca3b463a4cfb016c9b7d79056a6b822041acd0",
+      "original_bytes": 2423
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/README.md",
+      "original_sha256": "8e9d46bb4a7bcf17ce3da3673d2715c33aef55f17268024712efe6a272af840c",
+      "original_bytes": 2445
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/SHA256SUMS",
+      "original_sha256": "7aeb3a099005b18224405acf682e4c078e0a8b9ba354ecef81442a8e93fb98ac",
+      "original_bytes": 819
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/INDEPENDENT-GAUSSIAN-RMS-RESUMMED-M3-AUDIT.md",
+      "original_sha256": "5a67f9c6d54d101fff0fdcf72013f7c9de20f18bd7ebd0df4b1f6953031cc6c2",
+      "original_bytes": 16269
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/MANIFEST.json",
+      "original_sha256": "6b86185d81141d8b879063bbd6db2b188dad09bfccf354208563e19ada9268bd",
+      "original_bytes": 1592
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/SHA256SUMS",
+      "original_sha256": "3edb61af0407c2dad2fdaf831d59fccd11a016394f75c151f08251e0d97978e4",
+      "original_bytes": 499
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/check_gaussian_rms_extension.py",
+      "original_sha256": "3c6a850cc6c631cbda45ace31bc7b59aad19dd00a503f8d33bd48993e416cebe",
+      "original_bytes": 14985
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/gaussian_rms_independent_checks.json",
+      "original_sha256": "6cc97033fc57fe62ea48fcc73c654ba3384bd5ec84140be3b142c05ec84cbc48",
+      "original_bytes": 9351
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-center-inflation-audit/INDEPENDENT-CENTER-INFLATION-AUDIT.md",
+      "original_sha256": "91617318aec9f2625300b4bce64494e3814a6ad8c698a73c04f3bdc18667a3da",
+      "original_bytes": 16834
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-center-inflation-audit/MANIFEST.json",
+      "original_sha256": "9408e7e3ccfe160c6eea600a22985dd425387b05fc66da5d5c7ebf5477fa7a12",
+      "original_bytes": 1200
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-center-inflation-audit/SHA256SUMS",
+      "original_sha256": "210421c304dd0255fa26549c2779d7556a9706d3982aa24f0f2c988d73c69441",
+      "original_bytes": 395
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-center-inflation-audit/center_inflation_independent_checks.json",
+      "original_sha256": "b6873310383ba36cfce36209966041de0c6a55988405ba04fc13364861e2575e",
+      "original_bytes": 8427
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-center-inflation-audit/check_center_inflation_independent.py",
+      "original_sha256": "57d6f917e655d31b375889082d6660394dafeb0d83d72ffd289d0b7eb49a0620",
+      "original_bytes": 12780
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-centered-p3-inflation-audit/MANIFEST.json",
+      "original_sha256": "75aa8135323c019a38dbb44d8cfeac55424dcf41d38f159ddd0ddf2022cadf04",
+      "original_bytes": 2853
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-centered-p3-inflation-audit/REPORT.md",
+      "original_sha256": "975f6ae0bdcc09218ae238603140a0c505599360ef993febf540c796d4fde5b9",
+      "original_bytes": 16718
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-centered-p3-inflation-audit/SHA256SUMS",
+      "original_sha256": "0b55ee41d99c5e4ed3433c1386dfa300602cd8bd8647e1dc1c3f3b8ab166ad1e",
+      "original_bytes": 409
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-centered-p3-inflation-audit/check_centered_p3_inflation.py",
+      "original_sha256": "81cc6edb445f0e568405725042b01cfb60918ae9c04116e557da38a24c8008ae",
+      "original_bytes": 13731
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-centered-p3-inflation-audit/checker.log",
+      "original_sha256": "1034b0f5c0c08cb9fc318c5a35b6965faaba4c0daab6f5c8f81f5ec579268cf7",
+      "original_bytes": 8577
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-centered-p3-inflation-audit/checks.json",
+      "original_sha256": "1034b0f5c0c08cb9fc318c5a35b6965faaba4c0daab6f5c8f81f5ec579268cf7",
+      "original_bytes": 8577
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-mean-separator-audit/INDEPENDENT-RADIAL-PARALLEL-PROOF-AUDIT.md",
+      "original_sha256": "6d6d6885ef698a71758ef498424b4ac735b29ccf23b49cabf18ab2f3df622e3e",
+      "original_bytes": 4031
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-node-cut-audit/AUDIT.md",
+      "original_sha256": "2b7c663e5e79a9cbbf87a67be2df2ace84b66b1f4bc9fea1e37fcb15f27fdf8d",
+      "original_bytes": 10017
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-node-cut-audit/MANIFEST.json",
+      "original_sha256": "e3432b1e6519d9fc41cc5e59b11d23ca7964e9fd568455f79f017f05aec82910",
+      "original_bytes": 880
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-node-cut-audit/author_check_reproduced.py",
+      "original_sha256": "273b5815aef866798e48b49cdc86b1a432ef665f466160b5b6a6cf0277506352",
+      "original_bytes": 2313
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-node-cut-audit/check_independent_node_audit.py",
+      "original_sha256": "f96ec84d13322323d36fbc0fe56ce1f0e665df9d195948039d49ce4c50fb14b7",
+      "original_bytes": 10134
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-node-cut-audit/independent_checks.json",
+      "original_sha256": "2835e9a9a49eafcf25cced429c972a90f86003956fe7f2687a4c326595a4dae6",
+      "original_bytes": 3059
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-node-cut-audit/independent_node_cut_checks.json",
+      "original_sha256": "ffa52ec0062234c29a4807766a1d8bf3ab9c986f4617d20118d0be5e3deb809b",
+      "original_bytes": 2719
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/INDEPENDENT-P3-RADIAL-COROLLARY-AUDIT.md",
+      "original_sha256": "8289641c87848e14da980a8055501dc668a6fe8f23d4b785f1a3df1bf209d9be",
+      "original_bytes": 10241
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/MANIFEST.json",
+      "original_sha256": "06fcaf2035be1580f4f99bd0e3ae1090eeb2f866ff61928a8d84724125edbbf6",
+      "original_bytes": 1805
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/SHA256SUMS",
+      "original_sha256": "257f6b305cd4030f10276c59de4ef31b18104186fbd9997ce913bb78138feac2",
+      "original_bytes": 380
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/check_p3_radial_corollary.py",
+      "original_sha256": "09d4c2c347009596b6e9521afe439bc7343ffb25be5689e1d7a994a1344480de",
+      "original_bytes": 6092
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/p3_radial_corollary_checks.json",
+      "original_sha256": "2a56ba6a2d8334604f13f778e7833a070d15873dc27a0b476f5fee14fe732d3d",
+      "original_bytes": 2459
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/INDEPENDENT-CANONICAL-RADIAL-MEAN-AUDIT.md",
+      "original_sha256": "ffc4b21539b0eadb5cd639b968befb59cc8d0ee3b57e268296b5576e233bc66d",
+      "original_bytes": 17915
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/MANIFEST.json",
+      "original_sha256": "7545d8beee8ef8b2bc728bcd6af2682642f226c28aa6cedf6ac422ab758a42fc",
+      "original_bytes": 4243
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/SHA256SUMS",
+      "original_sha256": "39b20b54be17125e0f717cc5e174153ea63b13ef50cf939c03bac52f3a0dbecd",
+      "original_bytes": 396
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/check_independent_radial_mean_audit.py",
+      "original_sha256": "07982cf0e721f4620bbba8963b8eb9668923caff04fbc41950cc20c03e21d824",
+      "original_bytes": 11028
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/independent_radial_mean_checks.json",
+      "original_sha256": "77cac951002218b59b13dffb0d176ca8e74a756ec9e86a43a64abb889bf1a6d1",
+      "original_bytes": 6756
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent_node_cut_checks.json",
+      "original_sha256": "ffa52ec0062234c29a4807766a1d8bf3ab9c986f4617d20118d0be5e3deb809b",
+      "original_bytes": 2719
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/MANIFEST.json",
+      "original_sha256": "50af4b0dc59da95e5c656ffc5415515b61ff8882652f3de6538e3af46c8fbcb0",
+      "original_bytes": 4530
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/MATRIX-FREE-GAUSSIAN-BACKBONE-M3.md",
+      "original_sha256": "772a0b758f7a4294ec9127629bec5bdd78b1f2ba167f32912ed5e7495e3ba06b",
+      "original_bytes": 25155
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/README.md",
+      "original_sha256": "93ad544283886c0cbf306888e2886a294f9a0475f57d414ce5b8982fb086049f",
+      "original_bytes": 3049
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/SHA256SUMS",
+      "original_sha256": "748e0107d2feaa81e9cdd6b5827ab3fc37bd60b5f9a82aa92fbcccba106a8284",
+      "original_bytes": 1020
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/check_matrix_free_backbone.py",
+      "original_sha256": "934f84476cebea84da68654f6d5fcbd80ed89dd84434e31d104d7bb58d58e095",
+      "original_bytes": 8449
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/independent-audit/GENERAL-C2-BIAS-OBSTRUCTION.md",
+      "original_sha256": "de0668564f50d528bd165ebd211e9fc7ed9b523d0cac5ca794dd28e868e945a1",
+      "original_bytes": 6743
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/independent-audit/INDEPENDENT-MATRIX-FREE-M3-AUDIT.md",
+      "original_sha256": "d0a2477c3f6d5137411e89fd7a9901f656e56e668499f68d9d6e5c5fb68171a4",
+      "original_bytes": 14663
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/independent-audit/check_matrix_free_m3_independent.py",
+      "original_sha256": "c978e1500bfb01756b90645dd771551ac1d2fdc03787475e717eed6a0d189c0e",
+      "original_bytes": 13526
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/independent-audit/independent_matrix_free_m3_checks.json",
+      "original_sha256": "600be1134310b86f8fbcd22961d658bcb7943335eb81c14b2e3b19d777ba362d",
+      "original_bytes": 1564
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/matrix_free_backbone_checks.json",
+      "original_sha256": "eee93cfd25611dc5f4d69985a2aea76f4a5556a38e15b08f6c3f8f7993f871e0",
+      "original_bytes": 8769
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/regenerate_manifest.py",
+      "original_sha256": "2bd295a982935bbbe7bc5e1d5118fc9243cbd2c9389702669affe506c162d24c",
+      "original_bytes": 2846
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/radial_shell_separator_constants.json",
+      "original_sha256": "6a6acd5c2f2664a8ab6b416b3ec88e90476e52a306e39900c614af5298869814",
+      "original_bytes": 583
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/BOUNDED-REMAINDER-RESUMMED-M3-VALUE-CONSUMER.md",
+      "original_sha256": "798d20b87124e7069e465ce4e7bcf92c5af3734d86c8a62aeb288b5fec8eaef3",
+      "original_bytes": 10537
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/INDEPENDENT-BOUNDED-RESUMMED-M3-AUDIT.md",
+      "original_sha256": "49d135ba6692c54012acd9d0d94f603c0015fca98b5d1be1164457ff45d1213a",
+      "original_bytes": 20091
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/MANIFEST.json",
+      "original_sha256": "745d0d7dbf69e1aaeab7bea0620fd9daa94f51cae6316a3838bbab4aa90c3b8f",
+      "original_bytes": 3449
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/SHA256SUMS",
+      "original_sha256": "ce5276807e6eee905cba8b5fc89a99b9c635495a5b832c72434c757ac396bb41",
+      "original_bytes": 388
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/check_resummed_m3_independent.py",
+      "original_sha256": "5fe55252e7a855658fe3b2857cdc617b4d4a384f60ce81a4ae2bacc314386f97",
+      "original_bytes": 17969
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/independent_resummed_m3_checks.json",
+      "original_sha256": "a3762270f67693a2fceee9b79b7b78228691b8a4bb11d2125b19815499bff053",
+      "original_bytes": 4273
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/provenance-recovered-20261005/matrix-free-polynomial-backbone-README-audited-prefinal.md",
+      "original_sha256": "23a14c33044d01c9ca84da6306d4686f37cd2025d3ce2e25776b65ca0699c903",
+      "original_bytes": 3047
+    }
+  ]
+}

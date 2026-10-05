@@ -1,0 +1,57 @@
+{
+  "status": "PASS finite/algebra diagnostics",
+  "assertions": 200,
+  "input_pins": {
+    "RADIAL-COROLLARY-FOR-THE-UNSHIFTED-P3-MEAN-CANDIDATE.md": "bae3fff77a2cfe75e0888637b4d39a1346bb64c1eec1ef8217f3e151af1eecc0",
+    "RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md": "2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035",
+    "independent-radial-mean-audit/INDEPENDENT-CANONICAL-RADIAL-MEAN-AUDIT.md": "ffc4b21539b0eadb5cd639b968befb59cc8d0ee3b57e268296b5576e233bc66d",
+    "P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md": "87b61a6a4ca03f81f7d910cdaa83b3783cd4792b3a428b89c8f0f629062e4467",
+    "../THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced",
+    "../nested-mean-independent-audit/INDEPENDENT-NESTED-FORCE-MEAN-AUDIT.md": "c2fbd8b02e1d225226ef5cf822fafda31f3dfa05e505d747d0b8772cb9d2daf7",
+    "independent-m3-gate-audit/INDEPENDENT-M3-RAW-SOURCE-AND-EXACT-CURRENT-AUDIT.md": "abb77d6c7bd425d254beb2d7465eb072ccc40a0be7c11851da05de0fa49767cf",
+    "../../../ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+  },
+  "finite_rules": [
+    {
+      "D": 16,
+      "A": 0.25,
+      "mid_nodes": 25,
+      "inner_nodes": 36,
+      "outer_nodes": 41,
+      "beta": 0.78551038165629,
+      "mid_certificate": 0.0625,
+      "inner_certificate": 0.0234375,
+      "outer_certificate": 0.015625
+    },
+    {
+      "D": 64,
+      "A": 0.125,
+      "mid_nodes": 41,
+      "inner_nodes": 55,
+      "outer_nodes": 78,
+      "beta": 0.7854121419969633,
+      "mid_certificate": 0.015625,
+      "inner_certificate": 0.005859375,
+      "outer_certificate": 0.00146484375
+    },
+    {
+      "D": 256,
+      "A": 0.0625,
+      "mid_nodes": 61,
+      "inner_nodes": 78,
+      "outer_nodes": 113,
+      "beta": 0.7853999092228479,
+      "mid_certificate": 0.00390625,
+      "inner_certificate": 0.00146484375,
+      "outer_certificate": 0.000244140625
+    }
+  ],
+  "largest_literal_F2_decomposition_residual": 9.758093987185266e-17,
+  "gaussian_shell_mean_difference": -0.0018295069327453617,
+  "linear_resolvent_witness_limit": -0.0009147534663726808,
+  "limits": [
+    "No true-history simulation or formal interval certificate.",
+    "Lp estimates, imported mean theorem, and uniform asymptotic separator are analytical.",
+    "No centered/resummed consumer or full endpoint law is verified."
+  ]
+}

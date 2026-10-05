@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-05",
+  "reviewer": "independent unshifted-P3 corollary reviewer",
+  "verdict": "PASS with polynomial-accuracy/public-log scope qualification",
+  "scope": "The actual unshifted P3 conditional-mean candidate (9) is false at its frozen pin; centered/resummed current and full endpoint law remain undecided.",
+  "assertions": 200,
+  "input_pins": {
+    "RADIAL-COROLLARY-FOR-THE-UNSHIFTED-P3-MEAN-CANDIDATE.md": "bae3fff77a2cfe75e0888637b4d39a1346bb64c1eec1ef8217f3e151af1eecc0",
+    "RADIAL-SHELL-REFUTES-UNSHIFTED-SINGLE-HISTORY-COVARIANCE.md": "2807f7307646cc16c79049319b574259874b09e731a13f686696bdd60a05b035",
+    "independent-radial-mean-audit/INDEPENDENT-CANONICAL-RADIAL-MEAN-AUDIT.md": "ffc4b21539b0eadb5cd639b968befb59cc8d0ee3b57e268296b5576e233bc66d",
+    "P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md": "87b61a6a4ca03f81f7d910cdaa83b3783cd4792b3a428b89c8f0f629062e4467",
+    "../THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced",
+    "../nested-mean-independent-audit/INDEPENDENT-NESTED-FORCE-MEAN-AUDIT.md": "c2fbd8b02e1d225226ef5cf822fafda31f3dfa05e505d747d0b8772cb9d2daf7",
+    "independent-m3-gate-audit/INDEPENDENT-M3-RAW-SOURCE-AND-EXACT-CURRENT-AUDIT.md": "abb77d6c7bd425d254beb2d7465eb072ccc40a0be7c11851da05de0fa49767cf",
+    "../../../ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+  },
+  "artifacts": {
+    "INDEPENDENT-P3-RADIAL-COROLLARY-AUDIT.md": "8289641c87848e14da980a8055501dc668a6fe8f23d4b785f1a3df1bf209d9be",
+    "check_p3_radial_corollary.py": "09d4c2c347009596b6e9521afe439bc7343ffb25be5689e1d7a994a1344480de",
+    "p3_radial_corollary_checks.json": "2a56ba6a2d8334604f13f778e7833a070d15873dc27a0b476f5fee14fe732d3d"
+  }
+}

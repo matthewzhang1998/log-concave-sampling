@@ -1,0 +1,250 @@
+{
+  "failures": [],
+  "counts": {
+    "inventory_entries": 697,
+    "new_files": 98,
+    "sealed_new_files": 96,
+    "extra_exact_dependencies": 2,
+    "root_seals": 6,
+    "structured_records": 276,
+    "external_records": 2
+  },
+  "seals": [
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/SEALED-MANIFEST.json",
+      "hash_verified": true,
+      "records": 13
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/SEALED-MANIFEST.json",
+      "hash_verified": true,
+      "records": 9
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/MANIFEST.json",
+      "hash_verified": true,
+      "records": 79
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RESUMMED-MEAN-CONTINUATION-MANIFEST.json",
+      "hash_verified": true,
+      "records": 22
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/MANIFEST.json",
+      "hash_verified": true,
+      "records": 7
+    },
+    {
+      "path": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/MANIFEST.json",
+      "hash_verified": true,
+      "records": 9
+    }
+  ],
+  "extra_dependencies": [
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/REVIEWED-TIGHT-BRIDGE-SOURCE.md",
+    "research/cost/endpoint-stein-quadrature-20261004/provenance-recovered-20261005/matrix-free-polynomial-backbone-README-audited-prefinal.md"
+  ],
+  "record_statuses": {
+    "original_source_and_public_mapping_verified": 268,
+    "external_original_verified_during_curation_not_bundled": 2,
+    "exact_historical_or_duplicate_bytes_mapped": 6
+  },
+  "assertion_changes": [
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/check_tight_bridge_independent.py",
+      "original_assertion_syntax_nodes": 45,
+      "removed": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Constant(value='source_pins'), Compare(left=Call(func=Attribute(value=Call(func=Attribute(value=Name(id='hashlib', ctx=Load()), attr='sha256', ctx=Load()), args=[Call(func=Attribute(value=Name(id='path', ctx=Load()), attr='read_bytes', ctx=Load()), args=[], keywords=[])], keywords=[]), attr='hexdigest', ctx=Load()), args=[], keywords=[]), ops=[Eq()], comparators=[Name(id='expected', ctx=Load())])], keywords=[])"
+      ],
+      "added": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Constant(value='source_pins'), Name(id='status', ctx=Load())], keywords=[])"
+      ]
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/check_modulated_six_tree.py",
+      "original_assertion_syntax_nodes": 21,
+      "removed": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Constant(value='sealed source manifest unchanged'), Compare(left=Subscript(value=Name(id='pins', ctx=Load()), slice=Call(func=Name(id='str', ctx=Load()), args=[Subscript(value=Name(id='sources', ctx=Load()), slice=Constant(value=0), ctx=Load())], keywords=[]), ctx=Load()), ops=[Eq()], comparators=[Constant(value='c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179')])], keywords=[])"
+      ],
+      "added": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Constant(value='sealed source manifest unchanged'), Compare(left=Subscript(value=Name(id='pins', ctx=Load()), slice=Call(func=Name(id='source_label', ctx=Load()), args=[Subscript(value=Name(id='sources', ctx=Load()), slice=Constant(value=0), ctx=Load())], keywords=[]), ctx=Load()), ops=[Eq()], comparators=[Constant(value='c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179')])], keywords=[])"
+      ]
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/check_p3_radial_corollary.py",
+      "original_assertion_syntax_nodes": 21,
+      "removed": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Compare(left=Call(func=Attribute(value=Call(func=Attribute(value=Name(id='hashlib', ctx=Load()), attr='sha256', ctx=Load()), args=[Call(func=Attribute(value=BinOp(left=Name(id='BASE', ctx=Load()), op=Div(), right=Name(id='name', ctx=Load())), attr='read_bytes', ctx=Load()), args=[], keywords=[])], keywords=[]), attr='hexdigest', ctx=Load()), args=[], keywords=[]), ops=[Eq()], comparators=[Name(id='pin', ctx=Load())])], keywords=[])"
+      ],
+      "added": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Call(func=Name(id='verify_source_pin', ctx=Load()), args=[BinOp(left=Name(id='BASE', ctx=Load()), op=Div(), right=Name(id='name', ctx=Load())), Name(id='pin', ctx=Load())], keywords=[])], keywords=[])"
+      ]
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/check_resummed_m3_independent.py",
+      "original_assertion_syntax_nodes": 46,
+      "removed": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Compare(left=Call(func=Name(id='sha', ctx=Load()), args=[Name(id='LOW30', ctx=Load())], keywords=[]), ops=[Eq()], comparators=[Constant(value='7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8')]), Constant(value='provenance'), Constant(value='original imported compiler pin')], keywords=[])"
+      ],
+      "added": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Name(id='external_status', ctx=Load()), Constant(value='provenance'), Constant(value='original imported compiler pin')], keywords=[])"
+      ]
+    }
+  ],
+  "privacy_findings": {},
+  "all_assertion_audits": [
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/check_tight_bridge.py",
+      "original_assertion_syntax_nodes": 15,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/covariance-test-audit/check_covariance_tensor.py",
+      "original_assertion_syntax_nodes": 12,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/independent-audit/check_tight_bridge_independent.py",
+      "original_assertion_syntax_nodes": 45,
+      "removed": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Constant(value='source_pins'), Compare(left=Call(func=Attribute(value=Call(func=Attribute(value=Name(id='hashlib', ctx=Load()), attr='sha256', ctx=Load()), args=[Call(func=Attribute(value=Name(id='path', ctx=Load()), attr='read_bytes', ctx=Load()), args=[], keywords=[])], keywords=[]), attr='hexdigest', ctx=Load()), args=[], keywords=[]), ops=[Eq()], comparators=[Name(id='expected', ctx=Load())])], keywords=[])"
+      ],
+      "added": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Constant(value='source_pins'), Name(id='status', ctx=Load())], keywords=[])"
+      ]
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/check_modulated_six_tree.py",
+      "original_assertion_syntax_nodes": 21,
+      "removed": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Constant(value='sealed source manifest unchanged'), Compare(left=Subscript(value=Name(id='pins', ctx=Load()), slice=Call(func=Name(id='str', ctx=Load()), args=[Subscript(value=Name(id='sources', ctx=Load()), slice=Constant(value=0), ctx=Load())], keywords=[]), ctx=Load()), ops=[Eq()], comparators=[Constant(value='c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179')])], keywords=[])"
+      ],
+      "added": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Constant(value='sealed source manifest unchanged'), Compare(left=Subscript(value=Name(id='pins', ctx=Load()), slice=Call(func=Name(id='source_label', ctx=Load()), args=[Subscript(value=Name(id='sources', ctx=Load()), slice=Constant(value=0), ctx=Load())], keywords=[]), ctx=Load()), ops=[Eq()], comparators=[Constant(value='c42ce2f9f086ae94abe59fe744af90dc01127221459614fe868c118314448179')])], keywords=[])"
+      ]
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/independent-audit/check_modulated_jet_audit.py",
+      "original_assertion_syntax_nodes": 20,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_centered_radial_inflation_constants.py",
+      "original_assertion_syntax_nodes": 11,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_independent_node_cuts.py",
+      "original_assertion_syntax_nodes": 10,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/check_radial_shell_separator_constants.py",
+      "original_assertion_syntax_nodes": 9,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/gaussian-rms-backbone/independent-audit/check_gaussian_rms_extension.py",
+      "original_assertion_syntax_nodes": 42,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-center-inflation-audit/check_center_inflation_independent.py",
+      "original_assertion_syntax_nodes": 0,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-centered-p3-inflation-audit/check_centered_p3_inflation.py",
+      "original_assertion_syntax_nodes": 0,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-node-cut-audit/check_independent_node_audit.py",
+      "original_assertion_syntax_nodes": 23,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-p3-radial-corollary-audit/check_p3_radial_corollary.py",
+      "original_assertion_syntax_nodes": 21,
+      "removed": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Compare(left=Call(func=Attribute(value=Call(func=Attribute(value=Name(id='hashlib', ctx=Load()), attr='sha256', ctx=Load()), args=[Call(func=Attribute(value=BinOp(left=Name(id='BASE', ctx=Load()), op=Div(), right=Name(id='name', ctx=Load())), attr='read_bytes', ctx=Load()), args=[], keywords=[])], keywords=[]), attr='hexdigest', ctx=Load()), args=[], keywords=[]), ops=[Eq()], comparators=[Name(id='pin', ctx=Load())])], keywords=[])"
+      ],
+      "added": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Call(func=Name(id='verify_source_pin', ctx=Load()), args=[BinOp(left=Name(id='BASE', ctx=Load()), op=Div(), right=Name(id='name', ctx=Load())), Name(id='pin', ctx=Load())], keywords=[])], keywords=[])"
+      ]
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-radial-mean-audit/check_independent_radial_mean_audit.py",
+      "original_assertion_syntax_nodes": 17,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/check_matrix_free_backbone.py",
+      "original_assertion_syntax_nodes": 23,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/matrix-free-polynomial-backbone/independent-audit/check_matrix_free_m3_independent.py",
+      "original_assertion_syntax_nodes": 39,
+      "removed": [],
+      "added": []
+    },
+    {
+      "script": "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/resummed-linear-backbone/independent-audit/check_resummed_m3_independent.py",
+      "original_assertion_syntax_nodes": 46,
+      "removed": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Compare(left=Call(func=Name(id='sha', ctx=Load()), args=[Name(id='LOW30', ctx=Load())], keywords=[]), ops=[Eq()], comparators=[Constant(value='7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8')]), Constant(value='provenance'), Constant(value='original imported compiler pin')], keywords=[])"
+      ],
+      "added": [
+        "Call(func=Name(id='check', ctx=Load()), args=[Name(id='external_status', ctx=Load()), Constant(value='provenance'), Constant(value='original imported compiler pin')], keywords=[])"
+      ]
+    }
+  ],
+  "source_record_coverage": {
+    "raw_manifest_hash_and_checksum_leaves": 276,
+    "mapped_records": 276,
+    "missing": [],
+    "extra": []
+  },
+  "local_doc_link_issues": [],
+  "privacy_false_positives": "Two root-delimiter substring matches were mathematical ledger prose, not private paths.",
+  "final_verification_utc": "2026-10-05T02:35:38.067126+00:00",
+  "final_inventory_reverified": true,
+  "final_whole_candidate_disclosure_scan_findings": [],
+  "final_public_diagnostics": {
+    "run_utc": "2026-10-05T02:31:05Z",
+    "python": "3.12.14",
+    "packages": {
+      "numpy": "2.3.5",
+      "scipy": "1.17.0",
+      "mpmath": "1.3.0",
+      "sympy": "1.14.0"
+    },
+    "script_count": 148,
+    "passed_count": 148,
+    "failed_count": 0,
+    "not_run_count": 0,
+    "all_pass": true,
+    "archived_research_bytes_unchanged": true
+  },
+  "reviewed_root_document_sha256": {
+    "README.md": "cd0f5542b9e570e53d955ce3e38fd195656acf9776ea1e1d0d9d1426bc2cb055",
+    "STATUS-V12.md": "78622510317723c403e6c49db700aff76ee9fa03e9857e5337896efeba9dc2ed",
+    "EXCLUSIONS.md": "d27f8d1d1dd57128fd7de66ff1c910c88435d61074f3d7b0034c88c3b2407f7f",
+    "verification/REVIEW.md": "b6f7b303d76a925eea05d6e2676856b31d46ab14664b29736858a7b48c097835",
+    "verification/CURATION-VERIFICATION.json": "6bef279389804be96cb423ea5e9c4ba6558bc76a37311140576d5b1997c25126"
+  }
+}
