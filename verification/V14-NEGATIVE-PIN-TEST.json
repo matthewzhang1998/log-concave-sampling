@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "incorrect_external_source_rejected": true,
+  "script": "research/algebra-current-image-20261005/independent-audit/independent_checks.py",
+  "scope": "Deliberately incorrect ordinary local text was rejected by the external LOW30 hash check. No manuscript contents included."
+}

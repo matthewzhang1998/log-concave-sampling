@@ -1,0 +1,17 @@
+{
+  "adapters": [
+    {
+      "script": "research/algebra-current-image-20261005/independent-audit/independent_checks.py",
+      "original_sha256": "e07e5a89bbcd9b451b7ccac10317b10e9e1b85f67ca235617591adca76930762",
+      "in_memory_adapted_sha256": "3689d4eb4da470b2e8b79160bfbbf99a42cda18cd5dd1f0e562c1ed11b48bfc9",
+      "replacements": [
+        [
+          "    b=Path(x['path']).read_bytes()\n    good=len(b)==x['bytes'] and hashlib.sha256(b).hexdigest()==x['sha256']\n    check(good,'pin:'+x['path'])\n    pins.append(dict(path=x['path'],sha256=hashlib.sha256(b).hexdigest(),bytes=len(b),match=good))",
+          "    status=publication_pin(x['path'],x['sha256'])\n    if status is not None:\n        b=Path(x['path']).read_bytes()\n        good=len(b)==x['bytes'] and hashlib.sha256(b).hexdigest()==x['sha256']\n        check(good,'pin:'+x['path'])\n        pins.append(dict(path=x['path'],sha256=hashlib.sha256(b).hexdigest(),bytes=len(b),match=good))\n    else:\n        pins.append(dict(path=x['path'],sha256=None,bytes=None,match=None,status='external_not_reverified'))"
+        ]
+      ],
+      "scope": "Optional external LOW30 provenance only; no mathematical assertion removed."
+    }
+  ],
+  "inherited_v13_helper_unchanged": true
+}

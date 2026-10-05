@@ -1,0 +1,164 @@
+{
+  "status": "PASS",
+  "scope": "Independent exact diagnostics only; no native quadratic jet or finite implementation certificate is proved by these tests.",
+  "checks": {
+    "pin:/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md": true,
+    "pin:/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex": true,
+    "pin:/workspace/shared/repair-graph-algebra-20261005/REPAIR-GRAPH-ALGEBRA.md": true,
+    "pin:/workspace/shared/induction-carrier-fixed-native-20261005/ROOT-SEED-CARRIER-STABLE-PORT.md": true,
+    "pin:/workspace/shared/induction-carrier-fixed-native-20261005/ALGEBRA-OWNERSHIP-INTERFACE.md": true,
+    "pin:/workspace/shared/induction-carrier-fixed-native-20261005/CLOCK-AND-INDEPENDENT-SHARE-CROSSCHECK.md": true,
+    "pin:/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md": true,
+    "pin:/workspace/shared/induction-shared-variables-20261005/EXACT-WHOLE-BANK-TREE-CENSUS.md": true,
+    "pin:/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md": true,
+    "pin:/workspace/shared/induction-renewable-heat-budget-20261005/WEIGHTED-GENERATOR-CONTRACT.md": true,
+    "pin:/workspace/shared/induction-cutoff-clock-compression-20261005/CUTOFF-FREE-SECTOR-GAUSS.md": true,
+    "pin:/workspace/shared/induction-cutoff-clock-compression-20261005/COMPLETE-EXECUTION-BILL.md": true,
+    "rank4_closed_form_through_four": true,
+    "raw_second_includes_rank_eight": true,
+    "retained_derivative_has_sqrt_s": true,
+    "omission_factor_two_example": true,
+    "integrated_retained_second_derivative": true,
+    "integrated_derivative_commutation_shortcut_fails": true,
+    "consumed_E_rank4_to_covariance_rank2_relation": true,
+    "conditional_nonmembership_requires_all_retained_tests": true,
+    "consuming_B_does_not_remove_endpoint_dependency": true,
+    "scalar_common_carrier_cross_covariance_psd": true,
+    "realizable_scalar_carrier_mixed_term_nonzero": true,
+    "covariance_acceleration_and_square": true,
+    "covariance_third_coefficient": true,
+    "strict_native_floor:T2": true,
+    "normalization:T2": true,
+    "strict_native_floor:T3": true,
+    "normalization:T3": true,
+    "strict_native_floor:T4": true,
+    "normalization:T4": true,
+    "minimum_summed_root_floor_six": true,
+    "minimum_pair_bridge_grade_29_over_4": true
+  },
+  "pins": [
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+      "sha256": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d",
+      "bytes": 9417,
+      "match": true
+    },
+    {
+      "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "bytes": 680050,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/repair-graph-algebra-20261005/REPAIR-GRAPH-ALGEBRA.md",
+      "sha256": "a0599111632220ec765c3f636ec2a26ac372ea575613a80a3bb37cec6f301198",
+      "bytes": 45672,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-carrier-fixed-native-20261005/ROOT-SEED-CARRIER-STABLE-PORT.md",
+      "sha256": "0c4ef1c750102a41fe11c563699100d128943a842543326291ef557e0e741c45",
+      "bytes": 18879,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-carrier-fixed-native-20261005/ALGEBRA-OWNERSHIP-INTERFACE.md",
+      "sha256": "979de3f3a9e6fc7883bf109cd36bad4da3b8319ed935af2fdf7eab33ce364616",
+      "bytes": 5416,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-carrier-fixed-native-20261005/CLOCK-AND-INDEPENDENT-SHARE-CROSSCHECK.md",
+      "sha256": "7653f3143c6658184eb4a052e84e508a7b96897afc2972dd3bc695c7439eaab9",
+      "bytes": 2628,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+      "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+      "bytes": 23602,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/EXACT-WHOLE-BANK-TREE-CENSUS.md",
+      "sha256": "7d1c4e516fa002fcb9559488c7e833681402e00b9f493c2af79d1b634ed6db49",
+      "bytes": 10705,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md",
+      "sha256": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1",
+      "bytes": 17859,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-renewable-heat-budget-20261005/WEIGHTED-GENERATOR-CONTRACT.md",
+      "sha256": "bfd6c02a34cf5e2d37e99f60dbb23cdcdff78e011a6181f7e03a2c2f5ce3f158",
+      "bytes": 5322,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/CUTOFF-FREE-SECTOR-GAUSS.md",
+      "sha256": "4a422374bfde930ec8ea5df64cde24c7977d2602283726d0fee1db758343893d",
+      "bytes": 16774,
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/COMPLETE-EXECUTION-BILL.md",
+      "sha256": "ebf6c935dcd14d4091acbf186611b364ae9381d56178a3f9726d5674ef161252",
+      "bytes": 6932,
+      "match": true
+    }
+  ],
+  "grades": [
+    {
+      "name": "T2",
+      "N": 2,
+      "K": 0,
+      "G": "4",
+      "Psi": "13/4",
+      "root": "15/4",
+      "floor": "15/2"
+    },
+    {
+      "name": "T3",
+      "N": 3,
+      "K": 1,
+      "G": "31/8",
+      "Psi": "23/8",
+      "root": "27/8",
+      "floor": "27/4"
+    },
+    {
+      "name": "T4",
+      "N": 4,
+      "K": 2,
+      "G": "15/4",
+      "Psi": "5/2",
+      "root": "3",
+      "floor": "6"
+    }
+  ],
+  "artifact_snapshot": [
+    {
+      "file": "CURRENT-IMAGE-AND-RESIDUAL.md",
+      "sha256": "c984eea70ea5ba0e998ea6558af5a23f291b527051c53af784ba06280cd41117",
+      "bytes": 22343
+    },
+    {
+      "file": "CURRENT-DICTIONARY.json",
+      "sha256": "5bf352647e7e1859910f62333d28f149ca3c9a49e371f99a9892bd25d8c99c3e",
+      "bytes": 22316
+    },
+    {
+      "file": "check_dictionary.py",
+      "sha256": "36aa015d2c04e9e439848d23f11a6cb69290644bb1a23f38cc44a30cb30f54ab",
+      "bytes": 12921
+    },
+    {
+      "file": "INPUT-PINS.json",
+      "sha256": "df48485bc8d661a5d8859b62b682d10564b6e9967fadd361444291d8f178e652",
+      "bytes": 2589
+    }
+  ]
+}

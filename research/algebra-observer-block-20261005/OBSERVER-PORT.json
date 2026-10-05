@@ -1,0 +1,59 @@
+{
+  "id": "SCALAR_SINE_CARRIER_TRANSPORT_V1",
+  "status": "explicit_new_raw_VALUE_port_not_original_native_port",
+  "force": "g(x)=c*x+epsilon*sin(x)",
+  "parameter_conditions": [
+    "0<epsilon<c",
+    "c+epsilon<=1",
+    "alpha>=0",
+    "beta=alpha*epsilon/(1+alpha*c)<=1/8"
+  ],
+  "retained": [
+    "original carrier/coefficient caller B",
+    "declared external E"
+  ],
+  "private_keep": "optional independent sigma*Z, unchanged and unread",
+  "normalized_endpoint": "X=F_beta(B)+sigma*Z; F_beta(x)=x+beta*sin(x)",
+  "leading_pairing": "E[eta(B,E)*A_beta(B)*h(B,E)*phi'(X)]",
+  "leading_block": "h -> A_beta*h; A_beta=1+beta*cos",
+  "right_inverse": "v -> v/A_beta",
+  "right_inverse_class": "scalar finite-original-VALUE v with bounded value and complete firsts",
+  "VALUE_identity_sin": "(g(x)-c*x)/epsilon",
+  "VALUE_identity_cos": "(g(x+pi/2)-c*(x+pi/2))/epsilon",
+  "first_residual": "beta*t^2*h^2*integral_0^1(1-u)*p''(B+u*t*h)du",
+  "first_residual_bound": "beta*t^2*V0^2/[2*(1-beta)^2]",
+  "worked_target": "recover B from x=W_alpha/(1+alpha*c)=F_beta(B)",
+  "stage_1": "Q1(x)=x-beta*sin(x)/(1+beta*cos(x))",
+  "stage_2": "Q2(x)=Q1(x)+beta^3*sin(x)^3/[2*(1+beta*cos(x))^3]",
+  "stage_1_retained_bound": "beta^3/[2*(1-beta)^3]",
+  "stage_2_retained_bound": "beta^4*C2(beta)/(1-beta), C2 explicitly defined in report",
+  "stage_1_nonzero_leading_error": "-beta^3*sin(B)^3/2",
+  "stage_2_nonzero_leading_error": "+beta^4*sin(B)^3*cos(B)/6",
+  "complete_first": "(1-beta)*(1-rho)<=d_B Q2(F_beta(B))<=(1+beta)*(1+rho); rho<0.191",
+  "curl": "identically zero in dimension one; diagonal zero for stated separable extension",
+  "positivity": "literal increasing pushforward, optional original keep convolution",
+  "VALUE_cost": {
+    "old_W": 1,
+    "additional_shared_p_q": 2,
+    "total": 3,
+    "inverse_alpha_exponent_at_fixed_two_stages": 0
+  },
+  "native_floor": "not applicable: no native compiler invoked; any later native realization retains its actual floor",
+  "finite_precision_floor": "<=5*alpha*delta_g for uniform original VALUE errors delta_g<=epsilon/8, plus separately charged arithmetic and parameter errors",
+  "higher_rank_coefficient_block": "finite triangular Bell matrix, diagonal A_beta^r; exact coefficient inverse only",
+  "unfilled_source_port": "carrier-correlated positive native realization of arbitrary inverse Bell coefficients",
+  "strict_native_exclusion": "existing root-seed port requires H independent of coefficient bank E; identifying H=B violates its typed contract",
+  "general_C2_limit": "generic derivative block is not an exact finite-VALUE oracle; finite-difference errors and terminal curl require new proofs",
+  "no_claims": [
+    "all-rank native realizability",
+    "arbitrary-order unsmoothed theorem for a general force",
+    "general nonseparable curl preservation",
+    "resolution of heat traces",
+    "conversion of quadratic native floor into exact jet"
+  ],
+  "finite_order_recurrence": "h1=-p/A; hn=-(beta/A)*sum_{r=2}^n p^(r)/r! * sum_{n1+...+nr=n,ni>=1} product h_ni",
+  "finite_order_execution": "Q_N=x+sum_{j=1}^N beta^j*h_j; all derivatives use the same original-VALUE p,q cache",
+  "finite_order_residual": "|Q_N(F_beta(B))-B|<=C_N*beta^(N+2)/(1-beta), with computable N-dependent beta/first guard",
+  "finite_order_arithmetic_upper_bound": "O(N^2*2^N) scalar operations; three original VALUES; no uniform-in-N bit-cost assertion",
+  "finite_order_budget_file": "finite-order-budgets.json; exact rational majorants and guards for N=1,...,6"
+}

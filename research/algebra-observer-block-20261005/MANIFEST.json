@@ -1,0 +1,76 @@
+{
+  "packet": "algebra-observer-block-20261005",
+  "status": "scoped independent PASS",
+  "task": "Task C: invert the observer leading block",
+  "original_VALUE_calls": 3,
+  "author_checks_passed": 18,
+  "independent_high_precision_checks_passed": 6,
+  "scope": "scalar sine carrier-aware raw VALUE extension; arbitrary native source closure unproved",
+  "files": [
+    {
+      "file": "FINAL-STATUS.md",
+      "bytes": 1901,
+      "sha256": "bc2c13463081a3d7dcc7989e54350605bc871720dbb6a63764fe336ce65afb34"
+    },
+    {
+      "file": "INDEPENDENT-AUDIT.md",
+      "bytes": 16594,
+      "sha256": "24b0c3174678391860cfb8bf9c783e0321a4e3979f6b9952b0dd07cb43696979"
+    },
+    {
+      "file": "INPUT-PINS.json",
+      "bytes": 612,
+      "sha256": "4dd73806b417a5b12b64c491f1385e8974c7b03a66165c56d9c9a689570be03c"
+    },
+    {
+      "file": "OBSERVER-LEADING-BLOCK.md",
+      "bytes": 22371,
+      "sha256": "4e6c80376535f5092278e34819d15cd0da9ae3b44ce2e43ae79cc333e420ee60"
+    },
+    {
+      "file": "OBSERVER-PORT.json",
+      "bytes": 3513,
+      "sha256": "dbf6802429fd77b9fc5b4590a207617384e45d86b2530396a661a5cb4411631b"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1330,
+      "sha256": "e6c7f771a4bcb0fc952ff3dd7943766db365fac1a54cca32896e591b27779841"
+    },
+    {
+      "file": "audit-high-precision-run.txt",
+      "bytes": 2183,
+      "sha256": "ae1946d931d70e60478814481dba04a9b013c11996482d8fb463eae2bd5d962b"
+    },
+    {
+      "file": "audit-high-precision.json",
+      "bytes": 2183,
+      "sha256": "ae1946d931d70e60478814481dba04a9b013c11996482d8fb463eae2bd5d962b"
+    },
+    {
+      "file": "audit_check_high_precision.py",
+      "bytes": 2483,
+      "sha256": "56646ab88b4a39855627aad76c071292973f4ec3bcb669da2d1ad3ecefd4fdcb"
+    },
+    {
+      "file": "check-run.txt",
+      "bytes": 116,
+      "sha256": "14f179b0d22905becf5146bd46df1dfd792e360d2c11d436146daf4213bb81e5"
+    },
+    {
+      "file": "check_observer_block.py",
+      "bytes": 10026,
+      "sha256": "01ea96e20fd13f5c5ecf46ac00a3c089ac26df7b362f2618d1575c4dc5e1c368"
+    },
+    {
+      "file": "checks.json",
+      "bytes": 8843,
+      "sha256": "aa7d615769487ef1970edfba34c0c7bc7bda9514021e6dabc2661d2383eb52de"
+    },
+    {
+      "file": "finite-order-budgets.json",
+      "bytes": 3790,
+      "sha256": "634e0aec80c4873252f5eb2d6eb6f96150e3afedb6d0f04b222a99c0f612fa32"
+    }
+  ]
+}

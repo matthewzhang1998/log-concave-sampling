@@ -17922,6 +17922,573 @@
       "matches_original_source": true,
       "public_sha256": "a6c3ae0174c383294d60312f39566a366b40ce794d1dac9e6d581259898ddc5c",
       "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/CURRENT-DICTIONARY.json",
+      "recorded_sha256": "5bf352647e7e1859910f62333d28f149ca3c9a49e371f99a9892bd25d8c99c3e",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/CURRENT-DICTIONARY.json",
+      "original_sha256": "5bf352647e7e1859910f62333d28f149ca3c9a49e371f99a9892bd25d8c99c3e",
+      "matches_original_source": true,
+      "public_sha256": "5bf352647e7e1859910f62333d28f149ca3c9a49e371f99a9892bd25d8c99c3e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/CURRENT-IMAGE-AND-RESIDUAL.md",
+      "recorded_sha256": "c984eea70ea5ba0e998ea6558af5a23f291b527051c53af784ba06280cd41117",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/CURRENT-IMAGE-AND-RESIDUAL.md",
+      "original_sha256": "c984eea70ea5ba0e998ea6558af5a23f291b527051c53af784ba06280cd41117",
+      "matches_original_source": true,
+      "public_sha256": "c984eea70ea5ba0e998ea6558af5a23f291b527051c53af784ba06280cd41117",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/FINAL-STATUS.md",
+      "recorded_sha256": "8e103befd273d1cd3d7441adfbb8b782409a67ab98b91f0d7d7af455cb1d889d",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/FINAL-STATUS.md",
+      "original_sha256": "8e103befd273d1cd3d7441adfbb8b782409a67ab98b91f0d7d7af455cb1d889d",
+      "matches_original_source": true,
+      "public_sha256": "8e103befd273d1cd3d7441adfbb8b782409a67ab98b91f0d7d7af455cb1d889d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/INPUT-PINS.json",
+      "recorded_sha256": "df48485bc8d661a5d8859b62b682d10564b6e9967fadd361444291d8f178e652",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/INPUT-PINS.json",
+      "original_sha256": "df48485bc8d661a5d8859b62b682d10564b6e9967fadd361444291d8f178e652",
+      "matches_original_source": true,
+      "public_sha256": "df48485bc8d661a5d8859b62b682d10564b6e9967fadd361444291d8f178e652",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/MANIFEST.json",
+      "recorded_sha256": "4d8c03027bac7c7ce0060689b5449973fc9d782f54378ee19beb858be10eb32f",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/MANIFEST.json",
+      "original_sha256": "4d8c03027bac7c7ce0060689b5449973fc9d782f54378ee19beb858be10eb32f",
+      "matches_original_source": true,
+      "public_sha256": "4d8c03027bac7c7ce0060689b5449973fc9d782f54378ee19beb858be10eb32f",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/README.md",
+      "recorded_sha256": "e90e68fbd75227bb8f464104a5fbbed6096e2f02adc5580f1a56e08f479480b4",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/README.md",
+      "original_sha256": "e90e68fbd75227bb8f464104a5fbbed6096e2f02adc5580f1a56e08f479480b4",
+      "matches_original_source": true,
+      "public_sha256": "e90e68fbd75227bb8f464104a5fbbed6096e2f02adc5580f1a56e08f479480b4",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/SHA256SUMS",
+      "recorded_sha256": "65737ab7481929c0c088d3835bc6f1f5d18c5e4b605de56612326832781906f9",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/SHA256SUMS",
+      "original_sha256": "65737ab7481929c0c088d3835bc6f1f5d18c5e4b605de56612326832781906f9",
+      "matches_original_source": true,
+      "public_sha256": "65737ab7481929c0c088d3835bc6f1f5d18c5e4b605de56612326832781906f9",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/build_dictionary.py",
+      "recorded_sha256": "0ab4dc3ef97489c450babd79a4fa863591810965c0f7d12aa7356482e81071e9",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/build_dictionary.py",
+      "original_sha256": "0ab4dc3ef97489c450babd79a4fa863591810965c0f7d12aa7356482e81071e9",
+      "matches_original_source": true,
+      "public_sha256": "0ab4dc3ef97489c450babd79a4fa863591810965c0f7d12aa7356482e81071e9",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/check-run.txt",
+      "recorded_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/check-run.txt",
+      "original_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "matches_original_source": true,
+      "public_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/check_dictionary.py",
+      "recorded_sha256": "36aa015d2c04e9e439848d23f11a6cb69290644bb1a23f38cc44a30cb30f54ab",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/check_dictionary.py",
+      "original_sha256": "36aa015d2c04e9e439848d23f11a6cb69290644bb1a23f38cc44a30cb30f54ab",
+      "matches_original_source": true,
+      "public_sha256": "36aa015d2c04e9e439848d23f11a6cb69290644bb1a23f38cc44a30cb30f54ab",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/checks.json",
+      "recorded_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/checks.json",
+      "original_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "matches_original_source": true,
+      "public_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/AUDIT-VERDICT.json",
+      "recorded_sha256": "10649fdb5dda825c16866158f93c5e202291df9b07a978bdaa6637929baac28e",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/AUDIT-VERDICT.json",
+      "original_sha256": "10649fdb5dda825c16866158f93c5e202291df9b07a978bdaa6637929baac28e",
+      "matches_original_source": true,
+      "public_sha256": "10649fdb5dda825c16866158f93c5e202291df9b07a978bdaa6637929baac28e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/INDEPENDENT-AUDIT.md",
+      "recorded_sha256": "1b881f8227e1f3ead08c480aec595f0365a064fcba7261fcb8cf4f06e77b48cb",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/INDEPENDENT-AUDIT.md",
+      "original_sha256": "1b881f8227e1f3ead08c480aec595f0365a064fcba7261fcb8cf4f06e77b48cb",
+      "matches_original_source": true,
+      "public_sha256": "1b881f8227e1f3ead08c480aec595f0365a064fcba7261fcb8cf4f06e77b48cb",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/checker-copy/CURRENT-DICTIONARY.json",
+      "recorded_sha256": "77f3ad67ef033ddaa064070801d4bb1957286948d4757e2c4e90ea8e7b54cfed",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/checker-copy/CURRENT-DICTIONARY.json",
+      "original_sha256": "77f3ad67ef033ddaa064070801d4bb1957286948d4757e2c4e90ea8e7b54cfed",
+      "matches_original_source": true,
+      "public_sha256": "77f3ad67ef033ddaa064070801d4bb1957286948d4757e2c4e90ea8e7b54cfed",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/checker-copy/check_dictionary.py",
+      "recorded_sha256": "dbafab2e70e341e922c4ea2b3f665bdc8172e6d422ef5eb33b259a9fa9eb320b",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/checker-copy/check_dictionary.py",
+      "original_sha256": "dbafab2e70e341e922c4ea2b3f665bdc8172e6d422ef5eb33b259a9fa9eb320b",
+      "matches_original_source": true,
+      "public_sha256": "dbafab2e70e341e922c4ea2b3f665bdc8172e6d422ef5eb33b259a9fa9eb320b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/checker-copy/checks.json",
+      "recorded_sha256": "3a3b202e37dec3dd23f42cf2169f21c7fc876d8746e617d23df5f175b1bc07b3",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/checker-copy/checks.json",
+      "original_sha256": "3a3b202e37dec3dd23f42cf2169f21c7fc876d8746e617d23df5f175b1bc07b3",
+      "matches_original_source": true,
+      "public_sha256": "3a3b202e37dec3dd23f42cf2169f21c7fc876d8746e617d23df5f175b1bc07b3",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/checker-output.json",
+      "recorded_sha256": "3a3b202e37dec3dd23f42cf2169f21c7fc876d8746e617d23df5f175b1bc07b3",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/checker-output.json",
+      "original_sha256": "3a3b202e37dec3dd23f42cf2169f21c7fc876d8746e617d23df5f175b1bc07b3",
+      "matches_original_source": true,
+      "public_sha256": "3a3b202e37dec3dd23f42cf2169f21c7fc876d8746e617d23df5f175b1bc07b3",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/independent-check-output.txt",
+      "recorded_sha256": "a5c23f161d21c08061d3f4b9748706e0438fd11cd501eb6310f5dec2443a2472",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/independent-check-output.txt",
+      "original_sha256": "a5c23f161d21c08061d3f4b9748706e0438fd11cd501eb6310f5dec2443a2472",
+      "matches_original_source": true,
+      "public_sha256": "a5c23f161d21c08061d3f4b9748706e0438fd11cd501eb6310f5dec2443a2472",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/independent-checks.json",
+      "recorded_sha256": "a5c23f161d21c08061d3f4b9748706e0438fd11cd501eb6310f5dec2443a2472",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/independent-checks.json",
+      "original_sha256": "a5c23f161d21c08061d3f4b9748706e0438fd11cd501eb6310f5dec2443a2472",
+      "matches_original_source": true,
+      "public_sha256": "a5c23f161d21c08061d3f4b9748706e0438fd11cd501eb6310f5dec2443a2472",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/independent_checks.py",
+      "recorded_sha256": "e07e5a89bbcd9b451b7ccac10317b10e9e1b85f67ca235617591adca76930762",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/independent_checks.py",
+      "original_sha256": "e07e5a89bbcd9b451b7ccac10317b10e9e1b85f67ca235617591adca76930762",
+      "matches_original_source": true,
+      "public_sha256": "e07e5a89bbcd9b451b7ccac10317b10e9e1b85f67ca235617591adca76930762",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/revised-checker-copy/CURRENT-DICTIONARY.json",
+      "recorded_sha256": "5bf352647e7e1859910f62333d28f149ca3c9a49e371f99a9892bd25d8c99c3e",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/revised-checker-copy/CURRENT-DICTIONARY.json",
+      "original_sha256": "5bf352647e7e1859910f62333d28f149ca3c9a49e371f99a9892bd25d8c99c3e",
+      "matches_original_source": true,
+      "public_sha256": "5bf352647e7e1859910f62333d28f149ca3c9a49e371f99a9892bd25d8c99c3e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/revised-checker-copy/CURRENT-IMAGE-AND-RESIDUAL.md",
+      "recorded_sha256": "c984eea70ea5ba0e998ea6558af5a23f291b527051c53af784ba06280cd41117",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/revised-checker-copy/CURRENT-IMAGE-AND-RESIDUAL.md",
+      "original_sha256": "c984eea70ea5ba0e998ea6558af5a23f291b527051c53af784ba06280cd41117",
+      "matches_original_source": true,
+      "public_sha256": "c984eea70ea5ba0e998ea6558af5a23f291b527051c53af784ba06280cd41117",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/revised-checker-copy/INPUT-PINS.json",
+      "recorded_sha256": "df48485bc8d661a5d8859b62b682d10564b6e9967fadd361444291d8f178e652",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/revised-checker-copy/INPUT-PINS.json",
+      "original_sha256": "df48485bc8d661a5d8859b62b682d10564b6e9967fadd361444291d8f178e652",
+      "matches_original_source": true,
+      "public_sha256": "df48485bc8d661a5d8859b62b682d10564b6e9967fadd361444291d8f178e652",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/revised-checker-copy/check_dictionary.py",
+      "recorded_sha256": "36aa015d2c04e9e439848d23f11a6cb69290644bb1a23f38cc44a30cb30f54ab",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/revised-checker-copy/check_dictionary.py",
+      "original_sha256": "36aa015d2c04e9e439848d23f11a6cb69290644bb1a23f38cc44a30cb30f54ab",
+      "matches_original_source": true,
+      "public_sha256": "36aa015d2c04e9e439848d23f11a6cb69290644bb1a23f38cc44a30cb30f54ab",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/revised-checker-copy/checks.json",
+      "recorded_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/revised-checker-copy/checks.json",
+      "original_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "matches_original_source": true,
+      "public_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-current-image-20261005/independent-audit/revised-checker-output.json",
+      "recorded_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "source_index_id": "v14-frozen-selection:research/algebra-current-image-20261005/independent-audit/revised-checker-output.json",
+      "original_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "matches_original_source": true,
+      "public_sha256": "a73abadc920cc612dcd8e2f7ca59e1250c052e299ec1a92a77f57378b45ee82e",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/COLLECTIVE-HEAT-AND-THE-COMMON-TRANSLATION-BOUNDARY.md",
+      "recorded_sha256": "cb8b252e5d0d4c329077d6b913450580f6a01f47f44d4aacbf826af481b5f579",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/COLLECTIVE-HEAT-AND-THE-COMMON-TRANSLATION-BOUNDARY.md",
+      "original_sha256": "cb8b252e5d0d4c329077d6b913450580f6a01f47f44d4aacbf826af481b5f579",
+      "matches_original_source": true,
+      "public_sha256": "cb8b252e5d0d4c329077d6b913450580f6a01f47f44d4aacbf826af481b5f579",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/FINAL-STATUS.md",
+      "recorded_sha256": "95f276f4ca79a01095f6b0f0fd672a39e3fb8a3a511dc9b3b98fad7c8e7da332",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/FINAL-STATUS.md",
+      "original_sha256": "95f276f4ca79a01095f6b0f0fd672a39e3fb8a3a511dc9b3b98fad7c8e7da332",
+      "matches_original_source": true,
+      "public_sha256": "95f276f4ca79a01095f6b0f0fd672a39e3fb8a3a511dc9b3b98fad7c8e7da332",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/INPUT-PINS.json",
+      "recorded_sha256": "17b6010187e84e8f2da098bca619ae239fed5f78bd4e0fe83a60c7a633f6a877",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/INPUT-PINS.json",
+      "original_sha256": "17b6010187e84e8f2da098bca619ae239fed5f78bd4e0fe83a60c7a633f6a877",
+      "matches_original_source": true,
+      "public_sha256": "17b6010187e84e8f2da098bca619ae239fed5f78bd4e0fe83a60c7a633f6a877",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/MANIFEST.json",
+      "recorded_sha256": "e9f2827ce3d17c510d64fa9eb8f9c020f169ef4eb584c48da9db1e533278a5a7",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/MANIFEST.json",
+      "original_sha256": "e9f2827ce3d17c510d64fa9eb8f9c020f169ef4eb584c48da9db1e533278a5a7",
+      "matches_original_source": true,
+      "public_sha256": "e9f2827ce3d17c510d64fa9eb8f9c020f169ef4eb584c48da9db1e533278a5a7",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/README.md",
+      "recorded_sha256": "47a0c765eb477042ad232436c349682a11d95e0cffcd63db4455fc71b35f8ed1",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/README.md",
+      "original_sha256": "47a0c765eb477042ad232436c349682a11d95e0cffcd63db4455fc71b35f8ed1",
+      "matches_original_source": true,
+      "public_sha256": "47a0c765eb477042ad232436c349682a11d95e0cffcd63db4455fc71b35f8ed1",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/SEAL-VERIFICATION.json",
+      "recorded_sha256": "3fe864d5a6b35461f5ef348c06cf32ff17d08ea0acd99a934bf87f2a31a5da56",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/SEAL-VERIFICATION.json",
+      "original_sha256": "3fe864d5a6b35461f5ef348c06cf32ff17d08ea0acd99a934bf87f2a31a5da56",
+      "matches_original_source": true,
+      "public_sha256": "3fe864d5a6b35461f5ef348c06cf32ff17d08ea0acd99a934bf87f2a31a5da56",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/SHA256SUMS",
+      "recorded_sha256": "38bd4cf64ce61206002bae8077a4626d1dffef4346a2e3a6188dcacdfac2373a",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/SHA256SUMS",
+      "original_sha256": "38bd4cf64ce61206002bae8077a4626d1dffef4346a2e3a6188dcacdfac2373a",
+      "matches_original_source": true,
+      "public_sha256": "38bd4cf64ce61206002bae8077a4626d1dffef4346a2e3a6188dcacdfac2373a",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/TASKB-RESULT.json",
+      "recorded_sha256": "fe3b6b1175a3f9ac03e0687ee0dfec467c7dd864cedaa89bc07095bcb7e65a4a",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/TASKB-RESULT.json",
+      "original_sha256": "fe3b6b1175a3f9ac03e0687ee0dfec467c7dd864cedaa89bc07095bcb7e65a4a",
+      "matches_original_source": true,
+      "public_sha256": "fe3b6b1175a3f9ac03e0687ee0dfec467c7dd864cedaa89bc07095bcb7e65a4a",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/check-run.txt",
+      "recorded_sha256": "fd268207069ae9c86b8255c4ef784ae4cc842c294d4551d7502f84ba8f02a946",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/check-run.txt",
+      "original_sha256": "fd268207069ae9c86b8255c4ef784ae4cc842c294d4551d7502f84ba8f02a946",
+      "matches_original_source": true,
+      "public_sha256": "fd268207069ae9c86b8255c4ef784ae4cc842c294d4551d7502f84ba8f02a946",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/check_collective_heat.py",
+      "recorded_sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/check_collective_heat.py",
+      "original_sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67",
+      "matches_original_source": true,
+      "public_sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/checks.json",
+      "recorded_sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/checks.json",
+      "original_sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee",
+      "matches_original_source": true,
+      "public_sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/AUDIT-RESULT.json",
+      "recorded_sha256": "65a6833e161589055d7c8594d4fef2a29bba3c33e0eb79576ba97901ad2c6d3d",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/AUDIT-RESULT.json",
+      "original_sha256": "65a6833e161589055d7c8594d4fef2a29bba3c33e0eb79576ba97901ad2c6d3d",
+      "matches_original_source": true,
+      "public_sha256": "65a6833e161589055d7c8594d4fef2a29bba3c33e0eb79576ba97901ad2c6d3d",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/AUDITED-FILES.json",
+      "recorded_sha256": "781ce25d4a45e17b0b20106e7165d06eaf2fa2f7c73e30e3141be84d47e9e708",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/AUDITED-FILES.json",
+      "original_sha256": "781ce25d4a45e17b0b20106e7165d06eaf2fa2f7c73e30e3141be84d47e9e708",
+      "matches_original_source": true,
+      "public_sha256": "781ce25d4a45e17b0b20106e7165d06eaf2fa2f7c73e30e3141be84d47e9e708",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/INDEPENDENT-REVIEW.md",
+      "recorded_sha256": "053366449459a69c9c9b9a94f8cc5ace1273fc8c31d8f35b2e1fa4d97f0fd484",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/INDEPENDENT-REVIEW.md",
+      "original_sha256": "053366449459a69c9c9b9a94f8cc5ace1273fc8c31d8f35b2e1fa4d97f0fd484",
+      "matches_original_source": true,
+      "public_sha256": "053366449459a69c9c9b9a94f8cc5ace1273fc8c31d8f35b2e1fa4d97f0fd484",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/README.md",
+      "recorded_sha256": "150253a267d2d8c5f90d4ce4e6ee1bb0ba42b6e92518d95e6f9650e2e856feb7",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/README.md",
+      "original_sha256": "150253a267d2d8c5f90d4ce4e6ee1bb0ba42b6e92518d95e6f9650e2e856feb7",
+      "matches_original_source": true,
+      "public_sha256": "150253a267d2d8c5f90d4ce4e6ee1bb0ba42b6e92518d95e6f9650e2e856feb7",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/author-reproduction/check-run.txt",
+      "recorded_sha256": "fd268207069ae9c86b8255c4ef784ae4cc842c294d4551d7502f84ba8f02a946",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/author-reproduction/check-run.txt",
+      "original_sha256": "fd268207069ae9c86b8255c4ef784ae4cc842c294d4551d7502f84ba8f02a946",
+      "matches_original_source": true,
+      "public_sha256": "fd268207069ae9c86b8255c4ef784ae4cc842c294d4551d7502f84ba8f02a946",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/author-reproduction/check_collective_heat.py",
+      "recorded_sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/author-reproduction/check_collective_heat.py",
+      "original_sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67",
+      "matches_original_source": true,
+      "public_sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/author-reproduction/checks.json",
+      "recorded_sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/author-reproduction/checks.json",
+      "original_sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee",
+      "matches_original_source": true,
+      "public_sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/independent-check-run.txt",
+      "recorded_sha256": "9cece7a0682c9e8ce6fa6d9d4cf603ef61fd3a96041a4ed4fb50c6afe2c9b871",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/independent-check-run.txt",
+      "original_sha256": "9cece7a0682c9e8ce6fa6d9d4cf603ef61fd3a96041a4ed4fb50c6afe2c9b871",
+      "matches_original_source": true,
+      "public_sha256": "9cece7a0682c9e8ce6fa6d9d4cf603ef61fd3a96041a4ed4fb50c6afe2c9b871",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/independent-checks.json",
+      "recorded_sha256": "c8207497b8ca32f22c3689862164db6c110612312e2dfda4797faf0f26a9db91",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/independent-checks.json",
+      "original_sha256": "c8207497b8ca32f22c3689862164db6c110612312e2dfda4797faf0f26a9db91",
+      "matches_original_source": true,
+      "public_sha256": "c8207497b8ca32f22c3689862164db6c110612312e2dfda4797faf0f26a9db91",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/independent-audit/independent_checks.py",
+      "recorded_sha256": "4cafaa5a270a38d3c871f88f7799fb63329f264a8295fa4ad3bd1d7a6a87c390",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/independent-audit/independent_checks.py",
+      "original_sha256": "4cafaa5a270a38d3c871f88f7799fb63329f264a8295fa4ad3bd1d7a6a87c390",
+      "matches_original_source": true,
+      "public_sha256": "4cafaa5a270a38d3c871f88f7799fb63329f264a8295fa4ad3bd1d7a6a87c390",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-collective-heat-20261005/seal_packet.py",
+      "recorded_sha256": "0d0f58cf6a912e196f848fc68e9e42a387076a3c46f096daff6d49dd8ffeb2c8",
+      "source_index_id": "v14-frozen-selection:research/algebra-collective-heat-20261005/seal_packet.py",
+      "original_sha256": "0d0f58cf6a912e196f848fc68e9e42a387076a3c46f096daff6d49dd8ffeb2c8",
+      "matches_original_source": true,
+      "public_sha256": "0d0f58cf6a912e196f848fc68e9e42a387076a3c46f096daff6d49dd8ffeb2c8",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/FINAL-STATUS.md",
+      "recorded_sha256": "bc2c13463081a3d7dcc7989e54350605bc871720dbb6a63764fe336ce65afb34",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/FINAL-STATUS.md",
+      "original_sha256": "bc2c13463081a3d7dcc7989e54350605bc871720dbb6a63764fe336ce65afb34",
+      "matches_original_source": true,
+      "public_sha256": "bc2c13463081a3d7dcc7989e54350605bc871720dbb6a63764fe336ce65afb34",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/INDEPENDENT-AUDIT.md",
+      "recorded_sha256": "24b0c3174678391860cfb8bf9c783e0321a4e3979f6b9952b0dd07cb43696979",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/INDEPENDENT-AUDIT.md",
+      "original_sha256": "24b0c3174678391860cfb8bf9c783e0321a4e3979f6b9952b0dd07cb43696979",
+      "matches_original_source": true,
+      "public_sha256": "24b0c3174678391860cfb8bf9c783e0321a4e3979f6b9952b0dd07cb43696979",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/INPUT-PINS.json",
+      "recorded_sha256": "4dd73806b417a5b12b64c491f1385e8974c7b03a66165c56d9c9a689570be03c",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/INPUT-PINS.json",
+      "original_sha256": "4dd73806b417a5b12b64c491f1385e8974c7b03a66165c56d9c9a689570be03c",
+      "matches_original_source": true,
+      "public_sha256": "4dd73806b417a5b12b64c491f1385e8974c7b03a66165c56d9c9a689570be03c",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/MANIFEST.json",
+      "recorded_sha256": "3d369c5621146e51251d03e0f20b4db5c9384e9a3955c88533a63fd413c5e8fc",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/MANIFEST.json",
+      "original_sha256": "3d369c5621146e51251d03e0f20b4db5c9384e9a3955c88533a63fd413c5e8fc",
+      "matches_original_source": true,
+      "public_sha256": "3d369c5621146e51251d03e0f20b4db5c9384e9a3955c88533a63fd413c5e8fc",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/OBSERVER-LEADING-BLOCK.md",
+      "recorded_sha256": "4e6c80376535f5092278e34819d15cd0da9ae3b44ce2e43ae79cc333e420ee60",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/OBSERVER-LEADING-BLOCK.md",
+      "original_sha256": "4e6c80376535f5092278e34819d15cd0da9ae3b44ce2e43ae79cc333e420ee60",
+      "matches_original_source": true,
+      "public_sha256": "4e6c80376535f5092278e34819d15cd0da9ae3b44ce2e43ae79cc333e420ee60",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/OBSERVER-PORT.json",
+      "recorded_sha256": "dbf6802429fd77b9fc5b4590a207617384e45d86b2530396a661a5cb4411631b",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/OBSERVER-PORT.json",
+      "original_sha256": "dbf6802429fd77b9fc5b4590a207617384e45d86b2530396a661a5cb4411631b",
+      "matches_original_source": true,
+      "public_sha256": "dbf6802429fd77b9fc5b4590a207617384e45d86b2530396a661a5cb4411631b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/README.md",
+      "recorded_sha256": "e6c7f771a4bcb0fc952ff3dd7943766db365fac1a54cca32896e591b27779841",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/README.md",
+      "original_sha256": "e6c7f771a4bcb0fc952ff3dd7943766db365fac1a54cca32896e591b27779841",
+      "matches_original_source": true,
+      "public_sha256": "e6c7f771a4bcb0fc952ff3dd7943766db365fac1a54cca32896e591b27779841",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/SHA256SUMS",
+      "recorded_sha256": "ec7bdcc65be5de212d725d8d502e55c5fe377244634cc62ff65f46285f2974ee",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/SHA256SUMS",
+      "original_sha256": "ec7bdcc65be5de212d725d8d502e55c5fe377244634cc62ff65f46285f2974ee",
+      "matches_original_source": true,
+      "public_sha256": "ec7bdcc65be5de212d725d8d502e55c5fe377244634cc62ff65f46285f2974ee",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/audit-high-precision-run.txt",
+      "recorded_sha256": "ae1946d931d70e60478814481dba04a9b013c11996482d8fb463eae2bd5d962b",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/audit-high-precision-run.txt",
+      "original_sha256": "ae1946d931d70e60478814481dba04a9b013c11996482d8fb463eae2bd5d962b",
+      "matches_original_source": true,
+      "public_sha256": "ae1946d931d70e60478814481dba04a9b013c11996482d8fb463eae2bd5d962b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/audit-high-precision.json",
+      "recorded_sha256": "ae1946d931d70e60478814481dba04a9b013c11996482d8fb463eae2bd5d962b",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/audit-high-precision.json",
+      "original_sha256": "ae1946d931d70e60478814481dba04a9b013c11996482d8fb463eae2bd5d962b",
+      "matches_original_source": true,
+      "public_sha256": "ae1946d931d70e60478814481dba04a9b013c11996482d8fb463eae2bd5d962b",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/audit_check_high_precision.py",
+      "recorded_sha256": "56646ab88b4a39855627aad76c071292973f4ec3bcb669da2d1ad3ecefd4fdcb",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/audit_check_high_precision.py",
+      "original_sha256": "56646ab88b4a39855627aad76c071292973f4ec3bcb669da2d1ad3ecefd4fdcb",
+      "matches_original_source": true,
+      "public_sha256": "56646ab88b4a39855627aad76c071292973f4ec3bcb669da2d1ad3ecefd4fdcb",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/check-run.txt",
+      "recorded_sha256": "14f179b0d22905becf5146bd46df1dfd792e360d2c11d436146daf4213bb81e5",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/check-run.txt",
+      "original_sha256": "14f179b0d22905becf5146bd46df1dfd792e360d2c11d436146daf4213bb81e5",
+      "matches_original_source": true,
+      "public_sha256": "14f179b0d22905becf5146bd46df1dfd792e360d2c11d436146daf4213bb81e5",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/check_observer_block.py",
+      "recorded_sha256": "01ea96e20fd13f5c5ecf46ac00a3c089ac26df7b362f2618d1575c4dc5e1c368",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/check_observer_block.py",
+      "original_sha256": "01ea96e20fd13f5c5ecf46ac00a3c089ac26df7b362f2618d1575c4dc5e1c368",
+      "matches_original_source": true,
+      "public_sha256": "01ea96e20fd13f5c5ecf46ac00a3c089ac26df7b362f2618d1575c4dc5e1c368",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/checks.json",
+      "recorded_sha256": "aa7d615769487ef1970edfba34c0c7bc7bda9514021e6dabc2661d2383eb52de",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/checks.json",
+      "original_sha256": "aa7d615769487ef1970edfba34c0c7bc7bda9514021e6dabc2661d2383eb52de",
+      "matches_original_source": true,
+      "public_sha256": "aa7d615769487ef1970edfba34c0c7bc7bda9514021e6dabc2661d2383eb52de",
+      "public_copy_is_sanitized": false
+    },
+    {
+      "path": "research/algebra-observer-block-20261005/finite-order-budgets.json",
+      "recorded_sha256": "634e0aec80c4873252f5eb2d6eb6f96150e3afedb6d0f04b222a99c0f612fa32",
+      "source_index_id": "v14-frozen-selection:research/algebra-observer-block-20261005/finite-order-budgets.json",
+      "original_sha256": "634e0aec80c4873252f5eb2d6eb6f96150e3afedb6d0f04b222a99c0f612fa32",
+      "matches_original_source": true,
+      "public_sha256": "634e0aec80c4873252f5eb2d6eb6f96150e3afedb6d0f04b222a99c0f612fa32",
+      "public_copy_is_sanitized": false
     }
   ],
   "stale_binding_count": 1,
@@ -17967,7 +18534,7 @@
     "original_sha256": "06000c05af9f413b561045b47132216c3d292accee64f285dad93cb6550cdfb6",
     "scope": "Read-set and cost clarification only. New proximal-chain application has external hidden depth zero; selected fixed kinetic consumer has seven external levels with its fixed inner libraries already charged. The same growing-order outer reference requires J>=ceil(R-1). Optional depth-adapter cost algebra is conditional, not a new hidden-family admission."
   },
-  "snapshot_version": "2026-10-05-public-v13-repair-graph-algebra-and-induction",
+  "snapshot_version": "2026-10-05-public-v14-three-algebra-constructions",
   "v7_admission": {
     "direct_main_original_sha256": "f7514fbaf777a573d262416759f2776dcce7bbc909741ceeb08a6276671785f4",
     "elementary_source_original_sha256": "47e48da4e92885a48ce681048594d0dc8efbb1f71338e9b6df759f32053819cd",
@@ -25360,5 +25927,16 @@
       "HIGH13"
     ],
     "scope": "Conditional formal algebra, scoped fixed-order endpoint and induction ports; no global arbitrary-order or sublinear-cost theorem."
+  },
+  "v14_admission": {
+    "new_exact_files": 63,
+    "packets": [
+      "algebra-current-image-20261005",
+      "algebra-collective-heat-20261005",
+      "algebra-observer-block-20261005"
+    ],
+    "new_diagnostics": 9,
+    "selection": "verification/V14-FROZEN-SELECTION.json",
+    "scope": "Strict subquadratic current section, finite collective heat representation with unresolved common-translation boundary, and scalar sine observer transport port; no general arbitrary-order closure."
   }
 }

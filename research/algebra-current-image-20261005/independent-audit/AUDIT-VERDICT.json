@@ -1,0 +1,41 @@
+{
+  "verdict": "CONDITIONAL_PASS_FINITE_DIAGNOSTIC_AND_STRICT_SUBQUADRATIC_SECTION",
+  "submitted_checker": {
+    "status": "PASS",
+    "assertions": 174
+  },
+  "independent_checks": 33,
+  "pins_verified": 12,
+  "dictionary_rows": 8,
+  "native_quadratic_coefficients_identified": false,
+  "native_execution_performed": false,
+  "scope_defects_repaired": [
+    "retained replica derivative chain row",
+    "retained versus consumed covariance tangent image",
+    "endpoint-dependent bank averaging",
+    "aggregate versus termwise native norm floor",
+    "prepared derivative floor requires Sobolev certificate"
+  ],
+  "reviewed_artifacts": [
+    {
+      "file": "CURRENT-IMAGE-AND-RESIDUAL.md",
+      "sha256": "c984eea70ea5ba0e998ea6558af5a23f291b527051c53af784ba06280cd41117",
+      "bytes": 22343
+    },
+    {
+      "file": "CURRENT-DICTIONARY.json",
+      "sha256": "5bf352647e7e1859910f62333d28f149ca3c9a49e371f99a9892bd25d8c99c3e",
+      "bytes": 22316
+    },
+    {
+      "file": "check_dictionary.py",
+      "sha256": "36aa015d2c04e9e439848d23f11a6cb69290644bb1a23f38cc44a30cb30f54ab",
+      "bytes": 12921
+    },
+    {
+      "file": "INPUT-PINS.json",
+      "sha256": "df48485bc8d661a5d8859b62b682d10564b6e9967fadd361444291d8f178e652",
+      "bytes": 2589
+    }
+  ]
+}

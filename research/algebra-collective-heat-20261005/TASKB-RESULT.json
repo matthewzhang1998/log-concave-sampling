@@ -1,0 +1,119 @@
+{
+  "task": "Task B: collective heat in the fixed-endpoint observable quotient",
+  "status": "PROVED_FINITE_HEATED_REGROUPING_WITH_EXPLICIT_GAIN_BOUNDARY",
+  "native_sampler_executed": false,
+  "external_sharing": false,
+  "exact_identities": [
+    {
+      "id": "TRACE_BRIDGE",
+      "formula": "H_ind = H_com - B_cross",
+      "equality_level": "frozen-clock, frozen-scalar, independent-formal-center differential operators",
+      "required_product_rules": "All scalar, width, normalization, geometry and caller dependence must be restored when centers are implemented by a live derivative."
+    },
+    {
+      "id": "FINITE_JET",
+      "formula": "exp(s H_ind) = exp(s H_com) exp(-s B_cross) modulo s^(m+1)",
+      "positive_kernel_claim": false,
+      "zero_heat_Taylor_claim": false
+    },
+    {
+      "id": "POSITIVE_COVARIANCE_REGROUPING",
+      "formula": "P_ind(s) F = P_com(s) F - s integral_0^1 P_Qtheta(s) B_cross F dtheta",
+      "covariance": "Qtheta = (1-theta) I_N + theta 11^T",
+      "scope": "Exact finite heat identity at positive original private shields, with unchanged original clocks and conditional coefficient record."
+    }
+  ],
+  "current_rows": [
+    {
+      "id": "DISTINCT_VERTEX_SAME_GRAPH_EDGE",
+      "rank": "r",
+      "coefficient": "D_u dot D_v F with u != v",
+      "native_status": "ADMITTED_WITH_LITERAL_FIXED_GRAPH_GUARDS",
+      "graph_status": "Original marked spanning tree survives; cycles and parallel edges are allowed.",
+      "native_reference": "induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+      "frames": "All three dynamic frames and the finite same-endpoint current extraction are required.",
+      "reserve_gain": "0 in the saturated clock-charge regime at s of grade 2 gamma"
+    },
+    {
+      "id": "COMMON_INCREMENT_MARKED_SHELL",
+      "rank": "r",
+      "coefficient": "P_com(s)F-F",
+      "native_status": "ADMITTED_TO_DECLARED_FLOORS_VIA_COMMON_INCREMENT_FORCE_SLOT_TELESCOPE",
+      "source": "Same-private-variable anchored cold/warm half-differences; factor two restored at genuine roots.",
+      "reserve_gain": "No universal positive power under the current C2 and once-owned clock assumptions."
+    },
+    {
+      "id": "COMMON_TRANSLATION_SCORE",
+      "rank": "r",
+      "coefficient": "S_A C_r; S_A = sum_i[(a_i dot B)^2-|a_i|^2]/2",
+      "analytic_status": "Exact Gaussian adjoint row when the common-translation lift exists.",
+      "native_status": "NOT_ADMITTED_AUTOMATICALLY_AS_A_UNIVERSAL_GENERATOR",
+      "missing_mechanism": "Finite source and one-Hilbert/frame estimate for the complete score family, with its actual retained boundary."
+    },
+    {
+      "id": "ENDPOINT_FIRST_SECOND",
+      "rank": "r+1",
+      "coefficient": "Sym(C_r tensor [sum_i W_i/2-sum_i beta_i V_i])",
+      "analytic_status": "Exact endpoint-chain row",
+      "native_status": "NOT_ADMITTED_BY_A_FIRST_ONLY_OLD_ENDPOINT_CERTIFICATE",
+      "missing_mechanism": "The endpoint Hessian W_i and its source/current control, or a first-integration alternative retaining the score term."
+    },
+    {
+      "id": "ENDPOINT_FIRST_SQUARE",
+      "rank": "r+2",
+      "coefficient": "Sym(C_r tensor sum_i V_i tensor V_i)/2",
+      "analytic_status": "Exact endpoint-chain row",
+      "native_status": "REQUIRES_LITERAL_SOURCE_AND_FRAME_CENSUS"
+    },
+    {
+      "id": "SCALAR_PRODUCT_DEFECT",
+      "rank": "r",
+      "coefficient": "-sum_i(D_i Q)(D_i F)-(H_A Q)F",
+      "analytic_status": "Required when moving frozen-center H_com through a live scalar coefficient",
+      "native_status": "DEPENDS_ON_ACTUAL_SCALAR_AND_CALLER_DICTIONARY"
+    },
+    {
+      "id": "RETAINED_OBSERVER_DEFECT",
+      "rank": "r and r+1",
+      "coefficient": "C_r[(sum_i D_i^2 chi/2-sum_i beta_i D_i chi)D^r phi + sum_i(D_i chi)V_i contracted D^(r+1)phi]",
+      "analytic_status": "Necessary for conditional equality after multiplying by a retained-record test",
+      "disappears_if": "D_i E=0, or an equivalent proved annihilation relation",
+      "warning": "Full retention of the differentiated Gaussian bank does not satisfy this condition."
+    }
+  ],
+  "finite_quadrature": {
+    "p": "N(N-1)/2",
+    "tau": "minimum original private shield",
+    "M": "|Q| 2^(K+2) sqrt((K+2)!) p tau^(-K-2)",
+    "R0": "tau^2/(8 p s)",
+    "panels": "max(1,ceil(1/R0))",
+    "nodes_per_panel": "max(1,ceil(log_4(max(1,2sM/epsilon))))",
+    "coefficient_floor": "epsilon in every proper cut and epsilon sqrt(D) in Hilbert norm",
+    "new_inverse_alpha_exponent": "0 at fixed graph when s/tau^2 is bounded and all inputs are fixed powers of alpha",
+    "qualification": "Scalar rounding, native/filter/mean/readout/keep amplification and replay floors remain separate.",
+    "target_envelope": "Q is the original restored target envelope fixed before node selection. New native factors cancelling in that target stay in the separate guard/cost ledger."
+  },
+  "counterexample": {
+    "dimension": 1,
+    "fixed_force": "g(x)=c x+epsilon sum_n n^(-2) sin(2^(n^2) x)/2^(n^2)",
+    "potential_class": "Convex C2 with 1/4 < g' < 3/4",
+    "saturated_orders": [
+      2,
+      2
+    ],
+    "private_width_subsequence": "t_n=2^(-n^2)",
+    "owned_clock_weight": "Contract-admissible kappa t_n^2. A literal Gauss-node variant replaces frequencies by inverse actual selected node widths and pays its public-log node-mass attenuation.",
+    "complete_heat_lower_bound": "c_u n^(-4) at heat increment s=u t_n^2",
+    "conclusion": "No uniform additional positive power of t or alpha follows from the existing source and owned-clock contracts.",
+    "nonzero_quotient": "observable-current quotient J/N_X",
+    "nonmembership_in_full_current_image_claim": false,
+    "scope_limit": "Nodewise/fixed-record contract obstruction. Exact displayed weights are not asserted to be an automatic sealed grid. The literal-node variant requires the stated panel and public-log node-count hypotheses. No restricted complete original-target sum is ruled out."
+  },
+  "completion_boundary": "Finite heated source realization and exact current boundary established; a strictly improving original-target heat engine remains unsupported without a new target-qualified common-translation mechanism.",
+  "native_realization_boundary": {
+    "kind": "Finite positive original-VALUE representative of the heated leading current under literal fixed-graph guards",
+    "accuracy_floors": "Coefficient quadrature and local source/filter accuracy are separately adjustable at actual finite cost.",
+    "intrinsic_return": "The root-quadratic same-endpoint current return remains; above its floor the actual native coefficients must be supplied and repaired or retained as unresolved.",
+    "exact_all_orders_native_right_inverse": false
+  }
+}

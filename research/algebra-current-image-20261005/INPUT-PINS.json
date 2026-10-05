@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+    "sha256": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d",
+    "bytes": 9417
+  },
+  {
+    "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+    "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "bytes": 680050
+  },
+  {
+    "path": "/workspace/shared/repair-graph-algebra-20261005/REPAIR-GRAPH-ALGEBRA.md",
+    "sha256": "a0599111632220ec765c3f636ec2a26ac372ea575613a80a3bb37cec6f301198",
+    "bytes": 45672
+  },
+  {
+    "path": "/workspace/shared/induction-carrier-fixed-native-20261005/ROOT-SEED-CARRIER-STABLE-PORT.md",
+    "sha256": "0c4ef1c750102a41fe11c563699100d128943a842543326291ef557e0e741c45",
+    "bytes": 18879
+  },
+  {
+    "path": "/workspace/shared/induction-carrier-fixed-native-20261005/ALGEBRA-OWNERSHIP-INTERFACE.md",
+    "sha256": "979de3f3a9e6fc7883bf109cd36bad4da3b8319ed935af2fdf7eab33ce364616",
+    "bytes": 5416
+  },
+  {
+    "path": "/workspace/shared/induction-carrier-fixed-native-20261005/CLOCK-AND-INDEPENDENT-SHARE-CROSSCHECK.md",
+    "sha256": "7653f3143c6658184eb4a052e84e508a7b96897afc2972dd3bc695c7439eaab9",
+    "bytes": 2628
+  },
+  {
+    "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+    "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+    "bytes": 23602
+  },
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/EXACT-WHOLE-BANK-TREE-CENSUS.md",
+    "sha256": "7d1c4e516fa002fcb9559488c7e833681402e00b9f493c2af79d1b634ed6db49",
+    "bytes": 10705
+  },
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md",
+    "sha256": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1",
+    "bytes": 17859
+  },
+  {
+    "path": "/workspace/shared/induction-renewable-heat-budget-20261005/WEIGHTED-GENERATOR-CONTRACT.md",
+    "sha256": "bfd6c02a34cf5e2d37e99f60dbb23cdcdff78e011a6181f7e03a2c2f5ce3f158",
+    "bytes": 5322
+  },
+  {
+    "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/CUTOFF-FREE-SECTOR-GAUSS.md",
+    "sha256": "4a422374bfde930ec8ea5df64cde24c7977d2602283726d0fee1db758343893d",
+    "bytes": 16774
+  },
+  {
+    "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/COMPLETE-EXECUTION-BILL.md",
+    "sha256": "ebf6c935dcd14d4091acbf186611b364ae9381d56178a3f9726d5674ef161252",
+    "bytes": 6932
+  }
+]

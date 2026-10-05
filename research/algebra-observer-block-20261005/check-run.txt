@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "passed": 18,
+  "output": "/workspace/shared/algebra-observer-block-20261005/checks.json"
+}

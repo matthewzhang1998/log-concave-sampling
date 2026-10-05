@@ -1,0 +1,454 @@
+{
+  "title": "Small current-image and first residual boundary",
+  "version": 1,
+  "scope": {
+    "dimension": "Scalar exact diagnostic; tensor source and native contracts imported where stated.",
+    "base_endpoint": "X0=W(E)+sqrt(v)*H+sqrt(kappa)*K; H,K independent of E and coefficient bank B; H and K not retained observers.",
+    "current_convention": "J=sum j_r D^r means pairing E[j_r*phi^(r)(X0)]. No hidden r!; a cumulant tensor must already be divided by r!.",
+    "levels": [
+      "local response",
+      "conditional coefficient",
+      "whole-bank coefficient",
+      "formal connected log jet",
+      "formal raw fixed-base current jet",
+      "actual positive native law below certified floor"
+    ],
+    "native_boundary": "No exact quadratic native jet is asserted."
+  },
+  "rows": [
+    {
+      "id": "C0",
+      "leading_current": "Local response T0(z,t)=E[g'(z+tZ)]/A. As a normalized formal physical coefficient: D0(z,t)*D^2; local-response identity alone is not that whole sampler current.",
+      "value_representative": {
+        "formula": "f0(x)=[g(z+t*x)-g(z)]/(A*t)",
+        "raw_VALUE_calls": 2,
+        "bounded_version": "F0,R=Dpsi_R(x)^T*f0(psi_R(x))/13",
+        "response_restore": "13*A for the bounded normalized response, with preparation floor"
+      },
+      "first_nonmain": [
+        {
+          "id": "SOURCE_PREPARATION_FLOORS",
+          "status": "bounded_floor",
+          "expression": "radial response + original VALUE + scalar/Sobolev/filter/calibration errors, propagated on the actual DAG",
+          "rule": "Prepared response is the exact leading target; identifying it with an uncut heated derivative has this separately paid floor."
+        },
+        {
+          "id": "NATIVE_QUADRATIC_UNIDENTIFIED",
+          "status": "unresolved_norm_floor",
+          "expression": "O(S^2 sqrt(D)) plus literal prior/filter/strong-polynomial floors",
+          "rule": "A norm floor supplies no coefficient of the native quadratic current. Ideal transfer is restricted to P<2*r_min after all actual envelopes."
+        }
+      ],
+      "retained_tapes": [
+        "retained z, t, source version and original clocks",
+        "X is integrated for response; cannot also be an observer"
+      ],
+      "equality_scope": "Exact local Gaussian response for uncut source; prepared response exact for its own source. Pure rank-two completed current additionally needs a pair/readout port.",
+      "escapes": [
+        "LOCAL_RESPONSE_NOT_WHOLE_CURRENT",
+        "RETAINED_RESPONSE_TAPE",
+        "NATIVE_QUADRATIC_UNIDENTIFIED"
+      ]
+    },
+    {
+      "id": "C1",
+      "leading_current": "T1(z,t)=t*E[g''(z+tZ)]/(2*A). Formal physical rank three is not itself a native current certificate.",
+      "value_representative": {
+        "formula": "a=1/sqrt(2); f1(x;p)=[g(z+a*t*(x+p))-g(z+a*t*p)-g(z+a*t*(x-p))+g(z-a*t*p)]/(2*A*t)",
+        "raw_VALUE_calls": 4,
+        "bounded_version": "F1,R=Dpsi_R(x)^T*f1(psi_R(x);p)/13",
+        "response_restore": "26*A/t"
+      },
+      "first_nonmain": [
+        {
+          "id": "SOURCE_PREPARATION_FLOORS",
+          "status": "bounded_floor",
+          "expression": "radial response + original VALUE + scalar/Sobolev/filter/calibration errors, propagated on the actual DAG",
+          "rule": "Prepared response is the exact leading target; identifying it with an uncut heated derivative has this separately paid floor."
+        },
+        {
+          "id": "NATIVE_QUADRATIC_UNIDENTIFIED",
+          "status": "unresolved_norm_floor",
+          "expression": "O(S^2 sqrt(D)) plus literal prior/filter/strong-polynomial floors",
+          "rule": "A norm floor supplies no coefficient of the native quadratic current. Ideal transfer is restricted to P<2*r_min after all actual envelopes."
+        }
+      ],
+      "retained_tapes": [
+        "retained z,t,source version and original clocks",
+        "X and P integrated for tensor response",
+        "P may be a declared physical readout only in complete tilted/native program"
+      ],
+      "equality_scope": "Exact T1 response and oddness in P before exposing or tilting P.",
+      "escapes": [
+        "LOCAL_RESPONSE_NOT_WHOLE_CURRENT",
+        "RETAINED_RESPONSE_TAPE",
+        "SOURCE_VERSION_DERIVATIVE_DEFECT",
+        "DYNAMIC_ROOT_OUTSIDE_CARRIER_PORT",
+        "NATIVE_QUADRATIC_UNIDENTIFIED"
+      ]
+    },
+    {
+      "id": "T2",
+      "leading_current": "J=alpha^a*c*E_B[D0(z1,t1)*D0(z2,t2)] D^2 at X0, or the same coefficient conditional on B when B is retained.",
+      "value_representative": {
+        "graph": {
+          "k": [
+            0,
+            0
+          ],
+          "edges": [
+            [
+              0,
+              1
+            ]
+          ],
+          "physical_marks": [
+            1,
+            1
+          ]
+        },
+        "source": "One bounded normalized C0 source per vertex, select path from marked leaf 0 to leaf 1, native pair/filter wrappers and exact known readout inverse at root. No tensor coefficient is queried.",
+        "raw_VALUE_calls_per_source_sweep": 4,
+        "allocation": "rho_v=alpha^(beta+gamma*k_v)*13*A/(b_k*t_v^k_v); root multiplied by c*alpha^d/readout_constant, d=a-beta*N-gamma*K, b_k=(k+1)^(-(k+1)/2)"
+      },
+      "first_nonmain": [
+        {
+          "id": "WHOLE_BANK_CONNECTED_SECOND",
+          "status": "exact_formal_connected",
+          "expression": "alpha^(2a)*Var_B(F)*D^4/2 if the ideal conditional log current is alpha^a*F*D^2"
+        },
+        {
+          "id": "DISCONNECTED_MAIN_SQUARE",
+          "status": "exact_formal_raw",
+          "expression": "alpha^(2a)*(E_B F)^2*D^4/2; together with connected bank term gives E_B[F^2]*D^4/2"
+        },
+        {
+          "id": "NATIVE_QUADRATIC_UNIDENTIFIED",
+          "status": "unresolved_norm_floor",
+          "expression": "O(S^2 sqrt(D)) plus literal prior/filter/strong-polynomial floors",
+          "rule": "A norm floor supplies no coefficient of the native quadratic current. Ideal transfer is restricted to P<2*r_min after all actual envelopes."
+        },
+        {
+          "id": "SOURCE_PREPARATION_FLOORS",
+          "status": "bounded_floor",
+          "expression": "radial response + original VALUE + scalar/Sobolev/filter/calibration errors, propagated on the actual DAG",
+          "rule": "Prepared response is the exact leading target; identifying it with an uncut heated derivative has this separately paid floor."
+        }
+      ],
+      "retained_tapes": [
+        "E includes clocks/callers; B retained until explicitly complete bank average",
+        "root/child/private/public tapes consumed by output",
+        "H internal, independent of B; one untouched keep"
+      ],
+      "equality_scope": "First two formal Gaussian-variance log/law coefficients shown; the actual native T2 quadratic jet is unresolved. Root-linear native transfer is below the native floor.",
+      "escapes": [
+        "NATIVE_QUADRATIC_UNIDENTIFIED",
+        "RETAINED_BANK_CENTERING",
+        "OLD_ENDPOINT_BANK_READOUT"
+      ]
+    },
+    {
+      "id": "T3",
+      "leading_current": "For the three-vertex path symbol V=lambda*theta^2*(P+a*theta), the leading current is lambda*a*D^3.",
+      "value_representative": {
+        "graph": {
+          "k": [
+            0,
+            1,
+            0
+          ],
+          "edges": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              2
+            ]
+          ],
+          "physical_marks": [
+            1,
+            1,
+            1
+          ]
+        },
+        "source": "C0-C1-C0 selected path with the middle physical probe P; use the literal normalized adapters, native wrappers and root readout normalization.",
+        "raw_VALUE_calls_per_source_sweep": 8
+      },
+      "first_nonmain": [
+        {
+          "id": "CONNECTED_SECOND_SPINE",
+          "status": "exact_formal_connected",
+          "expression": "lambda^2*D^4/2"
+        },
+        {
+          "id": "DISCONNECTED_MAIN_SQUARE",
+          "status": "exact_formal_raw",
+          "expression": "lambda^2*a^2*D^6/2"
+        },
+        {
+          "id": "NATIVE_QUADRATIC_UNIDENTIFIED",
+          "status": "unresolved_norm_floor",
+          "expression": "O(S^2 sqrt(D)) plus literal prior/filter/strong-polynomial floors",
+          "rule": "A norm floor supplies no coefficient of the native quadratic current. Ideal transfer is restricted to P<2*r_min after all actual envelopes."
+        },
+        {
+          "id": "SOURCE_PREPARATION_FLOORS",
+          "status": "bounded_floor",
+          "expression": "radial response + original VALUE + scalar/Sobolev/filter/calibration errors, propagated on the actual DAG",
+          "rule": "Prepared response is the exact leading target; identifying it with an uncut heated derivative has this separately paid floor."
+        }
+      ],
+      "retained_tapes": [
+        "coefficient bank and original clocks retained",
+        "middle physical public P integrated with its tilt",
+        "marked leaf root has no dynamic external probe",
+        "one owned H and untouched keep"
+      ],
+      "equality_scope": "Exact ideal formal symbol: log E exp V=lambda*a*theta^3+lambda^2*theta^4/2. Actual native quadratic coefficients are unresolved.",
+      "escapes": [
+        "NATIVE_QUADRATIC_UNIDENTIFIED",
+        "LOG_LAW_CONFUSION"
+      ]
+    },
+    {
+      "id": "BANK_BRIDGE",
+      "leading_current": "Cov_B(F,G)*D^4 for two rank-two coefficient packets, with any cumulant 1/2 or polarization factor applied exactly once.",
+      "value_representative": {
+        "graph": "For T2=(0,1) and T2=(2,3), enumerate all four hits i in {0,1}, j in {2,3}; add edge (i,j); raise k_i,k_j from 0 to 1; retain all four physical marks.",
+        "replica": "B+=sqrt(s)*B+sqrt(1-s)*U+; B-=sqrt(s)*B+sqrt(1-s)*U-; integrate s in [0,1]. Derivative injections are original rows, not sqrt(s) times those rows.",
+        "VALUE_calls_per_hit_graph": 12,
+        "clock_rule": "Original force clocks unchanged. Replica edge parameter is quadrature geometry, not a new owned primitive weight. Use literal certified node count."
+      },
+      "first_nonmain": [
+        {
+          "id": "RETAINED_BANK_CENTERING",
+          "status": "exact_leading_scope_defect",
+          "expression": "[K(B)-Cov(F,G)]D^4, K(B)=integral E_U[F'(B+)G'(B-)]ds; zero after E_B, generally nonzero conditional on B",
+          "example": "F=G=(c+d*cos B)^2; K(0)=0 while Var(F)>0"
+        },
+        {
+          "id": "FINITE_BRIDGE_QUADRATURE",
+          "status": "bounded_floor",
+          "expression": "actual positive cubature error with complete derivative/history target"
+        },
+        {
+          "id": "NATIVE_QUADRATIC_UNIDENTIFIED",
+          "status": "unresolved_norm_floor",
+          "expression": "O(S^2 sqrt(D)) plus literal prior/filter/strong-polynomial floors",
+          "rule": "A norm floor supplies no coefficient of the native quadratic current. Ideal transfer is restricted to P<2*r_min after all actual envelopes."
+        },
+        {
+          "id": "SOURCE_PREPARATION_FLOORS",
+          "status": "bounded_floor",
+          "expression": "radial response + original VALUE + scalar/Sobolev/filter/calibration errors, propagated on the actual DAG",
+          "rule": "Prepared response is the exact leading target; identifying it with an uncut heated derivative has this separately paid floor."
+        }
+      ],
+      "retained_tapes": [
+        "old B remains same in symmetric disintegration",
+        "U+,U- source-private replica coefficient roots",
+        "original caller rows, shields and clocks retained",
+        "B must be consumed for the covariance identity"
+      ],
+      "equality_scope": "Exact only after the complete B,U average and s integral; conditional K(B) is a different coefficient.",
+      "escapes": [
+        "RETAINED_BANK_CENTERING",
+        "LIVE_INJECTION_OR_WIDTH_DERIVATIVE",
+        "UNPAID_CLOCK",
+        "NATIVE_QUADRATIC_UNIDENTIFIED"
+      ]
+    },
+    {
+      "id": "RANK4_SPINE",
+      "leading_current": "For V=lambda*theta^2*(P+a*theta)*(Q+b*theta), connected/log leading current is lambda*a*b*D^4.",
+      "value_representative": {
+        "graph": {
+          "k": [
+            0,
+            1,
+            1,
+            0
+          ],
+          "edges": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              3
+            ]
+          ],
+          "physical_marks": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "source": "C0-C1-C1-C0 selected path; P,Q are the two unprotected physical probes; normalize lambda,a,b with actual source/readout factors. The symbolic V alone is not a positive sampler.",
+        "raw_VALUE_calls_per_source_sweep": 12
+      },
+      "first_nonmain": [
+        {
+          "id": "CONNECTED_SECOND_SPINE",
+          "status": "exact_formal_connected",
+          "expression": "lambda^2*(D^4/2+a^2*D^6/2+b^2*D^6/2)"
+        },
+        {
+          "id": "DISCONNECTED_MAIN_SQUARE",
+          "status": "exact_formal_raw",
+          "expression": "lambda^2*a^2*b^2*D^8/2; must be added for the fixed-base law current unless a supplied comparator jet cancels it"
+        },
+        {
+          "id": "NATIVE_QUADRATIC_UNIDENTIFIED",
+          "status": "unresolved_norm_floor",
+          "expression": "O(S^2 sqrt(D)) plus literal prior/filter/strong-polynomial floors",
+          "rule": "A norm floor supplies no coefficient of the native quadratic current. Ideal transfer is restricted to P<2*r_min after all actual envelopes."
+        },
+        {
+          "id": "SOURCE_PREPARATION_FLOORS",
+          "status": "bounded_floor",
+          "expression": "radial response + original VALUE + scalar/Sobolev/filter/calibration errors, propagated on the actual DAG",
+          "rule": "Prepared response is the exact leading target; identifying it with an uncut heated derivative has this separately paid floor."
+        }
+      ],
+      "retained_tapes": [
+        "coefficient bank and clocks retained",
+        "P,Q owned physical publics, integrated with their tilt",
+        "protected endpoint marks cannot be Wick paired away",
+        "one common H and untouched keep"
+      ],
+      "equality_scope": "Finite formal coefficient identity through lambda order four checked. Quadratic native coefficients are not identified by the supplied norm theorem.",
+      "escapes": [
+        "NATIVE_QUADRATIC_UNIDENTIFIED",
+        "DROPPED_TILT_LEGS",
+        "LOG_LAW_CONFUSION",
+        "UNSUPPLIED_REFERENCE_QUADRATIC_JET"
+      ]
+    },
+    {
+      "id": "COVARIANCE_TIME",
+      "leading_current": "X_s=W(E)+sqrt(v+2*s*q(E)+s^2*r(E))*H+sqrt(kappa)*K; leading current q(E)D^2 at X0; exact moving-endpoint time current (q+s*r)D^2 at X_s.",
+      "value_representative": {
+        "source": "Known scalar square root with a proved positive gap; zero original VALUES for known q,r. Example q(E)=[g(z+t)-g(z)]/(A*t) uses exactly two original VALUES, and |q|<=1 in scalar monotone class. r may be any explicitly bounded finite-VALUE scalar.",
+        "not_allowed": "Do not set q to an unknown tensor expectation unless its own VALUE source is supplied."
+      },
+      "first_nonmain": [
+        {
+          "id": "COVARIANCE_ACCELERATION",
+          "status": "exact_raw_current",
+          "expression": "s^2*r(E)*D^2/2"
+        },
+        {
+          "id": "COVARIANCE_LAW_SQUARE",
+          "status": "exact_raw_current",
+          "expression": "s^2*q(E)^2*D^4/2"
+        }
+      ],
+      "retained_tapes": [
+        "E retained, independent of H,K",
+        "H internal covariance carrier",
+        "K untouched keep"
+      ],
+      "equality_scope": "Exact positive finite-scalar program and Taylor current, conditional on E; no native approximation is needed.",
+      "escapes": [
+        "PURE_RANK4_OUTSIDE_COVARIANCE_TANGENT_IMAGE",
+        "COVARIANCE_GAP",
+        "UNCOMPUTABLE_COEFFICIENT"
+      ]
+    },
+    {
+      "id": "CARRIER_SUPERPOSITION",
+      "leading_current": "Sum of root-linear prepared-tree currents at the same X0, with S=sum_h Gamma_h*|r_h|.",
+      "value_representative": {
+        "source": "H+sum_h[X_h(r_h)-H]+one original keep, using P_h=L_h^T H/v+Pi_h V_h and original finite native VALUE programs",
+        "extra_executed_VALUE_calls_from_proof": 0,
+        "restriction": "Every packet has a marked leaf root with no dynamic external probes; H independent of coefficient bank E; all nonroot innovations zero-readout at source zero."
+      },
+      "first_nonmain": [
+        {
+          "id": "MIXED_CONNECTED_PAIR",
+          "status": "exact_formal_ideal",
+          "expression": "lambda1*lambda2*D^4*(cPP*cQQ+cPQ*cQP)+lambda1*lambda2*D^6*(a1*a2*cQQ+a1*b2*cQP+b1*a2*cPQ+b1*b2*cPP)"
+        },
+        {
+          "id": "MIXED_DISCONNECTED_MAIN_PRODUCT",
+          "status": "exact_formal_raw",
+          "expression": "lambda1*lambda2*a1*b1*a2*b2*D^8"
+        },
+        {
+          "id": "NATIVE_QUADRATIC_UNIDENTIFIED",
+          "status": "unresolved_norm_floor",
+          "expression": "O(S^2 sqrt(D)) plus literal prior/filter/strong-polynomial floors",
+          "rule": "A norm floor supplies no coefficient of the native quadratic current. Ideal transfer is restricted to P<2*r_min after all actual envelopes."
+        }
+      ],
+      "retained_tapes": [
+        "E and original marked publics retained at their specified stages",
+        "H internally shared; allowed to move in actual-to-seed proof coupling, never exported",
+        "root-seed fresh Omega consumed by Riesz; child kernels retain publics",
+        "W_old reads no new tapes",
+        "one independent untouched keep"
+      ],
+      "equality_scope": "Positive finite addition identifies root-linear sum. Ideal mixed jet transfers only strictly below its fully charged native floor; whole quadratic native residual is an unresolved row.",
+      "escapes": [
+        "NATIVE_QUADRATIC_UNIDENTIFIED",
+        "GROUPED_ISOLATED_CROSS_LOSS",
+        "SHARED_COEFFICIENT_CARRIER",
+        "DYNAMIC_ROOT_OUTSIDE_CARRIER_PORT",
+        "EXPORTED_PRIVATE_TAPE"
+      ]
+    }
+  ],
+  "escape_classes": [
+    "COVARIANCE_GAP",
+    "DROPPED_TILT_LEGS",
+    "DYNAMIC_ROOT_OUTSIDE_CARRIER_PORT",
+    "EXPORTED_PRIVATE_TAPE",
+    "GROUPED_ISOLATED_CROSS_LOSS",
+    "LIVE_INJECTION_OR_WIDTH_DERIVATIVE",
+    "LOCAL_RESPONSE_NOT_WHOLE_CURRENT",
+    "LOG_LAW_CONFUSION",
+    "NATIVE_QUADRATIC_UNIDENTIFIED",
+    "OLD_ENDPOINT_BANK_READOUT",
+    "PURE_RANK4_OUTSIDE_COVARIANCE_TANGENT_IMAGE",
+    "RETAINED_BANK_CENTERING",
+    "RETAINED_RESPONSE_TAPE",
+    "SHARED_COEFFICIENT_CARRIER",
+    "SOURCE_VERSION_DERIVATIVE_DEFECT",
+    "UNCOMPUTABLE_COEFFICIENT",
+    "UNPAID_CLOCK",
+    "UNSUPPLIED_REFERENCE_QUADRATIC_JET"
+  ],
+  "minimal_section": {
+    "type": "actual associated-graded right inverse at a strict finite native boundary",
+    "seed_packets": [
+      "T2=(0,0)",
+      "T3=(0,1,0)",
+      "T4=(0,1,1,0)"
+    ],
+    "a": "4",
+    "beta": "1/4",
+    "gamma": "1/8",
+    "cutoff": "11/2",
+    "minimum_reserve": "5/2",
+    "minimum_root_grade": "3",
+    "minimum_native_floor": "6",
+    "closed_under": "finite linear sums and complete certified residual expansion modulo floors >=11/2, with fixed finite census and prepared source versions",
+    "not_closed_under": [
+      "unbudgeted standalone differentiation",
+      "retained-bank bridge substitution",
+      "quadratic native extraction",
+      "heat traces",
+      "shared coefficient/carrier identification"
+    ],
+    "identity": "Lh=Id on the prepared-response associated-graded span; the uncut derivative target has a separately paid source-preparation floor."
+  }
+}

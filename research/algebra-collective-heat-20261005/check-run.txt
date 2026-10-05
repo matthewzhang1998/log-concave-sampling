@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "test_count": 879,
+  "lacunary_last": {
+    "n": 32,
+    "derivative_abs": 8.565360707497279e-11,
+    "derivative_lower": 8.565360707497279e-11,
+    "full_heat_abs": 5.41434059699135e-11,
+    "full_heat_lower": 3.3702068269022854e-11,
+    "log2_a_squared_over_t_to_quarter": 236.0
+  }
+}

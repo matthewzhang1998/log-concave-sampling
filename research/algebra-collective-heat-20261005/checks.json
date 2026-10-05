@@ -1,0 +1,3698 @@
+{
+  "status": "PASS",
+  "test_count": 879,
+  "checks": [
+    {
+      "name": "operator_identity_N1",
+      "passed": true
+    },
+    {
+      "name": "commutator_ind_cross_N1",
+      "passed": true
+    },
+    {
+      "name": "commutator_com_cross_N1",
+      "passed": true
+    },
+    {
+      "name": "full_polynomial_factorization_N1",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N1_m0",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N1_m1",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N1_m2",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N1_m3",
+      "passed": true
+    },
+    {
+      "name": "covariance_derivative_N1",
+      "passed": true
+    },
+    {
+      "name": "positive_homotopy_N1",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N1_theta0",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N1_theta1/7",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N1_theta2/3",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N1_theta1",
+      "passed": true
+    },
+    {
+      "name": "operator_identity_N2",
+      "passed": true
+    },
+    {
+      "name": "commutator_ind_cross_N2",
+      "passed": true
+    },
+    {
+      "name": "commutator_com_cross_N2",
+      "passed": true
+    },
+    {
+      "name": "full_polynomial_factorization_N2",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N2_m0",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N2_m1",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N2_m2",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N2_m3",
+      "passed": true
+    },
+    {
+      "name": "covariance_derivative_N2",
+      "passed": true
+    },
+    {
+      "name": "positive_homotopy_N2",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N2_theta0",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N2_theta1/7",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N2_theta2/3",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N2_theta1",
+      "passed": true
+    },
+    {
+      "name": "operator_identity_N3",
+      "passed": true
+    },
+    {
+      "name": "commutator_ind_cross_N3",
+      "passed": true
+    },
+    {
+      "name": "commutator_com_cross_N3",
+      "passed": true
+    },
+    {
+      "name": "full_polynomial_factorization_N3",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N3_m0",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N3_m1",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N3_m2",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N3_m3",
+      "passed": true
+    },
+    {
+      "name": "covariance_derivative_N3",
+      "passed": true
+    },
+    {
+      "name": "positive_homotopy_N3",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N3_theta0",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N3_theta1/7",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N3_theta2/3",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N3_theta1",
+      "passed": true
+    },
+    {
+      "name": "operator_identity_N4",
+      "passed": true
+    },
+    {
+      "name": "commutator_ind_cross_N4",
+      "passed": true
+    },
+    {
+      "name": "commutator_com_cross_N4",
+      "passed": true
+    },
+    {
+      "name": "full_polynomial_factorization_N4",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N4_m0",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N4_m1",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N4_m2",
+      "passed": true
+    },
+    {
+      "name": "finite_jet_N4_m3",
+      "passed": true
+    },
+    {
+      "name": "covariance_derivative_N4",
+      "passed": true
+    },
+    {
+      "name": "positive_homotopy_N4",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N4_theta0",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N4_theta1/7",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N4_theta2/3",
+      "passed": true
+    },
+    {
+      "name": "covariance_PSD_N4_theta1",
+      "passed": true
+    },
+    {
+      "name": "negative_cross_exponential_not_positive",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r1_degree1",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r1_degree1",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r1_degree1",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r1_degree2",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r1_degree2",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r1_degree2",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r1_degree3",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r1_degree3",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r1_degree3",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r1_degree4",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r1_degree4",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r1_degree4",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r1_degree5",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r1_degree5",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r1_degree5",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r1_degree6",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r1_degree6",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r1_degree6",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r1_degree7",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r1_degree7",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r1_degree7",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r2_degree2",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r2_degree2",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r2_degree2",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r2_degree3",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r2_degree3",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r2_degree3",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r2_degree4",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r2_degree4",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r2_degree4",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r2_degree5",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r2_degree5",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r2_degree5",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r2_degree6",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r2_degree6",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r2_degree6",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r2_degree7",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r2_degree7",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r2_degree7",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r3_degree3",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r3_degree3",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r3_degree3",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r3_degree4",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r3_degree4",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r3_degree4",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r3_degree5",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r3_degree5",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r3_degree5",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r3_degree6",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r3_degree6",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r3_degree6",
+      "passed": true
+    },
+    {
+      "name": "endpoint_adjoint_r3_degree7",
+      "passed": true
+    },
+    {
+      "name": "one_integration_r3_degree7",
+      "passed": true
+    },
+    {
+      "name": "retained_test_r3_degree7",
+      "passed": true
+    },
+    {
+      "name": "retained_naive_relation_fails",
+      "passed": true,
+      "detail": {
+        "lhs": "1",
+        "naive_rhs": "6",
+        "defect": "-5"
+      }
+    },
+    {
+      "name": "retained_defect_restores_relation",
+      "passed": true
+    },
+    {
+      "name": "scalar_product_rule",
+      "passed": true
+    },
+    {
+      "name": "no_common_lift_for_B_and_2B",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r1_degree1",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r1_degree2",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r1_degree3",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r1_degree4",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r2_degree2",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r2_degree3",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r2_degree4",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r2_degree5",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r3_degree3",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r3_degree4",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r3_degree5",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r3_degree6",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r4_degree4",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r4_degree5",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r4_degree6",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r4_degree7",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r5_degree5",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r5_degree6",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r5_degree7",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r5_degree8",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r6_degree6",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r6_degree7",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r6_degree8",
+      "passed": true
+    },
+    {
+      "name": "keep_IBP_r6_degree9",
+      "passed": true
+    },
+    {
+      "name": "keep_dependence_breaks_naive_IBP",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K0_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K1_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K2_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K3_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K4_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K5_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K6_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K7_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K8_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K9_j20",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j3",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j4",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j5",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j6",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j8",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j9",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j10",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j11",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j12",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j13",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j14",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j15",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j16",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j17",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j18",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j19",
+      "passed": true
+    },
+    {
+      "name": "factorial_bound_K10_j20",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N2_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N2_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N2_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N3_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N3_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N3_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N4_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N4_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N4_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N5_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N5_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N5_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N6_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N6_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N6_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N7_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N7_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N7_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N8_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N8_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N8_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N9_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N9_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N9_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N10_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N10_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N10_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N11_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N11_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N11_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N12_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N12_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N12_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step0",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step1",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step2",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step3",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step4",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step5",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step6",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step7",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step8",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step9",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step10",
+      "passed": true
+    },
+    {
+      "name": "graph_valence_N13_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_loopless_N13_step11",
+      "passed": true
+    },
+    {
+      "name": "graph_old_marked_tree_N13_step11",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k2_g1/8",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k2_g1/5",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k2_g3/7",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k3_g1/8",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k3_g1/5",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k3_g3/7",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k4_g1/8",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k4_g1/5",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k4_g3/7",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k5_g1/8",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k5_g1/5",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k5_g3/7",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k6_g1/8",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k6_g1/5",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k6_g3/7",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k7_g1/8",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k7_g1/5",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k7_g3/7",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k8_g1/8",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k8_g1/5",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k8_g3/7",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k9_g1/8",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k9_g1/5",
+      "passed": true
+    },
+    {
+      "name": "saturated_neutrality_k9_g3/7",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.01_m1",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.01_m2",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.01_m3",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.01_m4",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.1_m1",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.1_m2",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.1_m3",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.1_m4",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.5_m1",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.5_m2",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.5_m3",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s0.5_m4",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s1.0_m1",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s1.0_m2",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s1.0_m3",
+      "passed": true
+    },
+    {
+      "name": "gauss_polynomial_s1.0_m4",
+      "passed": true
+    },
+    {
+      "name": "nonpolynomial_homotopy_s0.125_q0.3",
+      "passed": true,
+      "detail": {
+        "panels": 1,
+        "nodes_per_panel": 20,
+        "absolute_error": 3.4857391012984586e-21,
+        "certificate": 3.904688598413119e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s0.125_q1.0",
+      "passed": true,
+      "detail": {
+        "panels": 1,
+        "nodes_per_panel": 20,
+        "absolute_error": 2.507217523872729e-19,
+        "certificate": 3.904688598413119e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s0.125_q2.0",
+      "passed": true,
+      "detail": {
+        "panels": 1,
+        "nodes_per_panel": 20,
+        "absolute_error": 5.421010862427522e-20,
+        "certificate": 3.904688598413119e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s0.125_q4.0",
+      "passed": true,
+      "detail": {
+        "panels": 1,
+        "nodes_per_panel": 20,
+        "absolute_error": 6.617444900424221e-23,
+        "certificate": 3.904688598413119e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s0.5_q0.3",
+      "passed": true,
+      "detail": {
+        "panels": 4,
+        "nodes_per_panel": 21,
+        "absolute_error": 1.2546675531204324e-20,
+        "certificate": 3.904688598413119e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s0.5_q1.0",
+      "passed": true,
+      "detail": {
+        "panels": 4,
+        "nodes_per_panel": 21,
+        "absolute_error": 2.168404344971009e-19,
+        "certificate": 3.904688598413119e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s0.5_q2.0",
+      "passed": true,
+      "detail": {
+        "panels": 4,
+        "nodes_per_panel": 21,
+        "absolute_error": 4.336808689942018e-19,
+        "certificate": 3.904688598413119e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s0.5_q4.0",
+      "passed": true,
+      "detail": {
+        "panels": 4,
+        "nodes_per_panel": 21,
+        "absolute_error": 2.6469779601696886e-23,
+        "certificate": 3.904688598413119e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s1.0_q0.3",
+      "passed": true,
+      "detail": {
+        "panels": 8,
+        "nodes_per_panel": 21,
+        "absolute_error": 8.523269031746397e-21,
+        "certificate": 7.809377196826238e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s1.0_q1.0",
+      "passed": true,
+      "detail": {
+        "panels": 8,
+        "nodes_per_panel": 21,
+        "absolute_error": 1.0842021724855044e-19,
+        "certificate": 7.809377196826238e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s1.0_q2.0",
+      "passed": true,
+      "detail": {
+        "panels": 8,
+        "nodes_per_panel": 21,
+        "absolute_error": 8.673617379884035e-19,
+        "certificate": 7.809377196826238e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s1.0_q4.0",
+      "passed": true,
+      "detail": {
+        "panels": 8,
+        "nodes_per_panel": 21,
+        "absolute_error": 0.0,
+        "certificate": 7.809377196826238e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s3.0_q0.3",
+      "passed": true,
+      "detail": {
+        "panels": 24,
+        "nodes_per_panel": 22,
+        "absolute_error": 2.964615315390051e-21,
+        "certificate": 5.857032897619678e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s3.0_q1.0",
+      "passed": true,
+      "detail": {
+        "panels": 24,
+        "nodes_per_panel": 22,
+        "absolute_error": 4.336808689942018e-19,
+        "certificate": 5.857032897619678e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s3.0_q2.0",
+      "passed": true,
+      "detail": {
+        "panels": 24,
+        "nodes_per_panel": 22,
+        "absolute_error": 2.168404344971009e-19,
+        "certificate": 5.857032897619678e-10
+      }
+    },
+    {
+      "name": "nonpolynomial_homotopy_s3.0_q4.0",
+      "passed": true,
+      "detail": {
+        "panels": 24,
+        "nodes_per_panel": 22,
+        "absolute_error": 1.0587911840678754e-22,
+        "certificate": 5.857032897619678e-10
+      }
+    },
+    {
+      "name": "convex_C2_hessian_guard",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n2",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n2",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n3",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n3",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n4",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n4",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n6",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n6",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n8",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n8",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n12",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n12",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n16",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n16",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n24",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n24",
+      "passed": true
+    },
+    {
+      "name": "lacunary_derivative_bound_n32",
+      "passed": true
+    },
+    {
+      "name": "lacunary_full_heat_bound_n32",
+      "passed": true
+    },
+    {
+      "name": "no_power_lacunary_subsequence",
+      "passed": true
+    }
+  ],
+  "lacunary_rows": [
+    {
+      "n": 2,
+      "derivative_abs": 6.197210666992216e-06,
+      "derivative_lower": 5.6133947932654165e-06,
+      "full_heat_abs": 4.006318741128041e-06,
+      "full_heat_lower": 2.2086987460786818e-06,
+      "log2_a_squared_over_t_to_quarter": -3.0
+    },
+    {
+      "n": 3,
+      "derivative_abs": 1.113088651248249e-06,
+      "derivative_lower": 1.1088187245956378e-06,
+      "full_heat_abs": 7.04266576865755e-07,
+      "full_heat_lower": 4.362861720649248e-07,
+      "log2_a_squared_over_t_to_quarter": -4.089850002884624
+    },
+    {
+      "n": 4,
+      "derivative_abs": 3.509000869896968e-07,
+      "derivative_lower": 3.5083717457908853e-07,
+      "full_heat_abs": 2.218208983711834e-07,
+      "full_heat_lower": 1.380436716299176e-07,
+      "log2_a_squared_over_t_to_quarter": -4.0
+    },
+    {
+      "n": 6,
+      "derivative_abs": 6.930120951494474e-08,
+      "derivative_lower": 6.930117028722736e-08,
+      "full_heat_abs": 4.380672535924167e-08,
+      "full_heat_lower": 2.72678857540578e-08,
+      "log2_a_squared_over_t_to_quarter": -1.3398500028846243
+    },
+    {
+      "n": 8,
+      "derivative_abs": 2.192732345516915e-08,
+      "derivative_lower": 2.1927323411193033e-08,
+      "full_heat_abs": 1.386071196290436e-08,
+      "full_heat_lower": 8.62772947686985e-09,
+      "log2_a_squared_over_t_to_quarter": 4.0
+    },
+    {
+      "n": 12,
+      "derivative_abs": 4.331323142951831e-09,
+      "derivative_lower": 4.33132314295171e-09,
+      "full_heat_abs": 2.7379184055897937e-09,
+      "full_heat_lower": 1.7042428596286125e-09,
+      "log2_a_squared_over_t_to_quarter": 21.660149997115376
+    },
+    {
+      "n": 16,
+      "derivative_abs": 1.3704577131995646e-09,
+      "derivative_lower": 1.3704577131995646e-09,
+      "full_heat_abs": 8.66294495518616e-10,
+      "full_heat_lower": 5.392330923043657e-10,
+      "log2_a_squared_over_t_to_quarter": 48.0
+    },
+    {
+      "n": 24,
+      "derivative_abs": 2.707076964344819e-10,
+      "derivative_lower": 2.707076964344819e-10,
+      "full_heat_abs": 1.711199003493562e-10,
+      "full_heat_lower": 1.0651517872678828e-10,
+      "log2_a_squared_over_t_to_quarter": 125.66014999711538
+    },
+    {
+      "n": 32,
+      "derivative_abs": 8.565360707497279e-11,
+      "derivative_lower": 8.565360707497279e-11,
+      "full_heat_abs": 5.41434059699135e-11,
+      "full_heat_lower": 3.3702068269022854e-11,
+      "log2_a_squared_over_t_to_quarter": 236.0
+    }
+  ],
+  "scope": "Exact polynomial and arithmetic diagnostics; no native sampler executed; no universal source-image nonmembership asserted."
+}

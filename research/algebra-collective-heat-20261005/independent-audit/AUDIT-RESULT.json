@@ -1,0 +1,35 @@
+{
+  "verdict": "PASS_FOR_REVISED_SCOPED_CLAIMS",
+  "blocking_findings": [],
+  "independent_check_count": 157,
+  "independent_check_status": "PASS",
+  "author_reproduction_count": 879,
+  "author_reproduction_status": "PASS",
+  "verified_input_pins": 15,
+  "native_sampler_executed": false,
+  "external_sharing": false,
+  "author_files_modified_by_auditor": false,
+  "established": [
+    "exact formal identity and finite jets",
+    "positive covariance homotopy",
+    "finite positive composite-Gauss coefficient certificate and fixed-scale local node cost",
+    "native same-graph edge admission under actual three-frame and ownership guards",
+    "full fixed-endpoint adjoint, live scalar/geometry and retained-observer obligations",
+    "fixed convex C2 saturated nodewise no-extra-power counterexample"
+  ],
+  "not_established": [
+    "exact all-orders native right inverse",
+    "removal of intrinsic root-quadratic native return by accuracy alone",
+    "strict-gain original-target heat repair",
+    "nonmembership in full executable current image",
+    "impossibility of a new complete-history cancellation theorem"
+  ],
+  "verified_author_clarifications": [
+    "complete weighted/unweighted trace sums",
+    "original-restored-target quadrature envelope",
+    "leading-current representative versus intrinsic native return",
+    "contract-admissible clock weights versus explicitly qualified actual Gauss nodes"
+  ],
+  "review": "INDEPENDENT-REVIEW.md",
+  "audited_versions": "AUDITED-FILES.json"
+}

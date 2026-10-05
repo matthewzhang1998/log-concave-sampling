@@ -1,0 +1,30 @@
+{
+  "review_date": "2026-10-05",
+  "files": [
+    {
+      "path": "COLLECTIVE-HEAT-AND-THE-COMMON-TRANSLATION-BOUNDARY.md",
+      "bytes": 38069,
+      "sha256": "cb8b252e5d0d4c329077d6b913450580f6a01f47f44d4aacbf826af481b5f579"
+    },
+    {
+      "path": "TASKB-RESULT.json",
+      "bytes": 6794,
+      "sha256": "fe3b6b1175a3f9ac03e0687ee0dfec467c7dd864cedaa89bc07095bcb7e65a4a"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "bytes": 3450,
+      "sha256": "17b6010187e84e8f2da098bca619ae239fed5f78bd4e0fe83a60c7a633f6a877"
+    },
+    {
+      "path": "check_collective_heat.py",
+      "bytes": 10187,
+      "sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67"
+    },
+    {
+      "path": "checks.json",
+      "bytes": 72618,
+      "sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee"
+    }
+  ]
+}

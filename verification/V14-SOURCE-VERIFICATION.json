@@ -1,0 +1,20 @@
+{
+  "status": "PASS_WITH_EXTERNAL_PROVENANCE_QUALIFICATION",
+  "exact_new_files": 63,
+  "sealed_packet_count": 3,
+  "matching_sealed_members": 60,
+  "direct_input_pins_verified": 40,
+  "external_pins_not_reverified": [
+    {
+      "record": "research/algebra-current-image-20261005/INPUT-PINS.json",
+      "source": "external:LOW30",
+      "expected_sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/algebra-current-image-20261005/independent-audit/revised-checker-copy/INPUT-PINS.json",
+      "source": "external:LOW30",
+      "expected_sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    }
+  ],
+  "errors": []
+}

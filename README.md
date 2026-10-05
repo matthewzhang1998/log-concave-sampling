@@ -1,6 +1,20 @@
 # Log-concave sampling: mathematical research snapshot
 
-Snapshot version: 2026-10-05-public-v13-repair-graph-algebra-and-induction, updated 5 October 2026. This is a curated research archive of proofs, scoped audits, source certificates and diagnostic code. Inclusion is not a blanket theorem admission.
+Snapshot version: 2026-10-05-public-v14-three-algebra-constructions, updated 5 October 2026.
+
+## V14: three scoped algebra constructions
+
+This additive supplement preserves every V13 research file unchanged and admits **63 exact files** from the three newly sealed, independently audited construction packets. Their earlier exclusion as live drafts is historical. The [frozen selection](verification/V14-FROZEN-SELECTION.json) identifies the only admitted files.
+
+- [Current-image dictionary](research/algebra-current-image-20261005/CURRENT-IMAGE-AND-RESIDUAL.md): eight explicit source/current rows, their determined residuals and named escapes; a guarded prepared-tree leading section at cutoff **11/2**, strictly below native floor **6**. The actual native quadratic table and a quadratic-residual-closed finite-VALUE right inverse remain unresolved. [Machine-readable dictionary](research/algebra-current-image-20261005/CURRENT-DICTIONARY.json).
+- [Collective heat](research/algebra-collective-heat-20261005/COLLECTIVE-HEAT-AND-THE-COMMON-TRANSLATION-BOUNDARY.md): an exact independent/common-heat/cross-bridge identity with positive interpolating covariances and a finite positive quadrature rule in its stated fixed-graph regime. Native admission retains its three-frame and ownership guards. The common-translation boundary and root-quadratic intrinsic native row remain; strictly improving original-target heat restoration is not proved. A nodewise/fixed-record obstruction is not a no-go theorem for an additional complete-history cancellation.
+- [Observer leading block](research/algebra-observer-block-20261005/OBSERVER-LEADING-BLOCK.md): a new carrier-aware scalar raw-VALUE transport port for the specified sine stress family, using **three total original VALUE calls**, with two worked retained-carrier error orders 3 and 4. Its sine-only finite-order recurrence has explicit budgets and checks through N=6. This is not a general-C2, higher-rank native, nonseparable-curl, or noisy-derivative theorem.
+
+The repair-graph inverse remains conditional. Global dimension exponent **1/32**, normalized endpoint order **4**, and the distinct local rank-eight current grade **41/5** remain unchanged. There is still no arbitrary-order positive sampler closure or global **c(P)=o(P)** theorem.
+
+The complete archive has **275 selected diagnostic entrypoints, all passing in one fresh isolated run**, including the supplement's **9 new entrypoints** and its historical review snapshots. One provenance-only execution adapter leaves the excluded LOW30 source check explicitly unrun in the default public mode; mathematical checks are retained. [V14 status and reproduction](STATUS-V14.md) distinguishes current sources from historical checker copies, and [source verification](verification/V14-SOURCE-VERIFICATION.json) records exact seals and input pins. LOW30 and HIGH13 remain external; no license is added.
+
+## Historical V13 status
 
 ## V13: repair-graph algebra and scoped induction
 

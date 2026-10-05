@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    {
+      "path": "/workspace/shared/repair-graph-algebra-20261005/REPAIR-GRAPH-ALGEBRA.md",
+      "sha256": "a0599111632220ec765c3f636ec2a26ac372ea575613a80a3bb37cec6f301198"
+    },
+    {
+      "path": "/workspace/shared/induction-carrier-fixed-native-20261005/ALGEBRA-OWNERSHIP-INTERFACE.md",
+      "sha256": "979de3f3a9e6fc7883bf109cd36bad4da3b8319ed935af2fdf7eab33ce364616"
+    },
+    {
+      "path": "/workspace/shared/induction-carrier-fixed-native-20261005/ROOT-SEED-CARRIER-STABLE-PORT.md",
+      "sha256": "0c4ef1c750102a41fe11c563699100d128943a842543326291ef557e0e741c45"
+    }
+  ]
+}

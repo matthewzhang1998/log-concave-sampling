@@ -1,0 +1,740 @@
+{
+  "status": "PASS",
+  "test_count": 157,
+  "checks": [
+    {
+      "name": "pin_REPAIR-GRAPH-ALGEBRA.md",
+      "passed": true
+    },
+    {
+      "name": "pin_ROOT-SEED-CARRIER-STABLE-PORT.md",
+      "passed": true
+    },
+    {
+      "name": "pin_ALGEBRA-OWNERSHIP-INTERFACE.md",
+      "passed": true
+    },
+    {
+      "name": "pin_CLOCK-AND-INDEPENDENT-SHARE-CROSSCHECK.md",
+      "passed": true
+    },
+    {
+      "name": "pin_CUTOFF-FREE-SECTOR-GAUSS.md",
+      "passed": true
+    },
+    {
+      "name": "pin_COMPLETE-EXECUTION-BILL.md",
+      "passed": true
+    },
+    {
+      "name": "pin_FINAL-STATUS.md",
+      "passed": true
+    },
+    {
+      "name": "pin_CLOCK-MASS-TWO-STEP-REENTRY.md",
+      "passed": true
+    },
+    {
+      "name": "pin_WEIGHTED-GENERATOR-CONTRACT.md",
+      "passed": true
+    },
+    {
+      "name": "pin_ACTIVE-PROBE-GENERATOR.md",
+      "passed": true
+    },
+    {
+      "name": "pin_MARKED-SPANNING-TREE-EXTENSION.md",
+      "passed": true
+    },
+    {
+      "name": "pin_REVIEWED-MARKED-SPANNING-TREE-EXTENSION.md",
+      "passed": true
+    },
+    {
+      "name": "pin_FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+      "passed": true
+    },
+    {
+      "name": "pin_DECORATED-OWNERSHIP-INDUCTION.md",
+      "passed": true
+    },
+    {
+      "name": "pin_HEAT-SHELL-REENTRY.md",
+      "passed": true
+    },
+    {
+      "name": "2d_operator_1_1_1",
+      "passed": true
+    },
+    {
+      "name": "2d_commute_1_1_1",
+      "passed": true
+    },
+    {
+      "name": "2d_complete_finite_jet_1_1_1",
+      "passed": true
+    },
+    {
+      "name": "2d_covariance_derivative_1_1_1",
+      "passed": true
+    },
+    {
+      "name": "2d_positive_homotopy_1_1_1",
+      "passed": true
+    },
+    {
+      "name": "2d_operator_0_2_3",
+      "passed": true
+    },
+    {
+      "name": "2d_commute_0_2_3",
+      "passed": true
+    },
+    {
+      "name": "2d_complete_finite_jet_0_2_3",
+      "passed": true
+    },
+    {
+      "name": "2d_covariance_derivative_0_2_3",
+      "passed": true
+    },
+    {
+      "name": "2d_positive_homotopy_0_2_3",
+      "passed": true
+    },
+    {
+      "name": "2d_operator_1/2_1_3",
+      "passed": true
+    },
+    {
+      "name": "2d_commute_1/2_1_3",
+      "passed": true
+    },
+    {
+      "name": "2d_complete_finite_jet_1/2_1_3",
+      "passed": true
+    },
+    {
+      "name": "2d_covariance_derivative_1/2_1_3",
+      "passed": true
+    },
+    {
+      "name": "2d_positive_homotopy_1/2_1_3",
+      "passed": true
+    },
+    {
+      "name": "vector_endpoint_full_adjoint",
+      "passed": true
+    },
+    {
+      "name": "vector_retained_test_adjoint",
+      "passed": true
+    },
+    {
+      "name": "vector_naive_retention_really_fails",
+      "passed": true,
+      "detail": {
+        "missing_current_pairing": "-1866887/64"
+      }
+    },
+    {
+      "name": "vector_scalar_product_0",
+      "passed": true
+    },
+    {
+      "name": "vector_scalar_product_1",
+      "passed": true
+    },
+    {
+      "name": "live_width_second_chain_rule",
+      "passed": true
+    },
+    {
+      "name": "live_width_defect_nonzero",
+      "passed": true
+    },
+    {
+      "name": "factorial_K0_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_K0_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_K0_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_K0_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_K0_j25",
+      "passed": true
+    },
+    {
+      "name": "factorial_K0_j50",
+      "passed": true
+    },
+    {
+      "name": "factorial_K0_j70",
+      "passed": true
+    },
+    {
+      "name": "factorial_K1_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_K1_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_K1_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_K1_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_K1_j25",
+      "passed": true
+    },
+    {
+      "name": "factorial_K1_j50",
+      "passed": true
+    },
+    {
+      "name": "factorial_K1_j70",
+      "passed": true
+    },
+    {
+      "name": "factorial_K2_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_K2_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_K2_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_K2_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_K2_j25",
+      "passed": true
+    },
+    {
+      "name": "factorial_K2_j50",
+      "passed": true
+    },
+    {
+      "name": "factorial_K2_j70",
+      "passed": true
+    },
+    {
+      "name": "factorial_K7_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_K7_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_K7_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_K7_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_K7_j25",
+      "passed": true
+    },
+    {
+      "name": "factorial_K7_j50",
+      "passed": true
+    },
+    {
+      "name": "factorial_K7_j70",
+      "passed": true
+    },
+    {
+      "name": "factorial_K12_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_K12_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_K12_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_K12_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_K12_j25",
+      "passed": true
+    },
+    {
+      "name": "factorial_K12_j50",
+      "passed": true
+    },
+    {
+      "name": "factorial_K12_j70",
+      "passed": true
+    },
+    {
+      "name": "factorial_K24_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_K24_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_K24_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_K24_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_K24_j25",
+      "passed": true
+    },
+    {
+      "name": "factorial_K24_j50",
+      "passed": true
+    },
+    {
+      "name": "factorial_K24_j70",
+      "passed": true
+    },
+    {
+      "name": "factorial_K50_j0",
+      "passed": true
+    },
+    {
+      "name": "factorial_K50_j1",
+      "passed": true
+    },
+    {
+      "name": "factorial_K50_j2",
+      "passed": true
+    },
+    {
+      "name": "factorial_K50_j7",
+      "passed": true
+    },
+    {
+      "name": "factorial_K50_j25",
+      "passed": true
+    },
+    {
+      "name": "factorial_K50_j50",
+      "passed": true
+    },
+    {
+      "name": "factorial_K50_j70",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_0",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.21712915689269732
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_0",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_1",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.28305425796436
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_1",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_2",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.31815160633796463
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_2",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_3",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.23593125019085578
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_3",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_4",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.21280189449846712
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_4",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_5",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.15264906048348675
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_5",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_6",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.27585025125133067
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_6",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_7",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.35494160549016124
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_7",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_8",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.1733249320095316
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_8",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_9",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.08571753655943998
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_9",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_10",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.23753441898966302
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_10",
+      "passed": true
+    },
+    {
+      "name": "cyclic_parallel_all_cuts_11",
+      "passed": true,
+      "detail": {
+        "max_global_cut": 0.2694948879193692
+      }
+    },
+    {
+      "name": "cyclic_parallel_one_Hilbert_11",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, -1, 0], [1, 1, 1], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, -1, 0], [1, 1, 1], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, -1, 0], [0, 1, 2], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, -1, 0], [0, 1, 2], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, -1, 0], [mpf('0.5'), 2, 1], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, -1, 0], [mpf('0.5'), 2, 1], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, 2, -3], [1, 1, 1], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, 2, -3], [1, 1, 1], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, 2, -3], [0, 1, 2], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, 2, -3], [0, 1, 2], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, 2, -3], [mpf('0.5'), 2, 1], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([1, 2, -3], [mpf('0.5'), 2, 1], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'), mpf('0.2000000000000000000000000000000000000000000000000000000000000000000000005'), mpf('0.3000000000000000000000000000000000000000000000000000000000000000000000018')], [1, 1, 1], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'), mpf('0.2000000000000000000000000000000000000000000000000000000000000000000000005'), mpf('0.3000000000000000000000000000000000000000000000000000000000000000000000018')], [1, 1, 1], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'), mpf('0.2000000000000000000000000000000000000000000000000000000000000000000000005'), mpf('0.3000000000000000000000000000000000000000000000000000000000000000000000018')], [0, 1, 2], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'), mpf('0.2000000000000000000000000000000000000000000000000000000000000000000000005'), mpf('0.3000000000000000000000000000000000000000000000000000000000000000000000018')], [0, 1, 2], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'), mpf('0.2000000000000000000000000000000000000000000000000000000000000000000000005'), mpf('0.3000000000000000000000000000000000000000000000000000000000000000000000018')], [mpf('0.5'), 2, 1], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'), mpf('0.2000000000000000000000000000000000000000000000000000000000000000000000005'), mpf('0.3000000000000000000000000000000000000000000000000000000000000000000000018')], [mpf('0.5'), 2, 1], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([4, -2, 3], [1, 1, 1], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([4, -2, 3], [1, 1, 1], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([4, -2, 3], [0, 1, 2], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([4, -2, 3], [0, 1, 2], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([4, -2, 3], [mpf('0.5'), 2, 1], mpf('0.1000000000000000000000000000000000000000000000000000000000000000000000002'))",
+      "passed": true
+    },
+    {
+      "name": "fourier_homotopy_([4, -2, 3], [mpf('0.5'), 2, 1], mpf('1.0'))",
+      "passed": true
+    },
+    {
+      "name": "nonpoly_three_occurrence_tau0.25_ratio0.01",
+      "passed": true,
+      "detail": {
+        "error": 1.207551345429412e-18,
+        "certificate": 5.057621821307285e-09,
+        "panels": 1,
+        "m": 13
+      }
+    },
+    {
+      "name": "nonpoly_three_occurrence_tau0.25_ratio0.125",
+      "passed": true,
+      "detail": {
+        "error": 2.8189256484623115e-18,
+        "certificate": 3.951267047896316e-09,
+        "panels": 3,
+        "m": 15
+      }
+    },
+    {
+      "name": "nonpoly_three_occurrence_tau0.25_ratio1.0",
+      "passed": true,
+      "detail": {
+        "error": 1.441988889405721e-17,
+        "certificate": 7.902534095792632e-09,
+        "panels": 24,
+        "m": 16
+      }
+    },
+    {
+      "name": "nonpoly_three_occurrence_tau0.25_ratio2.0",
+      "passed": true,
+      "detail": {
+        "error": 1.0679391398982219e-17,
+        "certificate": 3.951267047896316e-09,
+        "panels": 48,
+        "m": 17
+      }
+    },
+    {
+      "name": "nonpoly_three_occurrence_tau1.0_ratio0.01",
+      "passed": true,
+      "detail": {
+        "error": 1.207551345429412e-18,
+        "certificate": 5.057621821307285e-09,
+        "panels": 1,
+        "m": 13
+      }
+    },
+    {
+      "name": "nonpoly_three_occurrence_tau1.0_ratio0.125",
+      "passed": true,
+      "detail": {
+        "error": 2.8189256484623115e-18,
+        "certificate": 3.951267047896316e-09,
+        "panels": 3,
+        "m": 15
+      }
+    },
+    {
+      "name": "nonpoly_three_occurrence_tau1.0_ratio1.0",
+      "passed": true,
+      "detail": {
+        "error": 1.441988889405721e-17,
+        "certificate": 7.902534095792632e-09,
+        "panels": 24,
+        "m": 16
+      }
+    },
+    {
+      "name": "nonpoly_three_occurrence_tau1.0_ratio2.0",
+      "passed": true,
+      "detail": {
+        "error": 1.0679391398982219e-17,
+        "certificate": 3.951267047896316e-09,
+        "panels": 48,
+        "m": 17
+      }
+    },
+    {
+      "name": "lacunary_positive_partial_sum_n1",
+      "passed": true,
+      "detail": {
+        "heat_to_lower": "1.704688089718713434354820699030878468184413406085040280138210747012347"
+      }
+    },
+    {
+      "name": "lacunary_trace_n1",
+      "passed": true
+    },
+    {
+      "name": "lacunary_positive_partial_sum_n2",
+      "passed": true,
+      "detail": {
+        "heat_to_lower": "1.912220729898391067911574169336615694919833327627247840332652238179722"
+      }
+    },
+    {
+      "name": "lacunary_trace_n2",
+      "passed": true
+    },
+    {
+      "name": "lacunary_positive_partial_sum_n5",
+      "passed": true,
+      "detail": {
+        "heat_to_lower": "1.704707746170585344724766296119382497550940440261596545071725900345625"
+      }
+    },
+    {
+      "name": "lacunary_trace_n5",
+      "passed": true
+    },
+    {
+      "name": "lacunary_positive_partial_sum_n10",
+      "passed": true,
+      "detail": {
+        "heat_to_lower": "1.704688089733523343100641853107904435773755235628872200491344237006278"
+      }
+    },
+    {
+      "name": "lacunary_trace_n10",
+      "passed": true
+    },
+    {
+      "name": "lacunary_positive_partial_sum_n30",
+      "passed": true,
+      "detail": {
+        "heat_to_lower": "1.704688089718713434354820699030878478803429081882437602253740097231883"
+      }
+    },
+    {
+      "name": "lacunary_trace_n30",
+      "passed": true
+    },
+    {
+      "name": "lacunary_positive_partial_sum_n60",
+      "passed": true,
+      "detail": {
+        "heat_to_lower": "1.704688089718713434354820699030878468184413406085040280138210747012347"
+      }
+    },
+    {
+      "name": "lacunary_trace_n60",
+      "passed": true
+    },
+    {
+      "name": "power_failure_delta0.01",
+      "passed": true
+    },
+    {
+      "name": "power_failure_delta0.1",
+      "passed": true
+    },
+    {
+      "name": "power_failure_delta1.0",
+      "passed": true
+    }
+  ],
+  "scope": "Independent algebra, multivariate Gaussian moments, graph-norm diagnostics, real positive quadrature and lacunary arithmetic. Native-source admission was audited against source contracts; no native sampler or numerical target program was executed."
+}

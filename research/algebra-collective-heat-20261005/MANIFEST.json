@@ -1,0 +1,106 @@
+{
+  "files": [
+    {
+      "path": "COLLECTIVE-HEAT-AND-THE-COMMON-TRANSLATION-BOUNDARY.md",
+      "bytes": 38069,
+      "sha256": "cb8b252e5d0d4c329077d6b913450580f6a01f47f44d4aacbf826af481b5f579"
+    },
+    {
+      "path": "FINAL-STATUS.md",
+      "bytes": 3057,
+      "sha256": "95f276f4ca79a01095f6b0f0fd672a39e3fb8a3a511dc9b3b98fad7c8e7da332"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "bytes": 3450,
+      "sha256": "17b6010187e84e8f2da098bca619ae239fed5f78bd4e0fe83a60c7a633f6a877"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1325,
+      "sha256": "47a0c765eb477042ad232436c349682a11d95e0cffcd63db4455fc71b35f8ed1"
+    },
+    {
+      "path": "SEAL-VERIFICATION.json",
+      "bytes": 5477,
+      "sha256": "3fe864d5a6b35461f5ef348c06cf32ff17d08ea0acd99a934bf87f2a31a5da56"
+    },
+    {
+      "path": "TASKB-RESULT.json",
+      "bytes": 6794,
+      "sha256": "fe3b6b1175a3f9ac03e0687ee0dfec467c7dd864cedaa89bc07095bcb7e65a4a"
+    },
+    {
+      "path": "check-run.txt",
+      "bytes": 311,
+      "sha256": "fd268207069ae9c86b8255c4ef784ae4cc842c294d4551d7502f84ba8f02a946"
+    },
+    {
+      "path": "check_collective_heat.py",
+      "bytes": 10187,
+      "sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67"
+    },
+    {
+      "path": "checks.json",
+      "bytes": 72618,
+      "sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee"
+    },
+    {
+      "path": "independent-audit/AUDIT-RESULT.json",
+      "bytes": 1507,
+      "sha256": "65a6833e161589055d7c8594d4fef2a29bba3c33e0eb79576ba97901ad2c6d3d"
+    },
+    {
+      "path": "independent-audit/AUDITED-FILES.json",
+      "bytes": 850,
+      "sha256": "781ce25d4a45e17b0b20106e7165d06eaf2fa2f7c73e30e3141be84d47e9e708"
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-REVIEW.md",
+      "bytes": 16306,
+      "sha256": "053366449459a69c9c9b9a94f8cc5ace1273fc8c31d8f35b2e1fa4d97f0fd484"
+    },
+    {
+      "path": "independent-audit/README.md",
+      "bytes": 641,
+      "sha256": "150253a267d2d8c5f90d4ce4e6ee1bb0ba42b6e92518d95e6f9650e2e856feb7"
+    },
+    {
+      "path": "independent-audit/author-reproduction/check-run.txt",
+      "bytes": 311,
+      "sha256": "fd268207069ae9c86b8255c4ef784ae4cc842c294d4551d7502f84ba8f02a946"
+    },
+    {
+      "path": "independent-audit/author-reproduction/check_collective_heat.py",
+      "bytes": 10187,
+      "sha256": "1ceb5f6700a538833d1612bbd9c68eff9eecee784f343b11e501bb1cf79a1f67"
+    },
+    {
+      "path": "independent-audit/author-reproduction/checks.json",
+      "bytes": 72618,
+      "sha256": "63321f0e5a4053f9303c43c511b4a6a48a1009ce3f99a7c51cf822facac318ee"
+    },
+    {
+      "path": "independent-audit/independent-check-run.txt",
+      "bytes": 44,
+      "sha256": "9cece7a0682c9e8ce6fa6d9d4cf603ef61fd3a96041a4ed4fb50c6afe2c9b871"
+    },
+    {
+      "path": "independent-audit/independent-checks.json",
+      "bytes": 18228,
+      "sha256": "c8207497b8ca32f22c3689862164db6c110612312e2dfda4797faf0f26a9db91"
+    },
+    {
+      "path": "independent-audit/independent_checks.py",
+      "bytes": 9793,
+      "sha256": "4cafaa5a270a38d3c871f88f7799fb63329f264a8295fa4ad3bd1d7a6a87c390"
+    },
+    {
+      "path": "seal_packet.py",
+      "bytes": 2406,
+      "sha256": "0d0f58cf6a912e196f848fc68e9e42a387076a3c46f096daff6d49dd8ffeb2c8"
+    }
+  ],
+  "source_inputs_unchanged": true,
+  "native_sampler_executed": false
+}
