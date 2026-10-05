@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-05",
+  "status": "Independent PASS within exact analytical target-isolation scope",
+  "target": "m4 and F3 conditional mean/covariance/skew/quartic marked currents; subsequent F4 covariance sign obstruction",
+  "constructive_status": "Finite positive original-VALUE marked-history supplier and accuracy-raising step remain open",
+  "new_results": [
+    "Exact coherent history-difference targets and dimension-safe ranks 1 through 4",
+    "Ordered shifted four-force response chain",
+    "Positive joint block-Gram and buffered marked current",
+    "Actual same-g negative next-history covariance increment rules out repeatable independent additive covariance banks"
+  ],
+  "checks": {
+    "author_exact_assertions": 1691,
+    "independent_exact_assertions": 704,
+    "input_pins": 10
+  },
+  "files": {
+    "INPUT-PINS.json": "fdbc9998ccdbfd13c93b17b9f84d4585854bc3673e3795082a92ce8fa211f686",
+    "NEXT-HISTORY-M4-AND-MARKED-CURRENT-PORT.md": "b85af0391c9e6064e7acd1386da0e0d7c339d092772ec6064ac1502005c6bf5a",
+    "PORT-SPEC.json": "79cbbb32d7743e7a287c01906c86897c99db2ded34c22b8bd7857f4ad1b68aec",
+    "README.md": "7df103e696eea0a36d591ed9a12cc2243f1a0d2198c29ea69993393b37498115",
+    "check-run.txt": "34938941ae310a99ef5f8b944b7a3a5f16d76f1850e9fa01210cb2e8902c11b5",
+    "check_next_history.py": "1eb17dc616de475c68d30d5eb91d0cd26cc01fdf793f0f12674ab6907d9727d4",
+    "independent-audit/AUDIT-REPORT.md": "2f70ab916e716204021e156e3c25d7e526816efb5a4ab1fce88a06dbe41b4940",
+    "independent-audit/EXACT-TARGET-AND-PRODUCER-AUDIT.md": "96abe9699906d4a8e08a8ec13a6d91b34784f9a5846b009870957fd4bf2ae4b1",
+    "independent-audit/check-run.txt": "e39b7cdded514fc134ebc47f584f1c216708a9ad644e203ad2de9932388cfd39",
+    "independent-audit/check_exact_targets.py": "09fb1d79008b3e38d79e9c23d0d7a739e597fe0e316ab70162bb9b9f007a1e55",
+    "independent-audit/exact_target_checks.json": "e39b7cdded514fc134ebc47f584f1c216708a9ad644e203ad2de9932388cfd39",
+    "next_history_checks.json": "34938941ae310a99ef5f8b944b7a3a5f16d76f1850e9fa01210cb2e8902c11b5",
+    "seal_manifest.py": "0c9000b715f0f7970a73f3efa70f6675234a9e051cb5aecf1d5de3978649ffbf"
+  },
+  "inputs": [
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/MANIFEST.json",
+      "sha256": "dde7c7e3220b18f65d13039587af6cd9690db0264f10f87c00fcbcb6870ccad9"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md",
+      "sha256": "de4a0e0f35b6b453414ab4b3b4569e56bf3243b4353666b6f94d00a3c8ae6c5c"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/JOIN-GRAPH.json",
+      "sha256": "f328849d144f89a720290d42207697810bce2e7b7993a104c1833cbe53e6fc82"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md",
+      "sha256": "53748adb366902bc875e5d74871bcd1a9cda74ec22524bba699f38fc4c918f49"
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/REUSABLE-PORT-AND-DEPTH-RECURRENCE.md",
+      "sha256": "1de572cbddecd40ed5c990df98638a5551d714f74cbc0d50dfd5200c19a3d58e"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md",
+      "sha256": "976b704bb90ffd9552f82f13ec34a5851a94027f5867522b044d53803d743429"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md",
+      "sha256": "1b4a2d8e38b4acd8c607f25eb263b0d61a5b03cc1de4ec65363f1eed0a8432b0"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md",
+      "sha256": "48c23f0c8966a28eae3b6849a0c63348e62f971340d2f5016902580aeb46fee4"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md",
+      "sha256": "cf76b2e851b8c0857fcecebbba226eefecfdba835b26ab57216d8265bb864e9f"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/POSITIVE-CORRECTED-GRAM-MIXTURE.md",
+      "sha256": "cf94de42b101c417e4902eaf90284c06d418f23adadfef3990101b0cb11ed731"
+    }
+  ],
+  "nonclaims": [
+    "New native compiler admission",
+    "Accuracy-raising VALUE producer",
+    "RAW promotion of m3 mean graph",
+    "Arbitrary-order/end-to-end cost theorem",
+    "Endpoint distribution theorem"
+  ]
+}

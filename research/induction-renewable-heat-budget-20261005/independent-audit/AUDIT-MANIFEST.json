@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-05",
+  "status": "PASS_SCOPED_THEOREM",
+  "report": "INDEPENDENT-CLOCK-MASS-AUDIT.md",
+  "diagnostics": "check_independent_clock_mass.py",
+  "assertions": 34787,
+  "native_compiler_executed": false,
+  "primary_sha256": "6385fbb2c2df9ec9eeecdaf523889bb18b03084193056df220940e0fe43f5d39",
+  "input_sha256": {
+    "/workspace/shared/induction-renewable-heat-budget-20261005/CLOCK-MASS-TWO-STEP-REENTRY.md": "6385fbb2c2df9ec9eeecdaf523889bb18b03084193056df220940e0fe43f5d39",
+    "/workspace/shared/induction-renewable-heat-budget-20261005/WEIGHTED-GENERATOR-CONTRACT.md": "bfd6c02a34cf5e2d37e99f60dbb23cdcdff78e011a6181f7e03a2c2f5ce3f158",
+    "/workspace/shared/induction-heat-defect-reentry-20261005/HEAT-SHELL-REENTRY.md": "aa34c50498fb9d6c38cd7489c87a2660ccac0d9afac48729585d6175a7f46aa4",
+    "/workspace/shared/induction-mixed-queue-20261005/WEIGHTED-MIXED-QUEUE.md": "c2592c68d70bfeb69ec52d92ec7abeeec22bd4b12759d43be62cb75d594735f0",
+    "/workspace/shared/induction-mixed-queue-20261005/SIMULTANEOUS-FAMILY-JOIN.md": "ff7d4511d4691172849a4f1429d20fd1c35e066dcef29f429fc9193b05185c87",
+    "/workspace/shared/induction-mixed-queue-20261005/COMMON-CARRIER-AMALGAMATION.md": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8",
+    "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+    "/workspace/shared/induction-native-rank-generator-20261005/RANK8-SMOOTHED-NATIVE-RETURN.md": "f812083428f7b612cdc90a27a5da2be4aafd034f0d14b7cdc73e9bb5361cca27",
+    "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d"
+  },
+  "sealed_input_checksum_verification": {
+    "induction-heat-defect-reentry-20261005": "all entries PASS",
+    "induction-mixed-queue-20261005": "all entries PASS",
+    "induction-native-rank-generator-20261005": "all entries PASS"
+  },
+  "weighted_current_contract_reviewed": true
+}

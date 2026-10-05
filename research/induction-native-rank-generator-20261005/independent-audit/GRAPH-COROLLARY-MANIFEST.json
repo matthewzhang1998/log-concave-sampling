@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "scope": "Full coefficient all-proper-cut bound for loopless multigraphs with a marked-leaf spanning tree. Native return and derivative-frame interfaces remain open.",
+  "previous_audited_inputs_unchanged": true,
+  "assertions": 3667,
+  "physical_cut_circuits": 112,
+  "live_wire_steps": 484,
+  "counterexample_dimensions": [
+    2,
+    3,
+    7
+  ],
+  "sha256": {
+    "/workspace/shared/induction-native-rank-generator-20261005/MARKED-GRAPH-COROLLARY.md": "4f9c68f025cd9b65542297c5f2d24f9748bd57758b248a2706e78b01537c22a1",
+    "/workspace/shared/induction-native-rank-generator-20261005/independent-audit/GRAPH-COROLLARY-AUDIT.md": "fbdc4a04edf886b421845f480bde7392629cc4bb9955e2f808e1ca47f3ff86cf",
+    "/workspace/shared/induction-native-rank-generator-20261005/independent-audit/check_independent_graph_corollary.py": "ba372b49268367181c2ae60cdad0af877d3ac7f578c58a4039e4835d5883807d",
+    "/workspace/shared/induction-native-rank-generator-20261005/independent-audit/graph-corollary-independent-checks.json": "2c57ae0eb33714bc53ec58ed07b55ac206a4e5d8d8c293e52b6a4e985e35c1dc",
+    "/workspace/shared/induction-native-rank-generator-20261005/independent-audit/graph-corollary-independent-run.txt": "2c57ae0eb33714bc53ec58ed07b55ac206a4e5d8d8c293e52b6a4e985e35c1dc"
+  }
+}

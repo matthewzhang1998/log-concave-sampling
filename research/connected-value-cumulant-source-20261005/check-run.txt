@@ -1,0 +1,83 @@
+{
+  "status": "PASS",
+  "scope": "Exact combinatorics and diagnostics; analytical source exclusion is proved in the companion note. No all-source impossibility claim.",
+  "u_statistic_rows": [
+    {
+      "rank": 1,
+      "partitions": 1,
+      "off_diagonal_variance_factor": "1",
+      "decimal": 1.0
+    },
+    {
+      "rank": 2,
+      "partitions": 2,
+      "off_diagonal_variance_factor": "1",
+      "decimal": 1.0
+    },
+    {
+      "rank": 3,
+      "partitions": 5,
+      "off_diagonal_variance_factor": "3/2",
+      "decimal": 1.5
+    },
+    {
+      "rank": 4,
+      "partitions": 15,
+      "off_diagonal_variance_factor": "10/3",
+      "decimal": 3.3333333333333335
+    },
+    {
+      "rank": 5,
+      "partitions": 52,
+      "off_diagonal_variance_factor": "125/12",
+      "decimal": 10.416666666666666
+    },
+    {
+      "rank": 6,
+      "partitions": 203,
+      "off_diagonal_variance_factor": "427/10",
+      "decimal": 42.7
+    },
+    {
+      "rank": 7,
+      "partitions": 877,
+      "off_diagonal_variance_factor": "6517/30",
+      "decimal": 217.23333333333332
+    },
+    {
+      "rank": 8,
+      "partitions": 4140,
+      "off_diagonal_variance_factor": "46212/35",
+      "decimal": 1320.3428571428572
+    }
+  ],
+  "known_centered_rank4_variance_factor": 2,
+  "antithetic_dictionary_gram_eigenvalues": [
+    7.997036723714978e-05,
+    0.00010100085324506795,
+    0.00021319167850925296,
+    0.0007305051189486828,
+    0.000810958094789999,
+    0.9970479891073559,
+    1.0721677630781632
+  ],
+  "conditional_ou_witness": [
+    {
+      "rank": 4,
+      "I_n": 0.015738692171627672,
+      "quadrature_reported_error": 7.719205351116379e-12,
+      "rigorous_lower_bound": 0.014215562337014846,
+      "rigorous_upper_bound": 0.0234375,
+      "kappa_derivative_at_zero": -0.007869346085813836
+    },
+    {
+      "rank": 8,
+      "I_n": 0.000198424634856746,
+      "quadrature_reported_error": 1.919323151023604e-15,
+      "rigorous_lower_bound": 0.0001822063043684764,
+      "rigorous_upper_bound": 0.00030040740966796875,
+      "kappa_derivative_at_zero": -1.2401539678546625e-05
+    }
+  ],
+  "rank_nuclear_checks": 18
+}

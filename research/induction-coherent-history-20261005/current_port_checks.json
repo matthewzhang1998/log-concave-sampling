@@ -1,0 +1,294 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "name": "likelihood_normalization_0.11_-0.08",
+      "value": 4.440892098500626e-16,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "likelihood_moment_p2_0.11_-0.08",
+      "value": 2.220446049250313e-16,
+      "bound": 2e-09,
+      "passed": true
+    },
+    {
+      "name": "likelihood_moment_p3_0.11_-0.08",
+      "value": 4.440892098500626e-16,
+      "bound": 2e-09,
+      "passed": true
+    },
+    {
+      "name": "exact_marked_current_polynomial_0.11_-0.08",
+      "value": 4.618527782440651e-14,
+      "bound": 3e-09,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p0_0.11_-0.08",
+      "value": 0.20105050122439141,
+      "bound": 0.4642000000010005,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p1_0.11_-0.08",
+      "value": 0.041104975885882515,
+      "bound": 0.15236852886619873,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p2_0.11_-0.08",
+      "value": 0.008653619030610396,
+      "bound": 0.050013288645000153,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p3_0.11_-0.08",
+      "value": 0.0018620393865592395,
+      "bound": 0.016416310243130207,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p4_0.11_-0.08",
+      "value": 0.0004070022473494943,
+      "bound": 0.005388472730401275,
+      "passed": true
+    },
+    {
+      "name": "likelihood_normalization_0.125_0.125",
+      "value": 4.440892098500626e-16,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "likelihood_moment_p2_0.125_0.125",
+      "value": 8.881784197001252e-16,
+      "bound": 2e-09,
+      "passed": true
+    },
+    {
+      "name": "likelihood_moment_p3_0.125_0.125",
+      "value": 1.1102230246251565e-15,
+      "bound": 2e-09,
+      "passed": true
+    },
+    {
+      "name": "exact_marked_current_polynomial_0.125_0.125",
+      "value": 1.1102230246251565e-14,
+      "bound": 3e-09,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p0_0.125_0.125",
+      "value": 0.27552276171824547,
+      "bound": 0.5312500000010001,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p1_0.125_0.125",
+      "value": 0.07318573358140894,
+      "bound": 0.19956431617571904,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p2_0.125_0.125",
+      "value": 0.019439960482561774,
+      "bound": 0.07496643066506253,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p3_0.125_0.125",
+      "value": 0.005163739503180451,
+      "bound": 0.028161175476827054,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p4_0.125_0.125",
+      "value": 0.001371618305532306,
+      "bound": 0.010578759015606481,
+      "passed": true
+    },
+    {
+      "name": "likelihood_normalization_0.0_0.0",
+      "value": 4.440892098500626e-16,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "likelihood_moment_p2_0.0_0.0",
+      "value": 4.440892098500626e-16,
+      "bound": 2e-09,
+      "passed": true
+    },
+    {
+      "name": "likelihood_moment_p3_0.0_0.0",
+      "value": 4.440892098500626e-16,
+      "bound": 2e-09,
+      "passed": true
+    },
+    {
+      "name": "exact_marked_current_polynomial_0.0_0.0",
+      "value": 0.0,
+      "bound": 3e-09,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p0_0.0_0.0",
+      "value": 0.0,
+      "bound": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p1_0.0_0.0",
+      "value": 0.0,
+      "bound": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p2_0.0_0.0",
+      "value": 0.0,
+      "bound": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p3_0.0_0.0",
+      "value": 0.0,
+      "bound": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p4_0.0_0.0",
+      "value": 0.0,
+      "bound": 1e-12,
+      "passed": true
+    },
+    {
+      "name": "likelihood_normalization_-0.12_0.04",
+      "value": 4.440892098500626e-16,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "likelihood_moment_p2_-0.12_0.04",
+      "value": 2.220446049250313e-16,
+      "bound": 2e-09,
+      "passed": true
+    },
+    {
+      "name": "likelihood_moment_p3_-0.12_0.04",
+      "value": 2.220446049250313e-16,
+      "bound": 2e-09,
+      "passed": true
+    },
+    {
+      "name": "exact_marked_current_polynomial_-0.12_0.04",
+      "value": 1.7763568394002505e-15,
+      "bound": 3e-09,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p0_-0.12_0.04",
+      "value": 0.17290667912038332,
+      "bound": 0.4512000000010001,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p1_-0.12_0.04",
+      "value": 0.03346281046832688,
+      "bound": 0.14395381674872232,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p2_-0.12_0.04",
+      "value": 0.006858166541982112,
+      "bound": 0.04592797286500002,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p3_-0.12_0.04",
+      "value": 0.0014444059693672,
+      "bound": 0.014653162654498715,
+      "passed": true
+    },
+    {
+      "name": "hermite_tail_p4_-0.12_0.04",
+      "value": 0.0003088469021967694,
+      "bound": 0.0046750414269670255,
+      "passed": true
+    },
+    {
+      "name": "retained_mark_joint_W2_majorant",
+      "value": 0.010855947383658793,
+      "bound": 0.011040339933103117,
+      "passed": true
+    },
+    {
+      "name": "first_correction_complete_first_pointwise",
+      "value": 0.00017597086272664827,
+      "bound": 0.001786508764374728,
+      "passed": true
+    },
+    {
+      "name": "woodbury_likelihood_dim1",
+      "value": 0.0,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "matrix_free_current_dim1",
+      "value": 2.688821387764051e-17,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "woodbury_likelihood_dim2",
+      "value": 2.220446049250313e-16,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "matrix_free_current_dim2",
+      "value": 1.5395670849294163e-17,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "woodbury_likelihood_dim7",
+      "value": 0.0,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "matrix_free_current_dim7",
+      "value": 9.053088140253962e-17,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "woodbury_likelihood_dim40",
+      "value": 4.440892098500626e-16,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "matrix_free_current_dim40",
+      "value": 4.3639137442541553e-16,
+      "bound": 1e-09,
+      "passed": true
+    },
+    {
+      "name": "literal_original_value_count",
+      "value": 19,
+      "bound": 19,
+      "passed": true
+    }
+  ],
+  "native_exponents": {
+    "r_at_u_v_A2": "5/9",
+    "error_at_u_v_A2": "55/9",
+    "retuned_source_first_A": "-8/9",
+    "current_first_A": "37/9"
+  },
+  "scope": "Algebra, finite Gaussian quadrature and local derivative diagnostics. No native compiler or true history producer executed."
+}

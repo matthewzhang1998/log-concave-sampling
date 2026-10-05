@@ -1,0 +1,217 @@
+{
+  "title": "Shared-bank and decorated native induction",
+  "date": "2026-10-05",
+  "status": "Scoped constructive theorems; full old-bank arbitrary-order closure remains open",
+  "files": [
+    {
+      "path": "CANONICAL-EMBEDDING-TEST.md",
+      "sha256": "5370ba7a4500b3df64d4c7c8caf0402e0049fab39a6e698846baf40ac3b846dd",
+      "bytes": 7110
+    },
+    {
+      "path": "DECORATED-OWNERSHIP-INDUCTION.md",
+      "sha256": "8ba6a78c855fdca2f6dfee8edde1538ac4716d6a16d0da25ea9ffbd53b24ec0e",
+      "bytes": 25639
+    },
+    {
+      "path": "EXACT-WHOLE-BANK-TREE-CENSUS.md",
+      "sha256": "7d1c4e516fa002fcb9559488c7e833681402e00b9f493c2af79d1b634ed6db49",
+      "bytes": 10705
+    },
+    {
+      "path": "FINAL-STATUS.md",
+      "sha256": "4db8bb30a2994bcbbe15b08d6614b13a05a4ea444f15bdcde7f7b4ecb3cac6ef",
+      "bytes": 2537
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "11054ebb2311bada9597555099ca34bb44a08cffee09f9b0dd10fa5b28df7bfc",
+      "bytes": 2394
+    },
+    {
+      "path": "MARKED-SPANNING-TREE-EXTENSION.md",
+      "sha256": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1",
+      "bytes": 17859
+    },
+    {
+      "path": "README.md",
+      "sha256": "11bb54a889317780cc0c83d6c09ef7f8c08e4a70afbb18dc9932c6fee117af18",
+      "bytes": 4391
+    },
+    {
+      "path": "REBUILD-SIXTH-WITH-ROOT-SURPLUS.md",
+      "sha256": "916f08c724e3b78ed4506e06f71d5f4e8c0531ddf919a82f7b6adab79948dd34",
+      "bytes": 3398
+    },
+    {
+      "path": "check-marked-dag-run.txt",
+      "sha256": "f4baeaf0b04c7a946261122d8997ef0fc67bf08179ab8cc13c9d9d898cabb3dd",
+      "bytes": 248
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "24d7ff823f3dfa84ebc90948a181ca10151104142690867879fd5fe3dcae9986",
+      "bytes": 3994
+    },
+    {
+      "path": "check-whole-bank-run.txt",
+      "sha256": "b9ff572614a87391c4d2d0fd82c7ac1b90b5eae9957be57ce38e9369d03fb780",
+      "bytes": 1726
+    },
+    {
+      "path": "check_decorated_induction.py",
+      "sha256": "625bbc95aaff6a1e7de3c1091e096e9d2bc661b8fef7d5c5f6ed982a3b6b9f4c",
+      "bytes": 6233
+    },
+    {
+      "path": "check_marked_dag.py",
+      "sha256": "39d1b27e63659e439eb70470d1ee66035a4b6837841cddf047e8410ac694c29a",
+      "bytes": 6220
+    },
+    {
+      "path": "check_whole_bank_tree_census.py",
+      "sha256": "1530a3de7dac2d9eb31dbfc391104a142d9d14afb4ea44287bca47ab299e12fb",
+      "bytes": 4056
+    },
+    {
+      "path": "decorated_induction_checks.json",
+      "sha256": "b1495e581939e94eb065f0cb19275ddaa7b792dbd2e8749b299b145ffae466c2",
+      "bytes": 1342958
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-DECORATED-OWNERSHIP-AUDIT.md",
+      "sha256": "8ec07730815203d41e70fcac25a2cfa955cfbd3071ba5ca76d24ba1aaaafadfc",
+      "bytes": 14358
+    },
+    {
+      "path": "independent-audit/INPUT-PINS.json",
+      "sha256": "043252525be5af67921384b1f2670baf678a027bbceddea50952a6c77407bdae",
+      "bytes": 2129
+    },
+    {
+      "path": "independent-audit/MANIFEST.json",
+      "sha256": "99ad865ba7125346350ed46ced1f21c9edf007545c722fea4fedef6f6cf98c75",
+      "bytes": 1445
+    },
+    {
+      "path": "independent-audit/README.md",
+      "sha256": "42e8b74e051ae6c8d28a7822c8320d85510a5f99a303d5989e3eb99c39cdda9d",
+      "bytes": 532
+    },
+    {
+      "path": "independent-audit/REVIEWED-CANDIDATE.md",
+      "sha256": "8ba6a78c855fdca2f6dfee8edde1538ac4716d6a16d0da25ea9ffbd53b24ec0e",
+      "bytes": 25639
+    },
+    {
+      "path": "independent-audit/SHA256SUMS",
+      "sha256": "bd7ff8c35aaabfe4e0f4315b6656e6e613504098f350f3caf53c40cff77daf71",
+      "bytes": 813
+    },
+    {
+      "path": "independent-audit/UNIFORM-S-COMMON-ENDPOINT-LEMMA.md",
+      "sha256": "57bc425b07556e89ac2c275bbc3e3f043d0528d76ff3e2479fd08a5cfc015f9c",
+      "bytes": 8910
+    },
+    {
+      "path": "independent-audit/check-run.txt",
+      "sha256": "9bd0a747eb3c5232ab3ef78f44a16e039f4cc2ab90d9d28a7bfffec6836d8938",
+      "bytes": 2500
+    },
+    {
+      "path": "independent-audit/check_decorated_independently.py",
+      "sha256": "fce73f8016af43018594e1f2c859a5bf0027fe3d77df80c85ba3f29a9b63e023",
+      "bytes": 11337
+    },
+    {
+      "path": "independent-audit/independent_decorated_checks.json",
+      "sha256": "9bd0a747eb3c5232ab3ef78f44a16e039f4cc2ab90d9d28a7bfffec6836d8938",
+      "bytes": 2500
+    },
+    {
+      "path": "marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+      "sha256": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d",
+      "bytes": 9417
+    },
+    {
+      "path": "marked-spanning-tree-addendum/INPUT-PINS.json",
+      "sha256": "e0f18e163a6c3dc8aafad7c3dca3719632dd4bc26a75b81a10e20215cf8cd94f",
+      "bytes": 577
+    },
+    {
+      "path": "marked-spanning-tree-addendum/MANIFEST.json",
+      "sha256": "24546a9d9ccf83e558a8f035028a96ba30c055691ce387a3b0d4b147b5e8988a",
+      "bytes": 1647
+    },
+    {
+      "path": "marked-spanning-tree-addendum/MARKED-SPANNING-TREE-CUT-LEMMA.md",
+      "sha256": "91332375a2035cf724f72360ed8530e0cb4561717cef00b9c3b59a94132c8dc5",
+      "bytes": 14105
+    },
+    {
+      "path": "marked-spanning-tree-addendum/README.md",
+      "sha256": "4324cbdaca4a3f68d0f2cb694264b5a6db679752c1987a1235b983a0d2170a86",
+      "bytes": 1323
+    },
+    {
+      "path": "marked-spanning-tree-addendum/REVIEWED-MARKED-SPANNING-TREE-EXTENSION.md",
+      "sha256": "c54f551585d4f8c0cd5b46bef4eb4f934eee2284a5d7326f84ad23fc03744971",
+      "bytes": 14960
+    },
+    {
+      "path": "marked-spanning-tree-addendum/SHA256SUMS",
+      "sha256": "058abc496e88baa558d06bca2a97eebb1c783275d6263c5e4aaeb1f2b2950cd4",
+      "bytes": 921
+    },
+    {
+      "path": "marked-spanning-tree-addendum/SIX-FORCE-REBALANCE-CHECK.md",
+      "sha256": "25679d7254e864e1c05bde55d8fe79c0b197c58d0d33fb45cbe6a6f6b5c09438",
+      "bytes": 3592
+    },
+    {
+      "path": "marked-spanning-tree-addendum/check-run.txt",
+      "sha256": "f05bc1aca62c7adeda432a62946cce0c125fc20b3df9d9812c54071ea55b3cdf",
+      "bytes": 2271
+    },
+    {
+      "path": "marked-spanning-tree-addendum/check_marked_spanning_tree.py",
+      "sha256": "e7214176c94b828f086006c08bfaee2b14092faf60e79405aebe17372fc2afab",
+      "bytes": 7998
+    },
+    {
+      "path": "marked-spanning-tree-addendum/marked_spanning_tree_checks.json",
+      "sha256": "f05bc1aca62c7adeda432a62946cce0c125fc20b3df9d9812c54071ea55b3cdf",
+      "bytes": 2271
+    },
+    {
+      "path": "marked_dag_checks.json",
+      "sha256": "f4baeaf0b04c7a946261122d8997ef0fc67bf08179ab8cc13c9d9d898cabb3dd",
+      "bytes": 248
+    },
+    {
+      "path": "whole_bank_tree_checks.json",
+      "sha256": "b9ff572614a87391c4d2d0fd82c7ac1b90b5eae9957be57ce38e9369d03fb780",
+      "bytes": 1726
+    }
+  ],
+  "independent_audits": [
+    "independent-audit",
+    "marked-spanning-tree-addendum"
+  ],
+  "proven_scope": [
+    "complete tight degree-eight rank4/6/6/8 original VALUE correction",
+    "positive grouped conditional alpha10 comparison",
+    "marked-spanning-tree global all-cuts, native grammar, conditional offspring closure",
+    "fixed-graph intrinsic ell=0 root-quadratic port under native contracts",
+    "root-heavy rebuilt original-six alternative"
+  ],
+  "coefficient_level_scope": [
+    "exact full-bank connected forest source census with positive replica geometry"
+  ],
+  "unresolved": [
+    "higher shared-bank common-heat and repeated-clock estimates",
+    "full mixed current census and strict mixed-queue gain",
+    "nonzero integrated-bank readout and retained-public observer extensions",
+    "remaining sampler target/endpoint/cost debts"
+  ]
+}

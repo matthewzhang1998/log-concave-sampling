@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-05",
+  "status": "BOUNDED-BLOCK CONSTRUCTION; INDEPENDENT AUDIT PASS",
+  "result": "Finite positive original-VALUE producer for genuine coherent dyadic interaction-order-at-least-two covariance, fixed-block target grade 38/9.",
+  "scope_exclusions": [
+    "unrestricted-D m4",
+    "base/singleton full-history sources",
+    "retained-mark whole-joint law",
+    "native full-first or marked higher-cut admission"
+  ],
+  "original_value_calls": 14,
+  "active_gaussian_coordinates_upper_bound": "17D plus scalar clocks; inactive block buffer separate",
+  "diagnostic_assertions": 1434,
+  "files": [
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "c59c4853a18f1a894e4b7fdb56e904cffd0545c41e0e5a0fa31c80d2627d74c4",
+      "bytes": 1157
+    },
+    {
+      "path": "README.md",
+      "sha256": "02d04425ed1f76d184d2de64a44941e4645360205046abd242cdd846d273a266",
+      "bytes": 2905
+    },
+    {
+      "path": "TRUE-PAIR-HISTORY-RESUMMATION.md",
+      "sha256": "ee6d20f4d31e8f96c3ea7a238911c66773e40245558abfa6c6152f9f53efb9de",
+      "bytes": 20702
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "2665bc04091019b3db5a2a410025b71639f98555c21a8eed347e8ae811f100ef",
+      "bytes": 1725
+    },
+    {
+      "path": "check_resummation.py",
+      "sha256": "a041f911f9e60bcfaa1c70539649367802bbff5a7af8df842763dc5cf59348cc",
+      "bytes": 4413
+    },
+    {
+      "path": "checks.json",
+      "sha256": "2665bc04091019b3db5a2a410025b71639f98555c21a8eed347e8ae811f100ef",
+      "bytes": 1725
+    },
+    {
+      "path": "independent-audit/conditional-gram-transport-audit.md",
+      "sha256": "9c5c4bf57ff8eaae30796677da2274fc08c5f9a947163cec66cfded69b73b13d",
+      "bytes": 8004
+    },
+    {
+      "path": "independent-audit/local-fourteen-value-graph-audit.md",
+      "sha256": "b7bd4fd48580637013a40128933e8c70dc0f94c09d59c4bf3e906d0ad24e7cf8",
+      "bytes": 8740
+    },
+    {
+      "path": "independent-audit/pair-history-join-conceptual-check.md",
+      "sha256": "f4fbd612c2cc3eed7cdbcde1e07df2dc1bcca554185386e2d581ebc819bd7606",
+      "bytes": 5275
+    }
+  ]
+}

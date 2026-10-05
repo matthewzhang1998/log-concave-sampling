@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-05",
+  "status": "complete; source pins verified; carrier kernel section independently checked",
+  "source_preservation_check": "PASS; all 43 distinct source files unchanged",
+  "peer_proof_status": "Not supplied or verified",
+  "files": [
+    {
+      "path": "INTERFACE-MEMO.md",
+      "bytes": 17489,
+      "sha256": "677e6edb3102fdba57fc51f612d1991bd79122460bdfdb391a8c8b4cb17d66f6"
+    },
+    {
+      "path": "JOINT-METRIC-CHECK.md",
+      "bytes": 3717,
+      "sha256": "d49437aeae71e98f133bcf97356370dad5ac0ad841fdc518c6cfe980d5b4981c"
+    },
+    {
+      "path": "PEER-HANDOFF.txt",
+      "bytes": 1893,
+      "sha256": "9f5e3a1043950522a82e4a85e275c2d59a8cd756f1ecd760df6792699e558b74"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1372,
+      "sha256": "d9ff16ca3aee0a2ac93d42cf46930cbe7e6b15df771cb66f51ce659b7635271e"
+    },
+    {
+      "path": "SOURCE-PINS.json",
+      "bytes": 17198,
+      "sha256": "28bf84631b7f7abb6644caff3dc3ccb75280e9749f27856dec41df18d7e2a010"
+    },
+    {
+      "path": "SOURCE-VERIFICATION.json",
+      "bytes": 13767,
+      "sha256": "0cc7f911ff6cefc3f41e2fd8f2b89b74fb8a921c84f183e2b00a3c60020b516e"
+    },
+    {
+      "path": "metric-diagnostic.json",
+      "bytes": 718,
+      "sha256": "2ade9118e0ebf6d842baaa6cfb72543cc89aa492a57080248cb657aa124ccc79"
+    }
+  ]
+}

@@ -1,0 +1,1380 @@
+{
+  "diagnostic_status": "PASS",
+  "assertion_count": 343,
+  "native_compiler_executed": false,
+  "scope": "Exact multivariate hierarchy, same-endpoint consumer identities, omitted-term and side-zero countertests, positive endpoint sums and powers. Read AUDIT.md for conditional mathematical theorem scope.",
+  "checks": [
+    {
+      "name": "commute_first_0_0",
+      "passed": true
+    },
+    {
+      "name": "commute_second_0_0_0",
+      "passed": true
+    },
+    {
+      "name": "commute_second_0_0_1",
+      "passed": true
+    },
+    {
+      "name": "commute_first_0_1",
+      "passed": true
+    },
+    {
+      "name": "commute_second_0_1_0",
+      "passed": true
+    },
+    {
+      "name": "commute_second_0_1_1",
+      "passed": true
+    },
+    {
+      "name": "commute_first_1_0",
+      "passed": true
+    },
+    {
+      "name": "commute_second_1_0_0",
+      "passed": true
+    },
+    {
+      "name": "commute_second_1_0_1",
+      "passed": true
+    },
+    {
+      "name": "commute_first_1_1",
+      "passed": true
+    },
+    {
+      "name": "commute_second_1_1_0",
+      "passed": true
+    },
+    {
+      "name": "commute_second_1_1_1",
+      "passed": true
+    },
+    {
+      "name": "OU_inverse_2",
+      "passed": true
+    },
+    {
+      "name": "OU_inverse_3",
+      "passed": true
+    },
+    {
+      "name": "OU_inverse_4",
+      "passed": true
+    },
+    {
+      "name": "four_tree_multivariate_full_polarization",
+      "passed": true
+    },
+    {
+      "name": "star_omission_detected",
+      "passed": true
+    },
+    {
+      "name": "branch_square_required",
+      "passed": true
+    },
+    {
+      "name": "physical_rank_four",
+      "passed": true
+    },
+    {
+      "name": "stein_third_normalization",
+      "passed": true
+    },
+    {
+      "name": "stein_fourth_normalization",
+      "passed": true
+    },
+    {
+      "name": "consumer_same_endpoint_current_test_degree_1",
+      "passed": true
+    },
+    {
+      "name": "consumer_same_endpoint_current_test_degree_2",
+      "passed": true
+    },
+    {
+      "name": "consumer_same_endpoint_current_test_degree_3",
+      "passed": true
+    },
+    {
+      "name": "consumer_same_endpoint_current_test_degree_4",
+      "passed": true
+    },
+    {
+      "name": "consumer_same_endpoint_current_test_degree_5",
+      "passed": true
+    },
+    {
+      "name": "covariance_sampler_feedback_nonzero",
+      "passed": true
+    },
+    {
+      "name": "quartic_third_derivative_feedback_nonzero",
+      "passed": true
+    },
+    {
+      "name": "moving_root_derivative_matters",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_1",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_1",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_1",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_1",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_1",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_2",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_2",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_2",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_2",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_2",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_3",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_3",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_3",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_3",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_3",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_4",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_4",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_4",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_4",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_4",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_5",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_5",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_5",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_5",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_5",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_6",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_6",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_6",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_6",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_6",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_7",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_7",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_7",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_7",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_7",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_8",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_8",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_8",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_8",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_8",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_9",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_9",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_9",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_9",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_9",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_10",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_10",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_10",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_10",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_10",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_11",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_11",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_11",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_11",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_11",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_12",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_12",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_12",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_12",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_12",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_13",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_13",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_13",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_13",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_13",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_14",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_14",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_14",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_14",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_14",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_15",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_15",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_15",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_15",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_15",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_16",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_16",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_16",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_16",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_16",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_17",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_17",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_17",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_17",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_17",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_18",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_18",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_18",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_18",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_18",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_19",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_19",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_19",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_19",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_19",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_20",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_20",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_20",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_20",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_20",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_21",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_21",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_21",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_21",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_21",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_22",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_22",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_22",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_22",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_22",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_23",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_23",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_23",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_23",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_23",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_24",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_24",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_24",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_24",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_24",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_25",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_25",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_25",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_25",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_25",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_26",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_26",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_26",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_26",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_26",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_27",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_27",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_27",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_27",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_27",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_28",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_28",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_28",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_28",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_28",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_29",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_29",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_29",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_29",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_29",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_30",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_30",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_30",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_30",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_30",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_31",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_31",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_31",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_31",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_31",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_32",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_32",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_32",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_32",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_32",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_33",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_33",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_33",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_33",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_33",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_34",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_34",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_34",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_34",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_34",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_35",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_35",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_35",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_35",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_35",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_36",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_36",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_36",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_36",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_36",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_37",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_37",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_37",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_37",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_37",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_38",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_38",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_38",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_38",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_38",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_39",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_39",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_39",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_39",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_39",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_40",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_40",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_40",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_40",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_40",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_41",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_41",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_41",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_41",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_41",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_42",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_42",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_42",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_42",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_42",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_43",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_43",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_43",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_43",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_43",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_44",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_44",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_44",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_44",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_44",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_45",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_45",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_45",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_45",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_45",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_46",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_46",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_46",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_46",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_46",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_47",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_47",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_47",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_47",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_47",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_48",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_48",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_48",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_48",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_48",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_49",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_49",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_49",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_49",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_49",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_50",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_50",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_50",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_50",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_50",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_51",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_51",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_51",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_51",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_51",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_52",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_52",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_52",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_52",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_52",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_53",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_53",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_53",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_53",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_53",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_54",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_54",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_54",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_54",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_54",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_55",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_55",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_55",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_55",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_55",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_56",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_56",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_56",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_56",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_56",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_57",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_57",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_57",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_57",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_57",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_58",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_58",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_58",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_58",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_58",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_59",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_59",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_59",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_59",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_59",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first2_60",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_first3_60",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square4_60",
+      "passed": true
+    },
+    {
+      "name": "positive_mass_square5_60",
+      "passed": true
+    },
+    {
+      "name": "root_radius_weight_60",
+      "passed": true
+    },
+    {
+      "name": "unsmoothed_center_first_diverges",
+      "passed": true
+    },
+    {
+      "name": "L2_clock_not_uniform_caller",
+      "passed": true
+    },
+    {
+      "name": "native_quintic_A5_u_minus2",
+      "passed": true
+    },
+    {
+      "name": "star_caller_A",
+      "passed": true
+    },
+    {
+      "name": "star_coarse_A7_u_minus3",
+      "passed": true
+    },
+    {
+      "name": "quartic_target_heat_debt_after_terminal",
+      "passed": true
+    },
+    {
+      "name": "full_readout_budget_1",
+      "passed": true
+    },
+    {
+      "name": "full_readout_budget_2",
+      "passed": true
+    },
+    {
+      "name": "full_readout_budget_7",
+      "passed": true
+    },
+    {
+      "name": "full_readout_budget_31",
+      "passed": true
+    },
+    {
+      "name": "full_readout_budget_101",
+      "passed": true
+    },
+    {
+      "name": "star_positive_main_four_marks",
+      "passed": true
+    },
+    {
+      "name": "side_zero_feedback_survives",
+      "passed": true
+    },
+    {
+      "name": "closed_self_trace_not_one_HS",
+      "passed": true
+    }
+  ]
+}

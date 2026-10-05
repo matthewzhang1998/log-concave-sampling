@@ -1,0 +1,128 @@
+{
+  "status": "independently_audited_bounded_construction_and_quartic_consumer_gate",
+  "accepted_results": [
+    "Standalone general-C2 canonical-m3 mean source <=5 A^(11/4) sqrt(D), A<=1/12",
+    "Conditional mean/covariance matching quartic one-energy R1 consumer, with explicit mismatch allowances",
+    "Finite same-source four-clock matched-mean covariance debt >A^3/500, A<=1/100",
+    "Existing fixed-buffer covariance LAW vs small-RAW/joint-shrinking-buffer port comparison"
+  ],
+  "novelty_limit": "The standalone 11/4 grade does not supersede the active imported transport-based A^3 mean result.",
+  "conditional_only": "A^(16/5) genuine F2-tail tradeoff requires an unproved compatible covariance return; not an implemented grade.",
+  "completion": "Conditional on every actual native compiler guard; full native completion not executed.",
+  "any_order_recurrence": "Not proved. Outer R1 supplies only the two uniform derivatives used here.",
+  "entry": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/README.md",
+  "files": [
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/CONDITIONAL-COVARIANCE-MATCHED-QUARTIC-LEMMA.md",
+      "sha256": "76a058908c1fed5f0629de757436e2f3ba5dd80d6321b0157049d174a1ee12ba",
+      "bytes": 9378
+    },
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/EXISTING-COVARIANCE-PORT-JOIN.md",
+      "sha256": "cd03a9b4adff668541db2de38d07c3db47c10884870d0248116ed285d2a70527",
+      "bytes": 7691
+    },
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/INDEPENDENT-DELAYED-RESOLVENT-AUDIT.md",
+      "sha256": "67e2719aed4adcae49a1436811cc26873f9f17b3877a41898c3246bd3bdebf90",
+      "bytes": 14446
+    },
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/README.md",
+      "sha256": "9c2db63a9b98370e952a7f213572fc5b49464c845282480a817600973a8aec0e",
+      "bytes": 3077
+    },
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/REENTRY-AND-PRIOR-RESULT-COMPARISON.md",
+      "sha256": "cd815c81ebbee3966b2e216671d710ec7a7290c23373ee46eaba7962884a039c",
+      "bytes": 6955
+    },
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/RESUMMED-COLLECTIVE-WEAK-GRADE-THREE.md",
+      "sha256": "26ec01d4192c0b9ce595e24c3d19c08b605bce03ce9e0c9c35e5dfc71f42660d",
+      "bytes": 19070
+    },
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/check_delayed_resolvent_independent.py",
+      "sha256": "c28e9b9df6a56446b49734bcc3ce8b35dc8dac3b5e90bb594933a6222fa1c0b3",
+      "bytes": 6019
+    },
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/delayed_resolvent_independent_checks.json",
+      "sha256": "42ebf2aa067dcd836e19255de0838d98b2a316d3aa49c7533ae3400ee44abe53",
+      "bytes": 3857
+    },
+    {
+      "path": "/workspace/shared/delayed-resolvent-cancellation-20261005/CONDITIONAL-COVARIANCE-TARGET-FOUR-GATE.md",
+      "sha256": "bf4080db4817fe98c20799104993e3608d372c446cd0dafa387e06110c740771",
+      "bytes": 9309
+    },
+    {
+      "path": "/workspace/shared/delayed-resolvent-cancellation-20261005/DELAYED-CONDITIONAL-NOISE-THEOREM.md",
+      "sha256": "af90382a8a4842e5c0dea76b76215a96eea4507dbf1273e33cc87e3a946f6d5d",
+      "bytes": 13912
+    },
+    {
+      "path": "/workspace/shared/delayed-resolvent-cancellation-20261005/NATIVE-PORTS-AND-RADIAL-CHECK.md",
+      "sha256": "6db1b7245bced20c5538850c10e1f0edc2e92190d1f95a6d4b36d16e9593d1c2",
+      "bytes": 8015
+    },
+    {
+      "path": "/workspace/shared/delayed-resolvent-cancellation-20261005/check_covariance_debt.py",
+      "sha256": "43cc688bb27c1de3a100f9ad9c90aaca8269e44a76bcac51ac7118023f23e783",
+      "bytes": 2278
+    },
+    {
+      "path": "/workspace/shared/delayed-resolvent-cancellation-20261005/check_delayed_radial.py",
+      "sha256": "e7068de88f93a8922ee94c9cbfcaec136327b89e2d33dc91a82fd2a97bd04812",
+      "bytes": 2945
+    },
+    {
+      "path": "/workspace/shared/delayed-resolvent-cancellation-20261005/covariance_debt_checks.json",
+      "sha256": "72ad0185c16cb5442ea84566d5f60990f6e35b10c86570c0189e9fc07bf8dbef",
+      "bytes": 3171
+    },
+    {
+      "path": "/workspace/shared/delayed-resolvent-cancellation-20261005/delayed_radial_checks.json",
+      "sha256": "9ebef9816f6420977736b5b01786482b0f12de5f514dc361bfd693504329d96e",
+      "bytes": 2798
+    },
+    {
+      "path": "/workspace/shared/conditional-quartic-gate-20261005/INDEPENDENT-MEAN-COVARIANCE-QUARTIC-AUDIT.md",
+      "sha256": "62c31ecd5790d5ce0425fa2b5523f2b60defc7efa7f2cddfb79ff2bedbf168df",
+      "bytes": 12191
+    }
+  ],
+  "pinned_inputs": [
+    {
+      "path": "/workspace/shared/nonlinear-bridge-repair/INDEPENDENT-REPAIRED-SOURCE-AUDIT.md",
+      "sha256": "29f1df88fd2181d2221c344e6e4d9aefdf1332b9a9017aaf06165e5d55bd2028",
+      "bytes": 9108
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md",
+      "sha256": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced",
+      "bytes": 12612
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/FULL-COVARIANCE-CLOSURE-AND-RESUMMED-MEAN-FRONTIER.md",
+      "sha256": "3b042e921a0cfbe0dc6636bb8b3886c6ae911e31ab3dde877ca31a7db547b6cf",
+      "bytes": 7539
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md",
+      "sha256": "7476219bacabfacc44030a14710408735d3e31b78103376d57f525a3518726dc",
+      "bytes": 8120
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/RECTANGULAR-FIRST-COEFFICIENT-MEAN-AND-GRAM-RETURN.md",
+      "sha256": "13b0fad9f69355c511c8884ae1e7691066f740dccf387ec453344479193154ea",
+      "bytes": 11640
+    },
+    {
+      "path": "/workspace/shared/nonlinear-bridge-radial-obstruction/RADIAL-STAGE-TWO-OBSTRUCTION.md",
+      "sha256": "266eed0eef805c72f98d41d9a3b066fe29e98616146ace7c8a687ff286cb7cd6",
+      "bytes": 15708
+    }
+  ]
+}

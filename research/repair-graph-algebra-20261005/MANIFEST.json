@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-05",
+  "status": "PASS as a conditional algebraic construction; analytical/native obligations remain explicit",
+  "main": "REPAIR-GRAPH-ALGEBRA.md",
+  "main_sha256": "a0599111632220ec765c3f636ec2a26ac372ea575613a80a3bb37cec6f301198",
+  "author_assertions": 102621,
+  "independent_assertions": 159,
+  "inputs_manifest_sha256": "49cf590df151cf856de0d9d8953d8049647d2f67965a2b94299d73be217d0a2d",
+  "files": {
+    "FINAL-STATUS.md": "bad604ef092c5bfbd1f41e32b12095739ede2a18155787cbc9c2ce6188b8e227",
+    "FORMAL-COMPILER-CONTRACT.json": "45388e121de9bc83e7a3acbab074b177a1af455cd4b774e05f44acc04bc85ac6",
+    "INPUT-PINS.json": "49cf590df151cf856de0d9d8953d8049647d2f67965a2b94299d73be217d0a2d",
+    "README.md": "49563a6b6aa99469bdd7534f4f98781fb9f20e36f6a0ef6178ee8e37cc1fd7ba",
+    "REPAIR-GRAPH-ALGEBRA.md": "a0599111632220ec765c3f636ec2a26ac372ea575613a80a3bb37cec6f301198",
+    "check-run.txt": "e02377d77821b8097e0439793115e4b371443c6cf55dc030bdc06cfb60ea9321",
+    "check_repair_algebra.py": "211170941dc5da5f0f0619b5223d7756d9168935ee77fe78fa3de551c4986427",
+    "checks.json": "e02377d77821b8097e0439793115e4b371443c6cf55dc030bdc06cfb60ea9321",
+    "independent-audit/AUDIT-MANIFEST.json": "ddb18181d59c16d63d0c43c534de27f4518da3c29e13aa87892c4710c55c521d",
+    "independent-audit/INDEPENDENT-AUDIT.md": "21a93a121fdff21852bc12ec11e9daa89cdc825e2be66ba5437b4bdb631e1f93",
+    "independent-audit/check-run.txt": "45d0ac518840b1fa318aff8b8f55d8dc8adb9e75d8538f4d5e0c289bbd06eef8",
+    "independent-audit/check_independently.py": "d2dc0786875b9d98e91cacb1b1d0cf03df201568cea0fa74bbe56d5690ccefc2",
+    "independent-audit/independent-checks.json": "45d0ac518840b1fa318aff8b8f55d8dc8adb9e75d8538f4d5e0c289bbd06eef8"
+  }
+}

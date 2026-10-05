@@ -1,0 +1,93 @@
+{
+  "scope": "unchanged sealed sources; literal native compiler guards remain mandatory",
+  "inputs": [
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/MANIFEST.json",
+      "sha256": "dde7c7e3220b18f65d13039587af6cd9690db0264f10f87c00fcbcb6870ccad9"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md",
+      "sha256": "de4a0e0f35b6b453414ab4b3b4569e56bf3243b4353666b6f94d00a3c8ae6c5c"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/independent-audit/INDEPENDENT-JOIN-AUDIT.md",
+      "sha256": "8098d62b9136f775eca79d8ea97fa513a418db70dd365b955bb7b74ad63c5485"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-FULL-REVERSE-OU-LAW-AND-ENDPOINT.md",
+      "sha256": "e83d737da13d05054ff0dda129a05e72d350c6e3e33b019d548cc517b816e702"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/SAME-CARRIER-P3-MEAN-AND-FULL-COVARIANCE-GATE.md",
+      "sha256": "a63c38f14206ec278f7c12a56542968a7d1675af6f550610e4539e500a653eca"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/FULL-COVARIANCE-CLOSURE-AND-RESUMMED-MEAN-FRONTIER.md",
+      "sha256": "3b042e921a0cfbe0dc6636bb8b3886c6ae911e31ab3dde877ca31a7db547b6cf"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/RESOLVENT-COVARIANCE-STABILITY-AND-FINITE-J-KERNEL.md",
+      "sha256": "359cdfffa1ce4b7467d24ed24d6b8efdedb85a16c5de0b650d3b4ea37aa52cfd"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md",
+      "sha256": "7476219bacabfacc44030a14710408735d3e31b78103376d57f525a3518726dc"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/RECTANGULAR-FIRST-COEFFICIENT-MEAN-AND-GRAM-RETURN.md",
+      "sha256": "13b0fad9f69355c511c8884ae1e7691066f740dccf387ec453344479193154ea"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/independent-resolvent-audit/INDEPENDENT-RECTANGULAR-FILTER-AND-GRAM-RETURN-AUDIT.md",
+      "sha256": "d68d33d0111961b2291303ae619e2bb61c5fb8ef7732bd79e5526881c4345d98"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/mixed-k-current/MIXED-K-CURRENT-FINITE-CLOSURE.md",
+      "sha256": "7d50ce5069e0a12993cc60fd6e59ec558e4d43c6d362244efffb9e6b610eaa7b"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/mixed-k-current/INDEPENDENT-FINITE-C0-CUBIC-RESERVE-AUDIT.md",
+      "sha256": "4a3abd930c125bface0afa54cf0b28da8da5e3277e04728d6cf5bc1aa9659945"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-QUADRATIC-REFERENCE-FOR-SKEW-GAUSSIANIZATION.md",
+      "sha256": "a797723ef51ae41a28bdd47c99bb7d5fccee49de6599d07ec8b085578c907c41"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+      "sha256": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/MANIFEST.json",
+      "sha256": "4711e1bdde8ab138140e40c44b8f7fb5214eb4d051095a5452eec33fabd62f56"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md",
+      "sha256": "3c93c8964ccdb1f1028746aae661b768eacb8870ec616ce95d613110ebcaa708"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/independent-audit/INDEPENDENT-BUFFERED-SKEW-JOIN-AUDIT.md",
+      "sha256": "36eefc8e585a364a3c5eca5f3cf7ea8fbf1b11e109fe1d4238f819d89785d8a6"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md",
+      "sha256": "976b704bb90ffd9552f82f13ec34a5851a94027f5867522b044d53803d743429"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md",
+      "sha256": "1b4a2d8e38b4acd8c607f25eb263b0d61a5b03cc1de4ec65363f1eed0a8432b0"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md",
+      "sha256": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/independent-audit/INDEPENDENT-POSITIVE-LAW-AUDIT.md",
+      "sha256": "df32f63c88ec075180b231bd997f13524792296aaa161b1879c987bfcdd28512"
+    }
+  ]
+}

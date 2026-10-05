@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "assertions": 3116,
+  "exact_ranks": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "rank8_grade": {
+    "rank": 8,
+    "beta": "1/14",
+    "tau_exponent": "1/8",
+    "root_grade": "27/4",
+    "root_caller_grade": "53/8",
+    "own_quadratic_grade_CONDITIONAL_extra_width_ell_zero": "27/2",
+    "maximum_additional_width_exponent_ell": 43,
+    "joined_grade_CONDITIONAL": "65/8",
+    "T_n": 794880,
+    "S_n": 32049561600,
+    "V_n_raw_VALUE_census": 27020800
+  }
+}

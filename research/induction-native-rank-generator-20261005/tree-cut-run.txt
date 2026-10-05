@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "assertions": 77962,
+  "all_labelled_trees_through_vertices": 6,
+  "flow_trees": 1441,
+  "dense_networks": 60,
+  "scope": "Tree operator circuits only. No full cyclic all-cut or native comparison theorem."
+}

@@ -1,0 +1,94 @@
+{
+  "status": "PASS",
+  "exact_assertion_counts": {
+    "Appell_derivative": 8,
+    "Appell_centering": 8,
+    "Appell_covariance_bound_actual_Lipschitz_fixture": 8,
+    "Appell_cross_partition_identity": 16,
+    "one_mark_moment_identity": 7,
+    "one_mark_bound_actual_Lipschitz_fixture": 7,
+    "stability_bound_same_bank_scaled_sine": 7,
+    "proper_cut_bound_actual_Lipschitz_fixture": 7,
+    "independent_cut_constant_comparison": 5,
+    "Faa_di_Bruno_exact_polynomial": 5,
+    "Riesz_Hermite_reduction": 5,
+    "Stein_cumulant_coefficients": 5,
+    "A7_full_rank5_all_current_identity": 14,
+    "raw_reference_variance": 1,
+    "surviving_physical_output_and_proper_cut": 1835,
+    "rank5_maximum_Gaussian_degree": 722
+  },
+  "total_assertions": 2660,
+  "cut_constants_rank_2_to_10": {
+    "2": 1,
+    "3": 2,
+    "4": 6,
+    "5": 24,
+    "6": 132,
+    "7": 864,
+    "8": 7248,
+    "9": 67920,
+    "10": 760320
+  },
+  "full_rank5_tests": [
+    {
+      "t": "1/3",
+      "test_power": 1
+    },
+    {
+      "t": "1/3",
+      "test_power": 2
+    },
+    {
+      "t": "1/3",
+      "test_power": 3
+    },
+    {
+      "t": "1/3",
+      "test_power": 4
+    },
+    {
+      "t": "1/3",
+      "test_power": 5
+    },
+    {
+      "t": "1/3",
+      "test_power": 6
+    },
+    {
+      "t": "1/3",
+      "test_power": 7
+    },
+    {
+      "t": "2/3",
+      "test_power": 1
+    },
+    {
+      "t": "2/3",
+      "test_power": 2
+    },
+    {
+      "t": "2/3",
+      "test_power": 3
+    },
+    {
+      "t": "2/3",
+      "test_power": 4
+    },
+    {
+      "t": "2/3",
+      "test_power": 5
+    },
+    {
+      "t": "2/3",
+      "test_power": 6
+    },
+    {
+      "t": "2/3",
+      "test_power": 7
+    }
+  ],
+  "expanded_rank5_feedback_monomials": 722,
+  "rank5_maximum_Gaussian_degree": 12,
+  "scope": "Exact algebra and exact admissible scalar inequalities; dimension-free general claims are justified separately in AUDIT.md. No numeric fixture is treated as proof."
+}

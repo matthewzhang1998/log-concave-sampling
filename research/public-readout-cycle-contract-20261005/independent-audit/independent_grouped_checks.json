@@ -1,0 +1,110 @@
+{
+  "status": "PASS: finite algebra and source pins; native sampler execution not claimed",
+  "assertions": 7005,
+  "manifest_files_verified": {
+    "cycle-surplus-closure-20261005": 19,
+    "old-bank-sixth-return-20261005": 32,
+    "eight-force-native-return-20261005": 19
+  },
+  "first_cluster": "p**2*r*theta**4",
+  "single_variance": "26*p**4*r**2*theta**8 + 3*p**2*r**2*theta**6 + r**2*theta**4",
+  "opposite_pair_second_connected_coefficient": "26*p**4*r**2*theta**8 + 3*p**2*r**2*theta**6 + r**2*theta**4",
+  "wick_matchings": 31,
+  "connected_wick_counts": {
+    "4": 1,
+    "6": 3,
+    "8": 26
+  },
+  "disconnected_wick_counts": {
+    "8": 1
+  },
+  "surplus_type_censuses": {
+    "12": {
+      "types": 1,
+      "max_depth_from_start": 0
+    },
+    "13": {
+      "types": 2,
+      "max_depth_from_start": 1
+    },
+    "20": {
+      "types": 5,
+      "max_depth_from_start": 1
+    },
+    "21": {
+      "types": 7,
+      "max_depth_from_start": 2
+    },
+    "32": {
+      "types": 17,
+      "max_depth_from_start": 2
+    },
+    "48": {
+      "types": 45,
+      "max_depth_from_start": 3
+    },
+    "64": {
+      "types": 83,
+      "max_depth_from_start": 3
+    },
+    "80": {
+      "types": 136,
+      "max_depth_from_start": 4
+    }
+  },
+  "three_packet_port": {
+    "conditional_remainder_grade": 14,
+    "counter_intrinsic_return_grade": 20,
+    "complete_source_pair_calls_per_item": 24,
+    "cut_edge_roots_per_item": 9,
+    "physical_marks_per_item": 12
+  },
+  "retained_lower_bound_factor": 0.7534372181000262,
+  "tilted_rank_four_coefficient": "-a*beta**2*c*eps*exp(-1/2)/2",
+  "quadrature_checks": [
+    {
+      "parameters": [
+        0.7,
+        0.4,
+        0.9,
+        0.3,
+        0.025,
+        0.0,
+        0.8
+      ],
+      "log_derivative": -0.138101098017021,
+      "retained_lower_bound": 0.0075343721810002635
+    },
+    {
+      "parameters": [
+        0.3,
+        0.6,
+        -0.5,
+        0.2,
+        0.015,
+        0.03,
+        1.1
+      ],
+      "log_derivative": -0.15259164327355387,
+      "retained_lower_bound": 0.006780934962900235
+    },
+    {
+      "parameters": [
+        0.4,
+        0.5,
+        1.2,
+        0.7,
+        0.03,
+        0.04,
+        0.3
+      ],
+      "log_derivative": -0.011632682859448991,
+      "retained_lower_bound": 0.011301558271500391
+    }
+  ],
+  "limitations": [
+    "No native pair/filter/calibration execution.",
+    "Finite type enumeration is an upper census, not all signed tensor multiplicities.",
+    "Positive law and terminal first/curl conclusions require the analytical hypotheses in the report."
+  ]
+}

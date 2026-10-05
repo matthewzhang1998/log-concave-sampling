@@ -1,0 +1,111 @@
+{
+  "status": "independent numerical audit; not a finite-precision proof",
+  "exact_inner_coefficient": -0.01063349250178445,
+  "exact_outer_coefficient": -0.005316746250892225,
+  "single_unit_coefficient": -0.10355339059327373,
+  "quadratic_unit_coefficient": 0.018485450578998086,
+  "quadratic_numerical_check": 0.018485522071408078,
+  "quadratic_check_error": 7.149240999204665e-08,
+  "actual_graph_checks": [
+    {
+      "A": 0.01,
+      "quadrature_order": 320,
+      "smoothed": false,
+      "inner_discrepancy_over_A2": -0.010538736062094996,
+      "outer_discrepancy_over_A2": -0.005269368031047498,
+      "terminal_target_radius": 0.9987539049602504,
+      "upper_gate_radius": 0.9992677669529664,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.0033333333333333335,
+      "quadrature_order": 320,
+      "smoothed": false,
+      "inner_discrepancy_over_A2": -0.010601924440260941,
+      "outer_discrepancy_over_A2": -0.0053009622201304705,
+      "terminal_target_radius": 0.999583767313511,
+      "upper_gate_radius": 0.9997559223176554,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.001,
+      "quadrature_order": 320,
+      "smoothed": false,
+      "inner_discrepancy_over_A2": -0.010624020172498097,
+      "outer_discrepancy_over_A2": -0.0053120100862490485,
+      "terminal_target_radius": 0.9998750390612163,
+      "upper_gate_radius": 0.9999267766952966,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.0003333333333333333,
+      "quadrature_order": 320,
+      "smoothed": false,
+      "inner_discrepancy_over_A2": -0.010630334923235927,
+      "outer_discrepancy_over_A2": -0.0053151674616179635,
+      "terminal_target_radius": 0.9999583376735635,
+      "upper_gate_radius": 0.9999755922317656,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.0001,
+      "quadrature_order": 320,
+      "smoothed": false,
+      "inner_discrepancy_over_A2": -0.010632545269779308,
+      "outer_discrepancy_over_A2": -0.005316272634889654,
+      "terminal_target_radius": 0.9999875003906238,
+      "upper_gate_radius": 0.9999926776695297,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.01,
+      "quadrature_order": 320,
+      "smoothed": true,
+      "inner_discrepancy_over_A2": -0.009305045909442297,
+      "outer_discrepancy_over_A2": -0.004652522954721149,
+      "terminal_target_radius": 0.9987539049602504,
+      "upper_gate_radius": 0.9992677669529664,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.0033333333333333335,
+      "quadrature_order": 320,
+      "smoothed": true,
+      "inner_discrepancy_over_A2": -0.01018986316913108,
+      "outer_discrepancy_over_A2": -0.00509493158456554,
+      "terminal_target_radius": 0.999583767313511,
+      "upper_gate_radius": 0.9997559223176554,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.001,
+      "quadrature_order": 320,
+      "smoothed": true,
+      "inner_discrepancy_over_A2": -0.010500318477126708,
+      "outer_discrepancy_over_A2": -0.005250159238563354,
+      "terminal_target_radius": 0.9998750390612163,
+      "upper_gate_radius": 0.9999267766952966,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.0003333333333333333,
+      "quadrature_order": 320,
+      "smoothed": true,
+      "inner_discrepancy_over_A2": -0.010589094532616845,
+      "outer_discrepancy_over_A2": -0.0052945472663084225,
+      "terminal_target_radius": 0.9999583376735635,
+      "upper_gate_radius": 0.9999755922317656,
+      "b0_norm": 0.0
+    },
+    {
+      "A": 0.0001,
+      "quadrature_order": 320,
+      "smoothed": true,
+      "inner_discrepancy_over_A2": -0.010620173709161993,
+      "outer_discrepancy_over_A2": -0.0053100868545809966,
+      "terminal_target_radius": 0.9999875003906238,
+      "upper_gate_radius": 0.9999926776695297,
+      "b0_norm": 0.0
+    }
+  ]
+}

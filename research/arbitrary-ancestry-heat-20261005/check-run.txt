@@ -1,0 +1,12 @@
+{
+  "geometry": {
+    "cases": 60,
+    "minimum_eigenvalue_over_certificate": 1.1895036144028657,
+    "maximum_floor_improvement": 1724.45100566371,
+    "maximum_reconstruction_error": 1.6653345369377348e-15
+  },
+  "rank8_variance_constant": 0.2184556340519386,
+  "bridge_interior_mass": 0.004053402957585074,
+  "allocation_cases": 20,
+  "second_riesz_identity_cases": 12
+}

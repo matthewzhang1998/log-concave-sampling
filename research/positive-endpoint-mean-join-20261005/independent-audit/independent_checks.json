@@ -1,0 +1,778 @@
+{
+  "status": "PASS",
+  "assertions": 239,
+  "scope": "Exact algebra, target examples, reference regression/current, bridge and schedule diagnostics. Imported native compilers are not numerically executed.",
+  "checks": [
+    {
+      "name": "conditional source-zero buffer"
+    },
+    {
+      "name": "full source-zero variance"
+    },
+    {
+      "name": "regressed visible baseline"
+    },
+    {
+      "name": "untouched keep fraction"
+    },
+    {
+      "name": "strict public-log margin"
+    },
+    {
+      "name": "physical grade"
+    },
+    {
+      "name": "terminal squared-clock exponent"
+    },
+    {
+      "name": "smallest alpha exponent"
+    },
+    {
+      "name": "first bridge spatial exponent"
+    },
+    {
+      "name": "second bridge spatial exponent"
+    },
+    {
+      "name": "native skew normalized radius"
+    },
+    {
+      "name": "negative skew tensor scale"
+    },
+    {
+      "name": "OU conditional covariance identity 0,0"
+    },
+    {
+      "name": "OU conditional covariance identity 0,1"
+    },
+    {
+      "name": "OU conditional covariance identity 0,2"
+    },
+    {
+      "name": "OU conditional covariance identity 1,0"
+    },
+    {
+      "name": "OU conditional covariance identity 1,1"
+    },
+    {
+      "name": "OU conditional covariance identity 1,2"
+    },
+    {
+      "name": "OU conditional covariance identity 2,0"
+    },
+    {
+      "name": "OU conditional covariance identity 2,1"
+    },
+    {
+      "name": "OU conditional covariance identity 2,2"
+    },
+    {
+      "name": "canonical linear m3"
+    },
+    {
+      "name": "full mean/covariance Gaussian target matches buffered P3"
+    },
+    {
+      "name": "P3 Gaussian covariance agrees with target through cubic order"
+    },
+    {
+      "name": "P3 quartic discrepancy is generally nonzero"
+    },
+    {
+      "name": "posterior force is a different target"
+    },
+    {
+      "name": "F3-F2 covariance difference begins at fourth order"
+    },
+    {
+      "name": "packet fill stays inside one-eighth share"
+    },
+    {
+      "name": "anisotropic total reference covariance"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 0,0"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 0,1"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 0,2"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 1,0"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 1,1"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 1,2"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 2,0"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 2,1"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 0, entry 2,2"
+    },
+    {
+      "name": "trace-free regression shortcut is detected packet 0"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 0,0"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 0,1"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 0,2"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 1,0"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 1,1"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 1,2"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 2,0"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 2,1"
+    },
+    {
+      "name": "anisotropic full Hermite projection packet 1, entry 2,2"
+    },
+    {
+      "name": "trace-free regression shortcut is detected packet 1"
+    },
+    {
+      "name": "nontrivial output-slot defect"
+    },
+    {
+      "name": "full defect symmetrization (0, 0, 0)"
+    },
+    {
+      "name": "full defect symmetrization (0, 0, 1)"
+    },
+    {
+      "name": "full defect symmetrization (0, 0, 2)"
+    },
+    {
+      "name": "full defect symmetrization (0, 1, 0)"
+    },
+    {
+      "name": "full defect symmetrization (0, 1, 1)"
+    },
+    {
+      "name": "full defect symmetrization (0, 1, 2)"
+    },
+    {
+      "name": "full defect symmetrization (0, 2, 0)"
+    },
+    {
+      "name": "full defect symmetrization (0, 2, 1)"
+    },
+    {
+      "name": "full defect symmetrization (0, 2, 2)"
+    },
+    {
+      "name": "full defect symmetrization (1, 0, 0)"
+    },
+    {
+      "name": "full defect symmetrization (1, 0, 1)"
+    },
+    {
+      "name": "full defect symmetrization (1, 0, 2)"
+    },
+    {
+      "name": "full defect symmetrization (1, 1, 0)"
+    },
+    {
+      "name": "full defect symmetrization (1, 1, 1)"
+    },
+    {
+      "name": "full defect symmetrization (1, 1, 2)"
+    },
+    {
+      "name": "full defect symmetrization (1, 2, 0)"
+    },
+    {
+      "name": "full defect symmetrization (1, 2, 1)"
+    },
+    {
+      "name": "full defect symmetrization (1, 2, 2)"
+    },
+    {
+      "name": "full defect symmetrization (2, 0, 0)"
+    },
+    {
+      "name": "full defect symmetrization (2, 0, 1)"
+    },
+    {
+      "name": "full defect symmetrization (2, 0, 2)"
+    },
+    {
+      "name": "full defect symmetrization (2, 1, 0)"
+    },
+    {
+      "name": "full defect symmetrization (2, 1, 1)"
+    },
+    {
+      "name": "full defect symmetrization (2, 1, 2)"
+    },
+    {
+      "name": "full defect symmetrization (2, 2, 0)"
+    },
+    {
+      "name": "full defect symmetrization (2, 2, 1)"
+    },
+    {
+      "name": "full defect symmetrization (2, 2, 2)"
+    },
+    {
+      "name": "leading output-slot current vanishes exactly"
+    },
+    {
+      "name": "same leading cumulant does not mean identical positive map"
+    },
+    {
+      "name": "complement is conditionally centered"
+    },
+    {
+      "name": "exact positive Riesz current degree 1"
+    },
+    {
+      "name": "exact positive Riesz current degree 2"
+    },
+    {
+      "name": "exact positive Riesz current degree 3"
+    },
+    {
+      "name": "exact positive Riesz current degree 4"
+    },
+    {
+      "name": "exact positive Riesz current degree 5"
+    },
+    {
+      "name": "quadratic skew map adds order-six covariance"
+    },
+    {
+      "name": "exact bridge mean square s2=1"
+    },
+    {
+      "name": "exact bridge variance s2=1"
+    },
+    {
+      "name": "exact reference contraction s2=1"
+    },
+    {
+      "name": "exact bridge mean square s2=3/4"
+    },
+    {
+      "name": "exact bridge variance s2=3/4"
+    },
+    {
+      "name": "exact reference contraction s2=3/4"
+    },
+    {
+      "name": "exact bridge mean square s2=9/16"
+    },
+    {
+      "name": "exact bridge variance s2=9/16"
+    },
+    {
+      "name": "exact reference contraction s2=9/16"
+    },
+    {
+      "name": "exact bridge mean square s2=1/16"
+    },
+    {
+      "name": "exact bridge variance s2=1/16"
+    },
+    {
+      "name": "exact reference contraction s2=1/16"
+    },
+    {
+      "name": "exact bridge mean square s2=1/1024"
+    },
+    {
+      "name": "exact bridge variance s2=1/1024"
+    },
+    {
+      "name": "exact reference contraction s2=1/1024"
+    },
+    {
+      "name": "first terminal threshold A=2^-1"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-1"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-1"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-1"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-1"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-1"
+    },
+    {
+      "name": "first terminal threshold A=2^-2"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-2"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-2"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-2"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-2"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-2"
+    },
+    {
+      "name": "first terminal threshold A=2^-4"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-4"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-4"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-4"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-4"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-4"
+    },
+    {
+      "name": "first terminal threshold A=2^-8"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-8"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-8"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-8"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-8"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-8"
+    },
+    {
+      "name": "first terminal threshold A=2^-16"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-16"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-16"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-16"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-16"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-16"
+    },
+    {
+      "name": "first terminal threshold A=2^-32"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-32"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-32"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-32"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-32"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-32"
+    },
+    {
+      "name": "first terminal threshold A=2^-64"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-64"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-64"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-64"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-64"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-64"
+    },
+    {
+      "name": "first terminal threshold A=2^-128"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-128"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-128"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-128"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-128"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-128"
+    },
+    {
+      "name": "first terminal threshold A=2^-256"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-256"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-256"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-256"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-256"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-256"
+    },
+    {
+      "name": "first terminal threshold A=2^-512"
+    },
+    {
+      "name": "terminal debt reaches grade p A=2^-512"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=39/10, A=2^-512"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=59/15, A=2^-512"
+    },
+    {
+      "name": "exact-kernel weighted geometric error k=4, A=2^-512"
+    },
+    {
+      "name": "buffered alpha log bound A=2^-512"
+    },
+    {
+      "name": "readable nonempty source MEAN-COVARIANCE-SKEW-ENDPOINT.md"
+    },
+    {
+      "name": "readable nonempty source ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md"
+    },
+    {
+      "name": "readable nonempty source INDEPENDENT-JOIN-AUDIT.md"
+    },
+    {
+      "name": "readable nonempty source POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md"
+    },
+    {
+      "name": "readable nonempty source FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md"
+    },
+    {
+      "name": "readable nonempty source THIRD-ORDER-FULL-REVERSE-OU-LAW-AND-ENDPOINT.md"
+    },
+    {
+      "name": "readable nonempty source SAME-CARRIER-P3-MEAN-AND-FULL-COVARIANCE-GATE.md"
+    },
+    {
+      "name": "readable nonempty source FULL-COVARIANCE-CLOSURE-AND-RESUMMED-MEAN-FRONTIER.md"
+    },
+    {
+      "name": "readable nonempty source POSITIVE-RANK3-PACKET-FEEDBACK-LEMMA.md"
+    },
+    {
+      "name": "readable nonempty source POSITIVE-QUADRATIC-REFERENCE-FOR-SKEW-GAUSSIANIZATION.md"
+    },
+    {
+      "name": "readable nonempty source INDEPENDENT-NATIVE-RANK3-PACKET-AUDIT.md"
+    },
+    {
+      "name": "graph baseline total"
+    },
+    {
+      "name": "graph mean is complete LAW"
+    },
+    {
+      "name": "graph component identities"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 0: MANIFEST.json"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 1: ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 2: INDEPENDENT-JOIN-AUDIT.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 3: THIRD-ORDER-FULL-REVERSE-OU-LAW-AND-ENDPOINT.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 4: SAME-CARRIER-P3-MEAN-AND-FULL-COVARIANCE-GATE.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 5: FULL-COVARIANCE-CLOSURE-AND-RESUMMED-MEAN-FRONTIER.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 6: RESOLVENT-COVARIANCE-STABILITY-AND-FINITE-J-KERNEL.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 7: GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 8: RECTANGULAR-FIRST-COEFFICIENT-MEAN-AND-GRAM-RETURN.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 9: INDEPENDENT-RECTANGULAR-FILTER-AND-GRAM-RETURN-AUDIT.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 10: MIXED-K-CURRENT-FINITE-CLOSURE.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 11: INDEPENDENT-FINITE-C0-CUBIC-RESERVE-AUDIT.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 12: POSITIVE-QUADRATIC-REFERENCE-FOR-SKEW-GAUSSIANIZATION.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 13: EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 14: MANIFEST.json"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 15: POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 16: INDEPENDENT-BUFFERED-SKEW-JOIN-AUDIT.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 17: FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 18: POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 19: ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 20: POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md"
+    },
+    {
+      "name": "imported hash positive-endpoint-mean-join-20261005 21: INDEPENDENT-POSITIVE-LAW-AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 0: MANIFEST.json"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 1: POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 2: README.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 3: FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 4: POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 5: AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 6: MANIFEST.json"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 7: GRAM-NOISE-FOUR-PATH-TARGET-AND-SHARPNESS.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 8: POSITIVE-CORRECTED-GRAM-MIXTURE.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 9: README.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 10: RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 11: INDEPENDENT-POSITIVE-GRAM-CORRECTION-AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 12: INDEPENDENT-RETUNED-GRAM-AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 13: MANIFEST.json"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 14: COMBINED-BRIDGE-SKEW-JOIN.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 15: README.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 16: INDEPENDENT-COMBINED-JOIN-AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 17: MANIFEST.json"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 18: APPLICATION-TO-SEALED-COMBINED-SOURCE.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 19: POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 20: README.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 21: INDEPENDENT-PADDING-CEILING-AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 22: MANIFEST.json"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 23: POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 24: README.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 25: INDEPENDENT-BUFFERED-SKEW-JOIN-AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 26: MANIFEST.json"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 27: LAW-ONLY-SHRINKING-BUFFER-JOIN.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 28: README.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 29: INDEPENDENT-LAW-ONLY-JOIN-AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 30: MANIFEST.json"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 31: AGGREGATE-PORT-EXTENSION.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 32: README.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 33: SMOOTHED-BRIDGE-PREFIX.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 34: AGGREGATE-PORT-ADDENDUM.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 35: AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 36: MANIFEST.json"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 37: INDEPENDENT-OUTER-CUTOFF-ADDENDUM.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 38: README.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 39: REUSABLE-PORT-AND-DEPTH-RECURRENCE.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 40: INDEPENDENT-REENTRY-DEPTH-PORT-AUDIT.md"
+    },
+    {
+      "name": "imported hash quartic-corrected-mean-join-20261005 41: 30_low_acc.tex"
+    }
+  ],
+  "sources": [
+    {
+      "path": "/workspace/shared/positive-endpoint-mean-join-20261005/MEAN-COVARIANCE-SKEW-ENDPOINT.md",
+      "sha256": "3a8c079b00bb52e08e7538a2460b29c2302e38d1b639e0fc4fa5f413e7df0d69"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md",
+      "sha256": "de4a0e0f35b6b453414ab4b3b4569e56bf3243b4353666b6f94d00a3c8ae6c5c"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/independent-audit/INDEPENDENT-JOIN-AUDIT.md",
+      "sha256": "8098d62b9136f775eca79d8ea97fa513a418db70dd365b955bb7b74ad63c5485"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md",
+      "sha256": "3c93c8964ccdb1f1028746aae661b768eacb8870ec616ce95d613110ebcaa708"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md",
+      "sha256": "976b704bb90ffd9552f82f13ec34a5851a94027f5867522b044d53803d743429"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-FULL-REVERSE-OU-LAW-AND-ENDPOINT.md",
+      "sha256": "e83d737da13d05054ff0dda129a05e72d350c6e3e33b019d548cc517b816e702"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/SAME-CARRIER-P3-MEAN-AND-FULL-COVARIANCE-GATE.md",
+      "sha256": "a63c38f14206ec278f7c12a56542968a7d1675af6f550610e4539e500a653eca"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/FULL-COVARIANCE-CLOSURE-AND-RESUMMED-MEAN-FRONTIER.md",
+      "sha256": "3b042e921a0cfbe0dc6636bb8b3886c6ae911e31ab3dde877ca31a7db547b6cf"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-RANK3-PACKET-FEEDBACK-LEMMA.md",
+      "sha256": "c689f0a947bcf6358f38bc6470ede05f564dcec11ff5e4171df8250e4af78193"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-QUADRATIC-REFERENCE-FOR-SKEW-GAUSSIANIZATION.md",
+      "sha256": "a797723ef51ae41a28bdd47c99bb7d5fccee49de6599d07ec8b085578c907c41"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/independent-audit/INDEPENDENT-NATIVE-RANK3-PACKET-AUDIT.md",
+      "sha256": "e6fc3a2290c2a1c8ed494cb6cec86a781827687c2bdfa706d8f5cb66896936e1"
+    },
+    {
+      "path": "/workspace/shared/positive-endpoint-mean-join-20261005/ENDPOINT-GRAPH.json",
+      "sha256": "66ca3bb7a068b860c1282dba6da23e62b8c39b6b18fab69b70419818c4c01c66"
+    },
+    {
+      "path": "/workspace/shared/positive-endpoint-mean-join-20261005/INPUT-PINS.json",
+      "sha256": "cbbd3cffcd35c7712982451fa6682d9db624f53b6b05392332587efad0ebda75"
+    }
+  ]
+}

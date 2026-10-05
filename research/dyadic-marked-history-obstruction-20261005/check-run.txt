@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "assertions": 1267,
+  "precision_decimal_digits": 70,
+  "conditional_sech_minimum_bound": "0.05147679585244062351344992936763936673623211989027285938091875905076523",
+  "max_sensitivity_squared_ratio": "7.65234375",
+  "max_checked_tail_ratio": "30.11121323529411764705882352941176470588235294117647058823529411764706",
+  "scope": "Scalar geometry and deterministic analytic envelopes only; no path-grid, force-history program, native action, or block-LAW compiler was executed."
+}

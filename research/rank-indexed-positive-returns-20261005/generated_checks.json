@@ -1,0 +1,163 @@
+{
+  "scope": "Exact finite algebra and analytical target generation, not execution or native admission",
+  "tree_rows": [
+    {
+      "rank": 2,
+      "unmerged_histories": 1,
+      "positive_coefficient_sum": 2,
+      "clock_count": 3,
+      "degree_multiset_counts": {
+        "1,1": 1
+      },
+      "primitive_derivative_orders": [
+        1
+      ],
+      "cumulant_proper_cut_majorant": 1
+    },
+    {
+      "rank": 3,
+      "unmerged_histories": 4,
+      "positive_coefficient_sum": 24,
+      "clock_count": 5,
+      "degree_multiset_counts": {
+        "1,1,2": 4
+      },
+      "primitive_derivative_orders": [
+        1,
+        2
+      ],
+      "cumulant_proper_cut_majorant": 2
+    },
+    {
+      "rank": 4,
+      "unmerged_histories": 28,
+      "positive_coefficient_sum": 672,
+      "clock_count": 7,
+      "degree_multiset_counts": {
+        "1,1,2,2": 20,
+        "1,1,1,3": 8
+      },
+      "primitive_derivative_orders": [
+        1,
+        2,
+        3
+      ],
+      "cumulant_proper_cut_majorant": 6
+    },
+    {
+      "rank": 5,
+      "unmerged_histories": 272,
+      "positive_coefficient_sum": 32640,
+      "clock_count": 9,
+      "degree_multiset_counts": {
+        "1,1,2,2,2": 112,
+        "1,1,1,2,3": 144,
+        "1,1,1,1,4": 16
+      },
+      "primitive_derivative_orders": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "cumulant_proper_cut_majorant": 24
+    },
+    {
+      "rank": 6,
+      "unmerged_histories": 3312,
+      "positive_coefficient_sum": 2384640,
+      "clock_count": 11,
+      "degree_multiset_counts": {
+        "1,1,2,2,2,2": 672,
+        "1,1,1,2,2,3": 1856,
+        "1,1,1,1,2,4": 448,
+        "1,1,1,1,3,3": 304,
+        "1,1,1,1,1,5": 32
+      },
+      "primitive_derivative_orders": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "cumulant_proper_cut_majorant": 132
+    }
+  ],
+  "consumer_rows": [
+    {
+      "coefficient_rank": 3,
+      "partition_terms": 2,
+      "emitted_current_rank_counts": {
+        "3": 1,
+        "2": 1
+      },
+      "all_singleton_leading_cancelled_once": true
+    },
+    {
+      "coefficient_rank": 4,
+      "partition_terms": 5,
+      "emitted_current_rank_counts": {
+        "4": 1,
+        "3": 3,
+        "2": 1
+      },
+      "all_singleton_leading_cancelled_once": true
+    },
+    {
+      "coefficient_rank": 5,
+      "partition_terms": 15,
+      "emitted_current_rank_counts": {
+        "5": 1,
+        "4": 6,
+        "3": 7,
+        "2": 1
+      },
+      "all_singleton_leading_cancelled_once": true
+    },
+    {
+      "coefficient_rank": 6,
+      "partition_terms": 52,
+      "emitted_current_rank_counts": {
+        "6": 1,
+        "5": 10,
+        "4": 25,
+        "3": 15,
+        "2": 1
+      },
+      "all_singleton_leading_cancelled_once": true
+    }
+  ],
+  "scalar_moment_cumulant_checks": [
+    {
+      "rank": 1,
+      "raw_histories": 1,
+      "scalar_clock_histories": 1,
+      "degree": 3
+    },
+    {
+      "rank": 2,
+      "raw_histories": 1,
+      "scalar_clock_histories": 1,
+      "degree": 4
+    },
+    {
+      "rank": 3,
+      "raw_histories": 4,
+      "scalar_clock_histories": 1,
+      "degree": 5
+    },
+    {
+      "rank": 4,
+      "raw_histories": 28,
+      "scalar_clock_histories": 4,
+      "degree": 6
+    },
+    {
+      "rank": 5,
+      "raw_histories": 272,
+      "scalar_clock_histories": 13,
+      "degree": 7
+    }
+  ]
+}

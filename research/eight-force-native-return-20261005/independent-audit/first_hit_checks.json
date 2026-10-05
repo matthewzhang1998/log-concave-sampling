@@ -1,0 +1,54 @@
+{
+  "scope": "Exact polynomial Gaussian integration-by-parts diagnostic, not native program execution or a source-qualified counterexample.",
+  "tests": [
+    {
+      "test_degree": 1,
+      "difference": "0",
+      "first_hit_identity": true,
+      "keep_transfer": true
+    },
+    {
+      "test_degree": 2,
+      "difference": "0",
+      "first_hit_identity": true,
+      "keep_transfer": true
+    },
+    {
+      "test_degree": 3,
+      "difference": "9*a**2/50 + 9*a/5",
+      "first_hit_identity": true,
+      "keep_transfer": true
+    },
+    {
+      "test_degree": 4,
+      "difference": "108*a**2/25 + 288*a/5",
+      "first_hit_identity": true,
+      "keep_transfer": true
+    },
+    {
+      "test_degree": 5,
+      "difference": "261*a**4/100 + 1647*a**3/50 + 729*a**2/5 + 450*a",
+      "first_hit_identity": true,
+      "keep_transfer": true
+    },
+    {
+      "test_degree": 6,
+      "difference": "2673*a**4/25 + 1404*a**3 + 27972*a**2/5 + 17424*a",
+      "first_hit_identity": true,
+      "keep_transfer": true
+    },
+    {
+      "test_degree": 7,
+      "difference": "451143*a**6/4000 + 2964087*a**5/2000 + 671139*a**4/100 + 264033*a**3/10 + 647073*a**2/10 + 99225*a",
+      "first_hit_identity": true,
+      "keep_transfer": true
+    }
+  ],
+  "nonzero_bank_readout_warning": {
+    "F": "q^2-1",
+    "W": "q+g",
+    "test_gradient": "W^2",
+    "uncentered_sourcezero_contribution": 2
+  },
+  "higher_derivative_of_R_used": false
+}

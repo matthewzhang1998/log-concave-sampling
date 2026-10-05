@@ -1,0 +1,8 @@
+{
+  "all_pass": true,
+  "assertions": 162052,
+  "multigraphs": 348,
+  "marked_certificates": 2192,
+  "proper_boundary_cuts": 12248,
+  "scope": "finite graph/circuit and direct tensor-cut tests; does not certify full old-bank heat or mixed queue"
+}

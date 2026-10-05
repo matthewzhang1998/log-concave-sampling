@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "exact_assertion_counts": {
+    "AST_node_type": 764,
+    "disjoint_force_labels": 272,
+    "spatial_edge_labels_exactly_twice": 272,
+    "spatial_graph_connected_tree": 272,
+    "literal_clock_index_equals_subtree_rank_plus_boundary": 2448,
+    "positive_clock_count": 272,
+    "each_history_weight_rank_factorial": 272,
+    "extra_heat_derivative_count": 272,
+    "rank5_history_count": 1,
+    "rank5_degree_shapes": 1,
+    "Hermite_resolvent_reduction": 1138,
+    "serialized_AST_scalar_moment_cumulant_identity": 2,
+    "serialized_AST_connected_recurrence": 2,
+    "star_full_partition_vs_recursive_cumulant": 6,
+    "exact_rank5_second_star_coefficient": 1,
+    "side_zero_fourth_and_sixth_currents": 1,
+    "root_sign_even_feedback": 1,
+    "arbitrary_star_fourth_coefficient": 6,
+    "two_cycle_graph_invariants": 1,
+    "two_cycle_derivative_mark_identity": 1,
+    "original_gradient_fourth_derivative": 1,
+    "original_gradient_C3_target": 1,
+    "positive_weight_factorial_identity": 7
+  },
+  "total_assertions": 6014,
+  "rank5_shapes": {
+    "1,1,2,2,2": 112,
+    "1,1,1,2,3": 144,
+    "1,1,1,1,4": 16
+  },
+  "history_counts": {
+    "1": 1,
+    "2": 1,
+    "3": 4,
+    "4": 28,
+    "5": 272,
+    "6": 3312,
+    "7": 47872,
+    "8": 794880
+  },
+  "positive_weight_sums": {
+    "1": 1,
+    "2": 2,
+    "3": 24,
+    "4": 672,
+    "5": 32640,
+    "6": 2384640,
+    "7": 241274880,
+    "8": 32049561600
+  },
+  "B5": 48,
+  "D5": 7219445760,
+  "star_rank5_second_coefficient": "lambda**2*theta**4*(b**2*theta**4*u**2 + b**2*theta**4*v**2 + b**2*theta**2 + theta**4*u**2*v**2 + theta**2*u**2 + theta**2*v**2 + 1)/2",
+  "scope": "Exact serialized-history, finite formal cumulant, graph-label and derivative checks. No native MGF, native W2 lower bound, arbitrary-order closure, or arbitrary-graph admission is inferred."
+}

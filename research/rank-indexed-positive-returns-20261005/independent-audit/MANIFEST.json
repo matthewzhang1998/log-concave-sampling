@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "scope": "Analytical all-rank bounds and exact finite target/current generators; native rank-five tests and allowance-only boundary. No native all-order algorithm or sublinear complexity conclusion.",
+  "appell_assertions": 2660,
+  "tree_star_assertions": 6014,
+  "total_exact_assertions": 8674,
+  "all_13_imported_input_hashes_verified": true,
+  "files": {
+    "AUDIT.md": "d557de536a6828a0af2ec1d27b4532f006b5235e0c969fc50440009e5af56322",
+    "AUDITED-INPUT-SHA256.json": "8cd5dbe694f16a295f7111f82a805678a1f47d7edb50a47d3c036e8595fd6ad0",
+    "TREE-AND-STAR-AUDIT.md": "01797197d35644c24606f8b4cb4df133c4a6209b17cf90bedc74985ce7b8eb70",
+    "check_appell_consumer.py": "473435f7aabffbbf4d2d0c14bffa3d28d0b05cbbea69513d0cbadae0f41c65b5",
+    "check_tree_star.py": "415ca70c9f7c3385cdef8e9f1ad8872028cd71af6043e894c7b44e6be932591e",
+    "independent_checks.json": "968f698eb12c8607b4e8e540e2dbe886c65ef9c29d2da4e119aeda26c9d9b785",
+    "tree_star_checks.json": "91c8068018e536ef8fe5eb4d43868d765241845cebe92f61386469f9e4a922fd"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-05",
+  "status": "two-step source/positive-current theorem; finite clock credit; not arbitrary-order closure",
+  "result": {
+    "rank": 8,
+    "heat_exponents": [
+      "1/8",
+      "1/7",
+      "1/5"
+    ],
+    "common_Gamma": "1/5",
+    "Psi": [
+      "879/140",
+      "226/35",
+      "228/35"
+    ],
+    "gains": [
+      "5/28",
+      "2/35"
+    ],
+    "final_current_grade": "41/5",
+    "outside_old_first": "O(alpha)",
+    "new_local_inverse_alpha_query_exponent": 0,
+    "raw_values_per_clock_tuple": 513395200
+  },
+  "qualification": "Relative to sealed native interfaces and actual radius/first/gap/readout/precision admission. Common H is the total source-zero row from independently owned groups. No raw shared-carrier replacement or completed higher-order endpoint is asserted.",
+  "independent_audit": "independent-audit/INDEPENDENT-CLOCK-MASS-AUDIT.md",
+  "files": [
+    {
+      "path": "CLOCK-MASS-TWO-STEP-REENTRY.md",
+      "sha256": "6385fbb2c2df9ec9eeecdaf523889bb18b03084193056df220940e0fe43f5d39",
+      "bytes": 22255
+    },
+    {
+      "path": "FINAL-STATUS.md",
+      "sha256": "c0b67239579744db2624eaf0d471c3180a87f7313472f5e27928b7e991d2f483",
+      "bytes": 3006
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "a93aba266be05aa685a345d74a35ac68c17d160a0ef5209dc5a3648162f0e815",
+      "bytes": 2455
+    },
+    {
+      "path": "README.md",
+      "sha256": "4432cdac0ae60a5de79634a0b42c85a20a90dbd59cba009068d09b615050ab4b",
+      "bytes": 2136
+    },
+    {
+      "path": "WEIGHTED-GENERATOR-CONTRACT.md",
+      "sha256": "bfd6c02a34cf5e2d37e99f60dbb23cdcdff78e011a6181f7e03a2c2f5ce3f158",
+      "bytes": 5322
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "aab61dd4cec91af4de031e15d717d6865e0c6243bc55f50a0e8df4a8e2f2b6b4",
+      "bytes": 2282
+    },
+    {
+      "path": "check_clock_mass_reentry.py",
+      "sha256": "a34bc9db2ab13f62e6bb8f263d2318996f3caa23fc674a0fecd2303d8d47ad6a",
+      "bytes": 5727
+    },
+    {
+      "path": "checks.json",
+      "sha256": "aab61dd4cec91af4de031e15d717d6865e0c6243bc55f50a0e8df4a8e2f2b6b4",
+      "bytes": 2282
+    },
+    {
+      "path": "independent-audit/AUDIT-MANIFEST.json",
+      "sha256": "b4d23ee81802212582ac4b474724ac52301fa692faf54e7f7ee1a0c34bf53be0",
+      "bytes": 2079
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-CLOCK-MASS-AUDIT.md",
+      "sha256": "6ebdc10160ba5f3c1ee3934b5f7889aae6ca5642c3bc86ef1da928368af8dda1",
+      "bytes": 19786
+    },
+    {
+      "path": "independent-audit/SHA256SUMS",
+      "sha256": "caf05e64fda15d2fd0b34cc37d035aeca816a0c7baf03e84e9f53e6c31be54f5",
+      "bytes": 458
+    },
+    {
+      "path": "independent-audit/check_independent_clock_mass.py",
+      "sha256": "3c69bdd79934b584274492672230ea7c71760148c14ffb89921f9e9811557e4d",
+      "bytes": 8934
+    },
+    {
+      "path": "independent-audit/independent-checks.json",
+      "sha256": "980c60dce75908a74a0199d526582a47e99cc01e6c2761e17f1f4de75d0c11de",
+      "bytes": 6557
+    },
+    {
+      "path": "independent-audit/independent-run.txt",
+      "sha256": "43776ca289ce93a80b1620435402f838401efc438272cf7add8362cdfbdfc7cf",
+      "bytes": 223
+    },
+    {
+      "path": "seal_packet.py",
+      "sha256": "77ea3dd0c87a6caa073d4133e47e405464f9b8144c60f191358778737e5591b7",
+      "bytes": 1765
+    }
+  ]
+}

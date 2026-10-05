@@ -1,0 +1,17 @@
+{
+  "status": "Exact analytical target isolated; finite positive original-VALUE implementation open",
+  "next_mean": "m4 = E[F4 | X0]",
+  "future_force": "F3 = F2 + Delta3 on one coherent conditional future",
+  "difference_energy_grade": 3,
+  "available_difference_first_grade": 1,
+  "conditional_target_difference_grades": {"mean": 3, "covariance_HS": 4, "third_cumulant_HS": 5, "fourth_cumulant_HS": 6},
+  "positive_block_reference": "N(0,(u/2) I_(2D) + Cov((F2,Delta3) | Y))",
+  "block_readout": "[I I]; squared operator norm 2; output buffer exactly u I_D",
+  "relative_current_reference": "-q E[Delta3 | sqrt(v) G - q(F2+theta Delta3), Y]",
+  "retained_readset": ["z", "Y", "N", "G_h", "declared fixed node/mode/origin labels"],
+  "service_forbidden_reads": ["N", "G_h", "other service private banks", "previously consumed banks"],
+  "mandatory_shared_ancestry": "All F2 and Delta3 slots of one marked target use the same coherent future; native/Riesz replicas are introduced only at their specified graph location",
+  "mandatory_new_proofs": ["actual finite VALUE source", "private and caller firsts", "marked proper-cut estimates", "literal native radii and variance shares", "same-law carrier/Wick feedback", "retained-Y target restoration", "complete original-VALUE/root/replay/floor recurrence"],
+  "sealed_m3_graph_use": "Mean supplier only, recompiled with fresh full tape at actual allocation",
+  "nonclaims": ["accuracy-raising step", "arbitrary-order algorithm", "new finite LAW producer", "RAW force promotion", "polynomial-log cost for an unspecified producer", "endpoint distribution guarantee"]
+}

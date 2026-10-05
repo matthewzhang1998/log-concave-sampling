@@ -1,0 +1,187 @@
+{
+  "source_sha256": {
+    "FINAL-STATUS.md": "78974e6b82f4a21f25fcb7934cecd71bf454101022ea5b0da8b9166c98ad04e3",
+    "VARIANCE-PARTITION-NATIVE-REPLACEMENT.md": "535e4c6475b94ac9b930c1d6467d5909c68715f0dfc52a14bac8b83e7d99c5d5",
+    "README.md": "d86bc92a1fe126d28bf8462af1cd37ad1ad6545ec0adc9a88b323fc37fc9dd48",
+    "FINITE-DIMENSION-CARRIER-HYBRID.md": "071a978861d63cd80c7fbca125e76e6c721df14a2afae54e93453c722203beb2"
+  },
+  "hermite_kernel": {
+    "cases": 480,
+    "max_bound_ratio": 0.24342105263157895,
+    "max_gradient_bound_ratio": 0.2,
+    "max_gradient_identity_relative_error": 1.7679793464248004e-15
+  },
+  "matrix_parseval": {
+    "max_entry_error": 1.2789769243681803e-13,
+    "max_cauchy_ratio": 0.21648479522714495,
+    "gram_operator_norm": 90.11185411419648,
+    "quadrature_E_operator_norm_squared": 156.83099564760522
+  },
+  "conditional_hermite_projection": {
+    "exact_degrees_checked": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "null_bank_riesz": {
+    "polynomial_test": "F=HZ+He_2(Z), phi(x)=x^4",
+    "exact_identity": true
+  },
+  "share_exponents": {
+    "rank": 9,
+    "root_share": -9,
+    "native_scaled_root_square_share": -17,
+    "local_drift_and_complete_first_share": -8,
+    "equal_share_native_J": "17/2",
+    "equal_share_null_current_J": 8,
+    "shared_hybrid_alpha_after_taming": "33/2",
+    "new_guard_alpha": "13/2"
+  },
+  "positive_cubature_integration": {
+    "new_J_exponent": "2 q_eta",
+    "native_grade": "17 - 17 q_eta - (17/2) nu_old",
+    "null_grade": "18 - 16 q_eta - 8 nu_old",
+    "sufficient_strict_q_with_public_log_old_census": "q_eta < 7/17"
+  },
+  "force_hit_census": {
+    "histories": 243,
+    "max_raw_VALUE_calls": 44,
+    "min_raw_VALUE_calls": 32
+  },
+  "illustrative_finite_D_guards": {
+    "B": 5,
+    "v": 0.25,
+    "c_hybrid": 1,
+    "rows": [
+      {
+        "D": 1,
+        "m": 0,
+        "alpha_dyadic_power": 1,
+        "alpha": 0.5,
+        "ell": 4,
+        "LS": 0.02762135864009951,
+        "normalized_hybrid_guard": 0.7812499999999999,
+        "normalized_tail_ratio": 0.49485280308251456
+      },
+      {
+        "D": 1,
+        "m": 1,
+        "alpha_dyadic_power": 2,
+        "alpha": 0.25,
+        "ell": 6,
+        "LS": 0.00030517578124999995,
+        "normalized_hybrid_guard": 0.024414062500000007,
+        "normalized_tail_ratio": 0.13050795210271693
+      },
+      {
+        "D": 1,
+        "m": 8,
+        "alpha_dyadic_power": 6,
+        "alpha": 0.015625000000000007,
+        "ell": 12,
+        "LS": 4.64597202211376e-06,
+        "normalized_hybrid_guard": 0.02378737675322237,
+        "normalized_tail_ratio": 0.10398076864019239
+      },
+      {
+        "D": 1,
+        "m": 16,
+        "alpha_dyadic_power": 11,
+        "alpha": 0.00048828124999999995,
+        "ell": 17,
+        "LS": 4.5658577593518696e-07,
+        "normalized_hybrid_guard": 0.4231723723746079,
+        "normalized_tail_ratio": 0.09182994741159195
+      },
+      {
+        "D": 100,
+        "m": 0,
+        "alpha_dyadic_power": 1,
+        "alpha": 0.5,
+        "ell": 4,
+        "LS": 0.02762135864009951,
+        "normalized_hybrid_guard": 0.7812499999999999,
+        "normalized_tail_ratio": 0.49485280308251456
+      },
+      {
+        "D": 100,
+        "m": 1,
+        "alpha_dyadic_power": 2,
+        "alpha": 0.25,
+        "ell": 6,
+        "LS": 0.00030517578124999995,
+        "normalized_hybrid_guard": 0.024414062500000007,
+        "normalized_tail_ratio": 0.3161639269065136
+      },
+      {
+        "D": 100,
+        "m": 8,
+        "alpha_dyadic_power": 7,
+        "alpha": 0.007812500000000002,
+        "ell": 13,
+        "LS": 1.7419759772549465e-06,
+        "normalized_hybrid_guard": 0.025226506776187506,
+        "normalized_tail_ratio": 0.2958559052371496
+      },
+      {
+        "D": 100,
+        "m": 16,
+        "alpha_dyadic_power": 13,
+        "alpha": 0.00012207031250000008,
+        "ell": 19,
+        "LS": 1.9920132257931893e-08,
+        "normalized_hybrid_guard": 0.14769885651105388,
+        "normalized_tail_ratio": 0.00043504086837935
+      },
+      {
+        "D": 1000000,
+        "m": 0,
+        "alpha_dyadic_power": 1,
+        "alpha": 0.5,
+        "ell": 4,
+        "LS": 0.02762135864009951,
+        "normalized_hybrid_guard": 0.7812499999999999,
+        "normalized_tail_ratio": 0.49485280308251456
+      },
+      {
+        "D": 1000000,
+        "m": 1,
+        "alpha_dyadic_power": 2,
+        "alpha": 0.25,
+        "ell": 7,
+        "LS": 0.00030517578124999995,
+        "normalized_hybrid_guard": 0.024414062500000007,
+        "normalized_tail_ratio": 0.8704155506716492
+      },
+      {
+        "D": 1000000,
+        "m": 8,
+        "alpha_dyadic_power": 13,
+        "alpha": 0.00012207031250000008,
+        "ell": 19,
+        "LS": 1.1923260900046061e-08,
+        "normalized_hybrid_guard": 0.08840563797554798,
+        "normalized_tail_ratio": 0.012112898902916908
+      },
+      {
+        "D": 1000000,
+        "m": 16,
+        "alpha_dyadic_power": 26,
+        "alpha": 1.4901161193847676e-08,
+        "ell": 27,
+        "LS": 1.0775851842135314e-14,
+        "normalized_hybrid_guard": 0.059240871998095565,
+        "normalized_tail_ratio": 1.359059358869429e-05
+      }
+    ],
+    "scope": "Only the new guards; native radius and other ledger rows remain separate."
+  }
+}

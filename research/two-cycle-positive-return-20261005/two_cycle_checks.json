@@ -1,0 +1,315 @@
+{
+  "scope": "Finite coefficient algebra, graph ancestry and heat/path ledgers. No native program is executed.",
+  "assertions": 1939,
+  "spanning_trees": 32,
+  "path_counts": {
+    "paths": 384,
+    "pass": 192,
+    "fail": 192,
+    "longest_paths": 128
+  },
+  "second_log_coefficient": [
+    {
+      "alpha_power": 8,
+      "physical_rank": 4,
+      "t_power": 2,
+      "coefficient": "9/2"
+    },
+    {
+      "alpha_power": 10,
+      "physical_rank": 6,
+      "t_power": 2,
+      "coefficient": "9"
+    },
+    {
+      "alpha_power": 12,
+      "physical_rank": 8,
+      "t_power": 2,
+      "coefficient": "4"
+    }
+  ],
+  "all_cumulants_through_spine_order_8": [
+    {
+      "spine_order": 1,
+      "terms": [
+        {
+          "alpha_power": 6,
+          "physical_rank": 4,
+          "t_power": 1,
+          "log_coefficient": "-1"
+        }
+      ]
+    },
+    {
+      "spine_order": 2,
+      "terms": [
+        {
+          "alpha_power": 8,
+          "physical_rank": 4,
+          "t_power": 2,
+          "log_coefficient": "9/2"
+        },
+        {
+          "alpha_power": 10,
+          "physical_rank": 6,
+          "t_power": 2,
+          "log_coefficient": "9"
+        },
+        {
+          "alpha_power": 12,
+          "physical_rank": 8,
+          "t_power": 2,
+          "log_coefficient": "4"
+        }
+      ]
+    },
+    {
+      "spine_order": 3,
+      "terms": [
+        {
+          "alpha_power": 14,
+          "physical_rank": 8,
+          "t_power": 3,
+          "log_coefficient": "-333"
+        },
+        {
+          "alpha_power": 16,
+          "physical_rank": 10,
+          "t_power": 3,
+          "log_coefficient": "-216"
+        },
+        {
+          "alpha_power": 18,
+          "physical_rank": 12,
+          "t_power": 3,
+          "log_coefficient": "-100/3"
+        }
+      ]
+    },
+    {
+      "spine_order": 4,
+      "terms": [
+        {
+          "alpha_power": 16,
+          "physical_rank": 8,
+          "t_power": 4,
+          "log_coefficient": "16497/4"
+        },
+        {
+          "alpha_power": 18,
+          "physical_rank": 10,
+          "t_power": 4,
+          "log_coefficient": "16497"
+        },
+        {
+          "alpha_power": 20,
+          "physical_rank": 12,
+          "t_power": 4,
+          "log_coefficient": "18900"
+        },
+        {
+          "alpha_power": 22,
+          "physical_rank": 14,
+          "t_power": 4,
+          "log_coefficient": "5256"
+        },
+        {
+          "alpha_power": 24,
+          "physical_rank": 16,
+          "t_power": 4,
+          "log_coefficient": "416"
+        }
+      ]
+    },
+    {
+      "spine_order": 5,
+      "terms": [
+        {
+          "alpha_power": 22,
+          "physical_rank": 12,
+          "t_power": 5,
+          "log_coefficient": "-1668789"
+        },
+        {
+          "alpha_power": 24,
+          "physical_rank": 14,
+          "t_power": 5,
+          "log_coefficient": "-2212056"
+        },
+        {
+          "alpha_power": 26,
+          "physical_rank": 16,
+          "t_power": 5,
+          "log_coefficient": "-944892"
+        },
+        {
+          "alpha_power": 28,
+          "physical_rank": 18,
+          "t_power": 5,
+          "log_coefficient": "-142272"
+        },
+        {
+          "alpha_power": 30,
+          "physical_rank": 20,
+          "t_power": 5,
+          "log_coefficient": "-34336/5"
+        }
+      ]
+    },
+    {
+      "spine_order": 6,
+      "terms": [
+        {
+          "alpha_power": 24,
+          "physical_rank": 12,
+          "t_power": 6,
+          "log_coefficient": "67497867/2"
+        },
+        {
+          "alpha_power": 26,
+          "physical_rank": 14,
+          "t_power": 6,
+          "log_coefficient": "202493601"
+        },
+        {
+          "alpha_power": 28,
+          "physical_rank": 16,
+          "t_power": 6,
+          "log_coefficient": "369464544"
+        },
+        {
+          "alpha_power": 30,
+          "physical_rank": 18,
+          "t_power": 6,
+          "log_coefficient": "204551136"
+        },
+        {
+          "alpha_power": 32,
+          "physical_rank": 20,
+          "t_power": 6,
+          "log_coefficient": "46157256"
+        },
+        {
+          "alpha_power": 34,
+          "physical_rank": 22,
+          "t_power": 6,
+          "log_coefficient": "4324176"
+        },
+        {
+          "alpha_power": 36,
+          "physical_rank": 24,
+          "t_power": 6,
+          "log_coefficient": "421888/3"
+        }
+      ]
+    },
+    {
+      "spine_order": 7,
+      "terms": [
+        {
+          "alpha_power": 30,
+          "physical_rank": 16,
+          "t_power": 7,
+          "log_coefficient": "-39904307937"
+        },
+        {
+          "alpha_power": 32,
+          "physical_rank": 18,
+          "t_power": 7,
+          "log_coefficient": "-79659945072"
+        },
+        {
+          "alpha_power": 34,
+          "physical_rank": 20,
+          "t_power": 7,
+          "log_coefficient": "-55514281608"
+        },
+        {
+          "alpha_power": 36,
+          "physical_rank": 22,
+          "t_power": 7,
+          "log_coefficient": "-16509284352"
+        },
+        {
+          "alpha_power": 38,
+          "physical_rank": 24,
+          "t_power": 7,
+          "log_coefficient": "-2304971856"
+        },
+        {
+          "alpha_power": 40,
+          "physical_rank": 26,
+          "t_power": 7,
+          "log_coefficient": "-146851200"
+        },
+        {
+          "alpha_power": 42,
+          "physical_rank": 28,
+          "t_power": 7,
+          "log_coefficient": "-24046912/7"
+        }
+      ]
+    },
+    {
+      "spine_order": 8,
+      "terms": [
+        {
+          "alpha_power": 32,
+          "physical_rank": 16,
+          "t_power": 8,
+          "log_coefficient": "8986783058433/8"
+        },
+        {
+          "alpha_power": 34,
+          "physical_rank": 18,
+          "t_power": 8,
+          "log_coefficient": "8986783058433"
+        },
+        {
+          "alpha_power": 36,
+          "physical_rank": 20,
+          "t_power": 8,
+          "log_coefficient": "22425844792104"
+        },
+        {
+          "alpha_power": 38,
+          "physical_rank": 22,
+          "t_power": 8,
+          "log_coefficient": "18489055654512"
+        },
+        {
+          "alpha_power": 40,
+          "physical_rank": 24,
+          "t_power": 8,
+          "log_coefficient": "6851866145400"
+        },
+        {
+          "alpha_power": 42,
+          "physical_rank": 26,
+          "t_power": 8,
+          "log_coefficient": "1265686731936"
+        },
+        {
+          "alpha_power": 44,
+          "physical_rank": 28,
+          "t_power": 8,
+          "log_coefficient": "120048004800"
+        },
+        {
+          "alpha_power": 46,
+          "physical_rank": 30,
+          "t_power": 8,
+          "log_coefficient": "5529691008"
+        },
+        {
+          "alpha_power": 48,
+          "physical_rank": 32,
+          "t_power": 8,
+          "log_coefficient": "97472512"
+        }
+      ]
+    }
+  ],
+  "worst_scaled_dyadic_sum": 2.8848006740843815,
+  "conclusion": "Leading two-cycle closure and fixed-cutoff conditional/auxiliary return pass these checks. Whole-bank native admission remains open. Long-spine trace-preservation and short-spine strict-grade gain cannot both be inherited for the doubled-C4 test."
+}

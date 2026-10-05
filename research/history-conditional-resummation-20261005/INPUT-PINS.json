@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/workspace/shared/dyadic-pair-secant-port-20261005/FINITE-ORDER-TWO-C2-TAIL.md",
+    "sha256": "4244e5c00f8bad67f36c11fd90b9b016fd36a2b5cdd68ebb0ba20044cc821400"
+  },
+  {
+    "path": "/workspace/shared/dyadic-pair-secant-port-20261005/PAIR-SECANT-POSITIVE-GRAM-PORT.md",
+    "sha256": "213613b99f8640f94a93b06915798b64f0b65c17b7352eeb8ce4e1e9e4b779f6"
+  },
+  {
+    "path": "/workspace/shared/dyadic-marked-history-obstruction-20261005/DYADIC-MARKED-HISTORY-NONCLOSURE.md",
+    "sha256": "2007b8a22fdc6ee1bbd954902bdb2d97d04ad41bcfaf48e253799420a486c42f"
+  },
+  {
+    "path": "/workspace/shared/next-history-m4-port-20261005/NEXT-HISTORY-M4-AND-MARKED-CURRENT-PORT.md",
+    "sha256": "b85af0391c9e6064e7acd1386da0e0d7c339d092772ec6064ac1502005c6bf5a"
+  },
+  {
+    "path": "/workspace/shared/marked-shifted-local-current-20261005/BOUNDED-SHIFTED-CURRENT.md",
+    "sha256": "4c4c5047d80cc922bdd8baa3edd5b251377b362e07f2e73e6037781f6ffc0787"
+  },
+  {
+    "path": "/workspace/shared/dyadic-pair-secant-port-20261005/COHERENT-BLOCK-ORDER-TWO-EXTENSION.md",
+    "sha256": "2641d3fd84968702ab5bfa5857718f817f99a3e31f976cccfc04b5feb16080a6"
+  }
+]

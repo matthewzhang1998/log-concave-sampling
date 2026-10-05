@@ -1,0 +1,35 @@
+{
+  "created_utc": "2026-10-05T05:21:00Z",
+  "scope": "Bounded normalized ancestry, bounded two-level collective source, bounded positive Poisson conditional law. No arbitrary-depth sampler or full endpoint theorem.",
+  "files": {
+    "COLLECTIVE-HISTORY-COMPILER-PORTS.md": "79bba85c6b8cc927702a20f77e88ca625f60d45eddf65b2d0bc211278ffe47ed",
+    "INDEPENDENT-BOUNDED-COLLECTIVE-AUDIT.md": "cfbb2027915c159875168c9b803b2bea1269d9e7f7beb1bdf2e42d2329b11749",
+    "INDEPENDENT-NORMALIZED-ANCESTRY-AUDIT.md": "70a25121688fa11c0b976bd56ce40f8db78e5f00d8f3ac3655f1a812096a3b22",
+    "INDEPENDENT-POISSON-CONDITIONAL-AUDIT.md": "b61ff85d2829c1003bef761903cbaeb840c3afad0f81c9fb383cc87a7e7f4125",
+    "NORMALIZED-ANCESTRY-RESUMMATION.md": "ff0ffe9d82ab0c7191b13b33414804f3f62a57aa45be6f042a7210cb30dc308e",
+    "POISSON-POSITIVE-CONDITIONAL-KERNEL.md": "761ab46e63624da9961ad1a51a9e8dcd66c7b78664e6a120ed63630f0bd77b49",
+    "README.md": "99a18959cc3d662b1001f01fb8d193cc2fc2ca7324315be161b46231b9f0e1d2",
+    "STRATIFIED-COLLECTIVE-HISTORY.md": "cb57b6d0939810294c12883b12eeb3e4573a1276df6c2fb36f3bdd036986ed8b",
+    "check_collective_redesign.json": "da1726528e70a66b3d6d0fe56ad9acb4b69b4026593302ea44c597c6ef6a7b6f",
+    "check_collective_redesign.py": "7a2ba152435dbce28bb6450c73f87817107bc2c60501479af6e2168170c7dc96",
+    "normalized_ancestry_checks.json": "81e5a38277f247f13de1cdb72126a23a08d130709436181c0b8492b6669a35c4"
+  },
+  "inputs": {
+    "radial_obstruction": {
+      "path": "/workspace/shared/nonlinear-bridge-radial-obstruction/RADIAL-STAGE-TWO-OBSTRUCTION.md",
+      "sha256": "266eed0eef805c72f98d41d9a3b066fe29e98616146ace7c8a687ff286cb7cd6"
+    },
+    "stage_two_theorem": {
+      "path": "/workspace/shared/nonlinear-bridge-stage-two/STAGE-TWO-POSITIVE-VALUE-THEOREM.md",
+      "sha256": "c7275de9261bce2eeaee1ba054351055b1e236590340ee7b1554ff064ffa2f13"
+    },
+    "stage_two_ports": {
+      "path": "/workspace/shared/nonlinear-bridge-stage-two/SHIFTED-BIAS-AND-PORTS-DERIVATION.md",
+      "sha256": "9650c96e96a24e64e4afa4da183b652bb5dbc410040b69e40d20783058acd682"
+    }
+  },
+  "native_compilers_executed": false,
+  "separate_worker_subdirectories_excluded": [
+    "outer-resolvent"
+  ]
+}

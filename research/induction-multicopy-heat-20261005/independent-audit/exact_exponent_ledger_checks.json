@@ -1,0 +1,684 @@
+{
+  "status": "PASS",
+  "three_cubic_patterns": [
+    {
+      "d": 0,
+      "ordered_patterns": 1
+    },
+    {
+      "d": 1,
+      "ordered_patterns": 3
+    },
+    {
+      "d": 2,
+      "ordered_patterns": 9
+    },
+    {
+      "d": 3,
+      "ordered_patterns": 27
+    }
+  ],
+  "mixed_patterns": [
+    {
+      "d": 0,
+      "ordered_patterns": 9,
+      "maximum_center_power": 4,
+      "maximum_leaf_power": 2,
+      "maximum_diagonal_eta_loss": "0",
+      "maximum_full_local_eta_loss": "0",
+      "proof_branches": {
+        "center_heat": 0,
+        "unheated_squared_clocks": 9
+      }
+    },
+    {
+      "d": 1,
+      "ordered_patterns": 54,
+      "maximum_center_power": 5,
+      "maximum_leaf_power": 3,
+      "maximum_diagonal_eta_loss": "0",
+      "maximum_full_local_eta_loss": "0",
+      "proof_branches": {
+        "center_heat": 2,
+        "unheated_squared_clocks": 52
+      }
+    },
+    {
+      "d": 2,
+      "ordered_patterns": 324,
+      "maximum_center_power": 6,
+      "maximum_leaf_power": 4,
+      "maximum_diagonal_eta_loss": "0",
+      "maximum_full_local_eta_loss": "0",
+      "proof_branches": {
+        "center_heat": 36,
+        "unheated_squared_clocks": 288
+      }
+    },
+    {
+      "d": 3,
+      "ordered_patterns": 1944,
+      "maximum_center_power": 7,
+      "maximum_leaf_power": 5,
+      "maximum_diagonal_eta_loss": "1/2",
+      "maximum_full_local_eta_loss": "1/2",
+      "proof_branches": {
+        "center_heat": 408,
+        "unheated_squared_clocks": 1536
+      }
+    }
+  ],
+  "mixed_total_patterns": 2331,
+  "weighted_pruefer": [
+    {
+      "force_counts": [
+        3,
+        3,
+        3
+      ],
+      "exact_histories": 243
+    },
+    {
+      "force_counts": [
+        3,
+        3,
+        6
+      ],
+      "exact_histories": 648
+    },
+    {
+      "force_counts": [
+        1,
+        2
+      ],
+      "exact_histories": 2
+    },
+    {
+      "force_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_histories": 2400
+    },
+    {
+      "force_counts": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "exact_histories": 5760000
+    },
+    {
+      "force_counts": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "exact_histories": 140026320
+    }
+  ],
+  "arbitrary_local_aggregate_patterns": [
+    {
+      "d": 0,
+      "aggregate_patterns": 1,
+      "maximum_eta_loss": "0"
+    },
+    {
+      "d": 1,
+      "aggregate_patterns": 3,
+      "maximum_eta_loss": "0"
+    },
+    {
+      "d": 2,
+      "aggregate_patterns": 6,
+      "maximum_eta_loss": "0"
+    },
+    {
+      "d": 3,
+      "aggregate_patterns": 10,
+      "maximum_eta_loss": "0"
+    },
+    {
+      "d": 4,
+      "aggregate_patterns": 15,
+      "maximum_eta_loss": "1/2"
+    },
+    {
+      "d": 5,
+      "aggregate_patterns": 21,
+      "maximum_eta_loss": "1"
+    },
+    {
+      "d": 6,
+      "aggregate_patterns": 28,
+      "maximum_eta_loss": "3/2"
+    },
+    {
+      "d": 7,
+      "aggregate_patterns": 36,
+      "maximum_eta_loss": "2"
+    },
+    {
+      "d": 8,
+      "aggregate_patterns": 45,
+      "maximum_eta_loss": "5/2"
+    },
+    {
+      "d": 9,
+      "aggregate_patterns": 55,
+      "maximum_eta_loss": "3"
+    },
+    {
+      "d": 10,
+      "aggregate_patterns": 66,
+      "maximum_eta_loss": "7/2"
+    },
+    {
+      "d": 11,
+      "aggregate_patterns": 78,
+      "maximum_eta_loss": "4"
+    },
+    {
+      "d": 12,
+      "aggregate_patterns": 91,
+      "maximum_eta_loss": "9/2"
+    },
+    {
+      "d": 13,
+      "aggregate_patterns": 105,
+      "maximum_eta_loss": "5"
+    },
+    {
+      "d": 14,
+      "aggregate_patterns": 120,
+      "maximum_eta_loss": "11/2"
+    },
+    {
+      "d": 15,
+      "aggregate_patterns": 136,
+      "maximum_eta_loss": "6"
+    },
+    {
+      "d": 16,
+      "aggregate_patterns": 153,
+      "maximum_eta_loss": "13/2"
+    },
+    {
+      "d": 17,
+      "aggregate_patterns": 171,
+      "maximum_eta_loss": "7"
+    },
+    {
+      "d": 18,
+      "aggregate_patterns": 190,
+      "maximum_eta_loss": "15/2"
+    },
+    {
+      "d": 19,
+      "aggregate_patterns": 210,
+      "maximum_eta_loss": "8"
+    },
+    {
+      "d": 20,
+      "aggregate_patterns": 231,
+      "maximum_eta_loss": "17/2"
+    },
+    {
+      "d": 21,
+      "aggregate_patterns": 253,
+      "maximum_eta_loss": "9"
+    },
+    {
+      "d": 22,
+      "aggregate_patterns": 276,
+      "maximum_eta_loss": "19/2"
+    },
+    {
+      "d": 23,
+      "aggregate_patterns": 300,
+      "maximum_eta_loss": "10"
+    },
+    {
+      "d": 24,
+      "aggregate_patterns": 325,
+      "maximum_eta_loss": "21/2"
+    },
+    {
+      "d": 25,
+      "aggregate_patterns": 351,
+      "maximum_eta_loss": "11"
+    },
+    {
+      "d": 26,
+      "aggregate_patterns": 378,
+      "maximum_eta_loss": "23/2"
+    },
+    {
+      "d": 27,
+      "aggregate_patterns": 406,
+      "maximum_eta_loss": "12"
+    },
+    {
+      "d": 28,
+      "aggregate_patterns": 435,
+      "maximum_eta_loss": "25/2"
+    },
+    {
+      "d": 29,
+      "aggregate_patterns": 465,
+      "maximum_eta_loss": "13"
+    },
+    {
+      "d": 30,
+      "aggregate_patterns": 496,
+      "maximum_eta_loss": "27/2"
+    },
+    {
+      "d": 31,
+      "aggregate_patterns": 528,
+      "maximum_eta_loss": "14"
+    },
+    {
+      "d": 32,
+      "aggregate_patterns": 561,
+      "maximum_eta_loss": "29/2"
+    }
+  ],
+  "arbitrary_local_total_patterns": 6545,
+  "rank_explicit_checks": [
+    {
+      "n": 2,
+      "q": 0,
+      "relaxed_hit_allocations": 1,
+      "relaxed_bridge_allocations": 1,
+      "maximum_local_loss": "0",
+      "maximum_bridge_loss": "0",
+      "claimed_e": 0
+    },
+    {
+      "n": 2,
+      "q": 1,
+      "relaxed_hit_allocations": 2,
+      "relaxed_bridge_allocations": 1,
+      "maximum_local_loss": "0",
+      "maximum_bridge_loss": "0",
+      "claimed_e": 0
+    },
+    {
+      "n": 2,
+      "q": 2,
+      "relaxed_hit_allocations": 3,
+      "relaxed_bridge_allocations": 1,
+      "maximum_local_loss": "0",
+      "maximum_bridge_loss": "0",
+      "claimed_e": 0
+    },
+    {
+      "n": 2,
+      "q": 3,
+      "relaxed_hit_allocations": 4,
+      "relaxed_bridge_allocations": 1,
+      "maximum_local_loss": "1/2",
+      "maximum_bridge_loss": "1/2",
+      "claimed_e": 1
+    },
+    {
+      "n": 2,
+      "q": 4,
+      "relaxed_hit_allocations": 5,
+      "relaxed_bridge_allocations": 1,
+      "maximum_local_loss": "1",
+      "maximum_bridge_loss": "1",
+      "claimed_e": 2
+    },
+    {
+      "n": 2,
+      "q": 5,
+      "relaxed_hit_allocations": 6,
+      "relaxed_bridge_allocations": 1,
+      "maximum_local_loss": "3/2",
+      "maximum_bridge_loss": "3/2",
+      "claimed_e": 3
+    },
+    {
+      "n": 3,
+      "q": 0,
+      "relaxed_hit_allocations": 3,
+      "relaxed_bridge_allocations": 2,
+      "maximum_local_loss": "0",
+      "maximum_bridge_loss": "0",
+      "claimed_e": 0
+    },
+    {
+      "n": 3,
+      "q": 1,
+      "relaxed_hit_allocations": 6,
+      "relaxed_bridge_allocations": 3,
+      "maximum_local_loss": "0",
+      "maximum_bridge_loss": "0",
+      "claimed_e": 0
+    },
+    {
+      "n": 3,
+      "q": 2,
+      "relaxed_hit_allocations": 10,
+      "relaxed_bridge_allocations": 4,
+      "maximum_local_loss": "1/2",
+      "maximum_bridge_loss": "1/2",
+      "claimed_e": 1
+    },
+    {
+      "n": 3,
+      "q": 3,
+      "relaxed_hit_allocations": 15,
+      "relaxed_bridge_allocations": 5,
+      "maximum_local_loss": "1",
+      "maximum_bridge_loss": "1",
+      "claimed_e": 2
+    },
+    {
+      "n": 3,
+      "q": 4,
+      "relaxed_hit_allocations": 21,
+      "relaxed_bridge_allocations": 6,
+      "maximum_local_loss": "3/2",
+      "maximum_bridge_loss": "3/2",
+      "claimed_e": 3
+    },
+    {
+      "n": 3,
+      "q": 5,
+      "relaxed_hit_allocations": 28,
+      "relaxed_bridge_allocations": 7,
+      "maximum_local_loss": "2",
+      "maximum_bridge_loss": "2",
+      "claimed_e": 4
+    },
+    {
+      "n": 4,
+      "q": 0,
+      "relaxed_hit_allocations": 10,
+      "relaxed_bridge_allocations": 6,
+      "maximum_local_loss": "0",
+      "maximum_bridge_loss": "0",
+      "claimed_e": 0
+    },
+    {
+      "n": 4,
+      "q": 1,
+      "relaxed_hit_allocations": 20,
+      "relaxed_bridge_allocations": 10,
+      "maximum_local_loss": "1/2",
+      "maximum_bridge_loss": "1/2",
+      "claimed_e": 1
+    },
+    {
+      "n": 4,
+      "q": 2,
+      "relaxed_hit_allocations": 35,
+      "relaxed_bridge_allocations": 15,
+      "maximum_local_loss": "1",
+      "maximum_bridge_loss": "1",
+      "claimed_e": 2
+    },
+    {
+      "n": 4,
+      "q": 3,
+      "relaxed_hit_allocations": 56,
+      "relaxed_bridge_allocations": 21,
+      "maximum_local_loss": "3/2",
+      "maximum_bridge_loss": "3/2",
+      "claimed_e": 3
+    },
+    {
+      "n": 4,
+      "q": 4,
+      "relaxed_hit_allocations": 84,
+      "relaxed_bridge_allocations": 28,
+      "maximum_local_loss": "2",
+      "maximum_bridge_loss": "2",
+      "claimed_e": 4
+    },
+    {
+      "n": 4,
+      "q": 5,
+      "relaxed_hit_allocations": 120,
+      "relaxed_bridge_allocations": 36,
+      "maximum_local_loss": "5/2",
+      "maximum_bridge_loss": "5/2",
+      "claimed_e": 5
+    },
+    {
+      "n": 5,
+      "q": 0,
+      "relaxed_hit_allocations": 35,
+      "relaxed_bridge_allocations": 20,
+      "maximum_local_loss": "1/2",
+      "maximum_bridge_loss": "1/2",
+      "claimed_e": 1
+    },
+    {
+      "n": 5,
+      "q": 1,
+      "relaxed_hit_allocations": 70,
+      "relaxed_bridge_allocations": 35,
+      "maximum_local_loss": "1",
+      "maximum_bridge_loss": "1",
+      "claimed_e": 2
+    },
+    {
+      "n": 5,
+      "q": 2,
+      "relaxed_hit_allocations": 126,
+      "relaxed_bridge_allocations": 56,
+      "maximum_local_loss": "3/2",
+      "maximum_bridge_loss": "3/2",
+      "claimed_e": 3
+    },
+    {
+      "n": 5,
+      "q": 3,
+      "relaxed_hit_allocations": 210,
+      "relaxed_bridge_allocations": 84,
+      "maximum_local_loss": "2",
+      "maximum_bridge_loss": "2",
+      "claimed_e": 4
+    },
+    {
+      "n": 5,
+      "q": 4,
+      "relaxed_hit_allocations": 330,
+      "relaxed_bridge_allocations": 120,
+      "maximum_local_loss": "5/2",
+      "maximum_bridge_loss": "5/2",
+      "claimed_e": 5
+    },
+    {
+      "n": 5,
+      "q": 5,
+      "relaxed_hit_allocations": 495,
+      "relaxed_bridge_allocations": 165,
+      "maximum_local_loss": "3",
+      "maximum_bridge_loss": "3",
+      "claimed_e": 6
+    },
+    {
+      "n": 6,
+      "q": 0,
+      "relaxed_hit_allocations": 126,
+      "relaxed_bridge_allocations": 70,
+      "maximum_local_loss": "1",
+      "maximum_bridge_loss": "1",
+      "claimed_e": 2
+    },
+    {
+      "n": 6,
+      "q": 1,
+      "relaxed_hit_allocations": 252,
+      "relaxed_bridge_allocations": 126,
+      "maximum_local_loss": "3/2",
+      "maximum_bridge_loss": "3/2",
+      "claimed_e": 3
+    },
+    {
+      "n": 6,
+      "q": 2,
+      "relaxed_hit_allocations": 462,
+      "relaxed_bridge_allocations": 210,
+      "maximum_local_loss": "2",
+      "maximum_bridge_loss": "2",
+      "claimed_e": 4
+    },
+    {
+      "n": 6,
+      "q": 3,
+      "relaxed_hit_allocations": 792,
+      "relaxed_bridge_allocations": 330,
+      "maximum_local_loss": "5/2",
+      "maximum_bridge_loss": "5/2",
+      "claimed_e": 5
+    },
+    {
+      "n": 6,
+      "q": 4,
+      "relaxed_hit_allocations": 1287,
+      "relaxed_bridge_allocations": 495,
+      "maximum_local_loss": "3",
+      "maximum_bridge_loss": "3",
+      "claimed_e": 6
+    },
+    {
+      "n": 6,
+      "q": 5,
+      "relaxed_hit_allocations": 2002,
+      "relaxed_bridge_allocations": 715,
+      "maximum_local_loss": "7/2",
+      "maximum_bridge_loss": "7/2",
+      "claimed_e": 7
+    },
+    {
+      "n": 7,
+      "q": 0,
+      "relaxed_hit_allocations": 462,
+      "relaxed_bridge_allocations": 252,
+      "maximum_local_loss": "3/2",
+      "maximum_bridge_loss": "3/2",
+      "claimed_e": 3
+    },
+    {
+      "n": 7,
+      "q": 1,
+      "relaxed_hit_allocations": 924,
+      "relaxed_bridge_allocations": 462,
+      "maximum_local_loss": "2",
+      "maximum_bridge_loss": "2",
+      "claimed_e": 4
+    },
+    {
+      "n": 7,
+      "q": 2,
+      "relaxed_hit_allocations": 1716,
+      "relaxed_bridge_allocations": 792,
+      "maximum_local_loss": "5/2",
+      "maximum_bridge_loss": "5/2",
+      "claimed_e": 5
+    },
+    {
+      "n": 7,
+      "q": 3,
+      "relaxed_hit_allocations": 3003,
+      "relaxed_bridge_allocations": 1287,
+      "maximum_local_loss": "3",
+      "maximum_bridge_loss": "3",
+      "claimed_e": 6
+    },
+    {
+      "n": 7,
+      "q": 4,
+      "relaxed_hit_allocations": 5005,
+      "relaxed_bridge_allocations": 2002,
+      "maximum_local_loss": "7/2",
+      "maximum_bridge_loss": "7/2",
+      "claimed_e": 7
+    },
+    {
+      "n": 7,
+      "q": 5,
+      "relaxed_hit_allocations": 8008,
+      "relaxed_bridge_allocations": 3003,
+      "maximum_local_loss": "4",
+      "maximum_bridge_loss": "4",
+      "claimed_e": 8
+    },
+    {
+      "n": 8,
+      "q": 0,
+      "relaxed_hit_allocations": 1716,
+      "relaxed_bridge_allocations": 924,
+      "maximum_local_loss": "2",
+      "maximum_bridge_loss": "2",
+      "claimed_e": 4
+    },
+    {
+      "n": 8,
+      "q": 1,
+      "relaxed_hit_allocations": 3432,
+      "relaxed_bridge_allocations": 1716,
+      "maximum_local_loss": "5/2",
+      "maximum_bridge_loss": "5/2",
+      "claimed_e": 5
+    },
+    {
+      "n": 8,
+      "q": 2,
+      "relaxed_hit_allocations": 6435,
+      "relaxed_bridge_allocations": 3003,
+      "maximum_local_loss": "3",
+      "maximum_bridge_loss": "3",
+      "claimed_e": 6
+    },
+    {
+      "n": 8,
+      "q": 3,
+      "relaxed_hit_allocations": 11440,
+      "relaxed_bridge_allocations": 5005,
+      "maximum_local_loss": "7/2",
+      "maximum_bridge_loss": "7/2",
+      "claimed_e": 7
+    },
+    {
+      "n": 8,
+      "q": 4,
+      "relaxed_hit_allocations": 19448,
+      "relaxed_bridge_allocations": 8008,
+      "maximum_local_loss": "4",
+      "maximum_bridge_loss": "4",
+      "claimed_e": 8
+    },
+    {
+      "n": 8,
+      "q": 5,
+      "relaxed_hit_allocations": 31824,
+      "relaxed_bridge_allocations": 12376,
+      "maximum_local_loss": "9/2",
+      "maximum_bridge_loss": "9/2",
+      "claimed_e": 9
+    }
+  ],
+  "rank_explicit_total_allocations": 141434,
+  "same_source_contract": "The executed allocation uses m_star=max_j m_j; every analytical hit estimate bounds those same widths and residual-root rows.",
+  "reviewed_sha256": {
+    "THREE-CUBIC-EXACT-HEAT.md": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc",
+    "MIXED-THREE-THREE-SIX.md": "495a6b333f71e5e22fac8c2d2d4fdc4bf3a53771ec414eefed525ae2c1f90b0a",
+    "FINITE-CUBATURE-AND-N-COPY-RULE.md": "1b4142f838cca1947a2fd38affd8f12ed4e358b65b8d57029ae0ae2a4f7eefd6",
+    "N-CUBIC-RANK-EXPLICIT-BOUNDS.md": "fdbd54b02906cbf3796b8c4ec8ab18e2aded671c3d05509cb757596c924e01b0"
+  },
+  "scope": "Exact finite integer/rational exponent checks only. The audit text supplies the mathematical arguments. Native sources were not executed."
+}

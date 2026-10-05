@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-05",
+  "status": "Independent PASS under the stated source-qualified native/path/variance guards",
+  "main": "POSITIVE-CORRECTED-GRAM-MIXTURE.md",
+  "main_sha256": "cf94de42b101c417e4902eaf90284c06d418f23adadfef3990101b0cb11ed731",
+  "result": "Positive unheated corrected Gram integrated-Y W2 <= Lambda sqrt(D)[A^4/u+A^6/u^(5/2)]+floors; parent terminal debt A^5/v+A^7/v^(5/2). Native order seven for u>=c A^(3/2), generalized fixed order as stated.",
+  "nonclaims": [
+    "No zero-buffer endpoint return",
+    "No all-rank finite compiler",
+    "No improved full outer rate without its other separately proved components"
+  ],
+  "checks": {
+    "native_independent": 839,
+    "correction_independent": 516,
+    "author_finite_and_stress": 516
+  },
+  "source_pins": {
+    "/workspace/shared/law-only-variance-join-20261005/LAW-ONLY-SHRINKING-BUFFER-JOIN.md": "40891db38221e3b02f2e657a4ef93c3e4fd06c69b29cc03e7db9c5761fe2fc0a",
+    "/workspace/shared/combined-bridge-skew-20261005/COMBINED-BRIDGE-SKEW-JOIN.md": "11b9241e22cdac27ceab6c6629b63420358ca0f877cf666f6b61a8de8acf7b1b",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/RECTANGULAR-FIRST-COEFFICIENT-MEAN-AND-GRAM-RETURN.md": "13b0fad9f69355c511c8884ae1e7691066f740dccf387ec453344479193154ea",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md": "7476219bacabfacc44030a14710408735d3e31b78103376d57f525a3518726dc",
+    "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "/workspace/shared/fourth-cumulant-return-20261005/POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md": "48c23f0c8966a28eae3b6849a0c63348e62f971340d2f5016902580aeb46fee4",
+    "/workspace/shared/fourth-cumulant-return-20261005/independent-audit/AUDIT.md": "02ec661a19bca84b823fd42a2aecfd0f4d57ee662ee83852fe83f92310abb2a3",
+    "/workspace/shared/fourth-cumulant-return-20261005/MANIFEST.json": "c730989b41bd05e663ef3b2ff06901a8a92e5377d69cffaf06ce745439558c11"
+  },
+  "artifacts": {
+    "GRAM-NOISE-FOUR-PATH-TARGET-AND-SHARPNESS.md": "b10d7f7996a94fc65e96d97ba0309031aa916d625227bfb470bd77432706157b",
+    "POSITIVE-CORRECTED-GRAM-MIXTURE.md": "cf94de42b101c417e4902eaf90284c06d418f23adadfef3990101b0cb11ed731",
+    "README.md": "4be1c654c4fa7f186530704e3c94da9dcf2573f7f43b50bae3fd5d41e784e18a",
+    "RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md": "cf76b2e851b8c0857fcecebbba226eefecfdba835b26ab57216d8265bb864e9f",
+    "check-run.txt": "1ac42e8adcb0973d517ca9237d8d117766dd92116c0fa6bb0e228b87cd88b4b3",
+    "check_corrected_gram.py": "9f31cbe2c2cd8f9eed9fc1ad4f3cc24b4f5034230b43cdbc10d00e65abc90cd4",
+    "corrected_gram_checks.json": "1ac42e8adcb0973d517ca9237d8d117766dd92116c0fa6bb0e228b87cd88b4b3",
+    "independent-audit/INDEPENDENT-POSITIVE-GRAM-CORRECTION-AUDIT.md": "af1395d50efa244c5fbddfa8c7834a7d5adfd9d386e4c19432d03de10476f5f0",
+    "independent-audit/INDEPENDENT-RETUNED-GRAM-AUDIT.md": "e0402ea6ca8ac840726090b7b2c05dc276e434843dfd257b9a6fffd46ae7fc60",
+    "independent-audit/check-run.txt": "7ac31397a11df0aac5dc137b112a21f6b33580ac4e227e8d915798ce45a707e0",
+    "independent-audit/check_positive_gram_correction.py": "70f24eb1beca5bae5e73725f39b6910ccfb309a2245972297a240e48f9245f3e",
+    "independent-audit/check_retuned_gram.py": "3e94964fa6f9ff792e051a5f2869664e833c3e11ddecd95a6bc6800e4a14b79b",
+    "independent-audit/correction-check-run.txt": "9cff48ba11021b97b2cd62c4038081d11037eab333f584cbf73ab9b7a034d562",
+    "independent-audit/positive_gram_correction_checks.json": "d54016cb059f2720a1b9acd6ab95b87731223931cb7daa9ac7574e51675851f2",
+    "independent-audit/retuned_gram_checks.json": "b87c7fa3bb2c6ed3c6d23615f068df98b53f9c8b58b96aedd6d9804448dacb1b",
+    "regenerate_manifest.py": "0b68bc9b51fe8e47223b959eb0b82b4ce9c614fc4575a534c53c149744a0134c"
+  }
+}

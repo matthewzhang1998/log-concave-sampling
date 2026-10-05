@@ -1,0 +1,99 @@
+{
+  "title": "Dimension-sharp owned common-carrier native port",
+  "date": "2026-10-05",
+  "status": "Independently audited PASS under the stated finite-family source and ownership hypotheses",
+  "primary_proof": "ROOT-SEED-CARRIER-STABLE-PORT.md",
+  "primary_sha256": "0c4ef1c750102a41fe11c563699100d128943a842543326291ef557e0e741c45",
+  "audit": "independent-audit/ROOT-SEED-PORT-AUDIT.md",
+  "execution": "Original qualified compiled sampler unchanged; proof-only root seeds and conditional means are not executed.",
+  "scope": "Environment-stable group W2 with one keep, O(S^2 sqrt(D)) plus native/finite floors; finite additive marked-tree ownership closure below that floor.",
+  "exclusions": [
+    "No carrier-fixed high-order packet prior",
+    "No newly realized cyclic/Wick or multiply marked generator class",
+    "No exact all-orders native jet",
+    "No new carrier identified with a frozen coefficient caller",
+    "No global arbitrary-order complexity claim"
+  ],
+  "files": [
+    {
+      "path": "ALGEBRA-OWNERSHIP-INTERFACE.md",
+      "sha256": "979de3f3a9e6fc7883bf109cd36bad4da3b8319ed935af2fdf7eab33ce364616",
+      "bytes": 5416
+    },
+    {
+      "path": "CLOCK-AND-INDEPENDENT-SHARE-CROSSCHECK.md",
+      "sha256": "7653f3143c6658184eb4a052e84e508a7b96897afc2972dd3bc695c7439eaab9",
+      "bytes": 2628
+    },
+    {
+      "path": "CLOCK-SOURCE-PINS.json",
+      "sha256": "e1b705e7b601df5b6a36bc0c0428e184f5373961b5258b5e3af013ee8aa8a42c",
+      "bytes": 1296
+    },
+    {
+      "path": "FINAL-STATUS.md",
+      "sha256": "5a172afbdd19de3f1442ee7980ab30f084226ead869b210a204062e73afcd295",
+      "bytes": 4371
+    },
+    {
+      "path": "NATIVE-SEED-FIBER-OBSTRUCTION.md",
+      "sha256": "c5e0643ed75764bae825828e5613c0cd0f7959c19cbf1ebca7d1d2e5602da8aa",
+      "bytes": 2034
+    },
+    {
+      "path": "README.md",
+      "sha256": "747c13dd20a3fd929ec15367e31d6b07274f5ca55557c808ec936ee3e38acb9c",
+      "bytes": 1547
+    },
+    {
+      "path": "RETAINED-PUBLIC-CHILD-LEMMA.md",
+      "sha256": "f896999a21b330799a316679dacdccbf42f43799b7f9c0c8525b2b139b09ee67",
+      "bytes": 4832
+    },
+    {
+      "path": "ROOT-SEED-CARRIER-STABLE-PORT.md",
+      "sha256": "0c4ef1c750102a41fe11c563699100d128943a842543326291ef557e0e741c45",
+      "bytes": 18879
+    },
+    {
+      "path": "SOURCE-PINS.json",
+      "sha256": "a66ea9098483a165d134a6dcaa31bf3534f93a98a466a4b7b0335fb2b3d66a2d",
+      "bytes": 1251
+    },
+    {
+      "path": "SOURCE-VERIFICATION.json",
+      "sha256": "f21e4a3c96ff21054882389faf2c2fef888e5bc3d2cb6e56bb35b53ad6affdf7",
+      "bytes": 3689
+    },
+    {
+      "path": "independent-audit/REVIEW-PINS.json",
+      "sha256": "61170af9d2dfa56e3f7fdd7a9c7070a084db099d1de87890496fe5e039da897b",
+      "bytes": 646
+    },
+    {
+      "path": "independent-audit/ROOT-SEED-PORT-AUDIT.md",
+      "sha256": "a4a795ac137fd5cc8218c6ae180055b8461993e240dfc16e63ee3bf3e6d3e753",
+      "bytes": 17446
+    },
+    {
+      "path": "independent-audit/check-run.txt",
+      "sha256": "3638b8492d16d31cdf3654a8f7cb120155c74076ecf8f96ce528c3af43858ded",
+      "bytes": 820
+    },
+    {
+      "path": "independent-audit/check_root_seed_geometry.py",
+      "sha256": "d8fd079b214fd3bbecb7877bc2ad285036f09ea532924b752528a80e60c2965a",
+      "bytes": 3763
+    },
+    {
+      "path": "independent-audit/geometry-check-results.json",
+      "sha256": "3638b8492d16d31cdf3654a8f7cb120155c74076ecf8f96ce528c3af43858ded",
+      "bytes": 820
+    },
+    {
+      "path": "seed-metric-check.json",
+      "sha256": "2b951c3fb2523044d7573a8644e7c609774bc0581c7f2bc08076eec1fbcdaf68",
+      "bytes": 1409
+    }
+  ]
+}

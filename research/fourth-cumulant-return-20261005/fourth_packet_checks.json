@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "assertions": 1625,
+  "scope": "Exact hierarchy, amplitude/readout algebra, scalar positive-clock bounds, star feedback and buffer powers. Does not execute the native compiler or certify the theorem without mathematical review."
+}

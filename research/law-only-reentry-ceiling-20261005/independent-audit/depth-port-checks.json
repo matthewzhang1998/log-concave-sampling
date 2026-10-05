@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checks": 692,
+  "reviewed_sha256": "1de572cbddecd40ed5c990df98638a5551d714f74cbc0d50dfd5200c19a3d58e",
+  "scope": "Independent exact rational checks of native scale exponents, physical source closure, root-count algebra and finite affine recurrence only. No native VALUE/compiler execution or nonlinear theorem is numerically tested."
+}

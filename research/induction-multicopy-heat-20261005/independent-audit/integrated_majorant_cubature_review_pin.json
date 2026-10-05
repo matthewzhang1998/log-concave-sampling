@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "reviewed_file": "INTEGRATED-MAJORANT-CUBATURE.md",
+  "sha256": "3bdb992544dbba0af0581d0ae4cfc023e2528277fe144fb1b617fd43a8de5e56",
+  "scope": "Positive normalized-coefficient cubature bound, subject to all explicitly imported source, heat, census, and mass-envelope contracts. Four earlier frozen snapshots are unchanged."
+}

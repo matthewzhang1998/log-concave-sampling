@@ -1,0 +1,185 @@
+{
+  "assertions": 34787,
+  "status": "PASS",
+  "native_compiler_executed": false,
+  "author_implementation_imported": false,
+  "allocation_max_relative_error": 1.0880185641326534e-14,
+  "max_multiplier_error_excess": 0.0,
+  "sharpness": [
+    {
+      "m": 1,
+      "values": [
+        {
+          "p": 4,
+          "mass_over_h2": 0.35728849479949076,
+          "two_power_scaled": 0.19087139022021202,
+          "false_four_power_scaled": 3.0539422435233923
+        },
+        {
+          "p": 8,
+          "mass_over_h2": 0.48983577720992866,
+          "two_power_scaled": 0.251458360338964,
+          "false_four_power_scaled": 64.37334024677479
+        },
+        {
+          "p": 12,
+          "mass_over_h2": 0.4993594827918938,
+          "two_power_scaled": 0.2557141932751538,
+          "false_four_power_scaled": 1047.40533565503
+        },
+        {
+          "p": 16,
+          "mass_over_h2": 0.4999599470538407,
+          "two_power_scaled": 0.25598212941720333,
+          "false_four_power_scaled": 16776.044833485837
+        },
+        {
+          "p": 20,
+          "mass_over_h2": 0.49999749661029114,
+          "two_power_scaled": 0.25599888305863655,
+          "false_four_power_scaled": 268434.2848020929
+        },
+        {
+          "p": 24,
+          "mass_over_h2": 0.49999984353782845,
+          "two_power_scaled": 0.25599993019104783,
+          "false_four_power_scaled": 4294966.124800131
+        }
+      ]
+    },
+    {
+      "m": 3,
+      "values": [
+        {
+          "p": 4,
+          "mass_over_h2": 0.35796081181686534,
+          "two_power_scaled": 0.09454480203107403,
+          "false_four_power_scaled": 1.5127168324971845
+        },
+        {
+          "p": 8,
+          "mass_over_h2": 0.489839066464409,
+          "two_power_scaled": 0.11624514502520385,
+          "false_four_power_scaled": 29.758757126452185
+        },
+        {
+          "p": 12,
+          "mass_over_h2": 0.49935949581847716,
+          "two_power_scaled": 0.11772714618768793,
+          "false_four_power_scaled": 482.21039078476974
+        },
+        {
+          "p": 16,
+          "mass_over_h2": 0.49995994710476954,
+          "two_power_scaled": 0.11782028564532704,
+          "false_four_power_scaled": 7721.470240052153
+        },
+        {
+          "p": 20,
+          "mass_over_h2": 0.4999974966104902,
+          "two_power_scaled": 0.11782610888304691,
+          "false_four_power_scaled": 123549.6299481498
+        },
+        {
+          "p": 24,
+          "mass_over_h2": 0.4999998435378293,
+          "two_power_scaled": 0.11782647282653888,
+          "false_four_power_scaled": 1976800.1851289733
+        }
+      ]
+    },
+    {
+      "m": 8,
+      "values": [
+        {
+          "p": 4,
+          "mass_over_h2": 0.3579608118179749,
+          "two_power_scaled": 0.043908779880721366,
+          "false_four_power_scaled": 0.7025404780915419
+        },
+        {
+          "p": 8,
+          "mass_over_h2": 0.489839066464409,
+          "two_power_scaled": 0.05519952451170126,
+          "false_four_power_scaled": 14.131078274995522
+        },
+        {
+          "p": 12,
+          "mass_over_h2": 0.49935949581847716,
+          "two_power_scaled": 0.055977672793778056,
+          "false_four_power_scaled": 229.28454776331492
+        },
+        {
+          "p": 16,
+          "mass_over_h2": 0.4999599471047695,
+          "two_power_scaled": 0.056026604937175685,
+          "false_four_power_scaled": 3671.7595811627457
+        },
+        {
+          "p": 20,
+          "mass_over_h2": 0.49999749661049003,
+          "two_power_scaled": 0.05602966436664983,
+          "false_four_power_scaled": 58751.36134292421
+        },
+        {
+          "p": 24,
+          "mass_over_h2": 0.4999998435378292,
+          "two_power_scaled": 0.0560298555331754,
+          "false_four_power_scaled": 940024.9887288789
+        }
+      ]
+    },
+    {
+      "m": 16,
+      "values": [
+        {
+          "p": 4,
+          "mass_over_h2": 0.3579608118179749,
+          "two_power_scaled": 0.02249179367831302,
+          "false_four_power_scaled": 0.3598686988530083
+        },
+        {
+          "p": 8,
+          "mass_over_h2": 0.489839066464409,
+          "two_power_scaled": 0.02844601725337312,
+          "false_four_power_scaled": 7.282180416863519
+        },
+        {
+          "p": 12,
+          "mass_over_h2": 0.49935949581847716,
+          "two_power_scaled": 0.02885738743140636,
+          "false_four_power_scaled": 118.19985891904045
+        },
+        {
+          "p": 16,
+          "mass_over_h2": 0.4999599471047695,
+          "two_power_scaled": 0.028883259503802904,
+          "false_four_power_scaled": 1892.893294841227
+        },
+        {
+          "p": 20,
+          "mass_over_h2": 0.49999749661049,
+          "two_power_scaled": 0.0288848771438106,
+          "false_four_power_scaled": 30287.988935948342
+        },
+        {
+          "p": 24,
+          "mass_over_h2": 0.49999984353782917,
+          "two_power_scaled": 0.028884978211320092,
+          "false_four_power_scaled": 484609.5186066108
+        }
+      ]
+    }
+  ],
+  "input_sha256": {
+    "/workspace/shared/induction-renewable-heat-budget-20261005/CLOCK-MASS-TWO-STEP-REENTRY.md": "6385fbb2c2df9ec9eeecdaf523889bb18b03084193056df220940e0fe43f5d39",
+    "/workspace/shared/induction-renewable-heat-budget-20261005/WEIGHTED-GENERATOR-CONTRACT.md": "bfd6c02a34cf5e2d37e99f60dbb23cdcdff78e011a6181f7e03a2c2f5ce3f158",
+    "/workspace/shared/induction-heat-defect-reentry-20261005/HEAT-SHELL-REENTRY.md": "aa34c50498fb9d6c38cd7489c87a2660ccac0d9afac48729585d6175a7f46aa4",
+    "/workspace/shared/induction-mixed-queue-20261005/WEIGHTED-MIXED-QUEUE.md": "c2592c68d70bfeb69ec52d92ec7abeeec22bd4b12759d43be62cb75d594735f0",
+    "/workspace/shared/induction-mixed-queue-20261005/SIMULTANEOUS-FAMILY-JOIN.md": "ff7d4511d4691172849a4f1429d20fd1c35e066dcef29f429fc9193b05185c87",
+    "/workspace/shared/induction-mixed-queue-20261005/COMMON-CARRIER-AMALGAMATION.md": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8",
+    "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+    "/workspace/shared/induction-native-rank-generator-20261005/RANK8-SMOOTHED-NATIVE-RETURN.md": "f812083428f7b612cdc90a27a5da2be4aafd034f0d14b7cdc73e9bb5361cca27",
+    "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d"
+  }
+}

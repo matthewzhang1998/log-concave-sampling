@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "checks": 5,
+  "potential_instances": 1080,
+  "rank8": {
+    "n": 8,
+    "gamma": "1/7",
+    "target": "57/7",
+    "own": "93/7",
+    "self": "99/7",
+    "root_caller": "13/2"
+  },
+  "triple_raw_calls_max": 44
+}

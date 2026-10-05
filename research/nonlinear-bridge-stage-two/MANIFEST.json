@@ -1,0 +1,93 @@
+{
+  "packet": "One finite nonlinear stage-two VALUE repair",
+  "date_utc": "2026-10-05",
+  "status": "PASS: independent audit of new ingredients and full interfaces; native compilers remain guarded imports",
+  "entry": "STAGE-TWO-POSITIVE-VALUE-THEOREM.md",
+  "provenance": {
+    "original_matrix_free_theorem_sha256": "772a0b758f7a4294ec9127629bec5bdd78b1f2ba167f32912ed5e7495e3ba06b",
+    "original_matrix_free_manifest_sha256": "50af4b0dc59da95e5c656ffc5415515b61ff8882652f3de6538e3af46c8fbcb0",
+    "stage_one_theorem_sha256": "301ace0ae1a52f1cc62193c716702e0d908affab149ffd147082b23ad4d5637e",
+    "stage_one_manifest_sha256": "5d030acf6f366539239ddfea9dca3e6b5c9b05adc323f2432cf49ecc266c161d"
+  },
+  "scope": {
+    "target": "Guarded order-four canonical-m3 own-mean law component",
+    "source_class": "Fixed orthogonal blocks of dimension <=b; 0<=Dg<=AI; Lip(Dg_block)<=BA; continuous D2g_block with Lip(D2g_block)<=CA",
+    "pair_quadrature": "Positive true conditional ordered pair, O_b(log^4(1/delta)) nodes; very large explicit constants; no practical runtime claim",
+    "private_roots": "5D",
+    "raw_residual_values": "(5+3J1+5JL+6JQ)N_out per fully charged occurrence",
+    "normalized_private_first": "<=9A",
+    "normalized_curl": "<25A^2, with ell_E=9A and a_seed=3A",
+    "exclusions": [
+      "No induction",
+      "No uniform unrestricted high-dimensional C2 rate",
+      "No complete fourth-order endpoint join",
+      "No new implementation or reproof of native mean compilers",
+      "No automatic inheritance of the old five-residual certificate"
+    ]
+  },
+  "checks": {
+    "author_assertions": 8170,
+    "independent_assertions": 5107,
+    "exact_rational_covariance_boxes": 2792,
+    "global_conditional_innovation_gap": "1/16",
+    "explicit_complex_relative_radius": "2^-24",
+    "all_stated_independent_review_issues": "resolved"
+  },
+  "files": [
+    {
+      "path": "INDEPENDENT-STAGE-TWO-AUDIT.md",
+      "bytes": 13599,
+      "sha256": "65ca0b6ebef252429dbd76ff6d663e0a2328510e6b4683f7ad8435276b95336f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3317,
+      "sha256": "7fede3cdabee244b01dcb018b33fa8671a14835727cfbc5e2c51fcc7400f89f1"
+    },
+    {
+      "path": "SHIFTED-BIAS-AND-PORTS-DERIVATION.md",
+      "bytes": 16882,
+      "sha256": "9650c96e96a24e64e4afa4da183b652bb5dbc410040b69e40d20783058acd682"
+    },
+    {
+      "path": "STAGE-TWO-POSITIVE-VALUE-THEOREM.md",
+      "bytes": 20063,
+      "sha256": "c7275de9261bce2eeaee1ba054351055b1e236590340ee7b1554ff064ffa2f13"
+    },
+    {
+      "path": "TWO-TIME-POSITIVE-QUADRATURE.md",
+      "bytes": 16216,
+      "sha256": "cf1e49725233fc07c2f2ae553c1128cc74fb584cb865b3f515f6c45e5bab60af"
+    },
+    {
+      "path": "certify_pair_covariance.py",
+      "bytes": 3254,
+      "sha256": "b14c9e58842a1b5f7b175c616cf303b91d18ee302162c195f5857f105962313e"
+    },
+    {
+      "path": "check_stage_two_source.json",
+      "bytes": 453,
+      "sha256": "eb1f18a6a71748d3920410aeb1ad65ac482ca1518ed644a805aebe2f600c794f"
+    },
+    {
+      "path": "check_stage_two_source.py",
+      "bytes": 5773,
+      "sha256": "39779e57cfa75b3f0226e069bc19c36948b61e38a4b867811cd62f2bbad10160"
+    },
+    {
+      "path": "independent_stage_two_checks.json",
+      "bytes": 608,
+      "sha256": "96439d4f600edfeb62cd8d19e74f34e677069986d38dce0573eb088f1f786710"
+    },
+    {
+      "path": "independent_stage_two_checks.py",
+      "bytes": 4038,
+      "sha256": "1ea623d37f636b18d492cbd2c36ab4b49339d6c6c89ab3d41b5f4a9c8c22045e"
+    },
+    {
+      "path": "pair-covariance-certificate.json",
+      "bytes": 296,
+      "sha256": "b2b0d5efd7a65ab7bdac34c85e6ce182da4b002ece2cf40293de497687e0f302"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+=== fourth-cumulant-return-20261005 ===
+INPUT-PINS.json: OK
+POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md: OK
+README.md: OK
+check_fourth_packet.py: OK
+check_multidimensional_target.py: OK
+comparison/FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md: OK
+comparison/POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md: OK
+fourth_packet_checks.json: OK
+independent-audit/AUDIT.md: OK
+independent-audit/MANIFEST.json: OK
+independent-audit/check_positive_fourth_independent.py: OK
+independent-audit/independent_checks.json: OK
+independent-audit/verify_pins.py: OK
+multidimensional_target_checks.json: OK
+MANIFEST.json: OK
+=== retuned-gram-native-20261005 ===
+GRAM-NOISE-FOUR-PATH-TARGET-AND-SHARPNESS.md: OK
+MANIFEST.json: OK
+POSITIVE-CORRECTED-GRAM-MIXTURE.md: OK
+README.md: OK
+RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md: OK
+check-run.txt: OK
+check_corrected_gram.py: OK
+corrected_gram_checks.json: OK
+independent-audit/INDEPENDENT-POSITIVE-GRAM-CORRECTION-AUDIT.md: OK
+independent-audit/INDEPENDENT-RETUNED-GRAM-AUDIT.md: OK
+independent-audit/check-run.txt: OK
+independent-audit/check_positive_gram_correction.py: OK
+independent-audit/check_retuned_gram.py: OK
+independent-audit/correction-check-run.txt: OK
+independent-audit/positive_gram_correction_checks.json: OK
+independent-audit/retuned_gram_checks.json: OK
+regenerate_manifest.py: OK
+=== combined-bridge-skew-20261005 ===
+COMBINED-BRIDGE-SKEW-JOIN.md: OK
+README.md: OK
+check_combined_join.py: OK
+combined_join_checks.json: OK
+independent-audit/INDEPENDENT-COMBINED-JOIN-AUDIT.md: OK
+independent-audit/check-run.txt: OK
+independent-audit/check_combined_join.py: OK
+independent-audit/combined-checks.json: OK
+MANIFEST.json: OK
+=== combined-mean-reentry-20261005 ===
+/workspace/shared/combined-mean-reentry-20261005/APPLICATION-TO-SEALED-COMBINED-SOURCE.md: OK
+/workspace/shared/combined-mean-reentry-20261005/POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md: OK
+/workspace/shared/combined-mean-reentry-20261005/README.md: OK
+/workspace/shared/combined-mean-reentry-20261005/independent-audit/INDEPENDENT-PADDING-CEILING-AUDIT.md: OK
+/workspace/shared/combined-mean-reentry-20261005/independent-audit/check_padding_ceiling.py: OK
+/workspace/shared/combined-mean-reentry-20261005/independent-audit/padding-ceiling-checks.json: OK
+/workspace/shared/combined-mean-reentry-20261005/MANIFEST.json: OK

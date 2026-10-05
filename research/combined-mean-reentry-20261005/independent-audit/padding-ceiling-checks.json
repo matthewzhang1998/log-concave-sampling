@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "checks": 1827,
+  "mu": "A^(1/2)",
+  "scales": {
+    "w": "A^(5/6)",
+    "h": "A^(7/4)",
+    "eta": "A^(3/2)"
+  },
+  "raw_split_integrated_rows": [
+    {
+      "monomial": "A^5 u^-3/2",
+      "integrated_grades": [
+        "15/4",
+        "17/4"
+      ]
+    },
+    {
+      "monomial": "A^5 u^-1",
+      "integrated_grades": [
+        "25/6",
+        "5"
+      ]
+    },
+    {
+      "monomial": "A^9/2 u^-1/2",
+      "integrated_grades": [
+        "49/12"
+      ]
+    },
+    {
+      "monomial": "A^5 u^-1/2",
+      "integrated_grades": [
+        "55/12"
+      ]
+    },
+    {
+      "monomial": "A^23/4 u^-3/2",
+      "integrated_grades": [
+        "9/2",
+        "5"
+      ]
+    },
+    {
+      "monomial": "A^6 u^-3/2",
+      "integrated_grades": [
+        "19/4",
+        "21/4"
+      ]
+    }
+  ],
+  "companion_sha256": "53748adb366902bc875e5d74871bcd1a9cda74ec22524bba699f38fc4c918f49",
+  "scope": "Exact native-scaling and positive-bound-ledger algebra. No combined producer or native compiler execution; the original unmodified graph does not reach this grade."
+}

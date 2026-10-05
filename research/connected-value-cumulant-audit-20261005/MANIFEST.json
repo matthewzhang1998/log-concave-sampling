@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-05",
+  "status": "PASS_SCOPED",
+  "primary": "INDEPENDENT-AUDIT.md",
+  "checker": "independent_check.py",
+  "results": "independent-checks.json",
+  "source_modified": false,
+  "critical_clarification": "Caller-integrated approximate bias must be the conditional bias function E[T|Y]-K(Y), not only fully averaged tensor bias.",
+  "new_certificate": "epsilon=2^-80 gives simultaneous nonzero continuous-OU cumulants at ranks four and eight."
+}

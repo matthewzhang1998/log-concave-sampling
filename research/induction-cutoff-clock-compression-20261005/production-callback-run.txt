@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "production_scalar_parameters": {
+    "J": 42,
+    "m": 21,
+    "intervals": 5376,
+    "node_count_per_tree": 25491013632,
+    "certified_bits": 327
+  },
+  "active_source_sha256": "d321f4256d2ab764b04a87c286bd7500b8e73934a901af9848cff99170448047",
+  "VALUE_callback_checks": [
+    {
+      "order": 0,
+      "raw_VALUE_calls": 2,
+      "exact_origin_zero": true
+    },
+    {
+      "order": 1,
+      "raw_VALUE_calls": 4,
+      "exact_origin_zero": true
+    },
+    {
+      "order": 2,
+      "raw_VALUE_calls": 8,
+      "exact_origin_zero": true
+    },
+    {
+      "order": 3,
+      "raw_VALUE_calls": 16,
+      "exact_origin_zero": true
+    },
+    {
+      "order": 4,
+      "raw_VALUE_calls": 32,
+      "exact_origin_zero": true
+    }
+  ],
+  "scope": "Full rational scalar preparation; raw diagnostic original-VALUE callback only; no native sampler or certified Sobolev oracle executed."
+}

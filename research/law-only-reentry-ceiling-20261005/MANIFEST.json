@@ -1,0 +1,72 @@
+{
+  "status": "independently_audited_finite_depth_reentry_and_aggregate_cutoff_extension",
+  "entry": "/workspace/shared/law-only-reentry-ceiling-20261005/README.md",
+  "result": "Actual mean-source reentry e_next <= A e + forcing; old certified grade16/5 unchanged. Covariance and third-cumulant restoration proven. Outer-cutoff variable-buffer aggregate ports admitted for fixed beta<3/2.",
+  "author_checks": 4721,
+  "independent_checks": 1893,
+  "no_claims": [
+    "No new accuracy exponent in this packet",
+    "No RAW force/covariance promotion",
+    "No endpoint sampler",
+    "No all-order or sublinear-order recurrence",
+    "No native numerical compiler execution"
+  ],
+  "files": [
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/INDEPENDENT-OUTER-CUTOFF-ADDENDUM.md",
+      "sha256": "ddbe52d0ccf04956f0948d8a4429f5aae135185c141026eaa2d54ebd086c63ee",
+      "bytes": 8070
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/README.md",
+      "sha256": "fed4d3347f7dcbb30b4f38a75b2a2b7b7dd7a2a5d0127b17136a878edd2fb7e1",
+      "bytes": 2290
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/REUSABLE-PORT-AND-DEPTH-RECURRENCE.md",
+      "sha256": "1de572cbddecd40ed5c990df98638a5551d714f74cbc0d50dfd5200c19a3d58e",
+      "bytes": 16252
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/check-results.json",
+      "sha256": "49969afeabb9d47cc4c075fabf8923c40f986cb845e27b19fc07395eb18b0f82",
+      "bytes": 521
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/check_reentry_ledger.py",
+      "sha256": "589d7caa960d9330ff8564fbc9473b8abeed6e84f5c85e564f4c2d72b4c1b2d7",
+      "bytes": 2820
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/independent-audit/INDEPENDENT-REENTRY-DEPTH-PORT-AUDIT.md",
+      "sha256": "ba0c83824c2b1f6a8680883caf559a12126e105a51d46466600d85204c3889a8",
+      "bytes": 15359
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/independent-audit/check_depth_ports.py",
+      "sha256": "acbf87ef868f0d6731c93afe33ead2e9e63d97b59db7c26822a34f808e2b5305",
+      "bytes": 2184
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/independent-audit/check_independent_cutoff.py",
+      "sha256": "ac098320dbfa81908803923dd59065cfdbd48d45a37fb22bf4ba39f06b0d76dd",
+      "bytes": 3422
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/independent-audit/depth-port-checks.json",
+      "sha256": "cc03f09a9ffad382274bf07a6c3b272a93c11baf8d520f8751ca69d6c884613b",
+      "bytes": 362
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/independent-audit/independent-cutoff-checks.json",
+      "sha256": "bff549b8195b4669dc62e31009517c0a8c55a11e5cd9ca44f5a52b196d38106d",
+      "bytes": 716
+    }
+  ],
+  "pinned_inputs": [
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/MANIFEST.json",
+      "sha256": "673bdfcc6dc54c00ea380c942039add5ecda9f32686e6af0398243923dc6f3a7"
+    }
+  ]
+}

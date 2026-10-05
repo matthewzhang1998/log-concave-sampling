@@ -1,0 +1,120 @@
+{
+  "eta": 0.5,
+  "coefficient_lower_bound": "7/1728",
+  "continuous_covariance_mass": 0.3668502750680849,
+  "continuous_covariance_lower_coefficient": 0.004844198910584642,
+  "finite_four_node": {
+    "nodes": [
+      0.125,
+      0.375,
+      0.625,
+      0.875
+    ],
+    "weights": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "c_eta": 0.011889978924938099,
+    "covariance_mass": 0.3312068777356939,
+    "rational_covariance_mass_lower": "693949/2150400",
+    "rational_excess_over_5_16": "21949/2150400"
+  },
+  "quadrature_diagnostics": [
+    {
+      "kind": "Gauss-Legendre square",
+      "nodes": 4,
+      "c_eta": 0.011855493792637778,
+      "covariance_mass": 0.32954866959063156,
+      "first_moment": 0.5,
+      "A001_remainder_adjusted_coefficient": 0.010188827125971111
+    },
+    {
+      "kind": "Gauss-Legendre square",
+      "nodes": 8,
+      "c_eta": 0.01286308463488912,
+      "covariance_mass": 0.35597143372299445,
+      "first_moment": 0.5,
+      "A001_remainder_adjusted_coefficient": 0.011196417968222454
+    },
+    {
+      "kind": "Gauss-Legendre square",
+      "nodes": 16,
+      "c_eta": 0.013163843176992065,
+      "covariance_mass": 0.3638947633911296,
+      "first_moment": 0.5,
+      "A001_remainder_adjusted_coefficient": 0.011497176510325398
+    },
+    {
+      "kind": "Gauss-Legendre square",
+      "nodes": 32,
+      "c_eta": 0.013246667035876979,
+      "covariance_mass": 0.36607960316478316,
+      "first_moment": 0.5,
+      "A001_remainder_adjusted_coefficient": 0.011580000369210312
+    },
+    {
+      "kind": "Gauss-Legendre square",
+      "nodes": 64,
+      "c_eta": 0.013268409075406457,
+      "covariance_mass": 0.3666535407629071,
+      "first_moment": 0.5,
+      "A001_remainder_adjusted_coefficient": 0.01160174240873979
+    },
+    {
+      "kind": "Gauss-Legendre square",
+      "nodes": 128,
+      "c_eta": 0.013273976802978534,
+      "covariance_mass": 0.36680058186691034,
+      "first_moment": 0.5,
+      "A001_remainder_adjusted_coefficient": 0.011607310136311867
+    },
+    {
+      "kind": "Gauss-Legendre square",
+      "nodes": 256,
+      "c_eta": 0.013275385229281258,
+      "covariance_mass": 0.3668377882832433,
+      "first_moment": 0.5000000000000001,
+      "A001_remainder_adjusted_coefficient": 0.01160871856261459
+    },
+    {
+      "kind": "Gauss-Legendre triangle",
+      "nodes_each": 32,
+      "c_eta": 0.013276069561507276,
+      "covariance_mass": 0.36685694235109023
+    },
+    {
+      "kind": "Gauss-Legendre triangle",
+      "nodes_each": 64,
+      "c_eta": 0.013275884898870327,
+      "covariance_mass": 0.36685112754843247
+    },
+    {
+      "kind": "Gauss-Legendre triangle",
+      "nodes_each": 128,
+      "c_eta": 0.013275861243543415,
+      "covariance_mass": 0.3668503828622379
+    },
+    {
+      "kind": "Gauss-Legendre triangle",
+      "nodes_each": 256,
+      "c_eta": 0.013275858249724477,
+      "covariance_mass": 0.36685028862084473
+    }
+  ],
+  "quadratic_defects": [
+    {
+      "A": 0.01,
+      "coefficient": -0.35475
+    },
+    {
+      "A": 0.001,
+      "coefficient": -0.36758640015542865
+    },
+    {
+      "A": 0.0001,
+      "coefficient": -0.37254975
+    }
+  ]
+}

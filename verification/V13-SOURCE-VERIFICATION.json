@@ -1,0 +1,154 @@
+{
+  "status": "PASS_WITH_EXPLICIT_HISTORICAL_AND_EXTERNAL_QUALIFICATIONS",
+  "exact_new_files_verified": 843,
+  "source_mappings_verified": 843,
+  "checksum_lists_verified": 68,
+  "matching_checksum_members": 894,
+  "direct_input_pins_verified": 461,
+  "exact_reviewed_snapshot_resolutions": [
+    {
+      "record": "research/induction-shared-variables-20261005/marked-spanning-tree-addendum/INPUT-PINS.json",
+      "source": "/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md",
+      "exact_reviewed_snapshot": "research/induction-shared-variables-20261005/marked-spanning-tree-addendum/REVIEWED-MARKED-SPANNING-TREE-EXTENSION.md",
+      "sha256": "c54f551585d4f8c0cd5b46bef4eb4f934eee2284a5d7326f84ad23fc03744971"
+    }
+  ],
+  "historical_seal_exceptions": [
+    {
+      "record": "research/positive-endpoint-mean-join-20261005/SHA256SUMS",
+      "path": "research/positive-endpoint-mean-join-20261005/independent-audit/INDEPENDENT-ENDPOINT-JOIN-AUDIT.md",
+      "recorded": "cc4f5bc8d50672a8da492cef001f498f0c9275c837261d59734470a7354f89ef",
+      "actual": "962eb398c771a25ee4fa1ddeb4a30123fef46a1ea71ab0269031c8c4664c8b10",
+      "status": "documented_historical_mismatch"
+    }
+  ],
+  "external_pins_not_reverified": [
+    {
+      "record": "research/skew-square-positive-return-20261005/independent-audit/SHA256SUMS",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/cycle-surplus-closure-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/cycle-surplus-closure-20261005/independent-audit/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/dyadic-prefix-law-join-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/dyadic-prefix-law-join-20261005/independent-audit/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/fourth-cumulant-return-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/induction-carrier-fixed-native-20261005/SOURCE-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/induction-carrier-replacement-20261005/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/induction-mixed-queue-20261005/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/induction-renewable-heat-budget-20261005/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/13_high_acc.tex",
+      "expected": "4c371cfca4a9043a263f19efe239a0543ec47e5efbe69f2236391042c913cf62"
+    },
+    {
+      "record": "research/induction-renewable-heat-budget-20261005/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/induction-shared-variables-20261005/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/induction-shared-variables-20261005/independent-audit/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/marked-shifted-local-current-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/multilevel-covariance-independent-audit-20261005/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/old-bank-sixth-return-20261005/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/peer-carrier-interface-20261005/SOURCE-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/positive-fourth-order-endpoint-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/public-readout-cycle-contract-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/public-readout-cycle-contract-20261005/independent-audit/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/public-readout-cycle-contract-20261005/independent-audit/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/quartic-corrected-mean-join-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/rank-indexed-positive-returns-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/skew-square-positive-return-20261005/INPUT-PINS.json",
+      "source": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "record": "research/two-cycle-positive-return-20261005/INPUT-PINS.json",
+      "source": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    }
+  ],
+  "other_historical_hash_references": "See V13-HISTORICAL-PINS.json; earlier audit output hashes are not silently recertified against current sources.",
+  "errors": []
+}

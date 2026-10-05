@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "assertions": 5107,
+  "maximum_pair_covariance_identity_error": 5.606351459942525e-16,
+  "maximum_complex_standardized_covariance_distance": 1.0431547205552061e-07,
+  "maximum_complex_normalized_mean_map": 1.2229632348854915e-07,
+  "maximum_noncommuting_cubic_identity_error": 1.0014187065170149e-14,
+  "exact_normalized_first_square_upper_bound": "547655/8192",
+  "scope": "Independent identities and scalar constants. Analytic holomorphy, positive quadrature, full bias theorem and guarded compiler import are reviewed in the accompanying audit, not inferred from these samples."
+}

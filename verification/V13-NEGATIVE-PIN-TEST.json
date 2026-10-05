@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "incorrect_external_source_rejected": true,
+  "scope": "An intentionally incorrect local text file supplied as LOW30 was rejected by the required source hash. No external manuscript bytes were read or included.",
+  "fixture_sha256": "ad26501a604d04366a01f4c26fac6f51cbccbf45556213bf78b7dd0b55c78118",
+  "script": "research/law-only-variance-join-20261005/independent-audit/check_law_only_join.py"
+}

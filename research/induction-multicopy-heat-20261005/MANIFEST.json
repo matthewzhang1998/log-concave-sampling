@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-05",
+  "title": "Exact multi-copy Gaussian heat and clock bounds",
+  "status": "independent-audit-pass-with-explicit-native-ownership-and-finite-cost-guards",
+  "main_results": [
+    "Exact retained-B replica covariance and simultaneous m_star heat allocation",
+    "Three cubic main/first and literal root-square budgets",
+    "Full mixed 3/3/6 caller eta^-1; diagonal caller eta^-1/2",
+    "n cubic q-hit cutoff exponent max(n+q-4,0)",
+    "Positive finite cubature with integrated Price-majorant improvement"
+  ],
+  "not_claimed": [
+    "general correction-queue closure",
+    "new shared-carrier native replacement port",
+    "public-log higher-copy cubature",
+    "arbitrary-order positive sampler",
+    "eventual-sublinear high-accuracy exponent"
+  ],
+  "files": [
+    {
+      "path": "FINAL-STATUS.md",
+      "bytes": 4099,
+      "sha256": "eeb9d0810dd0f0913bea9fdf234658e0fba38bb9374ec4dc36cbc24d3bc13bff"
+    },
+    {
+      "path": "FINITE-CUBATURE-AND-N-COPY-RULE.md",
+      "bytes": 11647,
+      "sha256": "1b4142f838cca1947a2fd38affd8f12ed4e358b65b8d57029ae0ae2a4f7eefd6"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "bytes": 2127,
+      "sha256": "bfa90e0be63e5fbc651dcb7542818740e6bf3485f545768d931642edf2d2d864"
+    },
+    {
+      "path": "INTEGRATED-MAJORANT-CUBATURE.md",
+      "bytes": 4552,
+      "sha256": "3bdb992544dbba0af0581d0ae4cfc023e2528277fe144fb1b617fd43a8de5e56"
+    },
+    {
+      "path": "MIXED-THREE-THREE-SIX.md",
+      "bytes": 13384,
+      "sha256": "495a6b333f71e5e22fac8c2d2d4fdc4bf3a53771ec414eefed525ae2c1f90b0a"
+    },
+    {
+      "path": "N-CUBIC-RANK-EXPLICIT-BOUNDS.md",
+      "bytes": 7642,
+      "sha256": "fdbd54b02906cbf3796b8c4ec8ab18e2aded671c3d05509cb757596c924e01b0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4098,
+      "sha256": "7f68cbc3ff346d7b6d1f4ec5ff3222ebbedac1cea751f25243af623f2c77085a"
+    },
+    {
+      "path": "THREE-CUBIC-EXACT-HEAT.md",
+      "bytes": 13855,
+      "sha256": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc"
+    },
+    {
+      "path": "check-run.txt",
+      "bytes": 2813,
+      "sha256": "881cec4ebcd5ee565091340a12189332f607b006e6c988870f8cb1980c67f56d"
+    },
+    {
+      "path": "check_multicopy_heat.py",
+      "bytes": 11043,
+      "sha256": "1c562fbe6b7fe0857e569eecf18ecb73b4bffbcac1ea3714eafc3fb438b05b2e"
+    },
+    {
+      "path": "checks.json",
+      "bytes": 2813,
+      "sha256": "881cec4ebcd5ee565091340a12189332f607b006e6c988870f8cb1980c67f56d"
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-MULTICOPY-HEAT-AUDIT.md",
+      "bytes": 20773,
+      "sha256": "d7b79ba3f0383130a2b866a93a404fd2a9f28ad7fd282db135f2c8e3243146a2"
+    },
+    {
+      "path": "independent-audit/INTEGRATED-PRICE-CUBATURE-REFINEMENT-AUDIT.md",
+      "bytes": 4309,
+      "sha256": "c74466f6bc1f59b42cc52b9863e5f27531902a31f3f2be93e6bf68b745a75fc1"
+    },
+    {
+      "path": "independent-audit/REVIEWED-FINITE-CUBATURE-AND-N-COPY-RULE.md",
+      "bytes": 11647,
+      "sha256": "1b4142f838cca1947a2fd38affd8f12ed4e358b65b8d57029ae0ae2a4f7eefd6"
+    },
+    {
+      "path": "independent-audit/REVIEWED-INTEGRATED-MAJORANT-CUBATURE.md",
+      "bytes": 4552,
+      "sha256": "3bdb992544dbba0af0581d0ae4cfc023e2528277fe144fb1b617fd43a8de5e56"
+    },
+    {
+      "path": "independent-audit/REVIEWED-MIXED-THREE-THREE-SIX.md",
+      "bytes": 13384,
+      "sha256": "495a6b333f71e5e22fac8c2d2d4fdc4bf3a53771ec414eefed525ae2c1f90b0a"
+    },
+    {
+      "path": "independent-audit/REVIEWED-N-CUBIC-RANK-EXPLICIT-BOUNDS.md",
+      "bytes": 7642,
+      "sha256": "fdbd54b02906cbf3796b8c4ec8ab18e2aded671c3d05509cb757596c924e01b0"
+    },
+    {
+      "path": "independent-audit/REVIEWED-THREE-CUBIC-EXACT-HEAT.md",
+      "bytes": 13855,
+      "sha256": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc"
+    },
+    {
+      "path": "independent-audit/check_exact_exponent_ledger.py",
+      "bytes": 7031,
+      "sha256": "7915bcc8da9aab11efe49333d8254477b7523effae92c10a03ca701b1deb7c41"
+    },
+    {
+      "path": "independent-audit/exact_exponent_ledger_checks.json",
+      "bytes": 14995,
+      "sha256": "9b0ea134b02feaeb6617d2367fb7c7c6f73add7fa1e69e769c4c9813a288f0e8"
+    },
+    {
+      "path": "independent-audit/integrated_majorant_cubature_review_pin.json",
+      "bytes": 350,
+      "sha256": "b1028174f64d2d117c2f35429850d0d8ecc934492803e8ebe643f6d4f525c296"
+    },
+    {
+      "path": "independent-audit/superseded-before-universal-heat/INDEPENDENT-MULTICOPY-HEAT-AUDIT.md",
+      "bytes": 14857,
+      "sha256": "9848958eaaac5ccc7ab6162704ac58801c14f891938760bf29e507181703caa3"
+    },
+    {
+      "path": "independent-audit/superseded-before-universal-heat/REVIEWED-FINITE-CUBATURE-AND-N-COPY-RULE.md",
+      "bytes": 10034,
+      "sha256": "afc63b3e0f1e77f2cc9822af7ceddb8d1120f23a9404c1684c48f655a636d3d0"
+    },
+    {
+      "path": "independent-audit/superseded-before-universal-heat/REVIEWED-MIXED-THREE-THREE-SIX.md",
+      "bytes": 13027,
+      "sha256": "873d636d9a64caf7cbd96f242018c3d3c0eeed7546c1a7c8d83f4b02becd0fb6"
+    },
+    {
+      "path": "independent-audit/superseded-before-universal-heat/REVIEWED-THREE-CUBIC-EXACT-HEAT.md",
+      "bytes": 13310,
+      "sha256": "86d8624af4479c1da9c532bd008ec3d5bdc48da33db18e4fb7febcc14a93959a"
+    },
+    {
+      "path": "independent-audit/superseded-before-universal-heat/SUPERSEDED.md",
+      "bytes": 498,
+      "sha256": "67e1b06a45539f6c11faead39b67a4b8e533b33368aae47b18429a87e74d01c0"
+    },
+    {
+      "path": "independent-audit/superseded-before-universal-heat/exact_exponent_ledger_checks.json",
+      "bytes": 2773,
+      "sha256": "edd0dc07707c57f708337d27ecfc6dc37255e48c8c60394f60196e364f778885"
+    }
+  ]
+}

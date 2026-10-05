@@ -1,0 +1,275 @@
+{
+  "status": "passed",
+  "assertions": 516,
+  "scope": "Exact polynomial Price/Riesz/Hermite identities, source-qualified tensor cut diagnostics, exact variance allocations, original derivative placements and scaling; not native compiler execution.",
+  "scalar_identity_checks": [
+    {
+      "test_degree": 2,
+      "identities": "passed"
+    },
+    {
+      "test_degree": 4,
+      "identities": "passed"
+    },
+    {
+      "test_degree": 6,
+      "identities": "passed"
+    },
+    {
+      "test_degree": 8,
+      "identities": "passed"
+    }
+  ],
+  "proper_cut_diagnostics": [
+    {
+      "dimension": 2,
+      "replicate": 0,
+      "HS": 1.365956682302932e-05,
+      "energy_bound": 2.882987230470144e-05,
+      "max_propercuts": {
+        "1": 9.86917954746173e-06,
+        "2": 1.101590766574449e-05,
+        "3": 9.86917954746173e-06
+      }
+    },
+    {
+      "dimension": 2,
+      "replicate": 1,
+      "HS": 9.952047672568393e-06,
+      "energy_bound": 2.4402549884774472e-05,
+      "max_propercuts": {
+        "1": 9.093352209223415e-06,
+        "2": 8.862347417407032e-06,
+        "3": 9.093352209223415e-06
+      }
+    },
+    {
+      "dimension": 2,
+      "replicate": 2,
+      "HS": 1.1402150576216904e-05,
+      "energy_bound": 2.686016085041872e-05,
+      "max_propercuts": {
+        "1": 9.450659095025911e-06,
+        "2": 9.173149173105189e-06,
+        "3": 9.450659095025913e-06
+      }
+    },
+    {
+      "dimension": 2,
+      "replicate": 3,
+      "HS": 9.904918194471714e-06,
+      "energy_bound": 2.5657096860000738e-05,
+      "max_propercuts": {
+        "1": 7.264385924155541e-06,
+        "2": 7.352333879379081e-06,
+        "3": 7.264385924155541e-06
+      }
+    },
+    {
+      "dimension": 3,
+      "replicate": 0,
+      "HS": 9.695292033715316e-06,
+      "energy_bound": 2.577851461001653e-05,
+      "max_propercuts": {
+        "1": 7.1004017268954455e-06,
+        "2": 7.017635988845819e-06,
+        "3": 7.100401726895446e-06
+      }
+    },
+    {
+      "dimension": 3,
+      "replicate": 1,
+      "HS": 9.585953418970459e-06,
+      "energy_bound": 2.6714303997178523e-05,
+      "max_propercuts": {
+        "1": 7.714223207257183e-06,
+        "2": 7.591722744103639e-06,
+        "3": 7.714223207257184e-06
+      }
+    },
+    {
+      "dimension": 3,
+      "replicate": 2,
+      "HS": 1.094345650844867e-05,
+      "energy_bound": 3.124311017627977e-05,
+      "max_propercuts": {
+        "1": 9.05073104357844e-06,
+        "2": 8.874565279141169e-06,
+        "3": 9.050731043578444e-06
+      }
+    },
+    {
+      "dimension": 3,
+      "replicate": 3,
+      "HS": 1.1850172813881332e-05,
+      "energy_bound": 4.073874270942028e-05,
+      "max_propercuts": {
+        "1": 8.487656257869767e-06,
+        "2": 8.169039811536752e-06,
+        "3": 8.487656257869765e-06
+      }
+    },
+    {
+      "dimension": 4,
+      "replicate": 0,
+      "HS": 1.2145324090852613e-05,
+      "energy_bound": 3.5969879309859375e-05,
+      "max_propercuts": {
+        "1": 9.559319423213082e-06,
+        "2": 9.35278878902489e-06,
+        "3": 9.55931942321308e-06
+      }
+    },
+    {
+      "dimension": 4,
+      "replicate": 1,
+      "HS": 1.1327429897389327e-05,
+      "energy_bound": 3.349883248190678e-05,
+      "max_propercuts": {
+        "1": 8.376274460966248e-06,
+        "2": 8.508533343596257e-06,
+        "3": 8.376274460966247e-06
+      }
+    },
+    {
+      "dimension": 4,
+      "replicate": 2,
+      "HS": 1.2969009670390613e-05,
+      "energy_bound": 3.79464695354609e-05,
+      "max_propercuts": {
+        "1": 9.903078164413076e-06,
+        "2": 9.566685228291978e-06,
+        "3": 9.903078164413078e-06
+      }
+    },
+    {
+      "dimension": 4,
+      "replicate": 3,
+      "HS": 1.1912223455008927e-05,
+      "energy_bound": 3.9637508873380974e-05,
+      "max_propercuts": {
+        "1": 7.723619154623158e-06,
+        "2": 7.6068536543918465e-06,
+        "3": 7.723619154623158e-06
+      }
+    },
+    {
+      "dimension": 6,
+      "replicate": 0,
+      "HS": 1.2635166194143903e-05,
+      "energy_bound": 4.867966405862179e-05,
+      "max_propercuts": {
+        "1": 7.147518192616421e-06,
+        "2": 6.4820882673126535e-06,
+        "3": 7.147518192616419e-06
+      }
+    },
+    {
+      "dimension": 6,
+      "replicate": 1,
+      "HS": 1.6749067146971704e-05,
+      "energy_bound": 6.045455380400829e-05,
+      "max_propercuts": {
+        "1": 9.700238886261867e-06,
+        "2": 9.767110109942274e-06,
+        "3": 9.700238886261868e-06
+      }
+    },
+    {
+      "dimension": 6,
+      "replicate": 2,
+      "HS": 1.418422030669194e-05,
+      "energy_bound": 4.949157466193312e-05,
+      "max_propercuts": {
+        "1": 8.357407047396708e-06,
+        "2": 8.229926759708018e-06,
+        "3": 8.357407047396711e-06
+      }
+    },
+    {
+      "dimension": 6,
+      "replicate": 3,
+      "HS": 1.3802941356058472e-05,
+      "energy_bound": 4.9532217571252924e-05,
+      "max_propercuts": {
+        "1": 7.803619407912807e-06,
+        "2": 7.787616860733021e-06,
+        "3": 7.80361940791281e-06
+      }
+    }
+  ],
+  "endpoint_diagnostics": [
+    {
+      "panels": 4,
+      "sums": [
+        1.476796361460697,
+        2.734288947231942,
+        0.10670274419027956,
+        0.1707607742398426
+      ]
+    },
+    {
+      "panels": 8,
+      "sums": [
+        1.8889191448646214,
+        5.708460212242319,
+        0.11373548238953048,
+        0.2267330189292333
+      ]
+    },
+    {
+      "panels": 16,
+      "sums": [
+        2.0116716684298765,
+        11.014960175340834,
+        0.1217136564609249,
+        0.24345322849761242
+      ]
+    },
+    {
+      "panels": 32,
+      "sums": [
+        2.0412689979250196,
+        22.004777696500163,
+        0.12386404688517835,
+        0.2586696517463314
+      ]
+    },
+    {
+      "panels": 64,
+      "sums": [
+        1.9543057993981703,
+        43.86484853959015,
+        0.1076968771896971,
+        0.22006725050802156
+      ]
+    },
+    {
+      "panels": 128,
+      "sums": [
+        1.9780535783293869,
+        88.10272384533357,
+        0.11225956641408369,
+        0.23055080030114528
+      ]
+    },
+    {
+      "panels": 256,
+      "sums": [
+        2.0342684344027617,
+        175.32109141697399,
+        0.12646487411903792,
+        0.25688452531766454
+      ]
+    }
+  ],
+  "source_sha256": {
+    "/workspace/shared/retuned-gram-native-20261005/independent-audit/INDEPENDENT-POSITIVE-GRAM-CORRECTION-AUDIT.md": "af1395d50efa244c5fbddfa8c7834a7d5adfd9d386e4c19432d03de10476f5f0",
+    "/workspace/shared/retuned-gram-native-20261005/independent-audit/check_positive_gram_correction.py": "70f24eb1beca5bae5e73725f39b6910ccfb309a2245972297a240e48f9245f3e",
+    "/workspace/shared/retuned-gram-native-20261005/POSITIVE-CORRECTED-GRAM-MIXTURE.md": "cf94de42b101c417e4902eaf90284c06d418f23adadfef3990101b0cb11ed731",
+    "/workspace/shared/retuned-gram-native-20261005/GRAM-NOISE-FOUR-PATH-TARGET-AND-SHARPNESS.md": "b10d7f7996a94fc65e96d97ba0309031aa916d625227bfb470bd77432706157b",
+    "/workspace/shared/fourth-cumulant-return-20261005/POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md": "48c23f0c8966a28eae3b6849a0c63348e62f971340d2f5016902580aeb46fee4",
+    "/workspace/shared/fourth-cumulant-return-20261005/independent-audit/AUDIT.md": "02ec661a19bca84b823fd42a2aecfd0f4d57ee662ee83852fe83f92310abb2a3",
+    "/workspace/shared/fourth-cumulant-return-20261005/independent-audit/MANIFEST.json": "bd9d5157b7b7bca56cd81dfab2eced26f3aa02c809eb409aa12a2a26a449003a"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "status": "PASS_FINITE_DIAGNOSTICS_NOT_NATIVE_EXECUTION",
+  "checks": {
+    "sealed_input_pin": {
+      "pass": true,
+      "sha256": "09ef144321423e22831c3cc720c3b8e3c48cc2bd090c891bc675d10ca7841574"
+    },
+    "factorial_envelopes": {
+      "pass": true,
+      "local_orders_checked": 257,
+      "K_range": [
+        0,
+        32
+      ],
+      "m_range": [
+        0,
+        64
+      ]
+    },
+    "augmented_graph_cut_orientation": {
+      "pass": true,
+      "triple_cubic_partitions": 510,
+      "mixed_partitions": 4094
+    },
+    "positive_weight_geometry": {
+      "pass": true,
+      "cases": 160,
+      "max_weight_to_gap_product_ratio": 0.440978990686593,
+      "max_small_edge_gap_variation": 1.9960861056751467
+    },
+    "gauss_remainder_and_error_budget": {
+      "pass": true,
+      "m_range": [
+        1,
+        64
+      ]
+    },
+    "analytic_sector_integral": {
+      "pass": true,
+      "cases": [
+        {
+          "m": 1,
+          "Q_two_sectors": 200,
+          "truncated_error": 0.0036442590387351093,
+          "actual_removed_integral": 0.04561005070454982
+        },
+        {
+          "m": 2,
+          "Q_two_sectors": 800,
+          "truncated_error": 4.533008959306528e-07,
+          "actual_removed_integral": 0.04561005070454982
+        },
+        {
+          "m": 3,
+          "Q_two_sectors": 1800,
+          "truncated_error": 2.318989444916042e-11,
+          "actual_removed_integral": 0.04561005070454982
+        },
+        {
+          "m": 4,
+          "Q_two_sectors": 3200,
+          "truncated_error": 1.5543122344752192e-15,
+          "actual_removed_integral": 0.04561005070454982
+        },
+        {
+          "m": 6,
+          "Q_two_sectors": 7200,
+          "truncated_error": 2.6645352591003757e-15,
+          "actual_removed_integral": 0.04561005070454982
+        }
+      ]
+    },
+    "exact_parameters_and_adaptive_precision": {
+      "pass": true,
+      "cases": 108,
+      "adaptive_cases": [
+        {
+          "degree": 2,
+          "bits": 189
+        },
+        {
+          "degree": 7,
+          "bits": 249
+        },
+        {
+          "degree": 16,
+          "bits": 357
+        }
+      ],
+      "prepared_degree": 9,
+      "prepared_interval_count": 75
+    }
+  },
+  "authored_file_hashes_at_run": {
+    "FINAL-STATUS.md": "6c53f0b8744c045b099b8467af97b4bf40eca5084aef02ba7e0c12c461a63000",
+    "INPUT-PINS.json": "5ca668a62cd4bd25a4286ee5f350453ea5df9e48fe574249e54d37f1b30543da",
+    "POSITIVE-SECTOR-GAUSS.md": "a4fba9037d305540242dda09adc9dbe70823755652e4a94e585d392a0dfd7dbf",
+    "README.md": "67e99c594c1786c8441e74a63ea7de229f4a5509e968a7ec3660065a8e99716c",
+    "check-run.txt": "58a47ce34c323b7c54399393a75d8c661f584a635bd98326244c450da9140225",
+    "checks.json": "81a920a7e79094999d4422581c5b528ca3c30b50051fb90a4a28ffe795ae06e6",
+    "positive_sector_gauss.py": "5646f982f27791a0026aece20f7299f42eb2b4e0fb106bfb0f4ee1b3c26b920c"
+  }
+}

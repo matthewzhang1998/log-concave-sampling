@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+    "sha256": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d"
+  },
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/REVIEWED-MARKED-SPANNING-TREE-EXTENSION.md",
+    "sha256": "c54f551585d4f8c0cd5b46bef4eb4f934eee2284a5d7326f84ad23fc03744971"
+  },
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/MARKED-SPANNING-TREE-CUT-LEMMA.md",
+    "sha256": "91332375a2035cf724f72360ed8530e0cb4561717cef00b9c3b59a94132c8dc5"
+  }
+]

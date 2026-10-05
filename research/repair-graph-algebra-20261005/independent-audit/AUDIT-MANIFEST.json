@@ -1,0 +1,19 @@
+{
+  "audit_date": "2026-10-05",
+  "verdict": "PASS as a conditional fixed-boundary formal framework; analytical/native assumptions not certified",
+  "independent_assertions": 159,
+  "inputs": {
+    "/workspace/shared/repair-graph-algebra-20261005/REPAIR-GRAPH-ALGEBRA.md": "a0599111632220ec765c3f636ec2a26ac372ea575613a80a3bb37cec6f301198",
+    "/workspace/shared/repair-graph-algebra-20261005/check_repair_algebra.py": "211170941dc5da5f0f0619b5223d7756d9168935ee77fe78fa3de551c4986427",
+    "/workspace/shared/induction-mixed-queue-20261005/WEIGHTED-MIXED-QUEUE.md": "c2592c68d70bfeb69ec52d92ec7abeeec22bd4b12759d43be62cb75d594735f0",
+    "/workspace/shared/induction-shared-variables-20261005/EXACT-WHOLE-BANK-TREE-CENSUS.md": "7d1c4e516fa002fcb9559488c7e833681402e00b9f493c2af79d1b634ed6db49",
+    "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+    "/workspace/shared/induction-renewable-heat-budget-20261005/WEIGHTED-GENERATOR-CONTRACT.md": "bfd6c02a34cf5e2d37e99f60dbb23cdcdff78e011a6181f7e03a2c2f5ce3f158"
+  },
+  "artifacts": {
+    "INDEPENDENT-AUDIT.md": "21a93a121fdff21852bc12ec11e9daa89cdc825e2be66ba5437b4bdb631e1f93",
+    "check-run.txt": "45d0ac518840b1fa318aff8b8f55d8dc8adb9e75d8538f4d5e0c289bbd06eef8",
+    "check_independently.py": "d2dc0786875b9d98e91cacb1b1d0cf03df201568cea0fa74bbe56d5690ccefc2",
+    "independent-checks.json": "45d0ac518840b1fa318aff8b8f55d8dc8adb9e75d8538f4d5e0c289bbd06eef8"
+  }
+}

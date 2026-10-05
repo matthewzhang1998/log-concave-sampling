@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "assertions": 8170,
+  "maximum_jacobian_discrepancy": 1.4789081357553205e-10,
+  "maximum_quadratic_mean_discrepancy": 1.442222014787673e-16,
+  "maximum_value_floor_usage": 0.45996384766893905,
+  "values_per_test_residual": 55,
+  "scope": "Literal graph, covariance, radius/curl, zero, quadratic mean and absolute VALUE floor diagnostics. Does not implement completed mean compilers or certify a high-accuracy pair quadrature."
+}

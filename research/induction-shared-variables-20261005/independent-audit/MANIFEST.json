@@ -1,0 +1,45 @@
+{
+  "scope": "Independent conditional audit and uniform-parameter same-endpoint completion; no native execution or unrestricted bank/RAW theorem.",
+  "files": [
+    {
+      "path": "INDEPENDENT-DECORATED-OWNERSHIP-AUDIT.md",
+      "bytes": 14358,
+      "sha256": "8ec07730815203d41e70fcac25a2cfa955cfbd3071ba5ca76d24ba1aaaafadfc"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "bytes": 2129,
+      "sha256": "043252525be5af67921384b1f2670baf678a027bbceddea50952a6c77407bdae"
+    },
+    {
+      "path": "README.md",
+      "bytes": 532,
+      "sha256": "42e8b74e051ae6c8d28a7822c8320d85510a5f99a303d5989e3eb99c39cdda9d"
+    },
+    {
+      "path": "REVIEWED-CANDIDATE.md",
+      "bytes": 25639,
+      "sha256": "8ba6a78c855fdca2f6dfee8edde1538ac4716d6a16d0da25ea9ffbd53b24ec0e"
+    },
+    {
+      "path": "UNIFORM-S-COMMON-ENDPOINT-LEMMA.md",
+      "bytes": 8910,
+      "sha256": "57bc425b07556e89ac2c275bbc3e3f043d0528d76ff3e2479fd08a5cfc015f9c"
+    },
+    {
+      "path": "check-run.txt",
+      "bytes": 2500,
+      "sha256": "9bd0a747eb3c5232ab3ef78f44a16e039f4cc2ab90d9d28a7bfffec6836d8938"
+    },
+    {
+      "path": "check_decorated_independently.py",
+      "bytes": 11337,
+      "sha256": "fce73f8016af43018594e1f2c859a5bf0027fe3d77df80c85ba3f29a9b63e023"
+    },
+    {
+      "path": "independent_decorated_checks.json",
+      "bytes": 2500,
+      "sha256": "9bd0a747eb3c5232ab3ef78f44a16e039f4cc2ab90d9d28a7bfffec6836d8938"
+    }
+  ]
+}

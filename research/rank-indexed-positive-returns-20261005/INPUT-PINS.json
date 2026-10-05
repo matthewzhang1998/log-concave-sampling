@@ -1,0 +1,57 @@
+{
+  "scope": "Only exact primitives and bounded sealed results are imported. Generic forest/trace, old Picard completion and arbitrary native closure claims are excluded.",
+  "inputs": [
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/MANIFEST.json",
+      "sha256": "c730989b41bd05e663ef3b2ff06901a8a92e5377d69cffaf06ce745439558c11"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md",
+      "sha256": "48c23f0c8966a28eae3b6849a0c63348e62f971340d2f5016902580aeb46fee4"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md",
+      "sha256": "1b4a2d8e38b4acd8c607f25eb263b0d61a5b03cc1de4ec65363f1eed0a8432b0"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md",
+      "sha256": "976b704bb90ffd9552f82f13ec34a5851a94027f5867522b044d53803d743429"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/MANIFEST.json",
+      "sha256": "4711e1bdde8ab138140e40c44b8f7fb5214eb4d051095a5452eec33fabd62f56"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md",
+      "sha256": "3c93c8964ccdb1f1028746aae661b768eacb8870ec616ce95d613110ebcaa708"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/ALL-RANK-CENTERED-STEIN-CURRENT-RECURRENCE.md",
+      "sha256": "d09db0fa283512de36bc910f1d3f828257121699832c0897943d9a252f59dd0e"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/DISCOUNTED-OU-CONNECTED-CUMULANT-RECURRENCE.md",
+      "sha256": "cd37a782bbcef3cdf5ec39a33be4874df56ff06af75170485b182c04b361d05e"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+      "sha256": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/CONDITIONAL-QUARTIC-PACKET-AND-CYCLE-RETURN.md",
+      "sha256": "ccaae83e8308c578921cc3a0f85239758bdaafd44c209a9a75cd39f9fd02e02b"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/AUXILIARY-PUBLIC-CYCLE-CLOSURE.md",
+      "sha256": "648a431c05495fbeb79d65646a4a5ec98b5e0a9cadbcca5f5bc3a877666ce1d9"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/MODULATED-C2-SIX-TREE-COUNTEREXAMPLE.md",
+      "sha256": "8d0086e37b9cb1273ff483dc3dd9ddbeee297c9e93b7675b4aad11f2d6bd4dc3"
+    },
+    {
+      "path": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    }
+  ]
+}

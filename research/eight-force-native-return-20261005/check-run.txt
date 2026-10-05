@@ -1,0 +1,119 @@
+{
+  "assertions": 696322,
+  "literal_oriented_openings": 72,
+  "center_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      3
+    ]
+  ],
+  "full_force_count": 8,
+  "physical_marks": 4,
+  "cycle_rank": 3,
+  "amplitude_examples": [
+    {
+      "h": 2,
+      "nnew": 4,
+      "Anew": 12,
+      "surplus": 8
+    },
+    {
+      "h": 3,
+      "nnew": 6,
+      "Anew": 18,
+      "surplus": 12
+    },
+    {
+      "h": 4,
+      "nnew": 8,
+      "Anew": 24,
+      "surplus": 16
+    },
+    {
+      "h": 5,
+      "nnew": 10,
+      "Anew": 30,
+      "surplus": 20
+    },
+    {
+      "h": 6,
+      "nnew": 12,
+      "Anew": 36,
+      "surplus": 24
+    },
+    {
+      "h": 7,
+      "nnew": 14,
+      "Anew": 42,
+      "surplus": 28
+    },
+    {
+      "h": 8,
+      "nnew": 16,
+      "Anew": 48,
+      "surplus": 32
+    }
+  ],
+  "queue_checks": [
+    {
+      "cutoff": 9,
+      "distinct_n_d_states": 1,
+      "max_depth": 0
+    },
+    {
+      "cutoff": 13,
+      "distinct_n_d_states": 2,
+      "max_depth": 1
+    },
+    {
+      "cutoff": 17,
+      "distinct_n_d_states": 4,
+      "max_depth": 1
+    },
+    {
+      "cutoff": 25,
+      "distinct_n_d_states": 11,
+      "max_depth": 2
+    },
+    {
+      "cutoff": 41,
+      "distinct_n_d_states": 31,
+      "max_depth": 2
+    },
+    {
+      "cutoff": 65,
+      "distinct_n_d_states": 88,
+      "max_depth": 2
+    }
+  ],
+  "dyadic_cases": 2100,
+  "max_b_times_one_hit_sum": 2.8853900414578253,
+  "max_b2_times_two_hit_sum": 1.442695040956712,
+  "input_grade": 8,
+  "own_conditional_grade": 12,
+  "safe_full_old_join_grade": 9,
+  "old_cubic_subchannel_grade": 11,
+  "old_sixth_subchannel_grade": 14,
+  "own_leading_bank_grade": 16,
+  "scope": "Finite exact combinatorics/amplitude and dyadic-envelope diagnostics only. No native original-VALUE pair program executed."
+}

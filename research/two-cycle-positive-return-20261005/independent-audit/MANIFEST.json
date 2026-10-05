@@ -1,0 +1,25 @@
+{
+  "verdict": "PASS for bounded conditional/local producer under imported native contracts; no global all-feedback closure",
+  "reviewed_author_source": {
+    "path": "/workspace/shared/two-cycle-positive-return-20261005/TWO-CYCLE-OPENING-AND-RETURN.md",
+    "sha256": "802667e8e7f07cb2df65c66463045ec7758110a169bddb48d3e82bd1a04835ee"
+  },
+  "verified_author_input_pins": 8,
+  "author_checker_assertions": 1939,
+  "independent_checker_assertions": 25348,
+  "files": {
+    "INDEPENDENT-TWO-CYCLE-AUDIT.md": "02b0827d4e5e2cb2025bc1ae4641870e9db74febe8ddd936de427de0a8f494b5",
+    "README.md": "c31f0848a23615d76b6c67435c2a98f0fa1cc9abe7cc5875b9e1fd9cf53eb784",
+    "REVIEWED-TWO-CYCLE-SOURCE.md": "802667e8e7f07cb2df65c66463045ec7758110a169bddb48d3e82bd1a04835ee",
+    "audit_checks.json": "0ed28b6ebf968990c91154911ceab77a85a49f69c4415ead73031e335217b1fe",
+    "check_two_cycle_audit.py": "6f708b23929ac10142ea1c707e9205b468be293b1c2d73352003d88629697603"
+  },
+  "verified_author_files": {
+    "FINAL-STATUS.md": "cca7053577dc564f8e9db58ae1cb5ecaa2645318babd129c6ba3ff0463e36053",
+    "INPUT-PINS.json": "bcca7feed85cb6226914e2ae238b7762e5f2f404b33f3e12e58c390553289d26",
+    "README.md": "eee4f5e51c963135bade03453aaaf18c9742c72e4c8604a5657e44b65bf159c1",
+    "TWO-CYCLE-OPENING-AND-RETURN.md": "802667e8e7f07cb2df65c66463045ec7758110a169bddb48d3e82bd1a04835ee",
+    "check_two_cycle_return.py": "931f3310c02571965f0486f61759eb2f969eb1d86f2407e818c30d3efa3923dc",
+    "two_cycle_checks.json": "67e2f09238f564b0a0d78cd860412f0e2fad7369de4e5bef8761696e2785db79"
+  }
+}

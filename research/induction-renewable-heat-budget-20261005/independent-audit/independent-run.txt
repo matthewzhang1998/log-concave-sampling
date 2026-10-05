@@ -1,0 +1,8 @@
+{
+  "assertions": 34787,
+  "status": "PASS",
+  "native_compiler_executed": false,
+  "author_implementation_imported": false,
+  "allocation_max_relative_error": 1.0880185641326534e-14,
+  "max_multiplier_error_excess": 0.0
+}

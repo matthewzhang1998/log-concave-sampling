@@ -1,0 +1,72 @@
+{
+  "hermite_kernel": {
+    "cases": 200,
+    "max_ratio_kernel": 0.2338985725690211,
+    "max_ratio_derivative": 0.2222222222222222
+  },
+  "matrix_parseval_cauchy": {
+    "cases": 40,
+    "max_ratio": 1.0
+  },
+  "shared_rotation": {
+    "cases": 16,
+    "max_ratio": 0.2416141270233914
+  },
+  "common_carrier_geometry": {
+    "max_error": 4.440892098500626e-16
+  },
+  "variance_partition_exponents": {
+    "root": "17/2",
+    "nonroot": "1/16",
+    "native_share_power": "-17",
+    "native_J_power": "17/2",
+    "energy_J_power": 4,
+    "null_join_J_power": 8,
+    "native_alpha_power": 17,
+    "null_join_alpha_power": 18
+  },
+  "shrinking_eta_sufficient_thresholds": {
+    "native": "q_eta < 7/17",
+    "null_bank": "q_eta < 1/2",
+    "requires": "otherwise public-log complete old-history census and all actual guards"
+  },
+  "finite_dimension_guard_examples": [
+    {
+      "D": 1,
+      "m": 1,
+      "alpha": 0.0625,
+      "dyadic_exponent": 4,
+      "ell": 7,
+      "hybrid_guard": 5.960464477539063e-08,
+      "bias_guard": 0.2500000001164153
+    },
+    {
+      "D": 2,
+      "m": 3,
+      "alpha": 0.0625,
+      "dyadic_exponent": 4,
+      "ell": 8,
+      "hybrid_guard": 5.461419641850563e-06,
+      "bias_guard": 0.25000001066683525
+    },
+    {
+      "D": 10,
+      "m": 5,
+      "alpha": 0.0625,
+      "dyadic_exponent": 4,
+      "ell": 10,
+      "hybrid_guard": 0.002023364536477027,
+      "bias_guard": 0.2500039518838603
+    },
+    {
+      "D": 100,
+      "m": 8,
+      "alpha": 0.015625,
+      "dyadic_exponent": 6,
+      "ell": 13,
+      "hybrid_guard": 0.04566485505815202,
+      "bias_guard": 0.06250278716156361
+    }
+  ],
+  "scope": "Finite diagnostics support stated algebra and explicit guards. They do not execute or re-prove the imported native compiler, and do not establish a public-log dimensional bound."
+}

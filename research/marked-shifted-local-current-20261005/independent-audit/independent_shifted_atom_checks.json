@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "assertions": 6413,
+  "random_cases": 400,
+  "seed": 5102026,
+  "scope": "Independent local finite source, full derivatives/curl, current and exact exponent diagnostics. Does not execute LOW30 mean compiler or establish true-history ancestry.",
+  "maxima": {
+    "E_mark_ratio": 0.25118404130920197,
+    "Delta_mark_ratio": 0.35438130987358035,
+    "E_first_ratio": 0.08717831530001188,
+    "Delta_first_ratio": 0.1543898038553474,
+    "full_curl_ratio": 0.036811732942057335,
+    "current_first_ratio": 0.9999999826595142,
+    "joint_first_ratio": 0.9996882456794242,
+    "jacobian_fd_error": 3.1418697145426936e-10,
+    "current_identity_fd_error": 4.489932514326056e-11,
+    "noncommutation": 0.0033338570051704274
+  },
+  "native_error_exponents": [
+    [
+      "6",
+      "-1"
+    ],
+    [
+      "6",
+      "-1"
+    ],
+    [
+      "6",
+      "-1/2"
+    ],
+    [
+      "13/2",
+      "-5/4"
+    ],
+    [
+      "7",
+      "-3/2"
+    ]
+  ]
+}

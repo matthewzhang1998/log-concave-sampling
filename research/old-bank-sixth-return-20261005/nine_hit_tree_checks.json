@@ -1,0 +1,429 @@
+{
+  "spine_census": {
+    "6": 4,
+    "5": 4,
+    "4": 1
+  },
+  "trees": [
+    {
+      "hit_pair": [
+        0,
+        3
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "adapter_orders": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 0
+      },
+      "spine": [
+        2,
+        1,
+        0,
+        3,
+        4,
+        5
+      ],
+      "side_leaves": [],
+      "first_conditional_force_count": 12
+    },
+    {
+      "hit_pair": [
+        0,
+        4
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "adapter_orders": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 0
+      },
+      "spine": [
+        2,
+        1,
+        0,
+        4,
+        3
+      ],
+      "side_leaves": [
+        5
+      ],
+      "first_conditional_force_count": 10
+    },
+    {
+      "hit_pair": [
+        0,
+        5
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "adapter_orders": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+      },
+      "spine": [
+        2,
+        1,
+        0,
+        5,
+        4,
+        3
+      ],
+      "side_leaves": [],
+      "first_conditional_force_count": 12
+    },
+    {
+      "hit_pair": [
+        1,
+        3
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "adapter_orders": {
+        "0": 0,
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 0
+      },
+      "spine": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "side_leaves": [
+        2
+      ],
+      "first_conditional_force_count": 10
+    },
+    {
+      "hit_pair": [
+        1,
+        4
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "adapter_orders": {
+        "0": 0,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 0
+      },
+      "spine": [
+        0,
+        1,
+        4,
+        3
+      ],
+      "side_leaves": [
+        2,
+        5
+      ],
+      "first_conditional_force_count": 8
+    },
+    {
+      "hit_pair": [
+        1,
+        5
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "adapter_orders": {
+        "0": 0,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1
+      },
+      "spine": [
+        0,
+        1,
+        5,
+        4,
+        3
+      ],
+      "side_leaves": [
+        2
+      ],
+      "first_conditional_force_count": 10
+    },
+    {
+      "hit_pair": [
+        2,
+        3
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "adapter_orders": {
+        "0": 0,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 0
+      },
+      "spine": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "side_leaves": [],
+      "first_conditional_force_count": 12
+    },
+    {
+      "hit_pair": [
+        2,
+        4
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "adapter_orders": {
+        "0": 0,
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 2,
+        "5": 0
+      },
+      "spine": [
+        0,
+        1,
+        2,
+        4,
+        3
+      ],
+      "side_leaves": [
+        5
+      ],
+      "first_conditional_force_count": 10
+    },
+    {
+      "hit_pair": [
+        2,
+        5
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "adapter_orders": {
+        "0": 0,
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 1
+      },
+      "spine": [
+        0,
+        1,
+        2,
+        5,
+        4,
+        3
+      ],
+      "side_leaves": [],
+      "first_conditional_force_count": 12
+    }
+  ],
+  "scope": "All nine derivative-hit trees retain six marks; longest root spines include every non-C0 vertex, and all side leaves are C0. Native programs not executed."
+}

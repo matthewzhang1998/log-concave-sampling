@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-05",
+  "inputs": [
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/COMMON-CARRIER-AMALGAMATION.md",
+      "sha256": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8",
+      "bytes": 18492
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/independent-audit/COMMON-CARRIER-AUDIT-ADDENDUM.md",
+      "sha256": "ac1d2b71b9aff1dd804ff18e850dcacea7fd9b98c534a40a14ab54f9d9f31956",
+      "bytes": 11084
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/independent-audit/FIXED-NATIVE-COST-SUPPLEMENT.md",
+      "sha256": "951d0bf497651367fa49b93c9322de2d5477c3f4c6f19136c0261882f12b206f",
+      "bytes": 4893
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+      "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+      "bytes": 23602
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/RANK8-SMOOTHED-NATIVE-RETURN.md",
+      "sha256": "f812083428f7b612cdc90a27a5da2be4aafd034f0d14b7cdc73e9bb5361cca27",
+      "bytes": 19166
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+      "sha256": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d",
+      "bytes": 9417
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/THREE-CUBIC-EXACT-HEAT.md",
+      "sha256": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc",
+      "bytes": 13855
+    },
+    {
+      "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "bytes": 680050
+    },
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/POSITIVE-SECTOR-GAUSS.md",
+      "sha256": "a4fba9037d305540242dda09adc9dbe70823755652e4a94e585d392a0dfd7dbf",
+      "bytes": 16461
+    }
+  ]
+}

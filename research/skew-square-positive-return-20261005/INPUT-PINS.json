@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+    "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+  },
+  {
+    "path": "/workspace/shared/covariance-current-cancellation-20261005/EXACT-COVARIANCE-CURRENT-REDUCTION.md",
+    "sha256": "c86de158d9b7a1203c64d0563517a42803d7db4aeef979ac30a9b99adf45f32b"
+  },
+  {
+    "path": "/workspace/shared/fourth-cumulant-return-20261005/POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md",
+    "sha256": "48c23f0c8966a28eae3b6849a0c63348e62f971340d2f5016902580aeb46fee4"
+  },
+  {
+    "path": "/workspace/shared/rank-indexed-positive-returns-20261005/TREE-GENERATOR-AND-RANK5-RETURN-TEST.md",
+    "sha256": "af4999cc29839b4bf283d3e7076e7dc24f7c1e4de02971bb6f262eb62824b1ab"
+  },
+  {
+    "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/AUXILIARY-PUBLIC-CYCLE-CLOSURE.md",
+    "sha256": "648a431c05495fbeb79d65646a4a5ec98b5e0a9cadbcca5f5bc3a877666ce1d9"
+  },
+  {
+    "path": "/workspace/shared/recovery-20261004/r-true-orientation/STATIONARY-MARKED-PAIR-SKEW-CHANNEL.md",
+    "sha256": "ace5e761c38177388cf809cf27ea4c30e8f6c943a1b92753843e4bf11f2ff7bf"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "reviewed_source_sha256": "48c3a6fa9b0b5e1b242e272dedac882763c5a4e6e3daf5f79c47d502a1f94ed9",
+  "max_finite_difference_absolute_error": 3.8055211598893113e-13,
+  "minimum_private_eigenvalue": 0.000514479754594448,
+  "maximum_private_radius": 0.0014980280476898076,
+  "private_radius_envelope": 0.0015000690544109642,
+  "maximum_endpoint_radius": 0.0013081318485334433,
+  "endpoint_radius_envelope": 0.010399370780965549,
+  "literal_zero_error": 0.0,
+  "maximum_pointwise_square_energy_ratio": 0.5464242808104041,
+  "carrier_allocation": "four contributions (h/2)^2 sum to h^2",
+  "scope": "Original reflected source and literal zero-clock signed-response graph diagnostics; no complete mean compiler or universal calibration is numerically inferred."
+}

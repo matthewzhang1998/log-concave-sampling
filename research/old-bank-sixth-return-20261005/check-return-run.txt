@@ -1,0 +1,9 @@
+{
+  "two_riesz_identity_max_error": 2.3279539687118863e-12,
+  "wick_covariance_trace_coefficients": [
+    0.5,
+    2.0,
+    1.0
+  ],
+  "native_normalization_sum": 7.999999999999997
+}

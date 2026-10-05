@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-05",
+  "title": "Positive return of the canonical old skew bank",
+  "status": "INDEPENDENT_BOUNDED_SCOPE_PASS",
+  "normalized_law_remainder": "Lambda alpha^8 sqrt(D), plus explicit floors and original-clock target mismatch",
+  "boundary": "Canonical old Q has zero physical readout; no arbitrary observer or recursive offspring closure",
+  "reviewed_main_sha256": "9191c93102e9c455ada1027984eae5cf3ded613a7a37869e5b9b5bd37c8ae2c8",
+  "reviewed_ou_sha256": "36acc99de3596a4a1c392696b6c054fa7271e2fed833708a9cf3af3e1c8f847f",
+  "independent_pass_sha256": "533bcbf47d12406887b732c3f10bc41a1ce1f24e95314c50cbf9c0108d2adfea",
+  "input_pins_sha256": "aeb34af29477078c5164b41a43aaa16c78b48705fd87490432296f6403788a8c",
+  "files": [
+    {
+      "path": "EXACT-SYMMETRIC-OU-HEAT-REDISTRIBUTION.md",
+      "sha256": "36acc99de3596a4a1c392696b6c054fa7271e2fed833708a9cf3af3e1c8f847f",
+      "bytes": 23702
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "aeb34af29477078c5164b41a43aaa16c78b48705fd87490432296f6403788a8c",
+      "bytes": 1708
+    },
+    {
+      "path": "NEXT-EIGHT-FORCE-CURRENT.md",
+      "sha256": "ed453a1bc04b247c3fe0226371a278b995b8e29cf4c170bf8daf0d7b0324ab89",
+      "bytes": 1735
+    },
+    {
+      "path": "POSITIVE-OLD-BANK-SIXTH-RETURN.md",
+      "sha256": "9191c93102e9c455ada1027984eae5cf3ded613a7a37869e5b9b5bd37c8ae2c8",
+      "bytes": 26195
+    },
+    {
+      "path": "README.md",
+      "sha256": "6ccbf25912ce716b03313ccd095ccbb62f853a7153a9ef0faa9392fbe807d985",
+      "bytes": 3700
+    },
+    {
+      "path": "anisotropic_covariance_path_checks.json",
+      "sha256": "9bd481a09b5b941990b89d9f8fad23958b4037bd205d3fc710bd3e73b60e69c8",
+      "bytes": 7102
+    },
+    {
+      "path": "check-anisotropic-run.txt",
+      "sha256": "23117618f98a95cbc35eff8641295f8b7956daa97b3e799a5c37a0dac24816ba",
+      "bytes": 119
+    },
+    {
+      "path": "check-nine-hits-run.txt",
+      "sha256": "6b54d283b363fdc1f08bfe786fcb18736975cc9691262ab486517cf993265b16",
+      "bytes": 19
+    },
+    {
+      "path": "check-ou-run.txt",
+      "sha256": "f148c0a77c47df426e3a1b00f859ca87f9dc000c4f5569c9d8c571d19d520a75",
+      "bytes": 323
+    },
+    {
+      "path": "check-return-run.txt",
+      "sha256": "39f8d0c1a6f9c22cd5c42af3298e25365376208ae46286c16feb0b5307c25663",
+      "bytes": 183
+    },
+    {
+      "path": "check_anisotropic_covariance_path.py",
+      "sha256": "aa76f5b8275f1351bd43933d16a4976efb0c70a82dd64d3b573b38a780c7c45e",
+      "bytes": 2996
+    },
+    {
+      "path": "check_exact_ou_grouping.py",
+      "sha256": "b2e939e46c379059ed10711b0a11139e2ffcb34384d0929eb1c9bbbd082bd880",
+      "bytes": 1771
+    },
+    {
+      "path": "check_nine_hit_trees.py",
+      "sha256": "3328e8ab8dc6bcd6cfb06f3ebb2512938f64f8b02629b9d667cac4e1007a4546",
+      "bytes": 1370
+    },
+    {
+      "path": "check_return_identities.py",
+      "sha256": "03f571c79845cda784dc2e1f4df1019752c3e106ef1262662fcf4a0c441888fd",
+      "bytes": 2924
+    },
+    {
+      "path": "exact_ou_grouping_checks.json",
+      "sha256": "751e257fc745a6b4fdc1ac1af51a86b3c23b6261b92a4b9a0159f44a83fbf786",
+      "bytes": 1893
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-OLD-BANK-SIXTH-AUDIT.md",
+      "sha256": "38824e3633c71c6a996aaecefb1a71f73155c34dfde38d10be2180ea27fa23bd",
+      "bytes": 12152
+    },
+    {
+      "path": "independent-audit/MANIFEST.json",
+      "sha256": "1840b9b74b45e8a983420136aea578a8a9990eadb0ec22b62980d74e0ce7accc",
+      "bytes": 1845
+    },
+    {
+      "path": "independent-audit/README.md",
+      "sha256": "8d89624e799a4a3e6acfc3e76d6de428ddcce874baacfe92bb8d0155b28f3341",
+      "bytes": 690
+    },
+    {
+      "path": "independent-audit/REVIEWED-FULL-RETURN.md",
+      "sha256": "9191c93102e9c455ada1027984eae5cf3ded613a7a37869e5b9b5bd37c8ae2c8",
+      "bytes": 26195
+    },
+    {
+      "path": "independent-audit/REVIEWED-OU-REVISED.md",
+      "sha256": "36acc99de3596a4a1c392696b6c054fa7271e2fed833708a9cf3af3e1c8f847f",
+      "bytes": 23702
+    },
+    {
+      "path": "independent-audit/REVIEWED-OU-SNAPSHOT.md",
+      "sha256": "404c7829fb172cf1ccd95a8ead875f75537b7920259a465c949b222d901bc722",
+      "bytes": 22153
+    },
+    {
+      "path": "independent-audit/SECOND-RIESZ-CLOSURE-ADDENDUM.md",
+      "sha256": "533bcbf47d12406887b732c3f10bc41a1ce1f24e95314c50cbf9c0108d2adfea",
+      "bytes": 10391
+    },
+    {
+      "path": "independent-audit/SHA256SUMS",
+      "sha256": "98d2bb72e801e95bcd1f5f9b14bbb451cd3df9087ecd0254fb09c8b4f1458c08",
+      "bytes": 905
+    },
+    {
+      "path": "independent-audit/check-run.txt",
+      "sha256": "ec75db9e398bbe2e7ef2ea04bb11a47a0a2be239e68d3edbda1c8ad8ce85aa6d",
+      "bytes": 947
+    },
+    {
+      "path": "independent-audit/check_independent_ou.py",
+      "sha256": "cb4aa8f1af6ec2d3317489d7d30cba425341ac29cd06c13f7591b3d77fdecbca",
+      "bytes": 3893
+    },
+    {
+      "path": "independent-audit/check_second_riesz.py",
+      "sha256": "2279c6c5de231518f14045be691c50891ace4622ad79f89368d405e8a2c60f57",
+      "bytes": 3534
+    },
+    {
+      "path": "independent-audit/independent_checks.json",
+      "sha256": "b8eb33f354f47862b296e4892b66e1f65c8e9cccef453495ee99531075914215",
+      "bytes": 3414
+    },
+    {
+      "path": "independent-audit/second_riesz_checks.json",
+      "sha256": "858b95c72954c90e0c683b9d041b22aadbd82d165cbf0ffcb294b2e33b2354fc",
+      "bytes": 3951
+    },
+    {
+      "path": "independent-ou-rerun.txt",
+      "sha256": "ec75db9e398bbe2e7ef2ea04bb11a47a0a2be239e68d3edbda1c8ad8ce85aa6d",
+      "bytes": 947
+    },
+    {
+      "path": "independent-second-riesz-rerun.txt",
+      "sha256": "e7f17f7c7449bcc7511557d7e06822bf1172274604ad14c7a150b422e2212eed",
+      "bytes": 129
+    },
+    {
+      "path": "nine_hit_tree_checks.json",
+      "sha256": "7bcad356b1fadb9a8e47ec4ccda54fb0bb63a9729d3a54ee23bf83fe6af05493",
+      "bytes": 5732
+    },
+    {
+      "path": "return_identity_checks.json",
+      "sha256": "d9630cf2255cdaaf99b97ea9b237d2b79efd427aff103c4ec41e91d0e09cce21",
+      "bytes": 7456
+    }
+  ]
+}

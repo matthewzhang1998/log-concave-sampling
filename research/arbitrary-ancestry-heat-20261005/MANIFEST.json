@@ -1,0 +1,71 @@
+{
+  "created": "2026-10-05",
+  "scope": "Finite exact genealogy/heat/main-coefficient compiler; audited fixed-degree second-Riesz bound; audited rank-eight obstruction to cutoff-uniform historywise budgets. Not all-current closure.",
+  "files": [
+    {
+      "path": "FINITE-ANCESTRY-COMPILER-AND-BOUNDARY.md",
+      "bytes": 25262,
+      "sha256": "e758d05d9901093701bd6962477a6ffb967860ca534e7742624e19de6f2c50ef"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "bytes": 1311,
+      "sha256": "5eb640c97bd7b1902a1591a4b9da054d2e6582d878a750f8cf1ec9c728fae2ae"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1435,
+      "sha256": "b02afe91fb1c4676c34127797d1fa75ed32ccc7eaf5126e29575b02dd3e15869"
+    },
+    {
+      "path": "check-run.txt",
+      "bytes": 374,
+      "sha256": "aa3c59392f15514106e7d74efb3e844718eb0fb2ffde0c84cf0ac07c7bc718fd"
+    },
+    {
+      "path": "check_finite_ancestry.py",
+      "bytes": 9710,
+      "sha256": "ab7c564dc874f6634d0517ba1130359e88c322182801c73d05b0df8e9897f0b5"
+    },
+    {
+      "path": "checks.json",
+      "bytes": 12135,
+      "sha256": "cf93b03635c1f12ff4072d03db7998da17606db654eb725f2ba0e866a8d6fec6"
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-RANK8-SIBLING-AUDIT.md",
+      "bytes": 13856,
+      "sha256": "87cef5e8948595b235572eee0de6563d16297235dc2319631967ae05bcbd3237"
+    },
+    {
+      "path": "independent-audit/SECOND-RIESZ-CONSTANT-AUDIT.md",
+      "bytes": 4182,
+      "sha256": "ef7d4a5d41c58ac43fc664f00c5b18f11cb9b601a14d1243af1e866adff9de52"
+    },
+    {
+      "path": "independent-audit/check_rank8_sibling_obstruction.py",
+      "bytes": 10384,
+      "sha256": "b681dfd6add31e1f14d3f5cc7c060786885216b4ee94994737de63938ce7af50"
+    },
+    {
+      "path": "independent-audit/rank8-selected-history.json",
+      "bytes": 6420,
+      "sha256": "96f010d08903dd2bb0ee2a25323588704ba17d5ce183e35057d8691797b3da32"
+    },
+    {
+      "path": "independent-audit/rank8-sibling-audit-checks.json",
+      "bytes": 9938,
+      "sha256": "a82d72a006361e330cc36f156da89e9f61a3ac2fac3d287df3024f52c3ac60f9"
+    },
+    {
+      "path": "independent-rerun.txt",
+      "bytes": 1406,
+      "sha256": "14866fce5ecb9fd6f325ed8b6d30f15e6088b22b95a0e5b6b69f72487410e1da"
+    },
+    {
+      "path": "rank8_ast.json",
+      "bytes": 3082,
+      "sha256": "c7fbc7c6cd645339e89b746ae4e1bbe5fa84b585312cc2e092b3b2ef16b67739"
+    }
+  ]
+}

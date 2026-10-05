@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-05",
+  "status": "SEALED_SOURCE_QUALIFIED_COMPONENT",
+  "main_source_sha256": "5b3b70e5d276d5a374395a09da9a8d072f153682d07231bd1c5dee2be9cb7287",
+  "scope": "Bounded original-VALUE six-force skew-square component with own grade-eight return. Old-service whole-bank rank-six repair remains open.",
+  "independent_review": "PASS, source-qualified; component only",
+  "files": [
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "5ce3f0603c16ecdc3f9b1bbf97f5d54830744410417adda5711c9e0c2c892830",
+      "bytes": 1298
+    },
+    {
+      "path": "OLD-BANK-SIXTH-CURRENT-ADMISSION.md",
+      "sha256": "79565495640d68d4255ca2f5e07ecd82bfa9b4260c31b31665f4203fbea90e98",
+      "bytes": 6415
+    },
+    {
+      "path": "README.md",
+      "sha256": "a3b31b19d86a16ae2bb73c0f04c760691ef7543d15074634508df756e6bf3dbc",
+      "bytes": 2466
+    },
+    {
+      "path": "SIX-FORCE-SKEW-SQUARE-RETURN.md",
+      "sha256": "5b3b70e5d276d5a374395a09da9a8d072f153682d07231bd1c5dee2be9cb7287",
+      "bytes": 32706
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "2625509f421c11ca98edffc8f84fce341c38c05048f42cbb940c01e718d50e2c",
+      "bytes": 397
+    },
+    {
+      "path": "check_six_force_graphs.py",
+      "sha256": "af29565cb1d1462eb09d52a4197bba001c56d4886960f45925463a029b5d7a4a",
+      "bytes": 4241
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-SIX-FORCE-AUDIT.md",
+      "sha256": "7b2b6235d5711a1eadccc9c3c0ba9f5a6ffb3889dff06d94cae98eaad3490c69",
+      "bytes": 16768
+    },
+    {
+      "path": "independent-audit/MANIFEST.json",
+      "sha256": "80772df19fe6081767e37bdae1e1468f87ce3996b8b99bd0b734d6adc13ddf35",
+      "bytes": 4173
+    },
+    {
+      "path": "independent-audit/SHA256SUMS",
+      "sha256": "567179a402f0e3011243389b671775ae2be9ae1e6726b026c9af462945858358",
+      "bytes": 2356
+    },
+    {
+      "path": "independent-audit/check_independent_six_force.py",
+      "sha256": "91612f7a337d8a28e9b4f2db3321585ab6d1a31ed53833f1ea4bbeff53d9367a",
+      "bytes": 6118
+    },
+    {
+      "path": "independent-audit/independent_checks.json",
+      "sha256": "0dd60813c35e16f8e311d332c6bd07aa6f97331baf48b35b570ed7f8cfc4cf2c",
+      "bytes": 674
+    },
+    {
+      "path": "independent-audit/verify_pins.py",
+      "sha256": "cb8afe18b55a468281161ef4a7620b4f8ed67030c2d07c67cda053fa76353f9d",
+      "bytes": 515
+    },
+    {
+      "path": "independent-check-run.txt",
+      "sha256": "0dd60813c35e16f8e311d332c6bd07aa6f97331baf48b35b570ed7f8cfc4cf2c",
+      "bytes": 674
+    },
+    {
+      "path": "six_force_checks.json",
+      "sha256": "299e32d7309c2842195d5e6dfb5d782649db5768ea292cdf6b3b0c05899af80b",
+      "bytes": 13459
+    }
+  ]
+}

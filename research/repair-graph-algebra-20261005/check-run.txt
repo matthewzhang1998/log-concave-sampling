@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "assertions": 102621,
+  "scope": "Exact finite symbolic/combinatorial checks only; native and analytical port hypotheses are not certified by this script.",
+  "checks": {
+    "conditional_symbol": {
+      "orders_checked": 8,
+      "ranks_at_second_order": [
+        4,
+        6,
+        6
+      ],
+      "complete_partition_and_pairing_identity": true
+    },
+    "marked_tree_bridge_enumeration": {
+      "graphs": 11916,
+      "argument_arities": [
+        2,
+        3,
+        4
+      ],
+      "all_hit_locations_including_repeated_hits": true
+    },
+    "grade_and_resource_identities": {
+      "unpaid_injection_escape": true,
+      "heterogeneous_root_copies": true,
+      "conditional_omitted_side_records": true,
+      "heat_neutrality": true,
+      "owned_clock_charge_lipschitz": true,
+      "self_loop_explicit": true
+    },
+    "formal_inverse": {
+      "cutoff": 12,
+      "difference_valuations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "zero_reserve_countertest": true
+    },
+    "admissible_gradient_observer": {
+      "checked_even_ranks": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28
+      ],
+      "all_same_alpha_grade": true,
+      "g": "c*x+epsilon*sin(x), 0<epsilon<c, c+epsilon<=1"
+    },
+    "observable_pairing": {
+      "polynomial_gaussian_ibp": true,
+      "dependent_coefficient_countertest": true
+    },
+    "trace_to_bridge": {
+      "occurrence_counts": [
+        1,
+        2,
+        3
+      ],
+      "formal_heat_jet_order": 4,
+      "commutation_and_multiplication_defect": true,
+      "scope": "frozen scalar coefficients and independent occurrence centers"
+    }
+  }
+}

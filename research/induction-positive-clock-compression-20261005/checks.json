@@ -1,0 +1,1598 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "local_factorial_0",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_1",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_2",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_3",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_4",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_5",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_6",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_7",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_8",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_9",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_10",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_11",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_12",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_13",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_14",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_15",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_16",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_17",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_18",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_19",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_20",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_21",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_22",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_23",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_24",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_25",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_26",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_27",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_28",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_29",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_30",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_31",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_32",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_33",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_34",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_35",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_36",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_37",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_38",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_39",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_40",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_41",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_42",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_43",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_44",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_45",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_46",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_47",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_48",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_49",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_50",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_51",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_52",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_53",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_54",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_55",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_56",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_57",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_58",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_59",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_60",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_61",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_62",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_63",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_64",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_65",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_66",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_67",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_68",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_69",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_70",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_71",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_72",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_73",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_74",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_75",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_76",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_77",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_78",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_79",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_80",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_81",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_82",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_83",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_84",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_85",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_86",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_87",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_88",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_89",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_90",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_91",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_92",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_93",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_94",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_95",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_96",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_97",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_98",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_99",
+      "pass": true
+    },
+    {
+      "check": "local_factorial_100",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l0",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l1",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l2",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l3",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l4",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l5",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l6",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l7",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l8",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l9",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l10",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l11",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l12",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l13",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l14",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l15",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l16",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l17",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l18",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l19",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l20",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l21",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l22",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l23",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l24",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l25",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l26",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l27",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l28",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l29",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K7_l30",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l0",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l1",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l2",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l3",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l4",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l5",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l6",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l7",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l8",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l9",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l10",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l11",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l12",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l13",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l14",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l15",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l16",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l17",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l18",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l19",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l20",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l21",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l22",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l23",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l24",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l25",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l26",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l27",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l28",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l29",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K8_l30",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l0",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l1",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l2",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l3",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l4",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l5",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l6",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l7",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l8",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l9",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l10",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l11",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l12",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l13",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l14",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l15",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l16",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l17",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l18",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l19",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l20",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l21",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l22",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l23",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l24",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l25",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l26",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l27",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l28",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l29",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K10_l30",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l0",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l1",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l2",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l3",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l4",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l5",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l6",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l7",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l8",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l9",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l10",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l11",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l12",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l13",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l14",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l15",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l16",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l17",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l18",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l19",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l20",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l21",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l22",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l23",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l24",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l25",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l26",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l27",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l28",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l29",
+      "pass": true
+    },
+    {
+      "check": "price_factorial_K11_l30",
+      "pass": true
+    },
+    {
+      "check": "positive_rational_gauss_1",
+      "pass": true,
+      "details": {
+        "node_error": 0.0,
+        "weight_l1_error": 0.0
+      }
+    },
+    {
+      "check": "gauss_moment_1_0",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_1_1",
+      "pass": true
+    },
+    {
+      "check": "positive_rational_gauss_2",
+      "pass": true,
+      "details": {
+        "node_error": 1.1832913578315177e-30,
+        "weight_l1_error": 1.3248993593316464e-29
+      }
+    },
+    {
+      "check": "gauss_moment_2_0",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_2_1",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_2_2",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_2_3",
+      "pass": true
+    },
+    {
+      "check": "positive_rational_gauss_3",
+      "pass": true,
+      "details": {
+        "node_error": 1.1832913578315177e-30,
+        "weight_l1_error": 1.6456606627338448e-29
+      }
+    },
+    {
+      "check": "gauss_moment_3_0",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_3_1",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_3_2",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_3_3",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_3_4",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_3_5",
+      "pass": true
+    },
+    {
+      "check": "positive_rational_gauss_4",
+      "pass": true,
+      "details": {
+        "node_error": 1.1832913578315177e-30,
+        "weight_l1_error": 3.4762413252126955e-29
+      }
+    },
+    {
+      "check": "gauss_moment_4_0",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_4_1",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_4_2",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_4_3",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_4_4",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_4_5",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_4_6",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_4_7",
+      "pass": true
+    },
+    {
+      "check": "positive_rational_gauss_8",
+      "pass": true,
+      "details": {
+        "node_error": 1.1832913578315177e-30,
+        "weight_l1_error": 2.3712433582908503e-28
+      }
+    },
+    {
+      "check": "gauss_moment_8_0",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_1",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_2",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_3",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_4",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_5",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_6",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_7",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_8",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_9",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_10",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_11",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_12",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_13",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_14",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_8_15",
+      "pass": true
+    },
+    {
+      "check": "positive_rational_gauss_12",
+      "pass": true,
+      "details": {
+        "node_error": 1.1832913578315177e-30,
+        "weight_l1_error": 3.4143264104235744e-27
+      }
+    },
+    {
+      "check": "gauss_moment_12_0",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_1",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_2",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_3",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_4",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_5",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_6",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_7",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_8",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_9",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_10",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_11",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_12",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_13",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_14",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_15",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_16",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_17",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_18",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_19",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_20",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_21",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_22",
+      "pass": true
+    },
+    {
+      "check": "gauss_moment_12_23",
+      "pass": true
+    },
+    {
+      "check": "exact_parameter_chooser",
+      "pass": true
+    },
+    {
+      "check": "adaptive_precision_budget",
+      "pass": true,
+      "details": {
+        "bits": 245
+      }
+    },
+    {
+      "check": "positive_sector_mass",
+      "pass": true
+    },
+    {
+      "check": "positive_sector_count",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "cell_gap_comparability",
+      "pass": true
+    },
+    {
+      "check": "scalar_analytic_fixture",
+      "pass": true,
+      "details": {
+        "exact_one_sector": 0.8678154054479039,
+        "quadrature_truncated": 0.6872130402519455,
+        "absolute_error": 0.1806023651959584,
+        "declared_tail_bound": 0.30745038889461873
+      }
+    }
+  ],
+  "census": [
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.5,
+      "epsilon": 0.01,
+      "log_B_star": 24.837978558368928,
+      "J": 48,
+      "m": 24,
+      "interval_bound_per_axis": 1776,
+      "node_bound_per_tree": 3633610752,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.5,
+      "epsilon": 1e-08,
+      "log_B_star": 24.837978558368928,
+      "J": 68,
+      "m": 34,
+      "interval_bound_per_axis": 1796,
+      "node_bound_per_tree": 7457624192,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.5,
+      "epsilon": 1e-20,
+      "log_B_star": 24.837978558368928,
+      "J": 108,
+      "m": 54,
+      "interval_bound_per_axis": 1836,
+      "node_bound_per_tree": 19659065472,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.125,
+      "epsilon": 0.01,
+      "log_B_star": 30.3782814339415,
+      "J": 56,
+      "m": 28,
+      "interval_bound_per_axis": 6968,
+      "node_bound_per_tree": 76131141632,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.125,
+      "epsilon": 1e-08,
+      "log_B_star": 30.3782814339415,
+      "J": 76,
+      "m": 38,
+      "interval_bound_per_axis": 6988,
+      "node_bound_per_tree": 141027231872,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.125,
+      "epsilon": 1e-20,
+      "log_B_star": 30.3782814339415,
+      "J": 116,
+      "m": 58,
+      "interval_bound_per_axis": 7028,
+      "node_bound_per_tree": 332314650752,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.03125,
+      "epsilon": 0.01,
+      "log_B_star": 35.92101265438838,
+      "J": 64,
+      "m": 32,
+      "interval_bound_per_axis": 27712,
+      "node_bound_per_tree": 1572771725312,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.03125,
+      "epsilon": 1e-08,
+      "log_B_star": 35.92101265438838,
+      "J": 84,
+      "m": 42,
+      "interval_bound_per_axis": 27732,
+      "node_bound_per_tree": 2713257171072,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "P": 27,
+      "eta": 0.03125,
+      "epsilon": 1e-20,
+      "log_B_star": 35.92101265438838,
+      "J": 124,
+      "m": 62,
+      "interval_bound_per_axis": 27772,
+      "node_bound_per_tree": 5929631268992,
+      "note": "sufficient conservative bound; all nodes genuinely cost execution"
+    }
+  ],
+  "scope": "Exact rational scalar checks. No executed native sampler, uniform Sobolev oracle, or numerical evidence substituted for the proof."
+}

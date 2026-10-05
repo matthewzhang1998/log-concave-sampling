@@ -1,0 +1,34 @@
+{
+  "assertions": 31942,
+  "paired_reverse_cumulants": [
+    {
+      "cluster": 1,
+      "coefficient": "0"
+    },
+    {
+      "cluster": 2,
+      "coefficient": "26*p**4*r**2*th**8 + 3*p**2*r**2*th**6 + r**2*th**4"
+    },
+    {
+      "cluster": 3,
+      "coefficient": "0"
+    },
+    {
+      "cluster": 4,
+      "coefficient": "95188*p**8*r**4*th**16 + 11640*p**6*r**4*th**14 + 1882*p**4*r**4*th**12 + 66*p**2*r**4*th**10 + 13*r**4*th**8/2"
+    },
+    {
+      "cluster": 5,
+      "coefficient": "0"
+    },
+    {
+      "cluster": 6,
+      "coefficient": "9313682048*p**12*r**6*th**24/3 + 384694032*p**10*r**6*th**22 + 49135060*p**8*r**6*th**20 + 2679093*p**6*r**6*th**18 + 169143*p**4*r**6*th**16 + 2910*p**2*r**6*th**14 + 412*r**6*th**12/3"
+    }
+  ],
+  "minimum_disintegration_gap": 0.44504151521331475,
+  "max_characteristic_derivative_error": 2.309526722703476e-16,
+  "retained_public_lower_bound_constant": 0.18835930452500654,
+  "epsilon_native_source": 0.014449929936772953,
+  "scope": "Finite reverse-jet, covariance, source-first, characteristic and Gaussian-row diagnostics; not execution of imported native source/pair programs."
+}

@@ -1,0 +1,53 @@
+{
+  "source_scope": "Literal native primitives and independently sealed source facts only; generic native-forest feedback/trace claims are excluded.",
+  "inputs": [
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/MANIFEST.json",
+      "sha256": "4711e1bdde8ab138140e40c44b8f7fb5214eb4d051095a5452eec33fabd62f56"
+    },
+    {
+      "path": "/workspace/shared/combined-bridge-skew-20261005/MANIFEST.json",
+      "sha256": "04b93b69a562f49c0ab1ed2fc49da2208db3204649f84f8a95964f333a71e974"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/MANIFEST.json",
+      "sha256": "74438e5f6de3ec009b11b2b60f71a4cddaddf6ef0f7450f581370ac0074ec30f"
+    },
+    {
+      "path": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+      "sha256": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-RANK3-PACKET-FEEDBACK-LEMMA.md",
+      "sha256": "c689f0a947bcf6358f38bc6470ede05f564dcec11ff5e4171df8250e4af78193"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/ALL-RANK-CENTERED-STEIN-CURRENT-RECURRENCE.md",
+      "sha256": "d09db0fa283512de36bc910f1d3f828257121699832c0897943d9a252f59dd0e"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/DISCOUNTED-OU-CONNECTED-CUMULANT-RECURRENCE.md",
+      "sha256": "cd37a782bbcef3cdf5ec39a33be4874df56ff06af75170485b182c04b361d05e"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/FIRST-RESOLVENT-CLOCK-QUADRATURE.md",
+      "sha256": "56968a4ff1880fee1dff80cb6b8f0044c27ee8108dca4c0d8a3ec8c45ee08926"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/independent-audit/INDEPENDENT-NATIVE-RANK3-PACKET-AUDIT.md",
+      "sha256": "e6fc3a2290c2a1c8ed494cb6cec86a781827687c2bdfa706d8f5cb66896936e1"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/CONDITIONAL-QUARTIC-PACKET-AND-CYCLE-RETURN.md",
+      "sha256": "ccaae83e8308c578921cc3a0f85239758bdaafd44c209a9a75cd39f9fd02e02b"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/tight-coarse-bridge/uniform-test-counterexample/MODULATED-C2-SIX-TREE-COUNTEREXAMPLE.md",
+      "sha256": "8d0086e37b9cb1273ff483dc3dd9ddbeee297c9e93b7675b4aad11f2d6bd4dc3"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "status": "PASS",
+  "reviewed_and_input_references": 24,
+  "checks": [
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/CUTOFF-FREE-SECTOR-GAUSS.md",
+      "sha256": "4a422374bfde930ec8ea5df64cde24c7977d2602283726d0fee1db758343893d",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/COMPLETE-EXECUTION-BILL.md",
+      "sha256": "ebf6c935dcd14d4091acbf186611b364ae9381d56178a3f9726d5674ef161252",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/INPUT-PINS.json",
+      "sha256": "b218ae3b2cfc7c2f9ad7d1c04ee83e224049e16e37488c1342140a5ad2ab5d84",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/cutoff_free_sector_gauss.py",
+      "sha256": "0247e3ffd5d76a99add43fe1c4b8679c19ca59eb703762c6f8269655642cfe49",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/gauss_rational_core.py",
+      "sha256": "5646f982f27791a0026aece20f7299f42eb2b4e0fb106bfb0f4ee1b3c26b920c",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/check_production_callback.py",
+      "sha256": "9686a4f4f614bf32f992362596fe6eb24fc715961d657cc0a2d2f62f6ef1dbbb",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/production-callback-checks.json",
+      "sha256": "c6ca76e19a9e2d3e6067992ee2f6885859cccd176f99281168737353ec975a65",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/INDEPENDENT-COMPLEX-OU-CLOCK-AUDIT.md",
+      "sha256": "cb90f4d197af77a2b3cc272651dbfafd15cfe3146a2a9eda6afdef9804047f4f",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/check_complex_ou_clock_audit.py",
+      "sha256": "035f1dafb4e0bcbf750779a9d3017fd42a0963b13a704a91a7456acb141a45d9",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/complex-ou-clock-audit-checks.json",
+      "sha256": "a41e0057bd3806be23fb53b8256bbc7a5ba98f86ec00c5f4f27f9f90b3837341",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/audit-check-run.txt",
+      "sha256": "66714d878c82116998f3ee01ce502771212d029a02e12002a04da9d28bf5b6a8",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/MANIFEST.json",
+      "sha256": "4ec4b31d741dc6396e8187f5bb8c006089d56b1cb1a59fa33b4a47a04e517574",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/POSITIVE-SECTOR-GAUSS.md",
+      "sha256": "a4fba9037d305540242dda09adc9dbe70823755652e4a94e585d392a0dfd7dbf",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/positive_sector_gauss.py",
+      "sha256": "5646f982f27791a0026aece20f7299f42eb2b4e0fb106bfb0f4ee1b3c26b920c",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/independent-audit/INDEPENDENT-POSITIVE-GAUSS-AUDIT.md",
+      "sha256": "3d1fc0f872bf1c246948c0776a941c172e00c36d0b8d9c0be2cae03879504a8f",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/MANIFEST.json",
+      "sha256": "09ef144321423e22831c3cc720c3b8e3c48cc2bd090c891bc675d10ca7841574",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/THREE-CUBIC-EXACT-HEAT.md",
+      "sha256": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/MIXED-THREE-THREE-SIX.md",
+      "sha256": "495a6b333f71e5e22fac8c2d2d4fdc4bf3a53771ec414eefed525ae2c1f90b0a",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/INTEGRATED-MAJORANT-CUBATURE.md",
+      "sha256": "3bdb992544dbba0af0581d0ae4cfc023e2528277fe144fb1b617fd43a8de5e56",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md",
+      "sha256": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+      "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/active_probe_source.py",
+      "sha256": "d321f4256d2ab764b04a87c286bd7500b8e73934a901af9848cff99170448047",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/peer-carrier-interface-20261005/INTERFACE-MEMO.md",
+      "sha256": "677e6edb3102fdba57fc51f612d1991bd79122460bdfdb391a8c8b4cb17d66f6",
+      "match": true
+    },
+    {
+      "path": "/workspace/shared/peer-carrier-interface-20261005/MANIFEST.json",
+      "sha256": "85c1e209efc556abc396be4d269eda90106dad8cbe2b2c8f59ad073ba6cb65ce",
+      "match": true
+    }
+  ]
+}

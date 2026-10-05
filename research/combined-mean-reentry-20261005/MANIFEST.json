@@ -1,0 +1,60 @@
+{
+  "status": "independently_audited_actual_finite_depth_37_10_reentry_and_mechanism_ceiling",
+  "entry": "/workspace/shared/combined-mean-reentry-20261005/README.md",
+  "result": "Actual admitted grade37/10 bridge/skew source yields affine same-grade finite-depth reentry; sharp15/4 fixed-ledger envelope; inner mu=A^(1/2) boundary scaling qualified; explicit next bridge covariance port.",
+  "independent_checks": 1827,
+  "source_application_hash_checks": 12,
+  "scope_limits": [
+    "No newly constructed15/4 producer",
+    "No newly constructed bridge covariance port",
+    "No endpoint or RAW force law",
+    "No any-order or sublinear-order result",
+    "No native numerical compiler execution"
+  ],
+  "files": [
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/APPLICATION-TO-SEALED-COMBINED-SOURCE.md",
+      "sha256": "8275754fbb614d41540061fd244c29474973db06440855b4ddfa19872a80e5d3",
+      "bytes": 2694
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md",
+      "sha256": "53748adb366902bc875e5d74871bcd1a9cda74ec22524bba699f38fc4c918f49",
+      "bytes": 12384
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/README.md",
+      "sha256": "b6c08e107918e46d0eda9c085b4d4dcd53ec88121c2d94cd15fb282274b25b25",
+      "bytes": 2256
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/independent-audit/INDEPENDENT-PADDING-CEILING-AUDIT.md",
+      "sha256": "929e23d4fd354137125239f6686d98cb757c3117c81e22afff8ae1df35932dfb",
+      "bytes": 11631
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/independent-audit/check_padding_ceiling.py",
+      "sha256": "497b8b0dd97b6d7c62147014666270cd28e5c0dfcaf47f35f49430b6af171f6f",
+      "bytes": 2364
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/independent-audit/padding-ceiling-checks.json",
+      "sha256": "5ade19e68bd08d22c6d0a636f303938ce4cbc030ea82c8b13b19e24edfd1fc20",
+      "bytes": 1089
+    }
+  ],
+  "pinned_inputs": [
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/MANIFEST.json",
+      "sha256": "106350c3f20d06f6eaae1fb9b46677e0ccc7bfe8d21ec5f3e62f72ffdbaf515a"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/MANIFEST.json",
+      "sha256": "4711e1bdde8ab138140e40c44b8f7fb5214eb4d051095a5452eec33fabd62f56"
+    },
+    {
+      "path": "/workspace/shared/combined-bridge-skew-20261005/MANIFEST.json",
+      "sha256": "04b93b69a562f49c0ab1ed2fc49da2208db3204649f84f8a95964f333a71e974"
+    }
+  ]
+}

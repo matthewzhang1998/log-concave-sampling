@@ -1,0 +1,179 @@
+{
+  "checks": 25348,
+  "categories": {
+    "exact_symbol": 900,
+    "offspring": 180,
+    "geometry": 3,
+    "source_ports": 6,
+    "chunk_ports": 4,
+    "wick_graphs": 22070,
+    "wick_cumulants": 3,
+    "negative_controls": 9,
+    "tensor_cuts": 12,
+    "clock_bounds": 54,
+    "normalization": 24,
+    "next_obstruction": 547,
+    "next_grade_tradeoff": 1536
+  },
+  "scalar_series": {
+    "-1": {
+      "(6, 4, 1, 0, 0)": "-1",
+      "(8, 4, 2, 0, 0)": "9/2",
+      "(10, 6, 2, 0, 0)": "9",
+      "(12, 8, 2, 0, 0)": "4",
+      "(14, 8, 3, 0, 0)": "-333",
+      "(16, 8, 4, 0, 0)": "16497/4",
+      "(16, 10, 3, 0, 0)": "-216",
+      "(18, 10, 4, 0, 0)": "16497",
+      "(18, 12, 3, 0, 0)": "-100/3",
+      "(20, 12, 4, 0, 0)": "18900",
+      "(22, 12, 5, 0, 0)": "-1668789",
+      "(22, 14, 4, 0, 0)": "5256",
+      "(24, 12, 6, 0, 0)": "67497867/2",
+      "(24, 14, 5, 0, 0)": "-2212056",
+      "(24, 16, 4, 0, 0)": "416",
+      "(26, 14, 6, 0, 0)": "202493601",
+      "(26, 16, 5, 0, 0)": "-944892",
+      "(28, 16, 6, 0, 0)": "369464544",
+      "(28, 18, 5, 0, 0)": "-142272",
+      "(30, 16, 7, 0, 0)": "-39904307937",
+      "(30, 18, 6, 0, 0)": "204551136",
+      "(30, 20, 5, 0, 0)": "-34336/5",
+      "(32, 16, 8, 0, 0)": "8986783058433/8",
+      "(32, 18, 7, 0, 0)": "-79659945072",
+      "(32, 20, 6, 0, 0)": "46157256"
+    },
+    "1": {
+      "(6, 4, 1, 0, 0)": "1",
+      "(8, 4, 2, 0, 0)": "9/2",
+      "(10, 6, 2, 0, 0)": "9",
+      "(12, 8, 2, 0, 0)": "4",
+      "(14, 8, 3, 0, 0)": "333",
+      "(16, 8, 4, 0, 0)": "16497/4",
+      "(16, 10, 3, 0, 0)": "216",
+      "(18, 10, 4, 0, 0)": "16497",
+      "(18, 12, 3, 0, 0)": "100/3",
+      "(20, 12, 4, 0, 0)": "18900",
+      "(22, 12, 5, 0, 0)": "1668789",
+      "(22, 14, 4, 0, 0)": "5256",
+      "(24, 12, 6, 0, 0)": "67497867/2",
+      "(24, 14, 5, 0, 0)": "2212056",
+      "(24, 16, 4, 0, 0)": "416",
+      "(26, 14, 6, 0, 0)": "202493601",
+      "(26, 16, 5, 0, 0)": "944892",
+      "(28, 16, 6, 0, 0)": "369464544",
+      "(28, 18, 5, 0, 0)": "142272",
+      "(30, 16, 7, 0, 0)": "39904307937",
+      "(30, 18, 6, 0, 0)": "204551136",
+      "(30, 20, 5, 0, 0)": "34336/5",
+      "(32, 16, 8, 0, 0)": "8986783058433/8",
+      "(32, 18, 7, 0, 0)": "79659945072",
+      "(32, 20, 6, 0, 0)": "46157256"
+    }
+  },
+  "connected_two_color_pairings": {
+    "2": 8,
+    "3": 200,
+    "4": 9984
+  },
+  "dyadic_rows": [
+    {
+      "tau": 0.25,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.2942744153552903,
+      "sum_Ccaller_tau2": 1.382698496600016,
+      "sum_Dcaller_tau3": 0.37686286944026537,
+      "sum_t_tau2": 0.6625542372361174,
+      "sum_t2_tau4": 0.07102217662747957
+    },
+    {
+      "tau": 0.125,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.585203498730703,
+      "sum_Ccaller_tau2": 1.4272311822515826,
+      "sum_Dcaller_tau3": 0.3836730557136856,
+      "sum_t_tau2": 0.7059634306547979,
+      "sum_t2_tau4": 0.07205655606329008
+    },
+    {
+      "tau": 0.0625,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.7347016383692706,
+      "sum_Ccaller_tau2": 1.4387989380025763,
+      "sum_Dcaller_tau3": 0.3845858669965576,
+      "sum_t_tau2": 0.7174564783338688,
+      "sum_t2_tau4": 0.07212971282623022
+    },
+    {
+      "tau": 0.03125,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.809970931906037,
+      "sum_Ccaller_tau2": 1.4417191138434224,
+      "sum_Dcaller_tau3": 0.3847020097689719,
+      "sum_t_tau2": 0.7203719108563662,
+      "sum_t2_tau4": 0.07213443122944854
+    },
+    {
+      "tau": 0.015625,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.847671124000666,
+      "sum_Ccaller_tau2": 1.442450940064635,
+      "sum_Dcaller_tau3": 0.3847165923826107,
+      "sum_t_tau2": 0.7211034394468945,
+      "sum_t2_tau4": 0.07213472846813572
+    },
+    {
+      "tau": 0.0078125,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.8665294295154546,
+      "sum_Ccaller_tau2": 1.4426340082866203,
+      "sum_Dcaller_tau3": 0.3847184172410036,
+      "sum_t_tau2": 0.7212864890485657,
+      "sum_t2_tau4": 0.07213474708231399
+    },
+    {
+      "tau": 0.00390625,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.875959608966768,
+      "sum_Ccaller_tau2": 1.442679782325597,
+      "sum_Dcaller_tau3": 0.38471864541185347,
+      "sum_t_tau2": 0.7213322619234854,
+      "sum_t2_tau4": 0.07213474824627537
+    },
+    {
+      "tau": 0.001953125,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.8806748270451257,
+      "sum_Ccaller_tau2": 1.4426912262718763,
+      "sum_Dcaller_tau3": 0.3847186739351961,
+      "sum_t_tau2": 0.7213437057970066,
+      "sum_t2_tau4": 0.07213474831903197
+    },
+    {
+      "tau": 0.0009765625,
+      "max_z_tau": 0.3849001794597506,
+      "sum_z_tau": 2.883032452128891,
+      "sum_Ccaller_tau2": 1.4426940872857306,
+      "sum_Dcaller_tau3": 0.384718677500676,
+      "sum_t_tau2": 0.7213465668063135,
+      "sum_t2_tau4": 0.07213474832357938
+    }
+  ],
+  "source_sha256": {
+    "/workspace/shared/rank-indexed-positive-returns-20261005/TREE-GENERATOR-AND-RANK5-RETURN-TEST.md": "af4999cc29839b4bf283d3e7076e7dc24f7c1e4de02971bb6f262eb62824b1ab",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/AUXILIARY-PUBLIC-CYCLE-CLOSURE.md": "648a431c05495fbeb79d65646a4a5ec98b5e0a9cadbcca5f5bc3a877666ce1d9",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/connected-current-return/CONDITIONAL-QUARTIC-PACKET-AND-CYCLE-RETURN.md": "ccaae83e8308c578921cc3a0f85239758bdaafd44c209a9a75cd39f9fd02e02b",
+    "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "/workspace/shared/two-cycle-positive-return-20261005/independent-audit/REVIEWED-TWO-CYCLE-SOURCE.md": "802667e8e7f07cb2df65c66463045ec7758110a169bddb48d3e82bd1a04835ee"
+  },
+  "next_graph": {
+    "spanning_trees": 32,
+    "all_directed_physical_paths": 384,
+    "short_paths_passing_chunk_test": 192,
+    "long_paths_failing_chunk_test": 192,
+    "longest_root_paths_failing": 128,
+    "force_count": 8,
+    "physical_marks": 4,
+    "cycle_count": 5
+  }
+}

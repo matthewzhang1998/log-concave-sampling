@@ -1,0 +1,182 @@
+{
+  "status": "PASS finite diagnostics; not native execution",
+  "rank8_histories": 794880,
+  "rank8_raw_values": 27020800,
+  "rank8_shell_raw_values": 243187200,
+  "rank8_rebuilt_total_raw_values": 270208000,
+  "exact_ledgers_n4_to100": true,
+  "selected_ledgers": [
+    {
+      "n": 4,
+      "Psi_old": "13/6",
+      "Psi_shell": "7/3",
+      "gain": "1/6",
+      "root_old": "3",
+      "root_shell": "37/12",
+      "root_first": "11/4",
+      "target": "13/3",
+      "self_bank": "19/3"
+    },
+    {
+      "n": 5,
+      "Psi_old": "131/40",
+      "Psi_shell": "55/16",
+      "gain": "13/80",
+      "root_old": "39/10",
+      "root_shell": "4",
+      "root_first": "15/4",
+      "target": "21/4",
+      "self_bank": "33/4"
+    },
+    {
+      "n": 6,
+      "Psi_old": "13/3",
+      "Psi_shell": "9/2",
+      "gain": "1/6",
+      "root_old": "29/6",
+      "root_shell": "99/20",
+      "root_first": "19/4",
+      "target": "31/5",
+      "self_bank": "51/5"
+    },
+    {
+      "n": 7,
+      "Psi_old": "451/84",
+      "Psi_shell": "133/24",
+      "gain": "29/168",
+      "root_old": "81/14",
+      "root_shell": "71/12",
+      "root_first": "23/4",
+      "target": "43/6",
+      "self_bank": "73/6"
+    },
+    {
+      "n": 8,
+      "Psi_old": "179/28",
+      "Psi_shell": "46/7",
+      "gain": "5/28",
+      "root_old": "27/4",
+      "root_shell": "193/28",
+      "root_first": "27/4",
+      "target": "57/7",
+      "self_bank": "99/7"
+    },
+    {
+      "n": 9,
+      "Psi_old": "1067/144",
+      "Psi_shell": "243/32",
+      "gain": "53/288",
+      "root_old": "139/18",
+      "root_shell": "63/8",
+      "root_first": "31/4",
+      "target": "73/8",
+      "self_bank": "129/8"
+    },
+    {
+      "n": 10,
+      "Psi_old": "379/45",
+      "Psi_shell": "155/18",
+      "gain": "17/90",
+      "root_old": "87/10",
+      "root_shell": "319/36",
+      "root_first": "35/4",
+      "target": "91/9",
+      "self_bank": "163/9"
+    },
+    {
+      "n": 11,
+      "Psi_old": "415/44",
+      "Psi_shell": "77/8",
+      "gain": "17/88",
+      "root_old": "213/22",
+      "root_shell": "197/20",
+      "root_first": "39/4",
+      "target": "111/10",
+      "self_bank": "201/10"
+    },
+    {
+      "n": 12,
+      "Psi_old": "689/66",
+      "Psi_shell": "117/11",
+      "gain": "13/66",
+      "root_old": "32/3",
+      "root_shell": "477/44",
+      "root_first": "43/4",
+      "target": "133/11",
+      "self_bank": "243/11"
+    }
+  ],
+  "heterogeneous_bridge_cases": 8,
+  "max_sampled_mark_active_first": 0.13343842019162566,
+  "max_origin_error": 0.0,
+  "max_probe_oddness_error": 4.553649124439119e-18,
+  "gaussian_response_checks": [
+    {
+      "k": 0,
+      "nodes": 256,
+      "response": 0.00883462208866062,
+      "expected": 0.008834622088660628,
+      "error": 6.938893903907228e-18
+    },
+    {
+      "k": 1,
+      "nodes": 4096,
+      "response": -0.0017382094086173978,
+      "expected": -0.001738209408617393,
+      "error": 4.7704895589362195e-18
+    },
+    {
+      "k": 2,
+      "nodes": 65536,
+      "response": -0.0009666044416650738,
+      "expected": -0.0009666044416650786,
+      "error": 4.7704895589362195e-18
+    }
+  ],
+  "max_rank8_tensor_telescope_error": 1.0164395367051604e-20,
+  "max_rank8_four_node_chord_error": 1.0164395367051604e-19,
+  "fixed_first_no_heat_grade_witness": [
+    {
+      "frequency": 8,
+      "delta": 0.125,
+      "marked_active_first": 0.2,
+      "first_over_delta": 1.6
+    },
+    {
+      "frequency": 16,
+      "delta": 0.0625,
+      "marked_active_first": 0.2,
+      "first_over_delta": 3.2
+    },
+    {
+      "frequency": 32,
+      "delta": 0.03125,
+      "marked_active_first": 0.2,
+      "first_over_delta": 6.4
+    },
+    {
+      "frequency": 64,
+      "delta": 0.015625,
+      "marked_active_first": 0.2,
+      "first_over_delta": 12.8
+    },
+    {
+      "frequency": 128,
+      "delta": 0.0078125,
+      "marked_active_first": 0.2,
+      "first_over_delta": 25.6
+    },
+    {
+      "frequency": 256,
+      "delta": 0.00390625,
+      "marked_active_first": 0.2,
+      "first_over_delta": 51.2
+    }
+  ],
+  "rank8_allocation_gamma_ceiling": "37/168",
+  "limitations": [
+    "No native sampler executed",
+    "No all-order restoration",
+    "No whole rank-eight cumulant high-frequency lower bound inferred from local source witness"
+  ]
+}

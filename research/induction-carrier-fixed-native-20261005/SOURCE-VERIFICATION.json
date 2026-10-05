@@ -1,0 +1,77 @@
+{
+  "all_pass": true,
+  "files": [
+    {
+      "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "expected": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "actual": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/peer-carrier-interface-20261005/INTERFACE-MEMO.md",
+      "expected": "677e6edb3102fdba57fc51f612d1991bd79122460bdfdb391a8c8b4cb17d66f6",
+      "actual": "677e6edb3102fdba57fc51f612d1991bd79122460bdfdb391a8c8b4cb17d66f6",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/peer-carrier-interface-20261005/JOINT-METRIC-CHECK.md",
+      "expected": "d49437aeae71e98f133bcf97356370dad5ac0ad841fdc518c6cfe980d5b4981c",
+      "actual": "d49437aeae71e98f133bcf97356370dad5ac0ad841fdc518c6cfe980d5b4981c",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-carrier-replacement-20261005/FINITE-DIMENSION-CARRIER-HYBRID.md",
+      "expected": "071a978861d63cd80c7fbca125e76e6c721df14a2afae54e93453c722203beb2",
+      "actual": "071a978861d63cd80c7fbca125e76e6c721df14a2afae54e93453c722203beb2",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-carrier-replacement-20261005/VARIANCE-PARTITION-NATIVE-REPLACEMENT.md",
+      "expected": "535e4c6475b94ac9b930c1d6467d5909c68715f0dfc52a14bac8b83e7d99c5d5",
+      "actual": "535e4c6475b94ac9b930c1d6467d5909c68715f0dfc52a14bac8b83e7d99c5d5",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/COMMON-CARRIER-AMALGAMATION.md",
+      "expected": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8",
+      "actual": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/CUTOFF-FREE-SECTOR-GAUSS.md",
+      "expected": "4a422374bfde930ec8ea5df64cde24c7977d2602283726d0fee1db758343893d",
+      "actual": "4a422374bfde930ec8ea5df64cde24c7977d2602283726d0fee1db758343893d",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/COMPLETE-EXECUTION-BILL.md",
+      "expected": "ebf6c935dcd14d4091acbf186611b364ae9381d56178a3f9726d5674ef161252",
+      "actual": "ebf6c935dcd14d4091acbf186611b364ae9381d56178a3f9726d5674ef161252",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/FINAL-STATUS.md",
+      "expected": "d7e82bad16cad8e79d89f32baf8648016e6e8a193780ca5d4bf6a68fc345dc8e",
+      "actual": "d7e82bad16cad8e79d89f32baf8648016e6e8a193780ca5d4bf6a68fc345dc8e",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/MANIFEST.json",
+      "expected": "4a6d120575af78325f5c0372279580e8d6dbf9724dbdf6b4736a195e4cfb100b",
+      "actual": "4a6d120575af78325f5c0372279580e8d6dbf9724dbdf6b4736a195e4cfb100b",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/INDEPENDENT-COMPLEX-OU-CLOCK-AUDIT.md",
+      "expected": "cb90f4d197af77a2b3cc272651dbfafd15cfe3146a2a9eda6afdef9804047f4f",
+      "actual": "cb90f4d197af77a2b3cc272651dbfafd15cfe3146a2a9eda6afdef9804047f4f",
+      "ok": true
+    },
+    {
+      "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/REVIEW-PIN.json",
+      "expected": "c2fef5f44e151f7da7134410fa5d22bd14170ca312fb7612d405f4aa200e1487",
+      "actual": "c2fef5f44e151f7da7134410fa5d22bd14170ca312fb7612d405f4aa200e1487",
+      "ok": true
+    }
+  ]
+}

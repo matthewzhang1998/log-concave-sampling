@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "hermite_cases": 200,
+  "rotation_cases": 16,
+  "geometry_cases": 3,
+  "guard_examples": 4
+}

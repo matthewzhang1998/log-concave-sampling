@@ -1,6 +1,28 @@
 # Log-concave sampling: mathematical research snapshot
 
-Snapshot version: 2026-10-05-public-v12-resummed-m3-and-source-counterexamples, updated 5 October 2026. This is a curated research archive of proofs, scoped audits, source certificates and diagnostic code. Inclusion is not a blanket theorem admission.
+Snapshot version: 2026-10-05-public-v13-repair-graph-algebra-and-induction, updated 5 October 2026. This is a curated research archive of proofs, scoped audits, source certificates and diagnostic code. Inclusion is not a blanket theorem admission.
+
+## V13: repair-graph algebra and scoped induction
+
+Start with the [repair-graph algebra](research/repair-graph-algebra-20261005/REPAIR-GRAPH-ALGEBRA.md), its [overview](research/repair-graph-algebra-20261005/README.md), and the [machine-readable compiler contract](research/repair-graph-algebra-20261005/FORMAL-COMPILER-CONTRACT.json). The finite residual generator and filtered right inverse are conditional on supplied current identities, a filtration-compatible leading-current section, positive reserve for every old/new hit port, and reserve-local finiteness. The exact local-trace/common-translation/bridge relation does not itself realize a positive heat program.
+
+Three distinct frontiers must not be conflated:
+
+- The source-relative global dimension exponent remains **1/32**. No improved complete global complexity theorem is claimed.
+- The [guarded fourth-order endpoint](research/positive-fourth-order-endpoint-20261005/FOURTH-ORDER-POSITIVE-ENDPOINT.md) has normalized leading error **Lambda_ep A^4 sqrt(D)**, or physical **Lambda_ep A^(9/2) sqrt(D)**, with public logarithms, all imported guards, and absolute floors restored.
+- The [finite rank-eight re-entry](research/induction-renewable-heat-budget-20261005/FINAL-STATUS.md) reaches local current grade **41/5**, with the same outside-old O(alpha) first hypothesis and complete rebuilding/replay charges. Its clock credit is not indefinitely renewable and it is not a new endpoint theorem.
+
+The archive adds the marked-graph ownership induction, active-probe fixed-rank source, coherent-history current ports, simultaneous mixed queue, exact multicopy heat, cutoff-free positive fixed-family clock rule, heat-shell re-entry, and owned common-carrier/root-seed interfaces. New clocks and ownership results supersede only their specified historical gaps. The [V13 status](STATUS-V13.md) identifies the exact scopes and remaining current-image, positive trace, zero-reserve observer, true-history, and complete-cost obligations. Arbitrary-order positive sampler closure and **c(P)=o(P)** remain unproved.
+
+V13 preserves **813 exact files across 52 sealed or individually pin-frozen research packets**, plus **30 exact historical source dependencies**. The full payload contains **1,540 research files**. [The explicit selection](verification/V13-FROZEN-SELECTION.json), [source map](verification/V13-SOURCE-MAP.json), [curation review](verification/V13-REVIEW.md), and [historical pin disclosures](verification/V13-HISTORICAL-PINS.json) retain distinctions between final seals, earlier audited snapshots and unresolved historical hash references. LOW30 and HIGH13 are external; neither full manuscript is redistributed. No license is added.
+
+**All 266 selected diagnostic entrypoints passed**, including 118 new checks, in one complete fresh isolated run. Archived sources and saved results remained unchanged. [Verification evidence](verification/V13-DIAGNOSTIC-RESULTS.json) distinguishes these checks from external manuscript provenance and native-compiler execution.
+
+Use **Python 3.12 or newer** with the recorded dependencies. Run `python verify_integrity.py`, then `python run_diagnostics.py`; `--new-only` limits reproduction to V13. Historical scripts and saved results are exact immutable research originals, so run them through the disposable-copy runner. Its path mapping changes only research locators, while explicit external-source adapters report the LOW30 provenance checks not performed in the default public run. They do not remove mathematical assertions or simulate native compilers. See [reproduction details](STATUS-V13.md#reproduction-and-source-integrity).
+
+## Historical V12 status
+
+The following version descriptions are historical. Only the exact newer scopes above and in STATUS-V13.md supersede them. In particular, the guarded fourth-order endpoint is now admitted; unrelated original-target, general-history, arbitrary-order and complete-cost claims remain open. Original source text and historical hashes are preserved.
 
 ## V12: resummed m3 subclasses and source-qualified counterexamples
 

@@ -1,0 +1,45 @@
+{
+  "scope": "Independent finite graph and exact h=2 Wick census; no native sampler or same-endpoint remainder is executed.",
+  "assertions": 1379177,
+  "all_regular_graph_tests": [
+    {
+      "n": 2,
+      "graphs": 1,
+      "labelled_spanning_trees": 4,
+      "oriented_short_spines": 8,
+      "monomials": 8
+    },
+    {
+      "n": 3,
+      "graphs": 1,
+      "labelled_spanning_trees": 12,
+      "oriented_short_spines": 48,
+      "monomials": 96
+    },
+    {
+      "n": 4,
+      "graphs": 12,
+      "labelled_spanning_trees": 348,
+      "oriented_short_spines": 2088,
+      "monomials": 7056
+    },
+    {
+      "n": 5,
+      "graphs": 148,
+      "labelled_spanning_trees": 11930,
+      "oriented_short_spines": 95440,
+      "monomials": 513200
+    }
+  ],
+  "doubled_C4_orientations": 192,
+  "wick_matchings": 49536,
+  "connected_wick_matchings": 49344,
+  "variance_polynomial_counts": {
+    "((4, 3), (6, 9), (8, 242))": 128,
+    "((4, 3), (6, 18), (8, 242))": 64
+  },
+  "first_variance_coefficient": "3/2",
+  "first_variance_alpha_power": 12,
+  "first_variance_z_power": 4,
+  "first_variance_effective_grade": "32/3"
+}

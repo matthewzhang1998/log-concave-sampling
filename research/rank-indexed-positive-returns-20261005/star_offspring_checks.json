@@ -1,0 +1,1001 @@
+{
+  "assertions": 189,
+  "scope": "Formal finite star jets and literal ideal-graph scale tests; no W2 lower bound or native execution",
+  "all_rank_second_coefficients": [
+    {
+      "star_rank": 3,
+      "second_log_current_ranks": [
+        4
+      ],
+      "side_zero_first_force_count": 6,
+      "side_zero_first_physical_rank": 4,
+      "side_zero_first_cycle_count": 0
+    },
+    {
+      "star_rank": 4,
+      "second_log_current_ranks": [
+        4,
+        6
+      ],
+      "side_zero_first_force_count": 6,
+      "side_zero_first_physical_rank": 4,
+      "side_zero_first_cycle_count": 1
+    },
+    {
+      "star_rank": 5,
+      "second_log_current_ranks": [
+        4,
+        6,
+        8
+      ],
+      "side_zero_first_force_count": 6,
+      "side_zero_first_physical_rank": 4,
+      "side_zero_first_cycle_count": 2
+    },
+    {
+      "star_rank": 6,
+      "second_log_current_ranks": [
+        4,
+        6,
+        8,
+        10
+      ],
+      "side_zero_first_force_count": 6,
+      "side_zero_first_physical_rank": 4,
+      "side_zero_first_cycle_count": 3
+    },
+    {
+      "star_rank": 7,
+      "second_log_current_ranks": [
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "side_zero_first_force_count": 6,
+      "side_zero_first_physical_rank": 4,
+      "side_zero_first_cycle_count": 4
+    },
+    {
+      "star_rank": 8,
+      "second_log_current_ranks": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        14
+      ],
+      "side_zero_first_force_count": 6,
+      "side_zero_first_physical_rank": 4,
+      "side_zero_first_cycle_count": 5
+    },
+    {
+      "star_rank": 9,
+      "second_log_current_ranks": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "side_zero_first_force_count": 6,
+      "side_zero_first_physical_rank": 4,
+      "side_zero_first_cycle_count": 6
+    }
+  ],
+  "rank5_all_descendants_through_spine_degree6": [
+    {
+      "spine_amplitude_degree": 1,
+      "terms": [
+        {
+          "rational_coefficient": "1",
+          "physical_rank": 5,
+          "spine_copies": 1,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            1,
+            1
+          ],
+          "original_force_count": 5
+        }
+      ]
+    },
+    {
+      "spine_amplitude_degree": 2,
+      "terms": [
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 8,
+          "spine_copies": 2,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 8
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 8,
+          "spine_copies": 2,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 8
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 8,
+          "spine_copies": 2,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            2
+          ],
+          "original_force_count": 10
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 6,
+          "spine_copies": 2,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 6
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 6,
+          "spine_copies": 2,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 8
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 6,
+          "spine_copies": 2,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 8
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 4,
+          "spine_copies": 2,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 6
+        }
+      ]
+    },
+    {
+      "spine_amplitude_degree": 3,
+      "terms": [
+        {
+          "rational_coefficient": "1",
+          "physical_rank": 11,
+          "spine_copies": 3,
+          "own_public_shifts": 3,
+          "side_force_occurrences": [
+            1,
+            1
+          ],
+          "original_force_count": 11
+        },
+        {
+          "rational_coefficient": "1",
+          "physical_rank": 11,
+          "spine_copies": 3,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            3,
+            1
+          ],
+          "original_force_count": 13
+        },
+        {
+          "rational_coefficient": "1",
+          "physical_rank": 11,
+          "spine_copies": 3,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            1,
+            3
+          ],
+          "original_force_count": 13
+        },
+        {
+          "rational_coefficient": "4",
+          "physical_rank": 9,
+          "spine_copies": 3,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            1,
+            1
+          ],
+          "original_force_count": 11
+        }
+      ]
+    },
+    {
+      "spine_amplitude_degree": 4,
+      "terms": [
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 14,
+          "spine_copies": 4,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 14
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 14,
+          "spine_copies": 4,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 14
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 14,
+          "spine_copies": 4,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            4,
+            0
+          ],
+          "original_force_count": 16
+        },
+        {
+          "rational_coefficient": "4",
+          "physical_rank": 14,
+          "spine_copies": 4,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            2,
+            2
+          ],
+          "original_force_count": 16
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 14,
+          "spine_copies": 4,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            4
+          ],
+          "original_force_count": 16
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 14,
+          "spine_copies": 4,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            4,
+            2
+          ],
+          "original_force_count": 18
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 14,
+          "spine_copies": 4,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            4
+          ],
+          "original_force_count": 18
+        },
+        {
+          "rational_coefficient": "1/4",
+          "physical_rank": 12,
+          "spine_copies": 4,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 12
+        },
+        {
+          "rational_coefficient": "4",
+          "physical_rank": 12,
+          "spine_copies": 4,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 14
+        },
+        {
+          "rational_coefficient": "4",
+          "physical_rank": 12,
+          "spine_copies": 4,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 14
+        },
+        {
+          "rational_coefficient": "1/4",
+          "physical_rank": 12,
+          "spine_copies": 4,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            4,
+            0
+          ],
+          "original_force_count": 16
+        },
+        {
+          "rational_coefficient": "4",
+          "physical_rank": 12,
+          "spine_copies": 4,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            2
+          ],
+          "original_force_count": 16
+        },
+        {
+          "rational_coefficient": "1/4",
+          "physical_rank": 12,
+          "spine_copies": 4,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            4
+          ],
+          "original_force_count": 16
+        },
+        {
+          "rational_coefficient": "2",
+          "physical_rank": 10,
+          "spine_copies": 4,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 12
+        },
+        {
+          "rational_coefficient": "2",
+          "physical_rank": 10,
+          "spine_copies": 4,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 14
+        },
+        {
+          "rational_coefficient": "2",
+          "physical_rank": 10,
+          "spine_copies": 4,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 14
+        },
+        {
+          "rational_coefficient": "1",
+          "physical_rank": 8,
+          "spine_copies": 4,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 12
+        }
+      ]
+    },
+    {
+      "spine_amplitude_degree": 5,
+      "terms": [
+        {
+          "rational_coefficient": "1",
+          "physical_rank": 17,
+          "spine_copies": 5,
+          "own_public_shifts": 5,
+          "side_force_occurrences": [
+            1,
+            1
+          ],
+          "original_force_count": 17
+        },
+        {
+          "rational_coefficient": "5",
+          "physical_rank": 17,
+          "spine_copies": 5,
+          "own_public_shifts": 3,
+          "side_force_occurrences": [
+            3,
+            1
+          ],
+          "original_force_count": 19
+        },
+        {
+          "rational_coefficient": "5",
+          "physical_rank": 17,
+          "spine_copies": 5,
+          "own_public_shifts": 3,
+          "side_force_occurrences": [
+            1,
+            3
+          ],
+          "original_force_count": 19
+        },
+        {
+          "rational_coefficient": "1",
+          "physical_rank": 17,
+          "spine_copies": 5,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            5,
+            1
+          ],
+          "original_force_count": 21
+        },
+        {
+          "rational_coefficient": "5",
+          "physical_rank": 17,
+          "spine_copies": 5,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            3,
+            3
+          ],
+          "original_force_count": 21
+        },
+        {
+          "rational_coefficient": "1",
+          "physical_rank": 17,
+          "spine_copies": 5,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            1,
+            5
+          ],
+          "original_force_count": 21
+        },
+        {
+          "rational_coefficient": "14",
+          "physical_rank": 15,
+          "spine_copies": 5,
+          "own_public_shifts": 3,
+          "side_force_occurrences": [
+            1,
+            1
+          ],
+          "original_force_count": 17
+        },
+        {
+          "rational_coefficient": "14",
+          "physical_rank": 15,
+          "spine_copies": 5,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            3,
+            1
+          ],
+          "original_force_count": 19
+        },
+        {
+          "rational_coefficient": "14",
+          "physical_rank": 15,
+          "spine_copies": 5,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            1,
+            3
+          ],
+          "original_force_count": 19
+        },
+        {
+          "rational_coefficient": "25",
+          "physical_rank": 13,
+          "spine_copies": 5,
+          "own_public_shifts": 1,
+          "side_force_occurrences": [
+            1,
+            1
+          ],
+          "original_force_count": 17
+        }
+      ]
+    },
+    {
+      "spine_amplitude_degree": 6,
+      "terms": [
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 6,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 20
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 6,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 20
+        },
+        {
+          "rational_coefficient": "2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            4,
+            0
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "27/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            2,
+            2
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            0,
+            4
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            6,
+            0
+          ],
+          "original_force_count": 24
+        },
+        {
+          "rational_coefficient": "27/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            4,
+            2
+          ],
+          "original_force_count": 24
+        },
+        {
+          "rational_coefficient": "27/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            2,
+            4
+          ],
+          "original_force_count": 24
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            6
+          ],
+          "original_force_count": 24
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            6,
+            2
+          ],
+          "original_force_count": 26
+        },
+        {
+          "rational_coefficient": "2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            4,
+            4
+          ],
+          "original_force_count": 26
+        },
+        {
+          "rational_coefficient": "1/2",
+          "physical_rank": 20,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            6
+          ],
+          "original_force_count": 26
+        },
+        {
+          "rational_coefficient": "1/6",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 6,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 18
+        },
+        {
+          "rational_coefficient": "21/2",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 20
+        },
+        {
+          "rational_coefficient": "21/2",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 20
+        },
+        {
+          "rational_coefficient": "21/2",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            4,
+            0
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "159/2",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            2,
+            2
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "21/2",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            4
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "1/6",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            6,
+            0
+          ],
+          "original_force_count": 24
+        },
+        {
+          "rational_coefficient": "21/2",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            4,
+            2
+          ],
+          "original_force_count": 24
+        },
+        {
+          "rational_coefficient": "21/2",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            4
+          ],
+          "original_force_count": 24
+        },
+        {
+          "rational_coefficient": "1/6",
+          "physical_rank": 18,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            6
+          ],
+          "original_force_count": 24
+        },
+        {
+          "rational_coefficient": "7/2",
+          "physical_rank": 16,
+          "spine_copies": 6,
+          "own_public_shifts": 4,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 18
+        },
+        {
+          "rational_coefficient": "75/2",
+          "physical_rank": 16,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 20
+        },
+        {
+          "rational_coefficient": "75/2",
+          "physical_rank": 16,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 20
+        },
+        {
+          "rational_coefficient": "7/2",
+          "physical_rank": 16,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            4,
+            0
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "75/2",
+          "physical_rank": 16,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            2
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "7/2",
+          "physical_rank": 16,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            4
+          ],
+          "original_force_count": 22
+        },
+        {
+          "rational_coefficient": "25/2",
+          "physical_rank": 14,
+          "spine_copies": 6,
+          "own_public_shifts": 2,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 18
+        },
+        {
+          "rational_coefficient": "25/2",
+          "physical_rank": 14,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            2,
+            0
+          ],
+          "original_force_count": 20
+        },
+        {
+          "rational_coefficient": "25/2",
+          "physical_rank": 14,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            2
+          ],
+          "original_force_count": 20
+        },
+        {
+          "rational_coefficient": "25/6",
+          "physical_rank": 12,
+          "spine_copies": 6,
+          "own_public_shifts": 0,
+          "side_force_occurrences": [
+            0,
+            0
+          ],
+          "original_force_count": 18
+        }
+      ]
+    }
+  ],
+  "endpoint_normalization_checks": [
+    {
+      "k": 2,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 3,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 4,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 5,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 6,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 7,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 8,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 9,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 10,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 11,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 12,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 13,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 14,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 15,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 16,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    },
+    {
+      "k": 17,
+      "rho_root": "1",
+      "center_caller_budget": "1",
+      "feedback_over_alpha4": "1"
+    }
+  ]
+}

@@ -1,0 +1,5652 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "atlas_exact_size_and_mass",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "local_radius_ratio",
+      "pass": true
+    },
+    {
+      "check": "positive_two_sector_mass",
+      "pass": true
+    },
+    {
+      "check": "first_moment_exact",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "heat_comparability",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "literal_node_weight",
+      "pass": true
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0,
+        "minimum_margin": 1.0172904297698784
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.001,
+        "minimum_margin": 1.0844991794633287
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.015625,
+        "minimum_margin": 3.0425379059106827
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.03,
+        "minimum_margin": 2.885640018610796
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.0625,
+        "minimum_margin": 2.464680023315015
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.1,
+        "minimum_margin": 2.1127046159281995
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.25,
+        "minimum_margin": 1.321066576690603
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.5,
+        "minimum_margin": 0.6711708882589653
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.9,
+        "minimum_margin": 0.10290679081733457
+      }
+    },
+    {
+      "check": "ou_disk_diagnostic",
+      "pass": true,
+      "details": {
+        "center": 0.999999,
+        "minimum_margin": 9.779033911342116e-07
+      }
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "sector_hermite_factorization",
+      "pass": true
+    },
+    {
+      "check": "cubic_raw_census",
+      "pass": true
+    },
+    {
+      "check": "mixed_raw_census",
+      "pass": true
+    },
+    {
+      "check": "exact_parameter_error",
+      "pass": true
+    },
+    {
+      "check": "rational_adaptive_budget",
+      "pass": true
+    }
+  ],
+  "raw_census": {
+    "triple_cubic": {
+      "histories_including_old_hit_pairs": 243,
+      "raw_main_value_max": 44,
+      "max_order": 3,
+      "degree_values": [
+        7
+      ]
+    },
+    "three_three_six": {
+      "histories_including_old_hit_pairs": 5832,
+      "raw_main_value_max": 72,
+      "max_order": 4,
+      "degree_values": [
+        10
+      ]
+    }
+  },
+  "census": [
+    {
+      "N": 9,
+      "K": 7,
+      "D": 1,
+      "eta": "1/2",
+      "J": 68,
+      "m": 34,
+      "node_count_per_tree": 175156232192
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "D": 100,
+      "eta": "1/2",
+      "J": 78,
+      "m": 39,
+      "node_count_per_tree": 303227338752
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "D": 1000000,
+      "eta": "1/2",
+      "J": 98,
+      "m": 49,
+      "node_count_per_tree": 755603996672
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "D": 1,
+      "eta": "1/1024",
+      "J": 104,
+      "m": 52,
+      "node_count_per_tree": 958348132352
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "D": 100,
+      "eta": "1/1024",
+      "J": 114,
+      "m": 57,
+      "node_count_per_tree": 1383596163072
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "D": 1000000,
+      "eta": "1/1024",
+      "J": 134,
+      "m": 67,
+      "node_count_per_tree": 2641247731712
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "D": 1,
+      "eta": "1/1267650600228229401496703205376",
+      "J": 464,
+      "m": 232,
+      "node_count_per_tree": 379718595510272
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "D": 100,
+      "eta": "1/1267650600228229401496703205376",
+      "J": 474,
+      "m": 237,
+      "node_count_per_tree": 413526466363392
+    },
+    {
+      "N": 9,
+      "K": 7,
+      "D": 1000000,
+      "eta": "1/1267650600228229401496703205376",
+      "J": 494,
+      "m": 247,
+      "node_count_per_tree": 487862839672832
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 1,
+      "eta": "1/2",
+      "J": 83,
+      "m": 42,
+      "node_count_per_tree": 398203158528
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 100,
+      "eta": "1/2",
+      "J": 93,
+      "m": 47,
+      "node_count_per_tree": 626053644288
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 1000000,
+      "eta": "1/2",
+      "J": 113,
+      "m": 57,
+      "node_count_per_tree": 1359429009408
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 1,
+      "eta": "1/1024",
+      "J": 137,
+      "m": 69,
+      "node_count_per_tree": 2928122560512
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 100,
+      "eta": "1/1024",
+      "J": 147,
+      "m": 74,
+      "node_count_per_tree": 3877466406912
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 1000000,
+      "eta": "1/1024",
+      "J": 167,
+      "m": 84,
+      "node_count_per_tree": 6448243802112
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 1,
+      "eta": "1/1267650600228229401496703205376",
+      "J": 677,
+      "m": 339,
+      "node_count_per_tree": 1725943873830912
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 100,
+      "eta": "1/1267650600228229401496703205376",
+      "J": 687,
+      "m": 344,
+      "node_count_per_tree": 1830123064000512
+    },
+    {
+      "N": 12,
+      "K": 10,
+      "D": 1000000,
+      "eta": "1/1267650600228229401496703205376",
+      "J": 707,
+      "m": 354,
+      "node_count_per_tree": 2052557284442112
+    }
+  ],
+  "scope": "Scalar exact-arithmetic and census tests plus labelled diagnostics; native source execution is specified, not run."
+}

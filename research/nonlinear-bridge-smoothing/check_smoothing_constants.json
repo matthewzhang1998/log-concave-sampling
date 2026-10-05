@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "assertions": 14522,
+  "exact_rational_stencil_constant_upper": "4647443/127008",
+  "exact_rational_main_constant_upper": "19587/200",
+  "maximum_tested_stencil_constant_over_sqrt_b": 36.48692087700354,
+  "maximum_tested_target_constant_over_sqrt_b": 3.1527592678917866,
+  "maximum_tested_optimized_constant": 95.74546342944815,
+  "sealed_stage_two_manifest_sha256": "cd1111e28dc399643f27bcdd0f97dc735ada196f8a43f220211500bcb45be3ae",
+  "scope": "Exact-rational elementary certificates and parameter diagnostics. No native compiler implementation or numerical target-rate proof."
+}

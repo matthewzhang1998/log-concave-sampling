@@ -1,0 +1,90 @@
+{
+  "status": "PASS",
+  "assertions": 159,
+  "scope": "Exact finite algebra only; no native realization, analytical ports, infinite heat closure, or cost theorem certified.",
+  "checks": {
+    "scalar_wick": {
+      "amplitude_orders": 6,
+      "method": "Direct labeled set partitions and independent Gaussian monomials"
+    },
+    "whole_bank_tree": {
+      "monomial_cases": 11,
+      "max_arguments": 4,
+      "method": "All labeled trees; exact min-covariance sector integration"
+    },
+    "heterogeneous_resources": {
+      "unlike_root_surpluses": "summed separately",
+      "omitted_sides": true,
+      "weighted_bridge": true,
+      "weighted_heat_neutral_at_k_at_least_2": true
+    },
+    "filtered_inverse": {
+      "cutoff": 8,
+      "valuations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "right_inverse_loss_countertest": true
+    },
+    "observer": {
+      "ranks": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32
+      ],
+      "same_alpha_grade": true,
+      "strict_monotone_gradient_example": {
+        "c": "1/2",
+        "epsilon": "1/4"
+      }
+    },
+    "current_pairing": {
+      "keep_scale": "2/3",
+      "shift": "3/5",
+      "dependent_coefficient_counterexample": true,
+      "conditional_ownership_counterexample": true
+    },
+    "trace_to_bridge": {
+      "cases": [
+        {
+          "occurrences": 1,
+          "dimension": 2
+        },
+        {
+          "occurrences": 2,
+          "dimension": 2
+        },
+        {
+          "occurrences": 3,
+          "dimension": 1
+        }
+      ],
+      "heat_jet_order": 4,
+      "method": "Exact independent versus common Gaussian-shift polynomial moments",
+      "unfrozen_multiplier_counterexample": true
+    }
+  },
+  "audited_input_sha256": {
+    "REPAIR-GRAPH-ALGEBRA.md": "a0599111632220ec765c3f636ec2a26ac372ea575613a80a3bb37cec6f301198",
+    "check_repair_algebra.py": "211170941dc5da5f0f0619b5223d7756d9168935ee77fe78fa3de551c4986427"
+  }
+}

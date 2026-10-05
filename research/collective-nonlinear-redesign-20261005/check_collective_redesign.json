@@ -1,0 +1,7 @@
+{
+  "diagnostic_assertions": 6796,
+  "seed": 5102026,
+  "sine_raw_first_chaos": -0.00013471987834405308,
+  "native_compiler_executed": false,
+  "claims": "Quadratic exactness, finite noncommuting first/curl diagnostics, convex weights, literal VALUE count, scalar Gaussian history identities."
+}

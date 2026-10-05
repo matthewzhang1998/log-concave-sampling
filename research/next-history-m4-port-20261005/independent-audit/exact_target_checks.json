@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "total_exact_assertions": 704,
+  "groups": {
+    "brownian_kernel_binomial": 144,
+    "linear_covariance": 5,
+    "linear_mean": 1,
+    "next_linear_negative_increment": 21,
+    "full_rank_2_expansion": 9,
+    "rank_2_interpolation": 18,
+    "full_rank_3_expansion": 27,
+    "rank_3_interpolation": 54,
+    "full_rank_4_expansion": 81,
+    "rank_4_interpolation": 162,
+    "fourth_pairing_increment": 81,
+    "block_gram_contraction": 9,
+    "block_gram_derivative": 9,
+    "block_gram_endpoint": 9,
+    "response_chain": 2,
+    "dimension_counterexample": 38,
+    "negative_generic_increment": 19,
+    "positive_marked_current": 6,
+    "buffer_readout": 9
+  },
+  "scope": "Exact rational/symbolic target checks only. No native producer or numerical law comparison is executed."
+}

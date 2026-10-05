@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/CUTOFF-FREE-SECTOR-GAUSS.md",
+    "sha256": "4a422374bfde930ec8ea5df64cde24c7977d2602283726d0fee1db758343893d",
+    "bytes": 16774
+  },
+  {
+    "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/COMPLETE-EXECUTION-BILL.md",
+    "sha256": "ebf6c935dcd14d4091acbf186611b364ae9381d56178a3f9726d5674ef161252",
+    "bytes": 6932
+  },
+  {
+    "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/FINAL-STATUS.md",
+    "sha256": "d7e82bad16cad8e79d89f32baf8648016e6e8a193780ca5d4bf6a68fc345dc8e",
+    "bytes": 3528
+  },
+  {
+    "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/MANIFEST.json",
+    "sha256": "4a6d120575af78325f5c0372279580e8d6dbf9724dbdf6b4736a195e4cfb100b",
+    "bytes": 3171
+  },
+  {
+    "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/INDEPENDENT-COMPLEX-OU-CLOCK-AUDIT.md",
+    "sha256": "cb90f4d197af77a2b3cc272651dbfafd15cfe3146a2a9eda6afdef9804047f4f",
+    "bytes": 13788
+  },
+  {
+    "path": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/REVIEW-PIN.json",
+    "sha256": "c2fef5f44e151f7da7134410fa5d22bd14170ca312fb7612d405f4aa200e1487",
+    "bytes": 2772
+  }
+]

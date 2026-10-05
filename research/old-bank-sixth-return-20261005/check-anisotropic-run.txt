@@ -1,0 +1,4 @@
+{
+  "max_leading_cancellation_error": 1.0077366942144579e-16,
+  "max_alpha9_normalized_current": 0.11053155690032336
+}

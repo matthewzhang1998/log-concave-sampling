@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+    "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "bytes": 680050
+  },
+  {
+    "path": "/workspace/shared/peer-carrier-interface-20261005/INTERFACE-MEMO.md",
+    "sha256": "677e6edb3102fdba57fc51f612d1991bd79122460bdfdb391a8c8b4cb17d66f6",
+    "bytes": 17489
+  },
+  {
+    "path": "/workspace/shared/peer-carrier-interface-20261005/JOINT-METRIC-CHECK.md",
+    "sha256": "d49437aeae71e98f133bcf97356370dad5ac0ad841fdc518c6cfe980d5b4981c",
+    "bytes": 3717
+  },
+  {
+    "path": "/workspace/shared/induction-carrier-replacement-20261005/FINITE-DIMENSION-CARRIER-HYBRID.md",
+    "sha256": "071a978861d63cd80c7fbca125e76e6c721df14a2afae54e93453c722203beb2",
+    "bytes": 12933
+  },
+  {
+    "path": "/workspace/shared/induction-carrier-replacement-20261005/VARIANCE-PARTITION-NATIVE-REPLACEMENT.md",
+    "sha256": "535e4c6475b94ac9b930c1d6467d5909c68715f0dfc52a14bac8b83e7d99c5d5",
+    "bytes": 11498
+  },
+  {
+    "path": "/workspace/shared/induction-mixed-queue-20261005/COMMON-CARRIER-AMALGAMATION.md",
+    "sha256": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8",
+    "bytes": 18492
+  }
+]

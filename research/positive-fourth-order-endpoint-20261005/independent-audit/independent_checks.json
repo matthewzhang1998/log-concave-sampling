@@ -1,0 +1,828 @@
+{
+  "status": "PASS",
+  "assertions": 266,
+  "scope": "Independent exact algebra, coherent OU target, full positive-reference regression and same-endpoint current, reverse-OU terminal/schedule, finite-log template and complete-bank bookkeeping.",
+  "native_compilers_executed": false,
+  "numerical_native_guards_instantiated": false,
+  "reviewed_files": [
+    {
+      "path": "/workspace/shared/positive-fourth-order-endpoint-20261005/FOURTH-ORDER-POSITIVE-ENDPOINT.md",
+      "sha256": "1d01456690182cd58565da94109248fd4fc83ddfbcf50429ea1134a41ab05334"
+    },
+    {
+      "path": "/workspace/shared/positive-fourth-order-endpoint-20261005/ENDPOINT-GRAPH.json",
+      "sha256": "241fd2def71722e3a2792fceea9ee5e4c4594bab2c91ba8ec072fcc174409933"
+    },
+    {
+      "path": "/workspace/shared/positive-fourth-order-endpoint-20261005/INPUT-PINS.json",
+      "sha256": "403f91b6f1ec6a11a0bc3f7e8af072a86e88f4e9c98d37b9f4abb2cb27f27361"
+    },
+    {
+      "path": "/workspace/shared/positive-fourth-order-endpoint-20261005/PROVENANCE-NOTE.md",
+      "sha256": "6cdcdb0c2c03214d83a9f6e8f93ba6af62bf6184a720537962cd0facf12badf4"
+    }
+  ],
+  "checks": [
+    {
+      "name": "exact reviewed snapshot: FOURTH-ORDER-POSITIVE-ENDPOINT.md"
+    },
+    {
+      "name": "exact reviewed snapshot: ENDPOINT-GRAPH.json"
+    },
+    {
+      "name": "exact reviewed snapshot: INPUT-PINS.json"
+    },
+    {
+      "name": "exact reviewed snapshot: PROVENANCE-NOTE.md"
+    },
+    {
+      "name": "five complete endpoint banks"
+    },
+    {
+      "name": "new completed M packet is selected"
+    },
+    {
+      "name": "M is a whole completed LAW"
+    },
+    {
+      "name": "fixed new mean native orders"
+    },
+    {
+      "name": "conditional source-zero variance"
+    },
+    {
+      "name": "source-zero total variance"
+    },
+    {
+      "name": "visible reference baseline"
+    },
+    {
+      "name": "untouched keep fraction"
+    },
+    {
+      "name": "cubic coefficient physical sign and scale"
+    },
+    {
+      "name": "normalized cubic radius square"
+    },
+    {
+      "name": "physical readout grade"
+    },
+    {
+      "name": "coherent OU covariance symmetry 0,0"
+    },
+    {
+      "name": "coherent OU covariance symmetry 0,1"
+    },
+    {
+      "name": "coherent OU covariance symmetry 0,2"
+    },
+    {
+      "name": "coherent OU covariance symmetry 1,0"
+    },
+    {
+      "name": "coherent OU covariance symmetry 1,1"
+    },
+    {
+      "name": "coherent OU covariance symmetry 1,2"
+    },
+    {
+      "name": "coherent OU covariance symmetry 2,0"
+    },
+    {
+      "name": "coherent OU covariance symmetry 2,1"
+    },
+    {
+      "name": "coherent OU covariance symmetry 2,2"
+    },
+    {
+      "name": "coherent conditional covariance positive principal minor 1"
+    },
+    {
+      "name": "coherent conditional covariance positive principal minor 2"
+    },
+    {
+      "name": "coherent conditional covariance positive principal minor 3"
+    },
+    {
+      "name": "canonical m3 is the third-substitution mean"
+    },
+    {
+      "name": "coherent conditional and unconditional F3 covariance"
+    },
+    {
+      "name": "full mean and covariance positive reference equals buffered P3 law"
+    },
+    {
+      "name": "P3 matches exact quadratic target through cubic order"
+    },
+    {
+      "name": "P3 target keeps a real quartic discrepancy",
+      "evidence": "-1/8"
+    },
+    {
+      "name": "full F3 covariance restoration is fourth order"
+    },
+    {
+      "name": "posterior force mean is different from canonical mean"
+    },
+    {
+      "name": "off-diagonal complete Gaussian target 0,0"
+    },
+    {
+      "name": "off-diagonal complete Gaussian target 0,1"
+    },
+    {
+      "name": "off-diagonal complete Gaussian target 1,0"
+    },
+    {
+      "name": "off-diagonal complete Gaussian target 1,1"
+    },
+    {
+      "name": "matrix covariance fixture genuinely has off-diagonal structure"
+    },
+    {
+      "name": "packet fills stay in assigned one-eighth buffer"
+    },
+    {
+      "name": "visible covariance includes every fill and carrier"
+    },
+    {
+      "name": "anisotropic C has fixed positive gap"
+    },
+    {
+      "name": "full anisotropic Hermite regression 0:0,0"
+    },
+    {
+      "name": "full anisotropic Hermite regression 0:0,1"
+    },
+    {
+      "name": "full anisotropic Hermite regression 0:1,0"
+    },
+    {
+      "name": "full anisotropic Hermite regression 0:1,1"
+    },
+    {
+      "name": "negative trace cannot be dropped 0"
+    },
+    {
+      "name": "full anisotropic Hermite regression 1:0,0"
+    },
+    {
+      "name": "full anisotropic Hermite regression 1:0,1"
+    },
+    {
+      "name": "full anisotropic Hermite regression 1:1,0"
+    },
+    {
+      "name": "full anisotropic Hermite regression 1:1,1"
+    },
+    {
+      "name": "negative trace cannot be dropped 1"
+    },
+    {
+      "name": "nonzero output-slot asymmetry"
+    },
+    {
+      "name": "symmetrized leading current is exactly zero"
+    },
+    {
+      "name": "asymmetry still changes positive quadratic reference"
+    },
+    {
+      "name": "regression complement is centered at same endpoint"
+    },
+    {
+      "name": "positive same-endpoint complement current degree 1"
+    },
+    {
+      "name": "positive same-endpoint complement current degree 2"
+    },
+    {
+      "name": "positive same-endpoint complement current degree 3"
+    },
+    {
+      "name": "positive same-endpoint complement current degree 4"
+    },
+    {
+      "name": "positive same-endpoint complement current degree 5"
+    },
+    {
+      "name": "positive same-endpoint complement current degree 6"
+    },
+    {
+      "name": "skew correction has nonzero sixth-order covariance feedback"
+    },
+    {
+      "name": "affine mean squared identity 1"
+    },
+    {
+      "name": "exact reserve identity 1"
+    },
+    {
+      "name": "exact reference contraction 1"
+    },
+    {
+      "name": "local grade-four scaling squared 1"
+    },
+    {
+      "name": "affine mean squared identity 3/4"
+    },
+    {
+      "name": "exact reserve identity 3/4"
+    },
+    {
+      "name": "exact reference contraction 3/4"
+    },
+    {
+      "name": "local grade-four scaling squared 3/4"
+    },
+    {
+      "name": "affine mean squared identity 9/16"
+    },
+    {
+      "name": "exact reserve identity 9/16"
+    },
+    {
+      "name": "exact reference contraction 9/16"
+    },
+    {
+      "name": "local grade-four scaling squared 9/16"
+    },
+    {
+      "name": "affine mean squared identity 1/64"
+    },
+    {
+      "name": "exact reserve identity 1/64"
+    },
+    {
+      "name": "exact reference contraction 1/64"
+    },
+    {
+      "name": "local grade-four scaling squared 1/64"
+    },
+    {
+      "name": "affine mean squared identity 1/4096"
+    },
+    {
+      "name": "exact reserve identity 1/4096"
+    },
+    {
+      "name": "exact reference contraction 1/4096"
+    },
+    {
+      "name": "local grade-four scaling squared 1/4096"
+    },
+    {
+      "name": "terminal threshold exponent"
+    },
+    {
+      "name": "smallest buffered alpha exponent"
+    },
+    {
+      "name": "geometric intrinsic exponent"
+    },
+    {
+      "name": "first terminal stop A=2^-1"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-1"
+    },
+    {
+      "name": "buffered alpha log range A=2^-1"
+    },
+    {
+      "name": "terminal alpha log range A=2^-1"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-1,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-1,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-1,j=2"
+    },
+    {
+      "name": "first terminal stop A=2^-2"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-2"
+    },
+    {
+      "name": "buffered alpha log range A=2^-2"
+    },
+    {
+      "name": "terminal alpha log range A=2^-2"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-2"
+    },
+    {
+      "name": "exact contraction telescope A=2^-2,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-2,j=2"
+    },
+    {
+      "name": "exact contraction telescope A=2^-2,j=4"
+    },
+    {
+      "name": "first terminal stop A=2^-4"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-4"
+    },
+    {
+      "name": "buffered alpha log range A=2^-4"
+    },
+    {
+      "name": "terminal alpha log range A=2^-4"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-4"
+    },
+    {
+      "name": "exact contraction telescope A=2^-4,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-4,j=4"
+    },
+    {
+      "name": "exact contraction telescope A=2^-4,j=8"
+    },
+    {
+      "name": "first terminal stop A=2^-8"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-8"
+    },
+    {
+      "name": "buffered alpha log range A=2^-8"
+    },
+    {
+      "name": "terminal alpha log range A=2^-8"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-8"
+    },
+    {
+      "name": "exact contraction telescope A=2^-8,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-8,j=8"
+    },
+    {
+      "name": "exact contraction telescope A=2^-8,j=16"
+    },
+    {
+      "name": "first terminal stop A=2^-16"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-16"
+    },
+    {
+      "name": "buffered alpha log range A=2^-16"
+    },
+    {
+      "name": "terminal alpha log range A=2^-16"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-16"
+    },
+    {
+      "name": "exact contraction telescope A=2^-16,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-16,j=15"
+    },
+    {
+      "name": "exact contraction telescope A=2^-16,j=31"
+    },
+    {
+      "name": "first terminal stop A=2^-32"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-32"
+    },
+    {
+      "name": "buffered alpha log range A=2^-32"
+    },
+    {
+      "name": "terminal alpha log range A=2^-32"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-32"
+    },
+    {
+      "name": "exact contraction telescope A=2^-32,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-32,j=31"
+    },
+    {
+      "name": "exact contraction telescope A=2^-32,j=62"
+    },
+    {
+      "name": "first terminal stop A=2^-64"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-64"
+    },
+    {
+      "name": "buffered alpha log range A=2^-64"
+    },
+    {
+      "name": "terminal alpha log range A=2^-64"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-64"
+    },
+    {
+      "name": "exact contraction telescope A=2^-64,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-64,j=62"
+    },
+    {
+      "name": "exact contraction telescope A=2^-64,j=124"
+    },
+    {
+      "name": "first terminal stop A=2^-128"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-128"
+    },
+    {
+      "name": "buffered alpha log range A=2^-128"
+    },
+    {
+      "name": "terminal alpha log range A=2^-128"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-128"
+    },
+    {
+      "name": "exact contraction telescope A=2^-128,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-128,j=123"
+    },
+    {
+      "name": "exact contraction telescope A=2^-128,j=247"
+    },
+    {
+      "name": "first terminal stop A=2^-256"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-256"
+    },
+    {
+      "name": "buffered alpha log range A=2^-256"
+    },
+    {
+      "name": "terminal alpha log range A=2^-256"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-256"
+    },
+    {
+      "name": "exact contraction telescope A=2^-256,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-256,j=247"
+    },
+    {
+      "name": "exact contraction telescope A=2^-256,j=494"
+    },
+    {
+      "name": "first terminal stop A=2^-512"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-512"
+    },
+    {
+      "name": "buffered alpha log range A=2^-512"
+    },
+    {
+      "name": "terminal alpha log range A=2^-512"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-512"
+    },
+    {
+      "name": "exact contraction telescope A=2^-512,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-512,j=493"
+    },
+    {
+      "name": "exact contraction telescope A=2^-512,j=987"
+    },
+    {
+      "name": "first terminal stop A=2^-1024"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-1024"
+    },
+    {
+      "name": "buffered alpha log range A=2^-1024"
+    },
+    {
+      "name": "terminal alpha log range A=2^-1024"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-1024"
+    },
+    {
+      "name": "exact contraction telescope A=2^-1024,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-1024,j=987"
+    },
+    {
+      "name": "exact contraction telescope A=2^-1024,j=1974"
+    },
+    {
+      "name": "first terminal stop A=2^-2048"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-2048"
+    },
+    {
+      "name": "buffered alpha log range A=2^-2048"
+    },
+    {
+      "name": "terminal alpha log range A=2^-2048"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-2048"
+    },
+    {
+      "name": "exact contraction telescope A=2^-2048,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-2048,j=1974"
+    },
+    {
+      "name": "exact contraction telescope A=2^-2048,j=3948"
+    },
+    {
+      "name": "first terminal stop A=2^-4096"
+    },
+    {
+      "name": "terminal reaches fourth grade A=2^-4096"
+    },
+    {
+      "name": "buffered alpha log range A=2^-4096"
+    },
+    {
+      "name": "terminal alpha log range A=2^-4096"
+    },
+    {
+      "name": "weighted intrinsic finite geometric sum A=2^-4096"
+    },
+    {
+      "name": "exact contraction telescope A=2^-4096,j=1"
+    },
+    {
+      "name": "exact contraction telescope A=2^-4096,j=3948"
+    },
+    {
+      "name": "exact contraction telescope A=2^-4096,j=7896"
+    },
+    {
+      "name": "mode weighted sum uniformly bounded"
+    },
+    {
+      "name": "integrated imported mean row 7/5/2"
+    },
+    {
+      "name": "integrated imported mean row 6/2"
+    },
+    {
+      "name": "integrated imported mean row 6/7/6"
+    },
+    {
+      "name": "integrated imported mean row 11/2/5/4"
+    },
+    {
+      "name": "integrated imported mean row 6/3/2"
+    },
+    {
+      "name": "undominated order-six prior attains endpoint grade four"
+    },
+    {
+      "name": "RAW leading term retains a positive K log power"
+    },
+    {
+      "name": "finite log guard template has negative L power p=2,theta=1/3"
+    },
+    {
+      "name": "same K guard works at every local alpha p=2,theta=1/3"
+    },
+    {
+      "name": "finite log guard template has negative L power p=5,theta=2/5"
+    },
+    {
+      "name": "same K guard works at every local alpha p=5,theta=2/5"
+    },
+    {
+      "name": "finite log guard template has negative L power p=7,theta=3/2"
+    },
+    {
+      "name": "same K guard works at every local alpha p=7,theta=3/2"
+    },
+    {
+      "name": "finite log guard template has negative L power p=1,theta=1/8"
+    },
+    {
+      "name": "same K guard works at every local alpha p=1,theta=1/8"
+    },
+    {
+      "name": "global cutoff implies local cutoff 1"
+    },
+    {
+      "name": "global cutoff implies local cutoff 3/4"
+    },
+    {
+      "name": "global cutoff implies local cutoff 27/64"
+    },
+    {
+      "name": "global cutoff implies local cutoff 1/10000"
+    },
+    {
+      "name": "only one row per mean node aligned D=1"
+    },
+    {
+      "name": "completed dM includes every fresh reentry D=1"
+    },
+    {
+      "name": "final VALUE count cannot use one source occurrence D=1"
+    },
+    {
+      "name": "terminal two-root tape retained D=1"
+    },
+    {
+      "name": "only one row per mean node aligned D=3"
+    },
+    {
+      "name": "completed dM includes every fresh reentry D=3"
+    },
+    {
+      "name": "final VALUE count cannot use one source occurrence D=3"
+    },
+    {
+      "name": "terminal two-root tape retained D=3"
+    },
+    {
+      "name": "only one row per mean node aligned D=11"
+    },
+    {
+      "name": "completed dM includes every fresh reentry D=11"
+    },
+    {
+      "name": "final VALUE count cannot use one source occurrence D=11"
+    },
+    {
+      "name": "terminal two-root tape retained D=11"
+    },
+    {
+      "name": "new input pin 0: MANIFEST.json"
+    },
+    {
+      "name": "new input pin 1: ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md"
+    },
+    {
+      "name": "new input pin 2: INDEPENDENT-JOIN-AUDIT.md"
+    },
+    {
+      "name": "new input pin 3: THIRD-ORDER-FULL-REVERSE-OU-LAW-AND-ENDPOINT.md"
+    },
+    {
+      "name": "new input pin 4: SAME-CARRIER-P3-MEAN-AND-FULL-COVARIANCE-GATE.md"
+    },
+    {
+      "name": "new input pin 5: FULL-COVARIANCE-CLOSURE-AND-RESUMMED-MEAN-FRONTIER.md"
+    },
+    {
+      "name": "new input pin 6: RESOLVENT-COVARIANCE-STABILITY-AND-FINITE-J-KERNEL.md"
+    },
+    {
+      "name": "new input pin 7: GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md"
+    },
+    {
+      "name": "new input pin 8: RECTANGULAR-FIRST-COEFFICIENT-MEAN-AND-GRAM-RETURN.md"
+    },
+    {
+      "name": "new input pin 9: INDEPENDENT-RECTANGULAR-FILTER-AND-GRAM-RETURN-AUDIT.md"
+    },
+    {
+      "name": "new input pin 10: MIXED-K-CURRENT-FINITE-CLOSURE.md"
+    },
+    {
+      "name": "new input pin 11: INDEPENDENT-FINITE-C0-CUBIC-RESERVE-AUDIT.md"
+    },
+    {
+      "name": "new input pin 12: POSITIVE-QUADRATIC-REFERENCE-FOR-SKEW-GAUSSIANIZATION.md"
+    },
+    {
+      "name": "new input pin 13: EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md"
+    },
+    {
+      "name": "new input pin 14: MANIFEST.json"
+    },
+    {
+      "name": "new input pin 15: POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md"
+    },
+    {
+      "name": "new input pin 16: INDEPENDENT-BUFFERED-SKEW-JOIN-AUDIT.md"
+    },
+    {
+      "name": "new input pin 17: FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md"
+    },
+    {
+      "name": "new input pin 18: POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md"
+    },
+    {
+      "name": "new input pin 19: ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md"
+    },
+    {
+      "name": "new input pin 20: POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md"
+    },
+    {
+      "name": "new input pin 21: INDEPENDENT-POSITIVE-LAW-AUDIT.md"
+    },
+    {
+      "name": "new input pin 22: README.md"
+    },
+    {
+      "name": "new input pin 23: MANIFEST.json"
+    },
+    {
+      "name": "new input pin 24: INPUT-PINS.json"
+    },
+    {
+      "name": "new input pin 25: MANIFEST.json"
+    },
+    {
+      "name": "new input pin 26: DYADIC-POSITIVE-BRIDGE-COVARIANCE.md"
+    },
+    {
+      "name": "new input pin 27: SCALAR-CLOCK-IMPLEMENTATION-ADDENDUM.md"
+    },
+    {
+      "name": "new input pin 28: INDEPENDENT-AUDIT.md"
+    },
+    {
+      "name": "new input pin 29: POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md"
+    },
+    {
+      "name": "new input pin 30: RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md"
+    },
+    {
+      "name": "new input pin 31: POSITIVE-CORRECTED-GRAM-MIXTURE.md"
+    },
+    {
+      "name": "new input pin 32: SMOOTHED-BRIDGE-PREFIX.md"
+    },
+    {
+      "name": "new input pin 33: 30_low_acc.tex"
+    },
+    {
+      "name": "new input pin 34: README.md"
+    },
+    {
+      "name": "new input pin 35: MANIFEST.json"
+    },
+    {
+      "name": "new input pin 36: INPUT-PINS.json"
+    },
+    {
+      "name": "new input pin 37: MEAN-COVARIANCE-SKEW-ENDPOINT.md"
+    },
+    {
+      "name": "new input pin 38: ENDPOINT-GRAPH.json"
+    },
+    {
+      "name": "new input pin 39: INDEPENDENT-ENDPOINT-JOIN-AUDIT.md"
+    },
+    {
+      "name": "new input pin 40: ACTUAL-DYADIC-PREFIX-LAW-JOIN.md"
+    },
+    {
+      "name": "new input pin 41: INDEPENDENT-PREFIX-LAW-AUDIT.md"
+    },
+    {
+      "name": "historical manifest verified with explicit exception: dyadic-prefix-law-join-20261005",
+      "evidence": "[]"
+    },
+    {
+      "name": "historical manifest verified with explicit exception: positive-endpoint-mean-join-20261005",
+      "evidence": "['independent-audit/INDEPENDENT-ENDPOINT-JOIN-AUDIT.md']"
+    }
+  ]
+}

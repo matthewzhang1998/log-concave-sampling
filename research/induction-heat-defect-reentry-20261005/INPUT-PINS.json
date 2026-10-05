@@ -1,0 +1,78 @@
+[
+  {
+    "path": "/workspace/shared/induction-native-rank-generator-20261005/MANIFEST.json",
+    "sha256": "1f5b8bd6d8a06f0acbf4edf7ac1d6333a493e76ca4d213c85f86d277c7d6ac41"
+  },
+  {
+    "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+    "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058"
+  },
+  {
+    "path": "/workspace/shared/induction-native-rank-generator-20261005/RANK8-SMOOTHED-NATIVE-RETURN.md",
+    "sha256": "f812083428f7b612cdc90a27a5da2be4aafd034f0d14b7cdc73e9bb5361cca27"
+  },
+  {
+    "path": "/workspace/shared/induction-native-rank-generator-20261005/ALL-FIXED-RANK-RETURN-RULE.md",
+    "sha256": "ac29e1d3d03968b28a4e7d1ba672b8e08949a948e4408b314c6b42c71f409bbf"
+  },
+  {
+    "path": "/workspace/shared/induction-native-rank-generator-20261005/MARKED-GRAPH-COROLLARY.md",
+    "sha256": "4f9c68f025cd9b65542297c5f2d24f9748bd57758b248a2706e78b01537c22a1"
+  },
+  {
+    "path": "/workspace/shared/induction-mixed-queue-20261005/MANIFEST.json",
+    "sha256": "a1114c54b834d67bce7487d14c649d0ef1cee0754fefa9d303967e470a7abe6b"
+  },
+  {
+    "path": "/workspace/shared/induction-mixed-queue-20261005/WEIGHTED-MIXED-QUEUE.md",
+    "sha256": "c2592c68d70bfeb69ec52d92ec7abeeec22bd4b12759d43be62cb75d594735f0"
+  },
+  {
+    "path": "/workspace/shared/induction-mixed-queue-20261005/SIMULTANEOUS-FAMILY-JOIN.md",
+    "sha256": "ff7d4511d4691172849a4f1429d20fd1c35e066dcef29f429fc9193b05185c87"
+  },
+  {
+    "path": "/workspace/shared/induction-mixed-queue-20261005/COMMON-CARRIER-AMALGAMATION.md",
+    "sha256": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8"
+  },
+  {
+    "path": "/workspace/shared/induction-mixed-queue-20261005/independent-audit/FIXED-NATIVE-COST-SUPPLEMENT.md",
+    "sha256": "951d0bf497651367fa49b93c9322de2d5477c3f4c6f19136c0261882f12b206f"
+  },
+  {
+    "path": "/workspace/shared/induction-multicopy-heat-20261005/MANIFEST.json",
+    "sha256": "09ef144321423e22831c3cc720c3b8e3c48cc2bd090c891bc675d10ca7841574"
+  },
+  {
+    "path": "/workspace/shared/induction-multicopy-heat-20261005/THREE-CUBIC-EXACT-HEAT.md",
+    "sha256": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc"
+  },
+  {
+    "path": "/workspace/shared/induction-multicopy-heat-20261005/INTEGRATED-MAJORANT-CUBATURE.md",
+    "sha256": "3bdb992544dbba0af0581d0ae4cfc023e2528277fe144fb1b617fd43a8de5e56"
+  },
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/MANIFEST.json",
+    "sha256": "875eca039776397c9f711ea71811e4236bcebac6b7411f430de617124592da3c"
+  },
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/DECORATED-OWNERSHIP-INDUCTION.md",
+    "sha256": "8ba6a78c855fdca2f6dfee8edde1538ac4716d6a16d0da25ea9ffbd53b24ec0e"
+  },
+  {
+    "path": "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+    "sha256": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d"
+  },
+  {
+    "path": "/workspace/shared/rank-indexed-positive-returns-20261005/ALL-RANK-APPELL-AND-POSITIVE-CONSUMER.md",
+    "sha256": "79ea44960cb3d439496bd90520c3442e6f2519a85201e263c9f27940b8ee4e52"
+  },
+  {
+    "path": "/workspace/shared/arbitrary-ancestry-heat-20261005/independent-audit/INDEPENDENT-RANK8-SIBLING-AUDIT.md",
+    "sha256": "87cef5e8948595b235572eee0de6563d16297235dc2319631967ae05bcbd3237"
+  },
+  {
+    "path": "/workspace/shared/connected-value-cumulant-source-20261005/FINITE-VALUE-CONNECTED-CUMULANT-BOUNDARY.md",
+    "sha256": "7deff8b0096c81789cef695ab361c206d96f5a21d89abcd4ae5dac44b238260e"
+  }
+]

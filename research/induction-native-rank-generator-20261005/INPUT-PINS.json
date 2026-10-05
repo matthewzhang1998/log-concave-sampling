@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/workspace/shared/rank-indexed-positive-returns-20261005/ALL-RANK-APPELL-AND-POSITIVE-CONSUMER.md",
+    "sha256": "79ea44960cb3d439496bd90520c3442e6f2519a85201e263c9f27940b8ee4e52"
+  },
+  {
+    "path": "/workspace/shared/rank-indexed-positive-returns-20261005/TREE-GENERATOR-AND-RANK5-RETURN-TEST.md",
+    "sha256": "af4999cc29839b4bf283d3e7076e7dc24f7c1e4de02971bb6f262eb62824b1ab"
+  },
+  {
+    "path": "/workspace/shared/rank-indexed-positive-returns-20261005/generate_rank_terms.py",
+    "sha256": "0fbff5a4d57a0d89ff84373422d72913e759061156faa09f4f0afcc6c564c74f"
+  },
+  {
+    "path": "/workspace/shared/arbitrary-ancestry-heat-20261005/FINITE-ANCESTRY-COMPILER-AND-BOUNDARY.md",
+    "sha256": "e758d05d9901093701bd6962477a6ffb967860ca534e7742624e19de6f2c50ef"
+  },
+  {
+    "path": "/workspace/shared/sibling-history-regrouping-20261005/CANCELLATION-AND-FINITE-VALUE-BOUNDARY.md",
+    "sha256": "6c97361aa9c6f1e7dc1ff03e7de199398170c14df8ba7e838ddcc6b4c5bea730"
+  },
+  {
+    "path": "/workspace/shared/connected-value-cumulant-source-20261005/FINITE-VALUE-CONNECTED-CUMULANT-BOUNDARY.md",
+    "sha256": "7deff8b0096c81789cef695ab361c206d96f5a21d89abcd4ae5dac44b238260e"
+  },
+  {
+    "path": "/workspace/shared/connected-value-cumulant-audit-20261005/INDEPENDENT-AUDIT.md",
+    "sha256": "3da5d0c72613a1a75fa5e34b6e1bcdac28bd5967724544833afe9a62ee77f695"
+  }
+]

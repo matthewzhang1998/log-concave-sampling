@@ -1,0 +1,22 @@
+[
+  {
+    "name": "marked history nonclosure",
+    "path": "/workspace/shared/dyadic-marked-history-obstruction-20261005/MANIFEST.json",
+    "sha256": "5a50a046cea51d434cddb7baf01c4ecda8a2c27e5d27ade51f80f48fc801e195"
+  },
+  {
+    "name": "dyadic fixed span covariance",
+    "path": "/workspace/shared/dyadic-bridge-square-20261005/MANIFEST.json",
+    "sha256": "2365fc791230cd2d73be22964abf45c071825771ca9d6e860b483a7843a67a0a"
+  },
+  {
+    "name": "next m4 history port",
+    "path": "/workspace/shared/next-history-m4-port-20261005/MANIFEST.json",
+    "sha256": "ac9845847d49f85da1ce7cb9728e18c2f0a6ed8f7da4de1befe685878ca7250f"
+  },
+  {
+    "name": "local shifted current",
+    "path": "/workspace/shared/marked-shifted-local-current-20261005/MANIFEST.json",
+    "sha256": "787ddcc7f03de97085e2fcb93d20b631c705950c3d393b43eadd1c6551eabb34"
+  }
+]

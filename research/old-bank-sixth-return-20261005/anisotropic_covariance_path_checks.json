@@ -1,0 +1,287 @@
+{
+  "physical_covariance": [
+    [
+      1.2,
+      0.23
+    ],
+    [
+      0.23,
+      0.8
+    ]
+  ],
+  "checks": [
+    {
+      "theta": [
+        0.3,
+        0.7
+      ],
+      "path_a": 0.0,
+      "leading_error": 1.0077366942144579e-16,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 2.7026055374038885e-10,
+          "normalized_alpha9": 0.052378305916768786
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 1.0389895002993542e-08,
+          "normalized_alpha9": 0.05237917005912862
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 3.9949723929740485e-07,
+          "normalized_alpha9": 0.052388975432275345
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 1.375933248081867e-05,
+          "normalized_alpha9": 0.05248768799140421
+        }
+      ]
+    },
+    {
+      "theta": [
+        0.3,
+        0.7
+      ],
+      "path_a": 0.4,
+      "leading_error": 1.0077366942144579e-16,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 2.702644217548437e-10,
+          "normalized_alpha9": 0.052379055563883774
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 1.0391591991787296e-08,
+          "normalized_alpha9": 0.0523877251854885
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 4.0025643760705025e-07,
+          "normalized_alpha9": 0.052488534622376855
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 1.4099825908496435e-05,
+          "normalized_alpha9": 0.05378656733892986
+        }
+      ]
+    },
+    {
+      "theta": [
+        0.3,
+        0.7
+      ],
+      "path_a": 1.0,
+      "leading_error": 1.0077366942144579e-16,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 2.702937577292259e-10,
+          "normalized_alpha9": 0.052384741072254465
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 1.04044849076326e-08,
+          "normalized_alpha9": 0.05245272297722986
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 4.0613569748417024e-07,
+          "normalized_alpha9": 0.05325952468429592
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 1.7049498063113544e-05,
+          "normalized_alpha9": 0.06503867364163794
+        }
+      ]
+    },
+    {
+      "theta": [
+        -0.8,
+        0.2
+      ],
+      "path_a": 0.0,
+      "leading_error": 7.077807307256934e-18,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 4.1898599125117757e-10,
+          "normalized_alpha9": 0.0812022920876415
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 1.6108820973643615e-08,
+          "normalized_alpha9": 0.08121031761990187
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 6.199720699155808e-07,
+          "normalized_alpha9": 0.08130144177373104
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 2.1554783685538478e-05,
+          "normalized_alpha9": 0.08222497438636195
+        }
+      ]
+    },
+    {
+      "theta": [
+        -0.8,
+        0.2
+      ],
+      "path_a": 0.4,
+      "leading_error": 7.077807307256934e-18,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 4.1899544498779425e-10,
+          "normalized_alpha9": 0.08120412428513282
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 1.6112963146338698e-08,
+          "normalized_alpha9": 0.08123119979127583
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 6.217981000937212e-07,
+          "normalized_alpha9": 0.08154090237753756
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 2.2265795440487652e-05,
+          "normalized_alpha9": 0.08493726898379379
+        }
+      ]
+    },
+    {
+      "theta": [
+        -0.8,
+        0.2
+      ],
+      "path_a": 1.0,
+      "leading_error": 7.077807307256934e-18,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 4.1902226791618986e-10,
+          "normalized_alpha9": 0.08120932274835524
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 1.612474252311962e-08,
+          "normalized_alpha9": 0.08129058383504344
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 6.271253543514009e-07,
+          "normalized_alpha9": 0.08223950393212627
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 2.4824135593045985e-05,
+          "normalized_alpha9": 0.09469656216829671
+        }
+      ]
+    },
+    {
+      "theta": [
+        1.0,
+        -0.6
+      ],
+      "path_a": 0.0,
+      "leading_error": 3.5245118086209297e-17,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 2.49446631604568e-10,
+          "normalized_alpha9": 0.04834442836464525
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 9.591768708463555e-09,
+          "normalized_alpha9": 0.04835553046529216
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 3.697010584368558e-07,
+          "normalized_alpha9": 0.04848158575963518
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 1.3044134123060417e-05,
+          "normalized_alpha9": 0.049759422771684304
+        }
+      ]
+    },
+    {
+      "theta": [
+        1.0,
+        -0.6
+      ],
+      "path_a": 0.4,
+      "leading_error": 3.5245118086209297e-17,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 2.4955862079573686e-10,
+          "normalized_alpha9": 0.04836613262016176
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 9.640641913168823e-09,
+          "normalized_alpha9": 0.04860191773868177
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 3.9031572431915234e-07,
+          "normalized_alpha9": 0.051184936667269886
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 1.847257720825228e-05,
+          "normalized_alpha9": 0.07046728976536663
+        }
+      ]
+    },
+    {
+      "theta": [
+        1.0,
+        -0.6
+      ],
+      "path_a": 1.0,
+      "leading_error": 3.5245118086209297e-17,
+      "cases": [
+        {
+          "alpha": 0.12,
+          "current_norm": 2.500909935730733e-10,
+          "normalized_alpha9": 0.04846931003102385
+        },
+        {
+          "alpha": 0.18,
+          "current_norm": 9.869562970347148e-09,
+          "normalized_alpha9": 0.049755990516183776
+        },
+        {
+          "alpha": 0.27,
+          "current_norm": 4.745385604269423e-07,
+          "normalized_alpha9": 0.06222968906517769
+        },
+        {
+          "alpha": 0.4,
+          "current_norm": 2.897518445207838e-05,
+          "normalized_alpha9": 0.11053155690032336
+        }
+      ]
+    }
+  ],
+  "max_leading_cancellation_error": 1.0077366942144579e-16,
+  "max_alpha9_normalized_current": 0.11053155690032336,
+  "scope": "Two-dimensional non-diagonal covariance diagnostic for same-endpoint covariance/skew-square/rank-six cancellation. This does not execute the imported native VALUE programs."
+}

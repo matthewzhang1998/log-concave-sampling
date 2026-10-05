@@ -1,0 +1,45 @@
+{
+  "title": "Positive block martingale and A^4 pair-local marked-history nonclosure",
+  "date": "2026-10-05",
+  "status": "independently audited analytical obstruction; no new VALUE compiler",
+  "files": [
+    {
+      "path": "DYADIC-MARKED-HISTORY-NONCLOSURE.md",
+      "sha256": "2007b8a22fdc6ee1bbd954902bdb2d97d04ad41bcfaf48e253799420a486c42f",
+      "bytes": 18263
+    },
+    {
+      "path": "INDEPENDENT-MATHEMATICAL-AUDIT.md",
+      "sha256": "aecfec4a21cd6a4e3ea2b50825dbcfd0bb37299eaea434bbd820b60366a30242",
+      "bytes": 10437
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "f57ed1c74b8debbc08f9c85c37ddfec685f17d1baed1ece7c643568d19743ebe",
+      "bytes": 809
+    },
+    {
+      "path": "README.md",
+      "sha256": "da19d206ac3f0ad7f5ed0c8ba01cc926a9520cdc58a8b436696604ec0201688b",
+      "bytes": 1794
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "2629f1522779d1b72de36e50cf5180d65996e16e2ca73784c8866331c54d2b02",
+      "bytes": 505
+    },
+    {
+      "path": "check_scalar_obstruction.py",
+      "sha256": "a2f7e3ccd1554a99bbcf9751667b3b42fa4358142c4e7553a2fbe1955711896b",
+      "bytes": 4347
+    },
+    {
+      "path": "scalar_obstruction_checks.json",
+      "sha256": "0fe57cc2e2c212c7f2cceb2ae7197a165d741566c8a6d986ec3d0ffb6cda4d6b",
+      "bytes": 8051
+    }
+  ],
+  "author_assertions": 1267,
+  "independent_audit": "INDEPENDENT-MATHEMATICAL-AUDIT.md",
+  "executed_scope": "scalar geometry and deterministic analytic envelope checks only; no path-grid or true-history program"
+}

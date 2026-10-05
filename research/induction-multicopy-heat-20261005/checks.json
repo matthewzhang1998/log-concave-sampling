@@ -1,0 +1,98 @@
+{
+  "n_copy_geometry": {
+    "cases": 12000,
+    "n_max": 12,
+    "minimum_H_eigenvalue": -1.5277161515818174e-15,
+    "maximum_covariance_error": 8.43769498715119e-15
+  },
+  "cubic_and_mixed_geometry": {
+    "histories": 24000,
+    "minimum_lambda_min_over_m": 0.284246724448531,
+    "full_caller_row_identity_error": 6.661338147750939e-16,
+    "triple_joint_covariance_error": 1.1102230246251565e-16,
+    "mixed_joint_covariance_error": 2.220446049250313e-16
+  },
+  "power_census": {
+    "local_d_at_most_3": 40,
+    "diagonal_old_hit_extra_hit_cases": 2331,
+    "max_diagonal_inverse_eta_power": 0.5
+  },
+  "weighted_prufer": {
+    "(3, 3, 3)": {
+      "literal": 243,
+      "formula": 243
+    },
+    "(3, 3, 6)": {
+      "literal": 648,
+      "formula": 648
+    },
+    "(2, 3, 4, 5)": {
+      "literal": 23520,
+      "formula": 23520
+    },
+    "(1, 2, 2, 3, 3)": {
+      "literal": 47916,
+      "formula": 47916
+    }
+  },
+  "positive_bridge_rule": [
+    {
+      "J": 4,
+      "nodes_per_edge": 25,
+      "main": 1.8770944143469466,
+      "central_caller": 4.012892961629389,
+      "leaf_caller": 3.224531950287312,
+      "node_main_max": 0.0127775312999988,
+      "node_caller_max": 0.018181818181818184
+    },
+    {
+      "J": 8,
+      "nodes_per_edge": 45,
+      "main": 2.4291592060998224,
+      "central_caller": 9.124921200662746,
+      "leaf_caller": 6.325507168226448,
+      "node_main_max": 0.01343636729735781,
+      "node_caller_max": 0.018181818181818184
+    },
+    {
+      "J": 16,
+      "nodes_per_edge": 85,
+      "main": 2.64827490559133,
+      "central_caller": 20.14477540225724,
+      "leaf_caller": 12.054273135889163,
+      "node_main_max": 0.013483810208184186,
+      "node_caller_max": 0.018181818181818184
+    },
+    {
+      "J": 24,
+      "nodes_per_edge": 125,
+      "main": 2.662840191518013,
+      "central_caller": 31.21493543269649,
+      "leaf_caller": 17.603909037838033,
+      "node_main_max": 0.01348399651862048,
+      "node_caller_max": 0.018181818181818184
+    },
+    {
+      "J": 32,
+      "nodes_per_edge": 165,
+      "main": 2.6637540669946835,
+      "central_caller": 42.2854595166368,
+      "leaf_caller": 23.140084364821313,
+      "node_main_max": 0.013483997246410763,
+      "node_caller_max": 0.018181818181818184
+    }
+  ],
+  "three_replica_polynomial_identity": {
+    "cases": 64,
+    "max_absolute_error": 1.8189894035458565e-12
+  },
+  "integrated_majorant_cubature": {
+    "cases": 10000,
+    "n_max": 12,
+    "maximum_ratio_to_proved_2pow_n_over_2": 0.9861251176383508,
+    "maximum_min_path_Lipschitz_ratio": 1.0000000045965476,
+    "maximum_absolute_Lipschitz_excess": 1.1102230246251565e-16,
+    "absolute_tolerance": 1e-14,
+    "note": "Relative excess near 1e-8 gaps is floating subtraction roundoff; the absolute excess is the checked quantity."
+  }
+}

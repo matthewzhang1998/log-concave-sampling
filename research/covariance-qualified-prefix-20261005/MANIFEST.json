@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-05",
+  "status": "independent RAW-prefix PASS; cost-qualified guarded mean-source extension; public-log square-LAW gate OPEN",
+  "parameters": {
+    "w": "A^(4/5)",
+    "h": "A^(9/5)",
+    "eta": "A^(8/5)",
+    "M": "ceil(A^(-1/5))",
+    "variable_buffer_mu": "A^(1/2)"
+  },
+  "raw_port": {
+    "private_first": "A w^(3/2)",
+    "endpoint_first": "Aw",
+    "mean_defect": "epsilon Aw sqrt(D)",
+    "covariance_defect": "C A^2 w^3 sqrt(D)/M",
+    "node_count": "O((M+log(1/epsilon))log(1/epsilon))"
+  },
+  "guarded_mean_grade": "19/5, with leading public-log Lambda retained",
+  "files": {
+    "BRIDGE-MARTINGALE-SQUARE-GATE.md": "2b82590fd3f103d50a2ed2b8ec6f45195a4f20604a2e25de805064ddffa38fed",
+    "COVARIANCE-QUALIFIED-RAW-PREFIX.md": "d28057b710d06140ce21b3d8cced4bd8822e2bd7da49f40576e23522e0286249",
+    "README.md": "2a18663226d5ecb41218e48233d55c9a7b53e33932f6ec98e489519b744fd90f",
+    "check_covariance_prefix.py": "5c963071c165764762592fac64edcab60909587812486343340663369151355e",
+    "covariance_prefix_checks.json": "68345b62852b00876ab87d888c95bc38c5739807a5bf258d9f087d0503ee1745",
+    "independent-audit/JOINT-QUADRATURE-AND-MARTINGALE-AUDIT.md": "a8f40ce9c33652e293b3380b8e6466ee4bfc980f97db1c7de024d955f1aa700a",
+    "independent-audit/check-run.txt": "a0d3cb630b8d05dd6a95ee6c6079befdca4848d2ae6c87eb2f6788c5b7d62dac",
+    "independent-audit/check_joint_quadrature_and_martingale.py": "c933eec392ed566e29b9ef6e9e2a7a6032de2d8b67f5cc2cdb35618c2c93bb82",
+    "independent-audit/joint-quadrature-and-martingale-checks.json": "73e767024ecf94b41c06d55b13b79ae8c028b47dba2b8291b503296394312c63"
+  },
+  "inputs": {
+    "/workspace/shared/combined-mean-reentry-20261005/POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md": "53748adb366902bc875e5d74871bcd1a9cda74ec22524bba699f38fc4c918f49",
+    "/workspace/shared/combined-bridge-skew-20261005/MANIFEST.json": "04b93b69a562f49c0ab1ed2fc49da2208db3204649f84f8a95964f333a71e974",
+    "/workspace/shared/smoothed-bridge-prefix-20261005/MANIFEST.json": "2fc940544e410fc799814f23f71f083486b8c4b543a08ab4fdc8e8f101f93d8e",
+    "/workspace/shared/law-only-variance-join-20261005/MANIFEST.json": "673bdfcc6dc54c00ea380c942039add5ecda9f32686e6af0398243923dc6f3a7",
+    "/workspace/shared/v10-curation-work/original/higher-cumulant-gate/clock-compression/POSITIVE-SQUARE-CLOCK-COVARIANCE-SERVICE.md": "108af2124e3da0e2a04af92e9f0403bfce2f82f7e2912ba6b7e1975ef1c8b18b",
+    "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+  },
+  "checks": {
+    "author_assertions": 2721,
+    "independent_cosine_cases": 12,
+    "independent_spectral_cases": 36,
+    "independent_martingale_cases": 5
+  },
+  "limitations": [
+    "Explicit inverse-A bridge work; not public-log complexity or any-order recurrence.",
+    "Whole square-LAW outer clock compression and complete caller admission remain unproved.",
+    "Imported native compilers were not numerically executed or independently re-proved in this packet.",
+    "Final own-mean compiler with inverse-power source-block count has no cost/constant certificate here.",
+    "No sealed input was modified; no external upload or publication."
+  ]
+}

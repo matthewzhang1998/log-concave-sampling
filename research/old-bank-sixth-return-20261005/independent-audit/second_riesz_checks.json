@@ -1,0 +1,223 @@
+{
+  "second_riesz_exact_tests": [
+    {
+      "test_degree": 1,
+      "direct_equals_first": true,
+      "first_equals_second": true
+    },
+    {
+      "test_degree": 2,
+      "direct_equals_first": true,
+      "first_equals_second": true
+    },
+    {
+      "test_degree": 3,
+      "direct_equals_first": true,
+      "first_equals_second": true
+    },
+    {
+      "test_degree": 4,
+      "direct_equals_first": true,
+      "first_equals_second": true
+    },
+    {
+      "test_degree": 5,
+      "direct_equals_first": true,
+      "first_equals_second": true
+    },
+    {
+      "test_degree": 6,
+      "direct_equals_first": true,
+      "first_equals_second": true
+    },
+    {
+      "test_degree": 7,
+      "direct_equals_first": true,
+      "first_equals_second": true
+    }
+  ],
+  "same_endpoint_exact_tests": [
+    {
+      "test_degree": 1,
+      "grades_below_nine_cancel": true,
+      "alpha9_coefficient": "0"
+    },
+    {
+      "test_degree": 2,
+      "grades_below_nine_cancel": true,
+      "alpha9_coefficient": "0"
+    },
+    {
+      "test_degree": 3,
+      "grades_below_nine_cancel": true,
+      "alpha9_coefficient": "-24"
+    },
+    {
+      "test_degree": 4,
+      "grades_below_nine_cancel": true,
+      "alpha9_coefficient": "0"
+    },
+    {
+      "test_degree": 5,
+      "grades_below_nine_cancel": true,
+      "alpha9_coefficient": "-784"
+    },
+    {
+      "test_degree": 6,
+      "grades_below_nine_cancel": true,
+      "alpha9_coefficient": "0"
+    },
+    {
+      "test_degree": 7,
+      "grades_below_nine_cancel": true,
+      "alpha9_coefficient": "-22456"
+    }
+  ],
+  "multidimensional_wick_tests": [
+    {
+      "D": 2,
+      "error": 2.220446049250313e-16
+    },
+    {
+      "D": 2,
+      "error": 0.0
+    },
+    {
+      "D": 2,
+      "error": 0.0
+    },
+    {
+      "D": 2,
+      "error": 4.440892098500626e-16
+    },
+    {
+      "D": 2,
+      "error": 5.684341886080802e-14
+    },
+    {
+      "D": 2,
+      "error": 7.105427357601002e-15
+    },
+    {
+      "D": 2,
+      "error": 0.0
+    },
+    {
+      "D": 2,
+      "error": 0.0
+    },
+    {
+      "D": 2,
+      "error": 5.551115123125783e-17
+    },
+    {
+      "D": 2,
+      "error": 2.220446049250313e-16
+    },
+    {
+      "D": 2,
+      "error": 0.0
+    },
+    {
+      "D": 2,
+      "error": 4.440892098500626e-16
+    },
+    {
+      "D": 3,
+      "error": 8.881784197001252e-16
+    },
+    {
+      "D": 3,
+      "error": 1.4210854715202004e-14
+    },
+    {
+      "D": 3,
+      "error": 2.2737367544323206e-13
+    },
+    {
+      "D": 3,
+      "error": 1.1368683772161603e-13
+    },
+    {
+      "D": 3,
+      "error": 2.2737367544323206e-13
+    },
+    {
+      "D": 3,
+      "error": 0.0
+    },
+    {
+      "D": 3,
+      "error": 2.220446049250313e-16
+    },
+    {
+      "D": 3,
+      "error": 1.4210854715202004e-14
+    },
+    {
+      "D": 3,
+      "error": 2.1316282072803006e-14
+    },
+    {
+      "D": 3,
+      "error": 8.881784197001252e-16
+    },
+    {
+      "D": 3,
+      "error": 1.4210854715202004e-14
+    },
+    {
+      "D": 3,
+      "error": 7.105427357601002e-15
+    },
+    {
+      "D": 5,
+      "error": 1.0658141036401503e-14
+    },
+    {
+      "D": 5,
+      "error": 2.220446049250313e-16
+    },
+    {
+      "D": 5,
+      "error": 0.0
+    },
+    {
+      "D": 5,
+      "error": 0.0
+    },
+    {
+      "D": 5,
+      "error": 1.4210854715202004e-14
+    },
+    {
+      "D": 5,
+      "error": 7.105427357601002e-15
+    },
+    {
+      "D": 5,
+      "error": 1.7053025658242404e-13
+    },
+    {
+      "D": 5,
+      "error": 1.1368683772161603e-13
+    },
+    {
+      "D": 5,
+      "error": 3.694822225952521e-13
+    },
+    {
+      "D": 5,
+      "error": 0.0
+    },
+    {
+      "D": 5,
+      "error": 2.842170943040401e-14
+    },
+    {
+      "D": 5,
+      "error": 1.4210854715202004e-14
+    }
+  ],
+  "scope": "Exact finite algebra diagnostics. Source, extended-cut and complete-native assertions are mathematical proof obligations, not numerically executed here."
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-05",
+  "status": "PASS: independent conditional covariance field and original-VALUE action-port audit under imported native guards",
+  "files": {
+    "DYADIC-POSITIVE-BRIDGE-COVARIANCE.md": "9bc692e910de080b46690bd698e460e386ce6ee1a4de6c6c7d39cddb293ff40e",
+    "README.md": "feda754401a93dafe9a2a3af375d7284aaddeda0d55fb3a9ebec8b64e90b4c6b",
+    "SCALAR-CLOCK-IMPLEMENTATION-ADDENDUM.md": "cc4404fe4becbb1c5f4768e043ca4f1a6d0d531bfc10f15d3b5a1f7afd06f89e",
+    "check_dyadic_bridge_square.py": "957f9221dcce16dc66d3322414c22a61d198ef9cad5ddfcf39708af14793ad57",
+    "dyadic_bridge_square_checks.json": "b3df42c185445c9d677a5a21f7fc5e4608501de49b2c12ff8362cb030e6c8622"
+  },
+  "inputs": {
+    "/workspace/shared/covariance-qualified-prefix-20261005/BRIDGE-MARTINGALE-SQUARE-GATE.md": "2b82590fd3f103d50a2ed2b8ec6f45195a4f20604a2e25de805064ddffa38fed",
+    "/workspace/shared/smoothed-bridge-prefix-20261005/SMOOTHED-BRIDGE-PREFIX.md": "c26e44e932f0626cd7101d092d679f7b416d4d1e71adaf09e3cf4a48941e4258",
+    "/workspace/shared/v10-curation-work/original/higher-cumulant-gate/clock-compression/POSITIVE-SQUARE-CLOCK-COVARIANCE-SERVICE.md": "108af2124e3da0e2a04af92e9f0403bfce2f82f7e2912ba6b7e1975ef1c8b18b"
+  },
+  "result": {
+    "covariance_error": "C epsilon A^2 delta^3 sqrt(D)",
+    "private_p_first": "Lambda A^2 delta^3 / sqrt(mu)",
+    "retained_endpoint_first": "Lambda A^2 delta^(5/2) / sqrt(mu)",
+    "energy": "Lambda A^2 delta^3 sqrt(D)",
+    "position_nodes": "O(log^3(1/epsilon))",
+    "basic_value_count": "conservative public-log eighth-power pattern including native first filter"
+  },
+  "limitations": [
+    "No complete native mean-LAW compiler executed; independent fixture tests do execute the literal square graph.",
+    "Does not prove direct B_s square-field outer quadrature.",
+    "Complete mean-service caller admission and all-order recurrence remain separate.",
+    "No external publication or upload."
+  ],
+  "independent_audit": {
+    "path": "/workspace/shared/multilevel-covariance-independent-audit-20261005/INDEPENDENT-AUDIT.md",
+    "sha256": "767a24b61ec85a27e0a304fc3e4647263af3ac9ee2aefdc224e3c540fae0385c",
+    "scalar_addendum_review_sha256": "1b858fa73d39cb8d6bf0abb66e0610b10772a5b8888b4b3ed5745809b739fbb2",
+    "checks": "Independent geometry/moments, literal original-VALUE/native square graph counts/parity/non-diagonal calibration; isolated rerun of all 2004 author assertions."
+  }
+}

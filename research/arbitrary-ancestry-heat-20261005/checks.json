@@ -1,0 +1,473 @@
+{
+  "geometry": {
+    "cases": 60,
+    "minimum_eigenvalue_over_certificate": 1.1895036144028657,
+    "maximum_floor_improvement": 1724.45100566371,
+    "maximum_reconstruction_error": 1.6653345369377348e-15
+  },
+  "rank8_obstruction": {
+    "history_coefficient": 40320,
+    "force_degrees": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      4,
+      4
+    ],
+    "structural_clock_count": 7,
+    "center_primitive_orders": [
+      5,
+      5
+    ],
+    "ast": [
+      "r",
+      8,
+      [
+        "mul",
+        [
+          "r",
+          8,
+          [
+            "mul",
+            [
+              "r",
+              8,
+              [
+                "mul",
+                [
+                  "r",
+                  8,
+                  [
+                    "mul",
+                    [
+                      "r",
+                      8,
+                      [
+                        "mul",
+                        [
+                          "r",
+                          8,
+                          [
+                            "mul",
+                            [
+                              "r",
+                              8,
+                              [
+                                "mul",
+                                [
+                                  "r",
+                                  5,
+                                  [
+                                    "g",
+                                    1,
+                                    [
+                                      1,
+                                      2,
+                                      3,
+                                      4
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  "r",
+                                  5,
+                                  [
+                                    "g",
+                                    2,
+                                    [
+                                      1,
+                                      5,
+                                      6,
+                                      7
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              "r",
+                              2,
+                              [
+                                "g",
+                                3,
+                                [
+                                  2
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          "r",
+                          2,
+                          [
+                            "g",
+                            4,
+                            [
+                              3
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "r",
+                      2,
+                      [
+                        "g",
+                        5,
+                        [
+                          4
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "r",
+                  2,
+                  [
+                    "g",
+                    6,
+                    [
+                      5
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "r",
+              2,
+              [
+                "g",
+                7,
+                [
+                  6
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          "r",
+          2,
+          [
+            "g",
+            8,
+            [
+              7
+            ]
+          ]
+        ]
+      ]
+    ],
+    "variance_limit": 0.2184556340519386,
+    "difference_mode_variance": 0.0934556340519386,
+    "difference_mode_bridge_mass_rho_025_to_05": 0.004053402957585074,
+    "illegal_constant_extraction_min_eigenvalue": -0.009877929687500037,
+    "rows": [
+      {
+        "K": 4,
+        "primitive_half_heat": 0.0625,
+        "parent_variance": 0.9999389648437498,
+        "Var_S": 0.2184556340519386,
+        "mean_S": 0.18393972058559377,
+        "leading_Var_L": 7.217957790296124e-06,
+        "Var_L_over_K4": 2.8195147618344235e-08,
+        "normalized_center_weight": 16.0
+      },
+      {
+        "K": 8,
+        "primitive_half_heat": 0.015625,
+        "parent_variance": 0.9999389648437499,
+        "Var_S": 0.2184556340519386,
+        "mean_S": 0.18393972058572117,
+        "leading_Var_L": 0.00011548732464473799,
+        "Var_L_over_K4": 2.8195147618344235e-08,
+        "normalized_center_weight": 64.0
+      },
+      {
+        "K": 16,
+        "primitive_half_heat": 0.00390625,
+        "parent_variance": 0.9999389648437499,
+        "Var_S": 0.2184556340519386,
+        "mean_S": 0.18393972058572117,
+        "leading_Var_L": 0.0018477971943158078,
+        "Var_L_over_K4": 2.8195147618344235e-08,
+        "normalized_center_weight": 256.0
+      },
+      {
+        "K": 32,
+        "primitive_half_heat": 0.0009765625,
+        "parent_variance": 0.9999389648437499,
+        "Var_S": 0.2184556340519386,
+        "mean_S": 0.18393972058572117,
+        "leading_Var_L": 0.029564755109052925,
+        "Var_L_over_K4": 2.8195147618344235e-08,
+        "normalized_center_weight": 1024.0
+      },
+      {
+        "K": 64,
+        "primitive_half_heat": 0.000244140625,
+        "parent_variance": 0.9999389648437499,
+        "Var_S": 0.2184556340519386,
+        "mean_S": 0.18393972058572117,
+        "leading_Var_L": 0.4730360817448468,
+        "Var_L_over_K4": 2.8195147618344235e-08,
+        "normalized_center_weight": 4096.0
+      },
+      {
+        "K": 128,
+        "primitive_half_heat": 6.103515625e-05,
+        "parent_variance": 0.99993896484375,
+        "Var_S": 0.2184556340519386,
+        "mean_S": 0.18393972058572117,
+        "leading_Var_L": 7.568577307917549,
+        "Var_L_over_K4": 2.8195147618344235e-08,
+        "normalized_center_weight": 16384.0
+      },
+      {
+        "K": 256,
+        "primitive_half_heat": 1.52587890625e-05,
+        "parent_variance": 0.9999389648437498,
+        "Var_S": 0.2184556340519386,
+        "mean_S": 0.18393972058572117,
+        "leading_Var_L": 121.09723692668078,
+        "Var_L_over_K4": 2.8195147618344235e-08,
+        "normalized_center_weight": 65536.0
+      }
+    ],
+    "scope": "One-node leading scalar coefficient; actual six leaf factors have uniform exponentially small correction."
+  },
+  "finite_allocation": [
+    {
+      "n": 2,
+      "K": 0.0001,
+      "alpha": 1.0000000000000002e-07,
+      "beta": 0.6666666666666666,
+      "root_radius": 1.0000000000000005e-18,
+      "nonroot_radius": 2.1544346900318854e-05
+    },
+    {
+      "n": 2,
+      "K": 1.0,
+      "alpha": 1.0000000000000002e-07,
+      "beta": 0.6666666666666666,
+      "root_radius": 1.0000000000000005e-14,
+      "nonroot_radius": 2.1544346900318854e-05
+    },
+    {
+      "n": 2,
+      "K": 100000000.0,
+      "alpha": 1e-13,
+      "beta": 0.6666666666666666,
+      "root_radius": 1e-18,
+      "nonroot_radius": 2.154434690031886e-09
+    },
+    {
+      "n": 2,
+      "K": 1e+30,
+      "alpha": 1e-35,
+      "beta": 0.6666666666666666,
+      "root_radius": 1e-40,
+      "nonroot_radius": 4.641588833612793e-24
+    },
+    {
+      "n": 3,
+      "K": 0.0001,
+      "alpha": 1.0000000000000002e-06,
+      "beta": 0.8,
+      "root_radius": 1.0000000000000005e-16,
+      "nonroot_radius": 1.5848931924611128e-05
+    },
+    {
+      "n": 3,
+      "K": 1.0,
+      "alpha": 1.0000000000000002e-06,
+      "beta": 0.8,
+      "root_radius": 1.0000000000000004e-12,
+      "nonroot_radius": 1.5848931924611128e-05
+    },
+    {
+      "n": 3,
+      "K": 100000000.0,
+      "alpha": 1e-13,
+      "beta": 0.8,
+      "root_radius": 1e-18,
+      "nonroot_radius": 3.9810717055349676e-11
+    },
+    {
+      "n": 3,
+      "K": 1e+30,
+      "alpha": 1e-35,
+      "beta": 0.8,
+      "root_radius": 1e-40,
+      "nonroot_radius": 9.999999999999964e-29
+    },
+    {
+      "n": 4,
+      "K": 0.0001,
+      "alpha": 2.1544346900318822e-06,
+      "beta": 0.8571428571428571,
+      "root_radius": 4.641588833612773e-16,
+      "nonroot_radius": 1.3894954943731376e-05
+    },
+    {
+      "n": 4,
+      "K": 1.0,
+      "alpha": 2.1544346900318822e-06,
+      "beta": 0.8571428571428571,
+      "root_radius": 4.6415888336127725e-12,
+      "nonroot_radius": 1.3894954943731376e-05
+    },
+    {
+      "n": 4,
+      "K": 100000000.0,
+      "alpha": 1e-13,
+      "beta": 0.8571428571428571,
+      "root_radius": 1e-18,
+      "nonroot_radius": 7.196856730011531e-12
+    },
+    {
+      "n": 4,
+      "K": 1e+30,
+      "alpha": 1e-35,
+      "beta": 0.8571428571428571,
+      "root_radius": 1e-40,
+      "nonroot_radius": 1.0000000000000038e-30
+    },
+    {
+      "n": 8,
+      "K": 0.0001,
+      "alpha": 5.179474679231213e-06,
+      "beta": 0.9333333333333333,
+      "root_radius": 2.682695795279728e-15,
+      "nonroot_radius": 1.1659144011798319e-05
+    },
+    {
+      "n": 8,
+      "K": 1.0,
+      "alpha": 5.179474679231213e-06,
+      "beta": 0.9333333333333333,
+      "root_radius": 2.682695795279728e-11,
+      "nonroot_radius": 1.1659144011798319e-05
+    },
+    {
+      "n": 8,
+      "K": 100000000.0,
+      "alpha": 1e-13,
+      "beta": 0.9333333333333333,
+      "root_radius": 1e-18,
+      "nonroot_radius": 7.35642254459641e-13
+    },
+    {
+      "n": 8,
+      "K": 1e+30,
+      "alpha": 1e-35,
+      "beta": 0.9333333333333333,
+      "root_radius": 1e-40,
+      "nonroot_radius": 2.154434690031881e-33
+    },
+    {
+      "n": 12,
+      "K": 0.0001,
+      "alpha": 6.579332246575683e-06,
+      "beta": 0.9565217391304348,
+      "root_radius": 4.328761281083062e-15,
+      "nonroot_radius": 1.1052951411260217e-05
+    },
+    {
+      "n": 12,
+      "K": 1.0,
+      "alpha": 6.579332246575683e-06,
+      "beta": 0.9565217391304348,
+      "root_radius": 4.328761281083062e-11,
+      "nonroot_radius": 1.1052951411260217e-05
+    },
+    {
+      "n": 12,
+      "K": 100000000.0,
+      "alpha": 1e-13,
+      "beta": 0.9565217391304348,
+      "root_radius": 1e-18,
+      "nonroot_radius": 3.674661940736686e-13
+    },
+    {
+      "n": 12,
+      "K": 1e+30,
+      "alpha": 1e-35,
+      "beta": 0.9565217391304348,
+      "root_radius": 1e-40,
+      "nonroot_radius": 3.324597932270933e-34
+    }
+  ],
+  "second_riesz": {
+    "checks": [
+      {
+        "physical_degree": 0,
+        "test_power": 3,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 0,
+        "test_power": 4,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 0,
+        "test_power": 5,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 1,
+        "test_power": 3,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 1,
+        "test_power": 4,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 1,
+        "test_power": 5,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 2,
+        "test_power": 3,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 2,
+        "test_power": 4,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 2,
+        "test_power": 5,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 3,
+        "test_power": 3,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 3,
+        "test_power": 4,
+        "exact_identity": true
+      },
+      {
+        "physical_degree": 3,
+        "test_power": 5,
+        "exact_identity": true
+      }
+    ],
+    "scope": "Polynomial identity only; this unbounded-Q polynomial is not a witness for the uniform derivative hypothesis."
+  }
+}

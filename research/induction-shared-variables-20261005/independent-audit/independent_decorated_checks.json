@@ -1,0 +1,94 @@
+{
+  "assertions": 1904504,
+  "scope": "Finite exact algebra, all connected loopless center graphs with degree 1..3 at n=2..5; every short-spine opening; all h=2 decorated Wick diagrams of the four candidates. No native sampler, W2 constant, or canonical caller readset is executed.",
+  "first_cluster_census": [
+    {
+      "n": 2,
+      "graphs": 3,
+      "unoriented_openings": 6,
+      "reverse_monomials": 6
+    },
+    {
+      "n": 3,
+      "graphs": 13,
+      "unoriented_openings": 66,
+      "reverse_monomials": 132
+    },
+    {
+      "n": 4,
+      "graphs": 116,
+      "unoriented_openings": 1392,
+      "reverse_monomials": 4728
+    },
+    {
+      "n": 5,
+      "graphs": 1432,
+      "unoriented_openings": 35280,
+      "reverse_monomials": 188100
+    }
+  ],
+  "second_cluster_census": [
+    {
+      "type": "T00",
+      "all_unoriented_openings": 36,
+      "wick_diagrams": 1192,
+      "connected_diagrams": 1156,
+      "offspring_physical_ranks": {
+        "4": 76,
+        "6": 144,
+        "8": 936
+      },
+      "cut_roots": 3
+    },
+    {
+      "type": "T10",
+      "all_unoriented_openings": 21,
+      "wick_diagrams": 958,
+      "connected_diagrams": 937,
+      "offspring_physical_ranks": {
+        "4": 33,
+        "6": 80,
+        "8": 266,
+        "10": 390,
+        "12": 168
+      },
+      "cut_roots": 2
+    },
+    {
+      "type": "T01",
+      "all_unoriented_openings": 21,
+      "wick_diagrams": 958,
+      "connected_diagrams": 937,
+      "offspring_physical_ranks": {
+        "4": 33,
+        "6": 80,
+        "8": 266,
+        "10": 390,
+        "12": 168
+      },
+      "cut_roots": 2
+    },
+    {
+      "type": "T11",
+      "all_unoriented_openings": 12,
+      "wick_diagrams": 752,
+      "connected_diagrams": 740,
+      "offspring_physical_ranks": {
+        "4": 12,
+        "6": 40,
+        "8": 96,
+        "10": 192,
+        "12": 232,
+        "14": 144,
+        "16": 24
+      },
+      "cut_roots": 1
+    }
+  ],
+  "mean": "a*alpha**6*b*c*d*ell*s*theta**6",
+  "second_cumulant_grade8": "alpha**8*ell**2*theta**4*(a**2*theta**2 + 1)*(b**2*theta**2 + 1)/2",
+  "reference_second_cumulant": "25*T**2*alpha**12*theta**10/(2*c_ref) + 100*T**2*alpha**12*theta**8/c_ref**2 + 300*T**2*alpha**12*theta**6/c_ref**3 + 300*T**2*alpha**12*theta**4/c_ref**4 + 60*T**2*alpha**12*theta**2/c_ref**5",
+  "common_path_lower_current": "zero identically in s",
+  "positive_toy_naive_spurious_current": "2*e**2*s*theta**6 - e**2*theta**6",
+  "positive_toy_same_endpoint_current": "0"
+}

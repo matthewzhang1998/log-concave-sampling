@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "assertions": 8598,
+  "max_finite_sum_ratios": {
+    "0.5": 0.7070361482686893,
+    "1": 0.4999999959657321,
+    "1.5": 0.4592098767720739,
+    "1.1666666666666667": 0.5469821563912546,
+    "2": 0.34242331966585143,
+    "2.5": 0.24340024393024934
+  },
+  "leading_exponents": {
+    "terminal_commutator": "37/10",
+    "bridge_cancellation": "37/10",
+    "near_RAW": "37/10"
+  },
+  "remainder_exponents": {
+    "nested_prefix": "19/5",
+    "smooth_drift": "22/5",
+    "near_other": "4",
+    "bridge_quadrature": "24/5",
+    "outer_rule": "4",
+    "intrinsic_mean": "4",
+    "final_own_mean": "4",
+    "bulk_0": "19/5",
+    "endpoint_0": "43/10",
+    "bulk_1": "21/5",
+    "endpoint_1": "5",
+    "bulk_2": "76/15",
+    "endpoint_2": "173/30",
+    "bulk_3": "22/5",
+    "endpoint_3": "23/5",
+    "bulk_4": "5",
+    "endpoint_4": "49/10",
+    "bulk_5": "29/5",
+    "endpoint_5": "63/10"
+  },
+  "scope": "Literal positive outer dyadic sums, variance shares, stable endpoint geometry, aggregate first envelope, terminal carrier rotations, and exact exponent/guard arithmetic. No native compiler or sampler execution."
+}

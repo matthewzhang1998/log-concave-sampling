@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "assertions": 4787,
+  "maximum_finite_difference_error": 7.694007583824991e-11,
+  "maximum_observed_normalized_first_over_A": 0.2417700993327141,
+  "maximum_observed_normalized_curl_over_A_squared": 0.5222810015922948,
+  "maximum_quadratic_identity_error": 2.220446049250313e-16,
+  "test_rule_nodes": [
+    0.2,
+    1.2
+  ],
+  "test_rule_weights": [
+    0.3841386496883425,
+    0.6158613503116575
+  ],
+  "scope": "Raw graph and analytic envelopes only; no numerical implementation of the imported mean compilers or high-accuracy bridge quadrature is claimed."
+}

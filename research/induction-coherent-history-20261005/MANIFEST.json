@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-05",
+  "status": "constructive_partial_local_current_port",
+  "completed_full_history_induction": false,
+  "new_results": [
+    "retuned fourteen-VALUE pair source first",
+    "nineteen-VALUE coherent marked current correction",
+    "retained-carrier clipped native current port",
+    "raw small-energy near-gradient marker invariant"
+  ],
+  "boundaries": [
+    "true-history base/singleton fields and Delta3 source unsupplied",
+    "no unrestricted-D history comparison",
+    "no nonlinear marker-reuse or unweighted-law inference",
+    "native compiler imported with literal guards, not executed"
+  ],
+  "files": [
+    {
+      "path": "CURRENT-CARRYING-RANK-TWO-RESUMMATION.md",
+      "sha256": "edf95c40b4e240743fe7ce8940895cd5d5433e3a4eb0e5fb45d3396736646f8d"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "66852f652c4ad1b8d6d01628bc1ca267774f23d9a9dcb283f77ec00239b982d9"
+    },
+    {
+      "path": "RAW-MARKER-INVARIANT.md",
+      "sha256": "5bc5ab82bab01c21f50be41fe495807372c9c103ef4be8ce91ca213a84063a94"
+    },
+    {
+      "path": "README.md",
+      "sha256": "01144ce3d4ce342ae02da167c8b087b14698f0f16f9a38bcf0d1790d4ed40ae7"
+    },
+    {
+      "path": "RETAINED-CARRIER-NATIVE-CURRENT-PORT.md",
+      "sha256": "e5f24b4f1df648767856586cb1cdbbdbda7280088e2a594d169a50fb9b56c6ae"
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "57d6b5eebf6e47455b274423db81c4e96347486cb658c843c1b4465aabdd4a4e"
+    },
+    {
+      "path": "check_current_port.py",
+      "sha256": "6d9de86c68c3f6e5af67f9f97aa2ab25ab2f70b30c1038467df9b83dd420e171"
+    },
+    {
+      "path": "current_port_checks.json",
+      "sha256": "18a921f458b8acafc598980ec2db6c5db04b20c62ec30ab279833a32685f4b1a"
+    },
+    {
+      "path": "current_source.py",
+      "sha256": "520c2d76f2547ab0ab7e9715e849c7f63e8f801fba0c5553c8737215926f69a4"
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-MARKED-CURRENT-AUDIT.md",
+      "sha256": "56d8604bd17c6149b446c9e7da46a5f2d3c8448d190fcaeaddc5c028905f4070"
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-RAW-MARKER-EXTENSION-AUDIT.md",
+      "sha256": "a7cd6d268a186293e21fa8649030f50435dcc429b3d1c602c89cb13cbd44b1e7"
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-RETAINED-CARRIER-NATIVE-AUDIT.md",
+      "sha256": "78f913d2127787b3debc968654583b2024a0921f977d4a4c0cac3965d5523f5c"
+    },
+    {
+      "path": "independent-audit/REVIEWED-CURRENT-REVISED.md",
+      "sha256": "51ab911bbefef7554041e6cf885479dcbdb9e181320ce4a0b6170d9e293f263b"
+    },
+    {
+      "path": "independent-audit/REVIEWED-CURRENT-SNAPSHOT.md",
+      "sha256": "440dff2bb37da96f65b58765422cf4e107b6b1538780be8c7589ce64a02ec114"
+    },
+    {
+      "path": "independent-audit/REVIEWED-NATIVE-SUPPLEMENT-FINAL.md",
+      "sha256": "e5f24b4f1df648767856586cb1cdbbdbda7280088e2a594d169a50fb9b56c6ae"
+    },
+    {
+      "path": "independent-audit/REVIEWED-NATIVE-SUPPLEMENT.md",
+      "sha256": "bc8d44e076c7eb80d4df9c6c947681bb8ab3927bdf28a4231b0b510bd17f8836"
+    },
+    {
+      "path": "independent-audit/check_current_resummation.py",
+      "sha256": "0d30a8b6e69a0b90fc53b0acc5c9faa5c7dcfc485be2342ded6365c3034e7276"
+    },
+    {
+      "path": "independent-audit/current_resummation_checks.json",
+      "sha256": "86cb01170ff49118e60754b0c045305b77773064da5e15f680be169b60061623"
+    },
+    {
+      "path": "seal_packet.py",
+      "sha256": "abed1c0242b038f6e0c1e7e7a3f2f3cdb7795fec67098f68c4ff8065dece5fbb"
+    }
+  ]
+}

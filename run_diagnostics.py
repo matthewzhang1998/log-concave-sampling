@@ -45,15 +45,18 @@ def run_one(script):
     with tempfile.TemporaryDirectory(prefix='sampling-diagnostic-') as directory:
         work = Path(directory) / 'research'
         shutil.copytree(RESEARCH, work)
-        for helper in ('INVENTORY.json', 'publication_sources.py'):
+        for helper in ('INVENTORY.json', 'publication_sources.py', 'run_frozen_diagnostic.py'):
             shutil.copyfile(ROOT/helper, Path(directory)/helper)
+        shutil.copytree(ROOT/'verification', Path(directory)/'verification')
         before = {str(p.relative_to(work)): digest(p) for p in work.rglob('*.json')}
         saved_json = {str(p.relative_to(work)): json.loads(p.read_text()) for p in work.rglob('*.json')}
         env = dict(os.environ)
         env.update(OPENBLAS_NUM_THREADS='1', OMP_NUM_THREADS='1', MKL_NUM_THREADS='1', PYTHONDONTWRITEBYTECODE='1')
         start = time.monotonic()
         try:
-            process = subprocess.run([sys.executable, str(work / relative)], cwd=work,
+            is_new = str(script.relative_to(ROOT)) in {e['path'] for e in json.loads((ROOT/'verification/V13-FROZEN-SELECTION.json').read_text())['files']}
+            command = [sys.executable, str(Path(directory)/'run_frozen_diagnostic.py'), str(work/relative)] if is_new else [sys.executable, str(work/relative)]
+            process = subprocess.run(command, cwd=work,
                 env=env, capture_output=True, text=True, timeout=300)
             result.update(exit_code=process.returncode, passed=process.returncode == 0,
                 status='passed' if process.returncode == 0 else 'failed',
@@ -74,15 +77,25 @@ def run_one(script):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--report', type=Path, help='Optional detailed JSON report output path.')
+    parser.add_argument('--new-only', action='store_true', help='Run only the V13 frozen additions.')
     args = parser.parse_args()
     if args.report:
         report = args.report.resolve()
         if report == ROOT or ROOT in report.parents:
             parser.error('--report must resolve outside the immutable archive directory')
-    scripts = sorted(RESEARCH.rglob('check_*.py'))
+    extra=json.loads((ROOT/'verification/V13-FROZEN-SELECTION.json').read_text())['diagnostic_entrypoints']
+    scripts = sorted(set(RESEARCH.rglob('check_*.py')) | {ROOT/p for p in extra})
+    if args.new_only:
+        selected={e['path'] for e in json.loads((ROOT/'verification/V13-FROZEN-SELECTION.json').read_text())['files']}
+        scripts=[p for p in scripts if str(p.relative_to(ROOT)) in selected]
     before = {str(p.relative_to(ROOT)): digest(p) for p in RESEARCH.rglob('*') if p.is_file()}
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
-        results = list(pool.map(run_one, scripts))
+        futures=[pool.submit(run_one,s) for s in scripts]
+        results=[]
+        for future in concurrent.futures.as_completed(futures):
+            result=future.result();results.append(result)
+            print(('PASS' if result['passed'] else 'FAIL')+' '+result['script'],flush=True)
+        results.sort(key=lambda r:r['script'])
     for result in results:
         print(('PASS' if result['passed'] else 'FAIL') + ' ' + result['script'], flush=True)
     after = {str(p.relative_to(ROOT)): digest(p) for p in RESEARCH.rglob('*') if p.is_file()}

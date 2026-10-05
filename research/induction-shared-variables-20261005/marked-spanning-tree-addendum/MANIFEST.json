@@ -1,0 +1,50 @@
+{
+  "scope": "Marked-spanning-tree global cuts, native topology, conditional graph closure and frozen-coefficient width-zero port; full old-bank induction remains separate.",
+  "files": [
+    {
+      "path": "FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+      "bytes": 9417,
+      "sha256": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "bytes": 577,
+      "sha256": "e0f18e163a6c3dc8aafad7c3dca3719632dd4bc26a75b81a10e20215cf8cd94f"
+    },
+    {
+      "path": "MARKED-SPANNING-TREE-CUT-LEMMA.md",
+      "bytes": 14105,
+      "sha256": "91332375a2035cf724f72360ed8530e0cb4561717cef00b9c3b59a94132c8dc5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1323,
+      "sha256": "4324cbdaca4a3f68d0f2cb694264b5a6db679752c1987a1235b983a0d2170a86"
+    },
+    {
+      "path": "REVIEWED-MARKED-SPANNING-TREE-EXTENSION.md",
+      "bytes": 14960,
+      "sha256": "c54f551585d4f8c0cd5b46bef4eb4f934eee2284a5d7326f84ad23fc03744971"
+    },
+    {
+      "path": "SIX-FORCE-REBALANCE-CHECK.md",
+      "bytes": 3592,
+      "sha256": "25679d7254e864e1c05bde55d8fe79c0b197c58d0d33fb45cbe6a6f6b5c09438"
+    },
+    {
+      "path": "check-run.txt",
+      "bytes": 2271,
+      "sha256": "f05bc1aca62c7adeda432a62946cce0c125fc20b3df9d9812c54071ea55b3cdf"
+    },
+    {
+      "path": "check_marked_spanning_tree.py",
+      "bytes": 7998,
+      "sha256": "e7214176c94b828f086006c08bfaee2b14092faf60e79405aebe17372fc2afab"
+    },
+    {
+      "path": "marked_spanning_tree_checks.json",
+      "bytes": 2271,
+      "sha256": "f05bc1aca62c7adeda432a62946cce0c125fc20b3df9d9812c54071ea55b3cdf"
+    }
+  ]
+}

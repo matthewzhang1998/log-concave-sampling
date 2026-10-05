@@ -1,0 +1,35 @@
+{
+  "audit_date": "2026-10-05",
+  "inputs": [
+    {
+      "path": "/workspace/shared/cycle-surplus-closure-20261005/PERMANENT-LEAF-C3-SURPLUS-CLOSURE.md",
+      "sha256": "207a884b73dcf9187cd260189ade1aec57cde66ba87d726c53d79cf58b096965",
+      "bytes": 19369
+    },
+    {
+      "path": "/workspace/shared/cycle-surplus-closure-20261005/SHARED-AUXILIARY-FRAME-AND-REMAINDER.md",
+      "sha256": "077a892351a116b9ef1aca110bc16fe0377d7957dfb7d3aa07442ad62b569ba5",
+      "bytes": 13229
+    },
+    {
+      "path": "/workspace/shared/cycle-surplus-closure-20261005/check_cycle_surplus.py",
+      "sha256": "84967454645f5e922221b398501ee79a1bc40a6a9d93f917faf087f67579be75",
+      "bytes": 6370
+    },
+    {
+      "path": "/workspace/shared/cycle-surplus-closure-20261005/cycle_surplus_checks.json",
+      "sha256": "d9aafd2dcaa7ecc8fbb458518866097fb39b5e9f6aa3c71937544b6fd58467c3",
+      "bytes": 7871
+    },
+    {
+      "path": "/workspace/shared/two-cycle-positive-return-20261005/TWO-CYCLE-OPENING-AND-RETURN.md",
+      "sha256": "802667e8e7f07cb2df65c66463045ec7758110a169bddb48d3e82bd1a04835ee",
+      "bytes": 24260
+    },
+    {
+      "path": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "bytes": 680050
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "reviewed_sha256": "404c7829fb172cf1ccd95a8ead875f75537b7920259a465c949b222d901bc722",
+  "random_genealogies": 12000,
+  "minimum_Gamma_over_m": 0.3824384603656145,
+  "maximum_covariance_error": 2.220446049250313e-16,
+  "positive_bridge_rules": [
+    {
+      "J": 4,
+      "n": 4,
+      "count": 16,
+      "error": 0.0625,
+      "bridge_mass_envelope": 1.4999996764569845
+    },
+    {
+      "J": 8,
+      "n": 6,
+      "count": 48,
+      "error": 0.00390625,
+      "bridge_mass_envelope": 1.8749999997073272
+    },
+    {
+      "J": 16,
+      "n": 10,
+      "count": 160,
+      "error": 1.52587890625e-05,
+      "bridge_mass_envelope": 1.9921874999999993
+    },
+    {
+      "J": 24,
+      "n": 14,
+      "count": 336,
+      "error": 5.960464455334602e-08,
+      "bridge_mass_envelope": 1.9995117187499951
+    }
+  ],
+  "hit_census": [
+    {
+      "hit_pair": [
+        0,
+        0
+      ],
+      "C0": 2,
+      "C1": 4,
+      "C2": 0,
+      "spine": 6
+    },
+    {
+      "hit_pair": [
+        0,
+        1
+      ],
+      "C0": 3,
+      "C1": 2,
+      "C2": 1,
+      "spine": 5
+    },
+    {
+      "hit_pair": [
+        0,
+        2
+      ],
+      "C0": 2,
+      "C1": 4,
+      "C2": 0,
+      "spine": 6
+    },
+    {
+      "hit_pair": [
+        1,
+        0
+      ],
+      "C0": 3,
+      "C1": 2,
+      "C2": 1,
+      "spine": 5
+    },
+    {
+      "hit_pair": [
+        1,
+        1
+      ],
+      "C0": 4,
+      "C1": 0,
+      "C2": 2,
+      "spine": 4
+    },
+    {
+      "hit_pair": [
+        1,
+        2
+      ],
+      "C0": 3,
+      "C1": 2,
+      "C2": 1,
+      "spine": 5
+    },
+    {
+      "hit_pair": [
+        2,
+        0
+      ],
+      "C0": 2,
+      "C1": 4,
+      "C2": 0,
+      "spine": 6
+    },
+    {
+      "hit_pair": [
+        2,
+        1
+      ],
+      "C0": 3,
+      "C1": 2,
+      "C2": 1,
+      "spine": 5
+    },
+    {
+      "hit_pair": [
+        2,
+        2
+      ],
+      "C0": 2,
+      "C1": 4,
+      "C2": 0,
+      "spine": 6
+    }
+  ],
+  "derivative_adapter_totals": {
+    "C0": 24,
+    "C1": 24,
+    "C2": 6
+  },
+  "generic_cut_only_countertest": [
+    {
+      "n": 1,
+      "variance": 0.43233235838169365,
+      "derivative_root_to_tensor_HS": 1.0
+    },
+    {
+      "n": 4,
+      "variance": 1.7293294335267746,
+      "derivative_root_to_tensor_HS": 2.0
+    },
+    {
+      "n": 16,
+      "variance": 6.917317734107098,
+      "derivative_root_to_tensor_HS": 4.0
+    },
+    {
+      "n": 64,
+      "variance": 27.669270936428394,
+      "derivative_root_to_tensor_HS": 8.0
+    },
+    {
+      "n": 256,
+      "variance": 110.67708374571357,
+      "derivative_root_to_tensor_HS": 16.0
+    }
+  ],
+  "conditional_supremum_countertest": [
+    {
+      "D": 1,
+      "fixed_direction_L2": 1.7320508075688772,
+      "expected_maximum": 1.0
+    },
+    {
+      "D": 4,
+      "fixed_direction_L2": 1.7320508075688772,
+      "expected_maximum": 2.909859317102744
+    },
+    {
+      "D": 16,
+      "fixed_direction_L2": 1.7320508075688772,
+      "expected_maximum": 10.549296585513721
+    },
+    {
+      "D": 64,
+      "fixed_direction_L2": 1.7320508075688772,
+      "expected_maximum": 41.10704565915763
+    },
+    {
+      "D": 256,
+      "fixed_direction_L2": 1.7320508075688772,
+      "expected_maximum": 163.33804195373324
+    }
+  ],
+  "verdict": "Exact OU/heat/clock and conditional polynomial-current layers only. The full old-law same-endpoint remainder is not certified by this checker."
+}

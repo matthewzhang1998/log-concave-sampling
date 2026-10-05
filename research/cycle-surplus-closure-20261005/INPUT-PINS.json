@@ -1,0 +1,25 @@
+{
+  "scope": "Read-only sealed inputs; only fixed native source/pair/calibration and same-endpoint interfaces imported, not a generic all-current theorem.",
+  "inputs": [
+    {
+      "path": "/workspace/shared/two-cycle-positive-return-20261005/MANIFEST.json",
+      "sha256": "c203e20d613341d033a06f7a2560a794b500d254c69ae973cf7e8e2b3076d411"
+    },
+    {
+      "path": "/workspace/shared/two-cycle-positive-return-20261005/TWO-CYCLE-OPENING-AND-RETURN.md",
+      "sha256": "802667e8e7f07cb2df65c66463045ec7758110a169bddb48d3e82bd1a04835ee"
+    },
+    {
+      "path": "/workspace/shared/rank-indexed-positive-returns-20261005/MANIFEST.json",
+      "sha256": "480d68223db2357c439d26657528ac7c152038b910e573854a580b5e0316a2e5"
+    },
+    {
+      "path": "/workspace/shared/rank-indexed-positive-returns-20261005/ALL-RANK-APPELL-AND-POSITIVE-CONSUMER.md",
+      "sha256": "79ea44960cb3d439496bd90520c3442e6f2519a85201e263c9f27940b8ee4e52"
+    },
+    {
+      "path": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "scope": "Finite exact scalar symbols, labeled graph degree/mark checks and rational path/queue ledgers. No native pair sampler is executed.",
+  "assertions": 2598267,
+  "input_grade": "20/3",
+  "first_feedback_grade": "32/3",
+  "second_cumulant": [
+    {
+      "centers": 4,
+      "physical_rank": 4,
+      "alpha_power": "12",
+      "z_power": 4,
+      "coefficient": "3/2"
+    },
+    {
+      "centers": 6,
+      "physical_rank": 6,
+      "alpha_power": "14",
+      "z_power": 6,
+      "coefficient": "9/2"
+    },
+    {
+      "centers": 8,
+      "physical_rank": 8,
+      "alpha_power": "16",
+      "z_power": 8,
+      "coefficient": "121"
+    }
+  ],
+  "queue_reports": [
+    {
+      "target": 8,
+      "states": 1,
+      "transitions": 0,
+      "max_depth": 0
+    },
+    {
+      "target": 12,
+      "states": 3,
+      "transitions": 2,
+      "max_depth": 1
+    },
+    {
+      "target": 16,
+      "states": 6,
+      "transitions": 5,
+      "max_depth": 1
+    },
+    {
+      "target": 24,
+      "states": 21,
+      "transitions": 52,
+      "max_depth": 2
+    },
+    {
+      "target": 32,
+      "states": 42,
+      "transitions": 160,
+      "max_depth": 2
+    },
+    {
+      "target": 48,
+      "states": 113,
+      "transitions": 731,
+      "max_depth": 3
+    },
+    {
+      "target": 64,
+      "states": 201,
+      "transitions": 2039,
+      "max_depth": 3
+    },
+    {
+      "target": 96,
+      "states": 490,
+      "transitions": 8402,
+      "max_depth": 4
+    }
+  ],
+  "boundary": "Candidate conditional/auxiliary permanent-leaf C3 closure. Whole-old-bank derivative/tilt native admission and terminal joined curl are not proved here."
+}

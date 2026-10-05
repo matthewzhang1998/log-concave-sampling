@@ -1,0 +1,56 @@
+{
+  "s0": 0.2,
+  "one_minus_c0": 0.020204102886728803,
+  "rows": [
+    {
+      "r": 0.1,
+      "ordinary_per_sqrtD": 0.00020206103078523885,
+      "ordinary_over_r2": 0.02020610307852388,
+      "fiber_per_sqrtD": 0.002030287106932364,
+      "fiber_over_r": 0.020302871069323637
+    },
+    {
+      "r": 0.03,
+      "ordinary_per_sqrtD": 1.818385458407512e-05,
+      "ordinary_over_r2": 0.02020428287119458,
+      "fiber_per_sqrtD": 0.0006063903049553996,
+      "fiber_over_r": 0.020213010165179988
+    },
+    {
+      "r": 0.01,
+      "ordinary_per_sqrtD": 2.0204122885836284e-06,
+      "ordinary_over_r2": 0.020204122885836284,
+      "fiber_per_sqrtD": 0.00020205092762408286,
+      "fiber_over_r": 0.020205092762408287
+    },
+    {
+      "r": 0.003,
+      "ordinary_per_sqrtD": 1.818369421702215e-07,
+      "ordinary_over_r2": 0.020204104685580166,
+      "fiber_per_sqrtD": 6.061257593209143e-05,
+      "fiber_over_r": 0.020204191977363808
+    }
+  ],
+  "root_grade": 8.5,
+  "nonroot_grade": 0.0625,
+  "child_native_orders": [
+    {
+      "b": 24,
+      "root_times_child_grade": 10.0
+    },
+    {
+      "b": 32,
+      "root_times_child_grade": 10.5
+    },
+    {
+      "b": 40,
+      "root_times_child_grade": 11.0
+    },
+    {
+      "b": 1000,
+      "root_times_child_grade": 71.0
+    }
+  ],
+  "group_quadratic_grade": 17,
+  "status": "Scalar algebra checks only; theorem requires independent proof audit."
+}

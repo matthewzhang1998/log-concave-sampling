@@ -1,0 +1,30 @@
+{
+  "title": "Positive skew shrinking-buffer canonical-m3 join",
+  "date": "2026-10-05",
+  "status": "independent guarded PASS",
+  "result": "Lambda A^(7/2) sqrt(D) plus absolute floors; canonical-m3 mean and optional own-mean Gaussian LAW",
+  "author_assertions": 8699,
+  "independent_assertions": 6418,
+  "files": {
+    "POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md": "3c93c8964ccdb1f1028746aae661b768eacb8870ec616ce95d613110ebcaa708",
+    "README.md": "626cdfca9800968235f143f0cea729bcfdf821512a6b0dd1532738186453c597",
+    "check_skew_join.py": "965cd15a2fb537cc74a9b0313560dc815ffac9b071a8fe738d5fcfd6180805d6",
+    "independent-audit/INDEPENDENT-BUFFERED-SKEW-JOIN-AUDIT.md": "36eefc8e585a364a3c5eca5f3cf7ea8fbf1b11e109fe1d4238f819d89785d8a6",
+    "independent-audit/buffered_skew_join_checks.json": "297952858b23149705b564b96576946f8ee522c2acc3c9f9bd57cc7bc3f464c2",
+    "independent-audit/check-run.txt": "297952858b23149705b564b96576946f8ee522c2acc3c9f9bd57cc7bc3f464c2",
+    "independent-audit/check_buffered_skew_join.py": "373aec9265c0f86c1541478c5f97c7deeef87192e321c7054a393a2182c7f831",
+    "skew_join_checks.json": "681d5d0b2a20d78d676771aac43b6e71eec8c393091bf77a442adeaafbcf1b6e"
+  },
+  "imported_sources": {
+    "/workspace/shared/law-only-variance-join-20261005/MANIFEST.json": "673bdfcc6dc54c00ea380c942039add5ecda9f32686e6af0398243923dc6f3a7",
+    "/workspace/shared/law-only-variance-join-20261005/LAW-ONLY-SHRINKING-BUFFER-JOIN.md": "40891db38221e3b02f2e657a4ef93c3e4fd06c69b29cc03e7db9c5761fe2fc0a",
+    "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/CONDITIONAL-COVARIANCE-MATCHED-QUARTIC-LEMMA.md": "76a058908c1fed5f0629de757436e2f3ba5dd80d6321b0157049d174a1ee12ba",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-RANK3-PACKET-FEEDBACK-LEMMA.md": "c689f0a947bcf6358f38bc6470ede05f564dcec11ff5e4171df8250e4af78193",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-QUADRATIC-REFERENCE-FOR-SKEW-GAUSSIANIZATION.md": "a797723ef51ae41a28bdd47c99bb7d5fccee49de6599d07ec8b085578c907c41",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/THIRD-CUMULANT-POSITIVE-CLOCK-COMPRESSION.md": "c3ed7cdf2145707391c0e16bfe675f9f154beedf795ef1ab7b49dc1116737e53",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/independent-audit/INDEPENDENT-NATIVE-RANK3-PACKET-AUDIT.md": "e6fc3a2290c2a1c8ed494cb6cec86a781827687c2bdfa706d8f5cb66896936e1",
+    "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+  },
+  "boundary": "No numerical full native execution, zero-buffer sampler, RAW covariance promotion, generic gradient reentry, or all-order recurrence."
+}

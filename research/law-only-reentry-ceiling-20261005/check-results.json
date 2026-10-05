@@ -1,0 +1,18 @@
+{
+  "checks": 4721,
+  "status": "PASS",
+  "old_ledger": {
+    "alpha": "4/5",
+    "grade": "16/5"
+  },
+  "prefix_only_prospective": {
+    "alpha": "2/3",
+    "grade": "10/3"
+  },
+  "rank3_only_prospective": {
+    "alpha": "1",
+    "grade": "7/2"
+  },
+  "raw_covariance_gap_lower_coefficient": "13/144 before O(Lambda A^3) remainder",
+  "scope": "Exact rational scalar ledger, linear OU covariance, and carrier-coupling checks. No numerical execution of a native source/compiler; prospective ports are not constructed."
+}

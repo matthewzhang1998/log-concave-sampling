@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-05",
+  "required_multicopy_manifest": "09ef144321423e22831c3cc720c3b8e3c48cc2bd090c891bc675d10ca7841574",
+  "inputs": [
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/MANIFEST.json",
+      "sha256": "09ef144321423e22831c3cc720c3b8e3c48cc2bd090c891bc675d10ca7841574"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/THREE-CUBIC-EXACT-HEAT.md",
+      "sha256": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/MIXED-THREE-THREE-SIX.md",
+      "sha256": "495a6b333f71e5e22fac8c2d2d4fdc4bf3a53771ec414eefed525ae2c1f90b0a"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/INTEGRATED-MAJORANT-CUBATURE.md",
+      "sha256": "3bdb992544dbba0af0581d0ae4cfc023e2528277fe144fb1b617fd43a8de5e56"
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/MANIFEST.json",
+      "sha256": "a1114c54b834d67bce7487d14c649d0ef1cee0754fefa9d303967e470a7abe6b"
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/COMMON-CARRIER-AMALGAMATION.md",
+      "sha256": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8"
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/independent-audit/FIXED-NATIVE-COST-SUPPLEMENT.md",
+      "sha256": "951d0bf497651367fa49b93c9322de2d5477c3f4c6f19136c0261882f12b206f"
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md",
+      "sha256": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+      "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058"
+    }
+  ]
+}

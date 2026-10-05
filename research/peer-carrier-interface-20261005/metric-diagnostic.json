@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "scope": "Closed-form counterexample diagnostics only; no native sampler or original VALUE oracle executed.",
+  "rows": [
+    {
+      "n": 10,
+      "ordinary_joint_upper_bound": 0.44535253337021513,
+      "sum_output_W2_lower_bound": 0.41070788129473046
+    },
+    {
+      "n": 100,
+      "ordinary_joint_upper_bound": 0.14136243803746784,
+      "sum_output_W2_lower_bound": 0.41421356237309515
+    },
+    {
+      "n": 1000,
+      "ordinary_joint_upper_bound": 0.04471949618330678,
+      "sum_output_W2_lower_bound": 0.41421356237309515
+    },
+    {
+      "n": 10000,
+      "ordinary_joint_upper_bound": 0.014142076698239508,
+      "sum_output_W2_lower_bound": 0.41421356237309515
+    }
+  ]
+}

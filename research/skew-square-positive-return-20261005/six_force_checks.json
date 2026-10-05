@@ -1,0 +1,913 @@
+{
+  "status": "PASS",
+  "graph_count": 27,
+  "spine_counts": {
+    "M": {
+      "6": 4,
+      "5": 4,
+      "4": 1
+    },
+    "N": {
+      "6": 4,
+      "5": 12,
+      "4": 2
+    }
+  },
+  "graphs": [
+    {
+      "kind": "M",
+      "cross": [
+        [
+          0,
+          3
+        ]
+      ],
+      "marks": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "cut": null,
+      "spine": [
+        2,
+        1,
+        0,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 6,
+      "side_forces": [],
+      "first_conditional_force": 12,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "M",
+      "cross": [
+        [
+          0,
+          4
+        ]
+      ],
+      "marks": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "cut": null,
+      "spine": [
+        2,
+        1,
+        0,
+        4,
+        5
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        3
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "M",
+      "cross": [
+        [
+          0,
+          5
+        ]
+      ],
+      "marks": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "cut": null,
+      "spine": [
+        2,
+        1,
+        0,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 6,
+      "side_forces": [],
+      "first_conditional_force": 12,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "M",
+      "cross": [
+        [
+          1,
+          3
+        ]
+      ],
+      "marks": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "cut": null,
+      "spine": [
+        2,
+        1,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        0
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "M",
+      "cross": [
+        [
+          1,
+          4
+        ]
+      ],
+      "marks": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "cut": null,
+      "spine": [
+        2,
+        1,
+        4,
+        5
+      ],
+      "spine_forces": 4,
+      "side_forces": [
+        0,
+        3
+      ],
+      "first_conditional_force": 8,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "M",
+      "cross": [
+        [
+          1,
+          5
+        ]
+      ],
+      "marks": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "cut": null,
+      "spine": [
+        2,
+        1,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        0
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "M",
+      "cross": [
+        [
+          2,
+          3
+        ]
+      ],
+      "marks": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "cut": null,
+      "spine": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 6,
+      "side_forces": [],
+      "first_conditional_force": 12,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "M",
+      "cross": [
+        [
+          2,
+          4
+        ]
+      ],
+      "marks": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "cut": null,
+      "spine": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        3
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "M",
+      "cross": [
+        [
+          2,
+          5
+        ]
+      ],
+      "marks": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "cut": null,
+      "spine": [
+        0,
+        1,
+        2,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 6,
+      "side_forces": [],
+      "first_conditional_force": 12,
+      "auxiliary_covariance_force": null,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "marks": [
+        2,
+        5
+      ],
+      "cut": [
+        1,
+        4
+      ],
+      "spine": [
+        2,
+        1,
+        0,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 6,
+      "side_forces": [],
+      "first_conditional_force": 12,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "marks": [
+        2,
+        5
+      ],
+      "cut": [
+        0,
+        4
+      ],
+      "spine": [
+        2,
+        1,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        0
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "marks": [
+        2,
+        4
+      ],
+      "cut": [
+        1,
+        5
+      ],
+      "spine": [
+        2,
+        1,
+        0,
+        3,
+        4
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        5
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "marks": [
+        2,
+        4
+      ],
+      "cut": [
+        1,
+        3
+      ],
+      "spine": [
+        2,
+        1,
+        0,
+        5,
+        4
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        3
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "marks": [
+        2,
+        3
+      ],
+      "cut": [
+        0,
+        4
+      ],
+      "spine": [
+        2,
+        1,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        0
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "marks": [
+        2,
+        3
+      ],
+      "cut": [
+        1,
+        4
+      ],
+      "spine": [
+        2,
+        1,
+        0,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 6,
+      "side_forces": [],
+      "first_conditional_force": 12,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "marks": [
+        1,
+        5
+      ],
+      "cut": [
+        2,
+        4
+      ],
+      "spine": [
+        1,
+        0,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        2
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "marks": [
+        1,
+        5
+      ],
+      "cut": [
+        0,
+        4
+      ],
+      "spine": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        0
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "marks": [
+        1,
+        4
+      ],
+      "cut": [
+        0,
+        3
+      ],
+      "spine": [
+        1,
+        2,
+        5,
+        4
+      ],
+      "spine_forces": 4,
+      "side_forces": [
+        0,
+        3
+      ],
+      "first_conditional_force": 8,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "marks": [
+        1,
+        4
+      ],
+      "cut": [
+        0,
+        5
+      ],
+      "spine": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "spine_forces": 4,
+      "side_forces": [
+        0,
+        5
+      ],
+      "first_conditional_force": 8,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "marks": [
+        1,
+        3
+      ],
+      "cut": [
+        0,
+        4
+      ],
+      "spine": [
+        1,
+        2,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        0
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          0,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "marks": [
+        1,
+        3
+      ],
+      "cut": [
+        2,
+        4
+      ],
+      "spine": [
+        1,
+        0,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        2
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "marks": [
+        0,
+        5
+      ],
+      "cut": [
+        2,
+        4
+      ],
+      "spine": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        2
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "marks": [
+        0,
+        5
+      ],
+      "cut": [
+        1,
+        4
+      ],
+      "spine": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "spine_forces": 6,
+      "side_forces": [],
+      "first_conditional_force": 12,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "marks": [
+        0,
+        4
+      ],
+      "cut": [
+        1,
+        3
+      ],
+      "spine": [
+        0,
+        1,
+        2,
+        5,
+        4
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        3
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "marks": [
+        0,
+        4
+      ],
+      "cut": [
+        1,
+        5
+      ],
+      "spine": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        5
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ],
+      "marks": [
+        0,
+        3
+      ],
+      "cut": [
+        1,
+        4
+      ],
+      "spine": [
+        0,
+        1,
+        2,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 6,
+      "side_forces": [],
+      "first_conditional_force": 12,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    },
+    {
+      "kind": "N",
+      "cross": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "marks": [
+        0,
+        3
+      ],
+      "cut": [
+        2,
+        4
+      ],
+      "spine": [
+        0,
+        1,
+        5,
+        4,
+        3
+      ],
+      "spine_forces": 5,
+      "side_forces": [
+        2
+      ],
+      "first_conditional_force": 10,
+      "auxiliary_covariance_force": 12,
+      "coarse_covariance_force": 12
+    }
+  ],
+  "scalar_worst_spine_order_lambda_squared": "alpha^8/2 + alpha^12/2",
+  "scalar_corrected_map_variance": "25*k**4 + 1",
+  "scope": "Finite graph/jet diagnostics; native compilers are imported, not executed."
+}

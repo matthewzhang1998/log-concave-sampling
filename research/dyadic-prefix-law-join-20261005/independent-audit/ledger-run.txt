@@ -1,0 +1,120 @@
+{
+  "status": "PASS",
+  "outer_rows": {
+    "order_six_mean_prior": {
+      "A_grades": [
+        "9/2",
+        "4"
+      ],
+      "K_powers": [
+        "0",
+        "-3"
+      ]
+    },
+    "native_cubic_and_calibration": {
+      "A_grades": [
+        "4",
+        "5"
+      ],
+      "K_powers": [
+        "0",
+        "log(1/eta)"
+      ]
+    },
+    "native_curl": {
+      "A_grades": [
+        "9/2",
+        "5"
+      ],
+      "K_powers": [
+        "0",
+        "0"
+      ]
+    },
+    "native_centered_reserve": {
+      "A_grades": [
+        "17/4",
+        "5"
+      ],
+      "K_powers": [
+        "0",
+        "-1/2"
+      ]
+    },
+    "native_quadratic_reserve": {
+      "A_grades": [
+        "9/2",
+        "5"
+      ],
+      "K_powers": [
+        "0",
+        "-1"
+      ]
+    },
+    "mixed_K_native": {
+      "A_grades": [
+        "29/6",
+        "17/3"
+      ],
+      "K_powers": [
+        "0",
+        "-1/3"
+      ]
+    },
+    "quartic_consumer_packet": {
+      "A_grades": [
+        "4",
+        "4"
+      ],
+      "K_powers": [
+        "0",
+        "-2"
+      ]
+    },
+    "corrected_Gram_sixth_and_cubic_feedback": {
+      "A_grades": [
+        "9/2",
+        "4"
+      ],
+      "K_powers": [
+        "0",
+        "-3"
+      ]
+    },
+    "fourth_target": {
+      "A_grades": [
+        "9/2",
+        "5"
+      ],
+      "K_powers": [
+        "0",
+        "-1"
+      ]
+    },
+    "mixed_K_mixture": {
+      "A_grades": [
+        "11/2",
+        "6"
+      ],
+      "K_powers": [
+        "0",
+        "-1"
+      ]
+    }
+  },
+  "prefix_grades": {
+    "native_mean": "5",
+    "mean_quadrature_eps_A2": "5",
+    "covariance_calibration": "9/2",
+    "centered_action": "19/4",
+    "covariance_feedback": "5",
+    "covariance_clock_eps_A": "5",
+    "true_prefix_third": "9/2",
+    "covariance_caller_shift": "17/4",
+    "mean_caller_shift_and_nested_omission": "4",
+    "smoothing_commutator": "4",
+    "smoothing_drift": "5"
+  },
+  "minimum_native_halfstep_positive_exponent": "31/32",
+  "scope": "Exact scalar ledger only; not execution of native compilers."
+}

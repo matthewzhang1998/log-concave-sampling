@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checks": 47,
+  "failures": [],
+  "native_exponents": {
+    "r_at_u_v_A2": "5/9",
+    "error_at_u_v_A2": "55/9",
+    "retuned_source_first_A": "-8/9",
+    "current_first_A": "37/9"
+  }
+}

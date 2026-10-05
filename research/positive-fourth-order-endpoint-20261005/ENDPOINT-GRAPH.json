@@ -1,0 +1,108 @@
+{
+  "stage_h": "1/2",
+  "retained": [
+    "original exterior caller and versions",
+    "fresh standard Z"
+  ],
+  "banks": [
+    {
+      "id": "M",
+      "target": "N(m3(Z),I)",
+      "readout": "-1/2",
+      "baseline_after_readout": "1/4",
+      "input_type": "completed own-mean LAW",
+      "owned_roots": "complete new dyadic prefix mean/covariance banks, all five corrected tail banks and rotations, plus every final own-mean compiler reentry/root",
+      "source_packet": "/workspace/shared/dyadic-prefix-law-join-20261005/ACTUAL-DYADIC-PREFIX-LAW-JOIN.md",
+      "native_orders": {
+        "prefix_mean": 4,
+        "tail_mean_and_coefficient_means": 6,
+        "corrected_negative_fourth_paths": 6,
+        "cubic_mixed_true_quartic": 5,
+        "final_own_mean": 4
+      },
+      "local_parameters": {
+        "w": "alpha",
+        "h_inner": "alpha^2",
+        "eta": "alpha^2 K_log^2",
+        "K_log": "C L^b fixed pre-enumerated public-log power",
+        "prefix_square_padding": "alpha^(1/2)",
+        "final_padding": "alpha",
+        "tail_mean_padding": "FULL native radius"
+      }
+    },
+    {
+      "id": "H",
+      "target": "N(0,1/4 I+Cov(H_j|Z))",
+      "readout": "1/2",
+      "baseline_after_readout": "1/16",
+      "input_type": "true-orientation Gram LAW",
+      "owned_roots": "all coarse, p, filter, J_Q, response, means and keeps"
+    },
+    {
+      "id": "K",
+      "target": "N(0,1/4 I+2 Sym R2 K(Z))",
+      "readout": "1/2",
+      "baseline_after_readout": "1/16",
+      "input_type": "mixed covariance LAW",
+      "owned_roots": "all four-clock nodes, three chronological adapters, coarse/public/filter/fill roots"
+    },
+    {
+      "id": "V3",
+      "target": "negative cubic reference for -h^3 kappa3(H|Z)/6",
+      "readout": "1",
+      "baseline_after_readout": "1/8",
+      "input_type": "positive completed cubic VALUE packet",
+      "owned_roots": "all five-clock coarse roots and C0,C1,C0 banks, originals, shields, publics, complements and fills"
+    },
+    {
+      "id": "keep",
+      "target": "N(0,1/4 I)",
+      "readout": "1",
+      "baseline_after_readout": "1/4",
+      "input_type": "untouched standard Gaussian",
+      "owned_roots": "fresh D-root"
+    }
+  ],
+  "independence": "M,H,K,V3,keep banks mutually independent after same Z/exterior captures; repeated internal banks also independent unless their native graph specifies a shared root",
+  "covariance_restorations": [
+    "Cov(H_j|Z)+2 Sym R2 K to Cov(F2|Z): L2 standard-Z HS O(A^4 sqrt(D))",
+    "Cov(F2|Z) to Cov(F3|Z): L2 standard-Z HS O(A^4 sqrt(D))"
+  ],
+  "reference_regression": "consume all service tapes; use analytic reference Gaussian S covariance 1/2 I+h^2 Cov(F3|Z); keep external 1/4 unread; pay A^6 regression and output-slot symmetrization",
+  "errors": {
+    "M": "Lambda_M alpha^4 plus absolute floors; leading logs retained",
+    "covariance": "Lambda A^4",
+    "third_target": "C A^4",
+    "cubic_prior": "Lambda A^5",
+    "cubic_feedback": "Lambda A^6",
+    "positive_skew_consumer": "Lambda A^4",
+    "P3_to_true_target": "C A^4"
+  },
+  "outer_schedule": {
+    "rho": "3/4",
+    "r_j_squared": "1-rho^j",
+    "Delta": "(1-r_previous^2)/4",
+    "stop": "rho^J<=A^(4/5), first such J",
+    "terminal": "original positive conditional Stein with physical error A^2 s_J^5",
+    "exact_contraction": "r/t",
+    "local_grade": "Lambda_j (Delta/t) A^4 s^7",
+    "buffered_alpha_range": "A^(9/5)<alpha_j<=A",
+    "weighted_sum": "A^4/[4(1-rho^(9/2))], before harmless local factor 2"
+  },
+  "forbidden": [
+    "terminal LAW as RAW",
+    "posterior force mean substituted for canonical m3",
+    "reference coupling root treated as actual private root",
+    "integrated old private root retained as observer",
+    "original HVP or cumulant tensor as producer"
+  ],
+  "root_dimension": "2D+d_M_completed+d_H+d_K+d_3 per buffered stage, plus the full terminal 2D tape; do not use uncompleted d_source for d_M",
+  "cost": "sum complete native original-VALUE serial counts over J, plus finite modes/anchors/restoration; no unit-cost analytical services",
+  "guards": "all actual literal imported fixed-order source radii, complete dimensions, public factors, source versions, covariance gaps, root and clipping amplitudes, precision and caller paths at every alpha_j",
+  "result": {
+    "normalized": "Lambda_ep A^4 sqrt(D)+absolute floors",
+    "physical": "Lambda_ep A^(9/2) sqrt(D)+restored physical floors under inherited sqrt(A) readout",
+    "leading_logs_retained": true,
+    "native_compilers_executed": false
+  }
+}

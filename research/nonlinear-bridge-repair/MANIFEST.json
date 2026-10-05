@@ -1,0 +1,68 @@
+{
+  "packet": "Nonlinear ancestry bridge repair",
+  "date_utc": "2026-10-05",
+  "status": "PASS: source theorem plus independent bridge/port audits, conditional on native compiler guards",
+  "source_theorem_sha256": "772a0b758f7a4294ec9127629bec5bdd78b1f2ba167f32912ed5e7495e3ba06b",
+  "source_manifest_sha256": "50af4b0dc59da95e5c656ffc5415515b61ff8882652f3de6538e3af46c8fbcb0",
+  "results": [
+    "Quantitative O(A^3 sqrt(D)) canonical-m3 bias for bounded-block sources with Lip(Dg_block)<=B A",
+    "Fixed-(D,h) general-C2 qualitative o(A^2) bias",
+    "Exact anisotropic quadratic means",
+    "Positive O(log^2(1/delta)) conditional-ancestry quadrature",
+    "4D private Gaussian roots, (5+3J)N_out original VALUES per residual occurrence",
+    "Normalized private first <=4A, curl <=12A^2; actual normalized caller guards retained"
+  ],
+  "exclusions": [
+    "No uniform unrestricted high-dimensional C2 grade",
+    "No order-four nonlinear target closure",
+    "No native compiler implementation or recertification",
+    "New stencil does not automatically inherit old five-residual certificate"
+  ],
+  "tests": {
+    "author_assertions": 4787,
+    "independent_derivative_points": 100,
+    "complex_disk_certificate": "exact rational PASS"
+  },
+  "files": [
+    {
+      "path": "INDEPENDENT-REPAIRED-SOURCE-AUDIT.md",
+      "bytes": 9108,
+      "sha256": "29f1df88fd2181d2221c344e6e4d9aefdf1332b9a9017aaf06165e5d55bd2028"
+    },
+    {
+      "path": "NONLINEAR-ANCESTRY-BRIDGE-REPAIR.md",
+      "bytes": 19771,
+      "sha256": "301ace0ae1a52f1cc62193c716702e0d908affab149ffd147082b23ad4d5637e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2949,
+      "sha256": "b5f3a5c6aa2109af878934011007c21e6a411717af11e516f6773f86917abbd5"
+    },
+    {
+      "path": "bridge-quadrature-proof.md",
+      "bytes": 8821,
+      "sha256": "a3a85b229f4cefc8eecb099243eb6f3c46cc70f38a7e0894fac4f2167a03b502"
+    },
+    {
+      "path": "check_bridge_source.json",
+      "bytes": 586,
+      "sha256": "4aed92be1a79e26b764718354e806a4169c85137402ccfd5db501402e071ef00"
+    },
+    {
+      "path": "check_bridge_source.py",
+      "bytes": 5229,
+      "sha256": "03c445967abd3f10155186797daf6d57029f403f2c6cd723f4687d8e5b7536b9"
+    },
+    {
+      "path": "independent_repaired_source_checks.py",
+      "bytes": 2367,
+      "sha256": "cb35be7268654662bd5d94e6f1e75e97b580c1880ae3dd731cf92b730b1fa067"
+    },
+    {
+      "path": "verify_complex_disk.py",
+      "bytes": 1167,
+      "sha256": "45723b1feb9a1bbf11c2c1fe44e922011ebe89207c412f7b757d63bddd9c75a0"
+    }
+  ]
+}

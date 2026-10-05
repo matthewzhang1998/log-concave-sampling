@@ -1,0 +1,177 @@
+{
+  "adapters": [
+    {
+      "script": "research/dyadic-prefix-law-join-20261005/independent-audit/check_log_cutoff_ledger.py",
+      "original_sha256": "11249c895b392d2d21492b6c3016714e6a47f592cd7000e83b28e2c315d66c66",
+      "in_memory_adapted_sha256": "0cf86453ce97d31d52deeb1366dba4c4d24ae6c37f147f5d8075d487fd3a354e",
+      "replacements": [
+        [
+          "hashlib.sha256(Path(p).read_bytes()).hexdigest()",
+          "publication_hash(p)"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/induction-shared-variables-20261005/independent-audit/check_decorated_independently.py",
+      "original_sha256": "fce73f8016af43018594e1f2c859a5bf0027fe3d77df80c85ba3f29a9b63e023",
+      "in_memory_adapted_sha256": "a0d964d87e6f46316918fba9f8f5906dec291fceecf5980a2120cbd266c098dc",
+      "replacements": [
+        [
+          "hashlib.sha256(path.read_bytes()).hexdigest()",
+          "publication_hash(path)"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/law-only-variance-join-20261005/independent-audit/check_law_only_join.py",
+      "original_sha256": "65142d64078f37d3ad74051dfa39224dbdad0b3f073ce31a5abae1c6f47fe5b1",
+      "in_memory_adapted_sha256": "e660e2b569859865bb321bd490f8597e2887ac7d312bf5741593d8f34c35dac4",
+      "replacements": [
+        [
+          "check(hashlib.sha256(LOW.read_bytes()).hexdigest()==PIN,'pinned LOW30 original')",
+          "external_status=publication_pin(LOW,PIN)\nif external_status is not None:check(external_status,'pinned LOW30 original')"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/marked-shifted-local-current-20261005/check_shifted_atom.py",
+      "original_sha256": "e002a80c63215a3b1bb0031055d1bdb1d55b00c853805723481f3d346fd7c144",
+      "in_memory_adapted_sha256": "13e87ba0ca1e2b68d8a8bb7c4ad2b2e7087d47f6ce29c320c6897ae134fa75b9",
+      "replacements": [
+        [
+          "for path,digest in pins.items():ok('sealed_input_pin',hashlib.sha256(Path(path).read_bytes()).hexdigest()==digest)",
+          "for path,digest in pins.items():\n status=publication_pin(path,digest)\n if status is not None:ok('sealed_input_pin',status)"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/retuned-gram-native-20261005/independent-audit/check_retuned_gram.py",
+      "original_sha256": "3e94964fa6f9ff792e051a5f2869664e833c3e11ddecd95a6bc6800e4a14b79b",
+      "in_memory_adapted_sha256": "644595960271bcf1e73bece2b11bae18dc0aa8f4f2c3dae80af1f45c1536da72",
+      "replacements": [
+        [
+          "hashlib.sha256(p.read_bytes()).hexdigest()",
+          "publication_hash(p)"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/two-cycle-positive-return-20261005/independent-audit/check_two_cycle_audit.py",
+      "original_sha256": "6f708b23929ac10142ea1c707e9205b468be293b1c2d73352003d88629697603",
+      "in_memory_adapted_sha256": "d5b11ecda596fe50c33741e89390a254bbcc6b6c085589c26b3344de3fc5e165",
+      "replacements": [
+        [
+          "hashlib.sha256(p.read_bytes()).hexdigest()",
+          "publication_hash(p)"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/combined-bridge-skew-20261005/independent-audit/check_combined_join.py",
+      "original_sha256": "33a1ca2899a9798d8f673c90ae46d12a37a3dab83b552320a136c23e0a90037d",
+      "in_memory_adapted_sha256": "a8ad0dffbd5aab2bc91a623b344094ceab5c6fa56746f8eefedac6183d6c0175",
+      "replacements": [
+        [
+          "        check(digest(member) == expected_hash, f\"pinned imported source {member}\")\n        verified_imports += 1",
+          "        status=publication_pin(member,expected_hash)\n        if status is not None:\n            check(status, f\"pinned imported source {member}\")\n            verified_imports += 1"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/positive-endpoint-mean-join-20261005/independent-audit/check_endpoint_independent.py",
+      "original_sha256": "075afb6f359c8d63d94ea652a4b1fb522afdd0e894e889b54b7c09226a9af1eb",
+      "in_memory_adapted_sha256": "e56a251e34209ec68493b9adc58951b48760ef32e53873bfa709b7b7369ad821",
+      "replacements": [
+        [
+          "    check(f'imported hash {ledger.parent.name} {n}: {Path(pin['path']).name}',hashlib.sha256(Path(pin['path']).read_bytes()).hexdigest()==pin['sha256'])",
+          "    status=publication_pin(pin['path'],pin['sha256'])\n    if status is not None:check(f'imported hash {ledger.parent.name} {n}: {Path(pin[\"path\"]).name}',status)"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/positive-fourth-order-endpoint-20261005/check_endpoint.py",
+      "original_sha256": "cde5eead8de221ffebec66b045248e921d5f38ba8e96d36a94c30302662a2ff1",
+      "in_memory_adapted_sha256": "a41c1c5007c752624fd2f5eb550f4f0c1a91d14857b3c7d1a266ea541d050c93",
+      "replacements": [
+        [
+          " ck(hashlib.sha256(Path(pin['path']).read_bytes()).hexdigest()==pin['sha256'],'input_pin')",
+          " status=publication_pin(pin['path'],pin['sha256'])\n if status is not None:ck(status,'input_pin')"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/positive-fourth-order-endpoint-20261005/independent-audit/check_fourth_endpoint_independent.py",
+      "original_sha256": "e90b384f9063f3e5826aeeb5aa3dfb3e47fdcc43e68fdfb9ba98a340b3bbebc2",
+      "in_memory_adapted_sha256": "a6f414e8367583ecc71becabdca539b51858703961ba88bf4e8498f035414ded",
+      "replacements": [
+        [
+          "    check(f'new input pin {i}: '+Path(pin['path']).name,sha(Path(pin['path']))==pin['sha256'])",
+          "    status=publication_pin(pin['path'],pin['sha256'])\n    if status is not None:check(f'new input pin {i}: '+Path(pin['path']).name,status)"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/public-readout-cycle-contract-20261005/independent-audit/check_grouped_contract_independently.py",
+      "original_sha256": "fecc96b9975ef8c7ea77233e3f06699e4f8f8d56b2bed5a99b6cd595d4d1fb18",
+      "in_memory_adapted_sha256": "4a90eeed8da96fa88d8ebd0ac5691319dd53f24d4498b496e3ee841d5238b358",
+      "replacements": [
+        [
+          "        check(sha(f) == entry['sha256'], f'direct prerequisite pin: {f}')\n        pins.append({'path': str(f), 'sha256': sha(f)})",
+          "        status=publication_pin(f,entry['sha256'])\n        if status is not None:check(status,f'direct prerequisite pin: {f}')\n        pins.append({'path':str(f),'sha256':publication_hash(f)})"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/quartic-corrected-mean-join-20261005/check_join.py",
+      "original_sha256": "1504e23cfaddef1a75a506ec94f5e087b40221ed9da70052b3f6ab0377bdc9cd",
+      "in_memory_adapted_sha256": "040fe50529e340fdf6f8cc62dca9ddb1f96df4d67f9690e74c2558c1af1aac0f",
+      "replacements": [
+        [
+          " check(p.is_file(),f'input exists {p}')\n check(hashlib.sha256(p.read_bytes()).hexdigest()==item['sha256'],f'pin {p}')",
+          " status=publication_pin(p,item['sha256'])\n if status is not None:\n  check(p.is_file(),f'input exists {p}')\n  check(status,f'pin {p}')"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/fourth-cumulant-return-20261005/independent-audit/verify_pins.py",
+      "original_sha256": "f861b4bbed7e857b46a37032268cc1250ee6b51a11c884c227314710d6bf3878",
+      "in_memory_adapted_sha256": "9f25242d2532eec1eded22fd4db49af7a51fd087a4a4d2462a9806c05ae37ee9",
+      "replacements": [
+        [
+          "    got=hashlib.sha256(path.read_bytes()).hexdigest()\n    if got!=item['sha256']:raise SystemExit(f\"HASH MISMATCH: {path}: {got}\")\n    count+=1",
+          "    status=publication_pin(path,item['sha256'])\n    if status is not None:count+=1"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    },
+    {
+      "script": "research/skew-square-positive-return-20261005/independent-audit/verify_pins.py",
+      "original_sha256": "cb8afe18b55a468281161ef4a7620b4f8ed67030c2d07c67cda053fa76353f9d",
+      "in_memory_adapted_sha256": "c237cc9826bbab2718db8f7c8c3c4508706e35f433446bef5185b54029016a95",
+      "replacements": [
+        [
+          "for entry in manifest['inputs']+manifest['outputs']:\n    actual=hashlib.sha256(Path(entry['path']).read_bytes()).hexdigest()\n    if actual!=entry['sha256']:raise SystemExit('HASH MISMATCH: '+entry['path'])",
+          "verified=0\nfor entry in manifest['inputs']+manifest['outputs']:\n    status=publication_pin(entry['path'],entry['sha256'])\n    if status is not None:verified+=1"
+        ],
+        [
+          "'files_checked':len(manifest['inputs'])+len(manifest['outputs'])",
+          "'files_checked':verified"
+        ]
+      ],
+      "scope": "Only external LOW30 provenance reads/checks may be omitted when bytes are not supplied. All mathematical assertions and all available source-pin comparisons remain active; originals are unmodified."
+    }
+  ],
+  "path_mapping": "run_frozen_diagnostic.py maps historical research locators only; hash and assertion functions are not patched."
+}

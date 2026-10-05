@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "assertions": 6418,
+  "categories": {
+    "cross_covariance_hilbert_bound": 400,
+    "cross_covariance_psd_order": 400,
+    "cumulant_telescoping": 240,
+    "cumulant_one_energy_covariance_bound": 240,
+    "quadratic_covariance_operator_bound": 240,
+    "anisotropic_regression_block": 720,
+    "anisotropic_regression_sum": 240,
+    "unchanged_cubic_target": 720,
+    "node_variance_share": 720,
+    "physical_residual_first": 720,
+    "native_feedback_scaling": 720,
+    "order5_prior_scaling": 720,
+    "half_buffer_allocation": 80,
+    "minimum_grade_7_over_2": 1,
+    "cubic_feedback_grade_9_over_2": 1,
+    "quadratic_reference_covariance_sensitivity": 240,
+    "zero_full_symmetry": 4,
+    "orientation_leading_current_vanishes": 4,
+    "exact_orientation_positive_path_identity": 4,
+    "orientation_feedback_is_nonzero": 4
+  },
+  "w_equals_A_exponents": {
+    "prefix_1": "7/2",
+    "prefix_2": "4",
+    "near": "7/2",
+    "mean": "4",
+    "skew_mean_gram": "7/2",
+    "tensor_mismatch": "4",
+    "mixed_K_prior": "29/6",
+    "cubic_order5_prior": "4",
+    "cubic_feedback": "9/2",
+    "mixed_K_mixture": "11/2"
+  },
+  "source_sha256": {
+    "/workspace/shared/shrinking-buffer-skew-join-20261005/POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md": "3c93c8964ccdb1f1028746aae661b768eacb8870ec616ce95d613110ebcaa708",
+    "/workspace/shared/shrinking-buffer-skew-join-20261005/independent-audit/INDEPENDENT-BUFFERED-SKEW-JOIN-AUDIT.md": "36eefc8e585a364a3c5eca5f3cf7ea8fbf1b11e109fe1d4238f819d89785d8a6",
+    "/workspace/shared/law-only-variance-join-20261005/LAW-ONLY-SHRINKING-BUFFER-JOIN.md": "40891db38221e3b02f2e657a4ef93c3e4fd06c69b29cc03e7db9c5761fe2fc0a"
+  },
+  "scope": "Exact algebraic and polynomial diagnostics; imported finite native compiler guards remain hypotheses, not executed runtime checks."
+}

@@ -1,0 +1,45 @@
+{
+  "scope": "Read-only sealed lineage; no native compiler executed and no source modified.",
+  "inputs": [
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/MANIFEST.json",
+      "sha256": "dde7c7e3220b18f65d13039587af6cd9690db0264f10f87c00fcbcb6870ccad9"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md",
+      "sha256": "de4a0e0f35b6b453414ab4b3b4569e56bf3243b4353666b6f94d00a3c8ae6c5c"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/JOIN-GRAPH.json",
+      "sha256": "f328849d144f89a720290d42207697810bce2e7b7993a104c1833cbe53e6fc82"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md",
+      "sha256": "53748adb366902bc875e5d74871bcd1a9cda74ec22524bba699f38fc4c918f49"
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/REUSABLE-PORT-AND-DEPTH-RECURRENCE.md",
+      "sha256": "1de572cbddecd40ed5c990df98638a5551d714f74cbc0d50dfd5200c19a3d58e"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md",
+      "sha256": "976b704bb90ffd9552f82f13ec34a5851a94027f5867522b044d53803d743429"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md",
+      "sha256": "1b4a2d8e38b4acd8c607f25eb263b0d61a5b03cc1de4ec65363f1eed0a8432b0"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md",
+      "sha256": "48c23f0c8966a28eae3b6849a0c63348e62f971340d2f5016902580aeb46fee4"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md",
+      "sha256": "cf76b2e851b8c0857fcecebbba226eefecfdba835b26ab57216d8265bb864e9f"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/POSITIVE-CORRECTED-GRAM-MIXTURE.md",
+      "sha256": "cf94de42b101c417e4902eaf90284c06d418f23adadfef3990101b0cb11ed731"
+    }
+  ]
+}

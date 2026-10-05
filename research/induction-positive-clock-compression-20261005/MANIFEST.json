@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-05",
+  "title": "Positive sector-Gauss compression for triple-cubic and 3/3/6 families",
+  "status": "independent-audit-pass-with-explicit-cutoff-native-and-replay-limits",
+  "result": "Positive node count Q_tree <=2 m^2[ceil(32 P/eta)+J]^2 with m,J logarithmic in B_star/epsilon; complete scalar main/caller/root-square ledgers preserved.",
+  "new_bridge_node_exponent": "2 q_eta for eta>=c alpha^q_eta with fixed q_eta; independent of requested epsilon=alpha^p accuracy grade",
+  "not_claimed": [
+    "polylogarithmic inverse-cutoff work",
+    "actual carrier-compatible native replacement from marginal LAW",
+    "complete query exponent without native/readout/old/replay ledger",
+    "global any-order induction closure or c(P)=o(P) when q_eta grows with P"
+  ],
+  "author_checks": 360,
+  "independent_audit": "independent-audit/INDEPENDENT-POSITIVE-GAUSS-AUDIT.md",
+  "input_manifest_required": "09ef144321423e22831c3cc720c3b8e3c48cc2bd090c891bc675d10ca7841574",
+  "files": [
+    {
+      "path": "FINAL-STATUS.md",
+      "sha256": "4eccfd51dcfc9ad342110d50bbc1665100f17b9aed7eb3289811e3361414ce9b"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "5ca668a62cd4bd25a4286ee5f350453ea5df9e48fe574249e54d37f1b30543da"
+    },
+    {
+      "path": "POSITIVE-SECTOR-GAUSS.md",
+      "sha256": "a4fba9037d305540242dda09adc9dbe70823755652e4a94e585d392a0dfd7dbf"
+    },
+    {
+      "path": "README.md",
+      "sha256": "67e99c594c1786c8441e74a63ea7de229f4a5509e968a7ec3660065a8e99716c"
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "58a47ce34c323b7c54399393a75d8c661f584a635bd98326244c450da9140225"
+    },
+    {
+      "path": "checks.json",
+      "sha256": "81a920a7e79094999d4422581c5b528ca3c30b50051fb90a4a28ffe795ae06e6"
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-POSITIVE-GAUSS-AUDIT.md",
+      "sha256": "3d1fc0f872bf1c246948c0776a941c172e00c36d0b8d9c0be2cae03879504a8f"
+    },
+    {
+      "path": "independent-audit/REVIEW-PIN.json",
+      "sha256": "10c2d9912c756ac1b0e749afcb2f773119dacca5f0e1ebdc984d57089c77a9bb"
+    },
+    {
+      "path": "independent-audit/audit-check-run.txt",
+      "sha256": "888ede79a9f8ea17573cbe68c92917890c68f5e5bb5b89518952467d8b2b25d4"
+    },
+    {
+      "path": "independent-audit/author-builder-independent-checks.json",
+      "sha256": "ddd91a82581a12c945ead837a0602565caaa4ce0b485652a3f2dcc231813bf7c"
+    },
+    {
+      "path": "independent-audit/check_positive_gauss_audit.py",
+      "sha256": "5bc4927a90b082964c29a67f69b6e2ec0f5eb87fe97694f1a3da0902cf21f738"
+    },
+    {
+      "path": "independent-audit/positive-gauss-audit-checks.json",
+      "sha256": "888ede79a9f8ea17573cbe68c92917890c68f5e5bb5b89518952467d8b2b25d4"
+    },
+    {
+      "path": "positive_sector_gauss.py",
+      "sha256": "5646f982f27791a0026aece20f7299f42eb2b4e0fb106bfb0f4ee1b3c26b920c"
+    }
+  ]
+}

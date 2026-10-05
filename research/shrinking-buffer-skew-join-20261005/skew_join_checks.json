@@ -1,0 +1,40 @@
+{
+  "assertions": 8699,
+  "families": {
+    "bulk_geometry": 1368,
+    "variance_shares": 1368,
+    "known_carrier_row": 1368,
+    "one_energy_covariance_inequality": 160,
+    "third_tensor_stability_fixture": 40,
+    "quadratic_covariance_bound": 120,
+    "third_tensor_A4_scaling": 40,
+    "cubic_exact_rescaling": 816,
+    "actual_first_rescaling": 816,
+    "feedback_v_power": 816,
+    "prior_v_power": 816,
+    "anisotropic_reference_regression": 600,
+    "zero_full_symmetry": 60,
+    "leading_rank3_cancellation": 60,
+    "positive_symmetry_feedback_quadratic": 180,
+    "positive_symmetry_feedback_order": 60,
+    "grade_ledger": 10,
+    "prefix_skew_balance": 1
+  },
+  "grade_exponents": {
+    "prefix": "7/2",
+    "prefix_commutation": "4",
+    "endpoint": "7/2",
+    "mean_intrinsic": "4",
+    "skew_and_mean_gram": "7/2",
+    "kappa_mismatch": "4",
+    "mixed_K": "29/6",
+    "native_prior_b5": "4",
+    "native_and_reference_feedback": "9/2",
+    "K_mixture": "11/2"
+  },
+  "symmetry_feedback_ratio_range": [
+    0.24991880707329822,
+    0.2500595577784359
+  ],
+  "scope": "Algebra, Gaussian covariance inequalities, exact anisotropic regression, positive quadratic characteristic laws, buffer/radius powers and exponent diagnostics. Does not numerically execute imported native VALUE compilers or certify their guards for an unspecified A."
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "assertions": 2004,
+  "metrics": {
+    "complex_det_max_error": 5.447031717157017e-16,
+    "complex_contraction_max_excess": 0.0,
+    "geometric_moment_max_error": "1.4748242302722795760484826628906405869159897578091733457547325986161903154154342426868016387854764779907526534271954864783974471882502820026129693738240068264000079074421775703094817266577264378425182e-128",
+    "large_scalar_panel_atoms": 524288,
+    "large_scalar_panel_nodes": 8,
+    "position_operator_max_error": 3.1357906124540525e-05,
+    "position_operator_max_scaled_error": 6.158850534773536e-05,
+    "linear_covariance_max_relative_error": "2.7967878963214203813465333609276102609434434412731426407386965173900714575560794930434707660927413488051782421602460192271488350292794734074245294575845048886014308854809341878150043603857714293617157e-185",
+    "nonlinear_square_max_relative_error": 1.2453165321201384e-15,
+    "inner_caller_envelope_max": 1.5640127251136524
+  },
+  "scope": "Scalar geometry, finite-chaos position contractions/quadrature, moment-jet positive Gauss setup, exact linear dyadic decomposition, nonlinear scalar midpoint-square identity, and source-envelope checks. Imported native square action/mean LAW not executed."
+}

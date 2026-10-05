@@ -1,0 +1,348 @@
+{
+  "verdict": "PASS: legal rank-8 sibling history and source-qualified one-node covariance obstruction; no full shared-bank sum no-go.",
+  "rank8_integer_coefficient": 40320,
+  "primitive_indices": [
+    5,
+    5,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "structural_indices": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+  ],
+  "covariance_psd_checks": [
+    {
+      "k": 2.0,
+      "rho": 0.0,
+      "total_extraction_cap": 0.5,
+      "one_shield_max": 0.41666327568667344
+    },
+    {
+      "k": 2.0,
+      "rho": 0.3,
+      "total_extraction_cap": 0.455,
+      "one_shield_max": 0.37916358087487284
+    },
+    {
+      "k": 2.0,
+      "rho": 0.8,
+      "total_extraction_cap": 0.17999999999999994,
+      "one_shield_max": 0.1499987792472024
+    },
+    {
+      "k": 2.0,
+      "rho": 0.99,
+      "total_extraction_cap": 0.009950000000000014,
+      "one_shield_max": 0.008291599186164813
+    },
+    {
+      "k": 8.0,
+      "rho": 0.0,
+      "total_extraction_cap": 0.03125,
+      "one_shield_max": 0.031001969228682435
+    },
+    {
+      "k": 8.0,
+      "rho": 0.3,
+      "total_extraction_cap": 0.0284375,
+      "one_shield_max": 0.028211791998101015
+    },
+    {
+      "k": 8.0,
+      "rho": 0.8,
+      "total_extraction_cap": 0.011249999999999996,
+      "one_shield_max": 0.011160708922325673
+    },
+    {
+      "k": 8.0,
+      "rho": 0.99,
+      "total_extraction_cap": 0.0006218750000000009,
+      "one_shield_max": 0.0006169391876507814
+    },
+    {
+      "k": 32.0,
+      "rho": 0.0,
+      "total_extraction_cap": 0.001953125,
+      "one_shield_max": 0.0019521703352394807
+    },
+    {
+      "k": 32.0,
+      "rho": 0.3,
+      "total_extraction_cap": 0.00177734375,
+      "one_shield_max": 0.0017764750050679274
+    },
+    {
+      "k": 32.0,
+      "rho": 0.8,
+      "total_extraction_cap": 0.0007031249999999998,
+      "one_shield_max": 0.0007027813206862128
+    },
+    {
+      "k": 32.0,
+      "rho": 0.99,
+      "total_extraction_cap": 3.8867187500000056e-05,
+      "one_shield_max": 3.8848189671265725e-05
+    },
+    {
+      "k": 128.0,
+      "rho": 0.0,
+      "total_extraction_cap": 0.0001220703125,
+      "one_shield_max": 0.00012206658675492643
+    },
+    {
+      "k": 128.0,
+      "rho": 0.3,
+      "total_extraction_cap": 0.000111083984375,
+      "one_shield_max": 0.00011108059394698305
+    },
+    {
+      "k": 128.0,
+      "rho": 0.8,
+      "total_extraction_cap": 4.3945312499999985e-05,
+      "one_shield_max": 4.39439712317735e-05
+    },
+    {
+      "k": 128.0,
+      "rho": 0.99,
+      "total_extraction_cap": 2.4291992187500035e-06,
+      "one_shield_max": 2.4291250764230397e-06
+    }
+  ],
+  "variance_limit": 0.2184556340519386,
+  "persistent_difference_mode_variance": 0.0934556340519386,
+  "persistent_difference_mode_bridge_middle_1_4_to_3_4": 0.023501377273783458,
+  "exact_symmetric_ou_checks": [
+    {
+      "V": 0.0,
+      "closed_variance": 0.1869112681038772,
+      "symmetric_ou_integral": 0.1869112681038771
+    },
+    {
+      "V": 0.1,
+      "closed_variance": 0.19680486411071296,
+      "symmetric_ou_integral": 0.19680486411071288
+    },
+    {
+      "V": 1.0,
+      "closed_variance": 0.21783671403431615,
+      "symmetric_ou_integral": 0.21783671403431615
+    },
+    {
+      "V": 10.0,
+      "closed_variance": 0.2184556340519386,
+      "symmetric_ou_integral": 0.21845563405194335
+    }
+  ],
+  "seeded_full_ast_source_checks": [
+    {
+      "k": 8.0,
+      "variance_over_b4_a12_exp_minus2_k4": 0.2194366347960468,
+      "exact_constant_leaves_value": 0.2184556340519386,
+      "leaf_product_uniform_error_bound": 1.1059582235990776e-05
+    },
+    {
+      "k": 16.0,
+      "variance_over_b4_a12_exp_minus2_k4": 0.2182244562996499,
+      "exact_constant_leaves_value": 0.2184556340519386,
+      "leaf_product_uniform_error_bound": 2.565295348933683e-21
+    },
+    {
+      "k": 32.0,
+      "variance_over_b4_a12_exp_minus2_k4": 0.21843804997313768,
+      "exact_constant_leaves_value": 0.2184556340519386,
+      "leaf_product_uniform_error_bound": 7.425607328307332e-84
+    },
+    {
+      "k": 64.0,
+      "variance_over_b4_a12_exp_minus2_k4": 0.21880304698398817,
+      "exact_constant_leaves_value": 0.2184556340519386,
+      "leaf_product_uniform_error_bound": 0.0
+    }
+  ],
+  "literal_positive_gauss_panel_checks": [
+    {
+      "kind": "fixed_3",
+      "panel": 6,
+      "nodes": 3,
+      "r": 0.9765625,
+      "mass_R5": 0.006315935428978668,
+      "k": 6.57058562994362,
+      "mass_over_x": 0.2726753256083965,
+      "beta_over_other_mass": 3.2099616207574413,
+      "variance_over_other_constants": 2.2509348728378087,
+      "variance_divided_by_k4": 0.0012076653656356764
+    },
+    {
+      "kind": "fixed_3",
+      "panel": 10,
+      "nodes": 3,
+      "r": 0.99853515625,
+      "mass_R5": 0.00043149022874783895,
+      "k": 26.13746416823984,
+      "mass_over_x": 0.29477989940515936,
+      "beta_over_other_mass": 59.363928527543145,
+      "variance_over_other_constants": 769.854259260546,
+      "variance_divided_by_k4": 0.0016495090971904226
+    },
+    {
+      "kind": "fixed_3",
+      "panel": 14,
+      "nodes": 3,
+      "r": 0.999908447265625,
+      "mass_R5": 2.7116803367807333e-05,
+      "k": 104.51395452070454,
+      "mass_over_x": 0.2962013632744703,
+      "beta_over_other_mass": 958.3467341460263,
+      "variance_over_other_constants": 200635.87218288457,
+      "variance_divided_by_k4": 0.0016815564917078253
+    },
+    {
+      "kind": "fixed_3",
+      "panel": 18,
+      "nodes": 3,
+      "r": 0.9999942779541016,
+      "mass_R5": 1.6953822021702343e-06,
+      "k": 418.0468474562357,
+      "mass_over_x": 0.2962903623640023,
+      "beta_over_other_mass": 15342.105175686287,
+      "variance_over_other_constants": 51420128.91662927,
+      "variance_divided_by_k4": 0.0016835784197552549
+    },
+    {
+      "kind": "fixed_3",
+      "panel": 22,
+      "nodes": 3,
+      "r": 0.9999996423721313,
+      "mass_R5": 1.0596366135165879e-07,
+      "k": 1672.1851472449923,
+      "mass_over_x": 0.29629592542311206,
+      "beta_over_other_mass": 245482.24234165595,
+      "variance_over_other_constants": 13164471030.193651,
+      "variance_divided_by_k4": 0.0016837048647731644
+    },
+    {
+      "kind": "fixed_3",
+      "panel": 26,
+      "nodes": 3,
+      "r": 0.9999999776482582,
+      "mass_R5": 6.622737716257809e-09,
+      "k": 6688.740024183263,
+      "mass_over_x": 0.29629627274878295,
+      "beta_over_other_mass": 3927724.422496606,
+      "variance_over_other_constants": 3370119247558.305,
+      "variance_divided_by_k4": 0.0016837127595148696
+    },
+    {
+      "kind": "growing_j_plus_1",
+      "panel": 6,
+      "nodes": 7,
+      "r": 0.9765625,
+      "mass_R5": 0.0029697786180340508,
+      "k": 6.57058562994362,
+      "mass_over_x": 0.12821305106158074,
+      "beta_over_other_mass": 0.7096964442738329,
+      "variance_over_other_constants": 0.11002934014415777,
+      "variance_divided_by_k4": 5.903263790494443e-05
+    },
+    {
+      "kind": "growing_j_plus_1",
+      "panel": 10,
+      "nodes": 11,
+      "r": 0.99853515625,
+      "mass_R5": 0.0001324850716404226,
+      "k": 26.13746416823984,
+      "mass_over_x": 0.09050943332872564,
+      "beta_over_other_mass": 5.596475315612533,
+      "variance_over_other_constants": 6.842147541608315,
+      "variance_divided_by_k4": 1.466015739789829e-05
+    },
+    {
+      "kind": "growing_j_plus_1",
+      "panel": 14,
+      "nodes": 15,
+      "r": 0.999908447265625,
+      "mass_R5": 6.179933647002993e-06,
+      "k": 104.51395452070454,
+      "mass_over_x": 0.0675044453566088,
+      "beta_over_other_mass": 49.77523369026026,
+      "variance_over_other_constants": 541.2399748145504,
+      "variance_divided_by_k4": 4.536205730905314e-06
+    },
+    {
+      "kind": "growing_j_plus_1",
+      "panel": 18,
+      "nodes": 19,
+      "r": 0.9999942779541016,
+      "mass_R5": 3.071799538356896e-07,
+      "k": 418.0468474562357,
+      "mass_over_x": 0.05368374146928502,
+      "beta_over_other_mass": 503.65767675156025,
+      "variance_over_other_constants": 55415.8712372789,
+      "variance_divided_by_k4": 1.8144055040835664e-06
+    },
+    {
+      "kind": "growing_j_plus_1",
+      "panel": 22,
+      "nodes": 23,
+      "r": 0.9999996423721313,
+      "mass_R5": 1.593284380338304e-08,
+      "k": 1672.1851472449923,
+      "mass_over_x": 0.04455146829702646,
+      "beta_over_other_mass": 5549.997235440185,
+      "variance_over_other_constants": 6728972.96422281,
+      "variance_divided_by_k4": 8.606198068121226e-07
+    },
+    {
+      "kind": "growing_j_plus_1",
+      "panel": 26,
+      "nodes": 27,
+      "r": 0.9999999776482582,
+      "mass_R5": 8.510117021710848e-10,
+      "k": 6688.740024183263,
+      "mass_over_x": 0.038073619433832646,
+      "beta_over_other_mass": 64854.02903997902,
+      "variance_over_other_constants": 918834245.3962959,
+      "variance_divided_by_k4": 4.590499116533696e-07
+    }
+  ],
+  "blind_normalization_amplitude_diagnostic": [
+    {
+      "alpha": 0.001,
+      "k": 8.0,
+      "beta_for_mass_x_each": 64.0,
+      "blind_root_amplitude": 0.064,
+      "root_radius_over_alpha": 64.0
+    },
+    {
+      "alpha": 0.001,
+      "k": 32.0,
+      "beta_for_mass_x_each": 1024.0,
+      "blind_root_amplitude": 1.024,
+      "root_radius_over_alpha": 1024.0
+    },
+    {
+      "alpha": 0.001,
+      "k": 128.0,
+      "beta_for_mass_x_each": 16384.0,
+      "blind_root_amplitude": 16.384,
+      "root_radius_over_alpha": 16384.0
+    }
+  ],
+  "caveats": [
+    "Monte Carlo is a sanity check; exact formulas and the audit note supply the proof.",
+    "An upper endpoint-mass envelope alone cannot give an individual-node lower bound.",
+    "Fixed finite endpoint cutoffs do not admit a k-to-infinity sequence inside one fixed rule.",
+    "Positivity of scalar clock weights alone does not prove nonnegative cross-node covariance.",
+    "Actual finite native filters, readout shares, first paths and alternate amplitude distributions need their own admission."
+  ]
+}

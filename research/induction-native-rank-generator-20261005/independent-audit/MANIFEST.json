@@ -1,0 +1,15 @@
+{
+  "status": "PASS_WITH_EXPLICIT_NATIVE_PORT_BOUNDARY",
+  "report": "INDEPENDENT-ACTIVE-SOURCE-AUDIT.md",
+  "independent_source_assertions": 2819,
+  "independent_tree_assertions": 17566,
+  "reference_source_assertions": 3116,
+  "reference_tree_assertions": 77962,
+  "final_audited_inputs_verified_unchanged": true,
+  "main_source_files_edited_by_auditor": false,
+  "native_marked_tree_port_proved": false,
+  "all_rank_positive_sampler_proved": false,
+  "sublinear_cost_proved": false,
+  "rank8_extra_width_admission_test": "ell <= 43",
+  "input_hashes": "AUDITED-INPUT-SHA256.json"
+}

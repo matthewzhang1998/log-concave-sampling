@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-05",
+  "inputs": [
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/MANIFEST.json",
+      "bytes": 2876,
+      "sha256": "4ec4b31d741dc6396e8187f5bb8c006089d56b1cb1a59fa33b4a47a04e517574"
+    },
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/POSITIVE-SECTOR-GAUSS.md",
+      "bytes": 16461,
+      "sha256": "a4fba9037d305540242dda09adc9dbe70823755652e4a94e585d392a0dfd7dbf"
+    },
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/positive_sector_gauss.py",
+      "bytes": 9950,
+      "sha256": "5646f982f27791a0026aece20f7299f42eb2b4e0fb106bfb0f4ee1b3c26b920c"
+    },
+    {
+      "path": "/workspace/shared/induction-positive-clock-compression-20261005/independent-audit/INDEPENDENT-POSITIVE-GAUSS-AUDIT.md",
+      "bytes": 15346,
+      "sha256": "3d1fc0f872bf1c246948c0776a941c172e00c36d0b8d9c0be2cae03879504a8f"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/MANIFEST.json",
+      "bytes": 5738,
+      "sha256": "09ef144321423e22831c3cc720c3b8e3c48cc2bd090c891bc675d10ca7841574"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/THREE-CUBIC-EXACT-HEAT.md",
+      "bytes": 13855,
+      "sha256": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/MIXED-THREE-THREE-SIX.md",
+      "bytes": 13384,
+      "sha256": "495a6b333f71e5e22fac8c2d2d4fdc4bf3a53771ec414eefed525ae2c1f90b0a"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/INTEGRATED-MAJORANT-CUBATURE.md",
+      "bytes": 4552,
+      "sha256": "3bdb992544dbba0af0581d0ae4cfc023e2528277fe144fb1b617fd43a8de5e56"
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md",
+      "bytes": 17859,
+      "sha256": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+      "bytes": 23602,
+      "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/active_probe_source.py",
+      "bytes": 2279,
+      "sha256": "d321f4256d2ab764b04a87c286bd7500b8e73934a901af9848cff99170448047"
+    },
+    {
+      "path": "/workspace/shared/peer-carrier-interface-20261005/INTERFACE-MEMO.md",
+      "bytes": 17489,
+      "sha256": "677e6edb3102fdba57fc51f612d1991bd79122460bdfdb391a8c8b4cb17d66f6"
+    },
+    {
+      "path": "/workspace/shared/peer-carrier-interface-20261005/MANIFEST.json",
+      "bytes": 1338,
+      "sha256": "85c1e209efc556abc396be4d269eda90106dad8cbe2b2c8f59ad073ba6cb65ce"
+    }
+  ]
+}

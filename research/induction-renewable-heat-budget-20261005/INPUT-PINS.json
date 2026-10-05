@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-05",
+  "inputs": [
+    {
+      "path": "/workspace/shared/induction-heat-defect-reentry-20261005/HEAT-SHELL-REENTRY.md",
+      "sha256": "aa34c50498fb9d6c38cd7489c87a2660ccac0d9afac48729585d6175a7f46aa4"
+    },
+    {
+      "path": "/workspace/shared/induction-heat-defect-reentry-20261005/COST-AND-FLOORS.md",
+      "sha256": "5b7172534ae874125fd013c3805f65cd1976e11b33760703ecba701e7aa2181a"
+    },
+    {
+      "path": "/workspace/shared/induction-heat-defect-reentry-20261005/MANIFEST.json",
+      "sha256": "0d31ae7bfd68f9ce5612cb6876df30e0e997aa23ad09beff3b47922c2a18df31"
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/WEIGHTED-MIXED-QUEUE.md",
+      "sha256": "c2592c68d70bfeb69ec52d92ec7abeeec22bd4b12759d43be62cb75d594735f0"
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/SIMULTANEOUS-FAMILY-JOIN.md",
+      "sha256": "ff7d4511d4691172849a4f1429d20fd1c35e066dcef29f429fc9193b05185c87"
+    },
+    {
+      "path": "/workspace/shared/induction-mixed-queue-20261005/MANIFEST.json",
+      "sha256": "a1114c54b834d67bce7487d14c649d0ef1cee0754fefa9d303967e470a7abe6b"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+      "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/RANK8-SMOOTHED-NATIVE-RETURN.md",
+      "sha256": "f812083428f7b612cdc90a27a5da2be4aafd034f0d14b7cdc73e9bb5361cca27"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/ALL-FIXED-RANK-RETURN-RULE.md",
+      "sha256": "ac29e1d3d03968b28a4e7d1ba672b8e08949a948e4408b314c6b42c71f409bbf"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/MANIFEST.json",
+      "sha256": "1f5b8bd6d8a06f0acbf4edf7ac1d6333a493e76ca4d213c85f86d277c7d6ac41"
+    },
+    {
+      "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/13_high_acc.tex",
+      "sha256": "4c371cfca4a9043a263f19efe239a0543ec47e5efbe69f2236391042c913cf62"
+    },
+    {
+      "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    }
+  ],
+  "source_scope": "Local mathematical inputs only; the native compiler is imported, not executed."
+}

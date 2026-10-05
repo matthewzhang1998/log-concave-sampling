@@ -1,0 +1,224 @@
+{
+  "input_sha256": "0fbff5a4d57a0d89ff84373422d72913e759061156faa09f4f0afcc6c564c74f",
+  "ast": [
+    {
+      "rank": 2,
+      "histories": 1,
+      "per_history_coefficient": 2,
+      "multiplicities": {
+        "0": 1
+      }
+    },
+    {
+      "rank": 3,
+      "histories": 2,
+      "per_history_coefficient": 6,
+      "multiplicities": {
+        "1": 1,
+        "0": 1
+      }
+    },
+    {
+      "rank": 4,
+      "histories": 4,
+      "per_history_coefficient": 24,
+      "multiplicities": {
+        "2": 1,
+        "1": 2,
+        "0": 1
+      }
+    },
+    {
+      "rank": 5,
+      "histories": 8,
+      "per_history_coefficient": 120,
+      "multiplicities": {
+        "3": 1,
+        "2": 3,
+        "1": 3,
+        "0": 1
+      }
+    },
+    {
+      "rank": 6,
+      "histories": 16,
+      "per_history_coefficient": 720,
+      "multiplicities": {
+        "4": 1,
+        "3": 4,
+        "2": 6,
+        "1": 4,
+        "0": 1
+      }
+    },
+    {
+      "rank": 7,
+      "histories": 32,
+      "per_history_coefficient": 5040,
+      "multiplicities": {
+        "5": 1,
+        "4": 5,
+        "3": 10,
+        "2": 10,
+        "1": 5,
+        "0": 1
+      }
+    },
+    {
+      "rank": 8,
+      "histories": 64,
+      "per_history_coefficient": 40320,
+      "multiplicities": {
+        "6": 1,
+        "5": 6,
+        "4": 15,
+        "3": 20,
+        "2": 15,
+        "1": 6,
+        "0": 1
+      }
+    },
+    {
+      "rank": 9,
+      "histories": 128,
+      "per_history_coefficient": 362880,
+      "multiplicities": {
+        "7": 1,
+        "6": 7,
+        "5": 21,
+        "4": 35,
+        "3": 35,
+        "2": 21,
+        "1": 7,
+        "0": 1
+      }
+    },
+    {
+      "rank": 10,
+      "histories": 256,
+      "per_history_coefficient": 3628800,
+      "multiplicities": {
+        "8": 1,
+        "7": 8,
+        "6": 28,
+        "5": 56,
+        "4": 70,
+        "3": 56,
+        "2": 28,
+        "1": 8,
+        "0": 1
+      }
+    }
+  ],
+  "leibniz_orders": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "polynomial_ibp": [
+    {
+      "order": 0,
+      "exact_identity": true,
+      "nonzero": true
+    },
+    {
+      "order": 1,
+      "exact_identity": true,
+      "nonzero": true
+    },
+    {
+      "order": 2,
+      "exact_identity": true,
+      "nonzero": true
+    },
+    {
+      "order": 3,
+      "exact_identity": true,
+      "nonzero": true
+    },
+    {
+      "order": 4,
+      "exact_identity": true,
+      "nonzero": true
+    },
+    {
+      "order": 5,
+      "exact_identity": true,
+      "nonzero": true
+    },
+    {
+      "order": 6,
+      "exact_identity": true,
+      "nonzero": true
+    },
+    {
+      "order": 7,
+      "exact_identity": true,
+      "nonzero": true
+    },
+    {
+      "order": 8,
+      "exact_identity": true,
+      "nonzero": true
+    }
+  ],
+  "group_variance": {
+    "limit": 6.800129310109894e-05,
+    "rows": [
+      {
+        "K": 4,
+        "variance_over_K4": 3.054606635375079e-05,
+        "ratio_to_limit": 0.4491983161016853
+      },
+      {
+        "K": 8,
+        "variance_over_K4": 5.620661931134196e-05,
+        "ratio_to_limit": 0.8265522131730408
+      },
+      {
+        "K": 16,
+        "variance_over_K4": 6.487534480737148e-05,
+        "ratio_to_limit": 0.9540310463055452
+      },
+      {
+        "K": 32,
+        "variance_over_K4": 6.720828389462256e-05,
+        "ratio_to_limit": 0.9883383216654807
+      },
+      {
+        "K": 64,
+        "variance_over_K4": 6.78023135960221e-05,
+        "ratio_to_limit": 0.9970738864512325
+      },
+      {
+        "K": 128,
+        "variance_over_K4": 6.795150266350322e-05,
+        "ratio_to_limit": 0.9992678016060416
+      },
+      {
+        "K": 256,
+        "variance_over_K4": 6.79888426423785e-05,
+        "ratio_to_limit": 0.9998169085005203
+      }
+    ],
+    "difference_mode_coefficient_at_equal_clocks": 0,
+    "scope": "Common 8!, base primitive r1*r2 and fixed structural/leaf clock masses suppressed; base r1*r2 tends to one."
+  },
+  "finite_source": {
+    "unweighted_L2_over_A8_sminus6": 2173.4580741297955,
+    "caller_L2_per_sum_inverse_sigma": 2509.6932083424063,
+    "value_calls_per_clock_sample": 16,
+    "standard_roots_per_shared_topology_sample": 23,
+    "primitive_dr_inverse_shield_integral": 2.221441469079183,
+    "primitive_rdr_inverse_shield_integral": 1.4142135623730951,
+    "primitive_importance_density": "r/sqrt(1-r^2)",
+    "importance_weighted_caller_bound_per_factor": "2sqrt(2)|Z|",
+    "multivariate_linear_fixture_HS_squared_over_a16_sminus12": "D * 6! * binomial(D+5,6)"
+  }
+}

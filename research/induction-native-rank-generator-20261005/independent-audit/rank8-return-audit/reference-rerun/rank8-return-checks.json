@@ -1,0 +1,167 @@
+{
+  "status": "PASS",
+  "assertions": 125,
+  "scope": "Exact grades/floor scales and positive Gaussian conditional-coupling/Riesz fixture. No native compiler execution.",
+  "rank8_ledger": {
+    "target": "65/8",
+    "heat": "65/8",
+    "root": "27/4",
+    "root_caller": "53/8",
+    "main_energy": "29/4",
+    "main_B_first": "57/8",
+    "intrinsic_own": "27/2",
+    "old_mixed_sharper": "33/4",
+    "old_mixed_conservative": "65/8",
+    "own_bank": "115/8",
+    "clock_local_response_floor": "7/8",
+    "VALUE_floor_relative_to_A": "1"
+  },
+  "H7_L2_squared": 5040,
+  "H7_L4_fourth": 6930445536000,
+  "fixtures": [
+    {
+      "alpha": 0.05,
+      "lambda": 1e-07,
+      "kappa": 0.25,
+      "positive_coupling_bound": 7.068626711043195e-07,
+      "direct_bound": 7.362553133461862e-07,
+      "riesz_bound": 3.330785625770532e-05
+    },
+    {
+      "alpha": 0.05,
+      "lambda": 1e-07,
+      "kappa": 1.0,
+      "positive_coupling_bound": 3.547618563984064e-07,
+      "direct_bound": 3.681276566730931e-07,
+      "riesz_bound": 1.665392812885266e-05
+    },
+    {
+      "alpha": 0.05,
+      "lambda": 1e-06,
+      "kappa": 0.25,
+      "positive_coupling_bound": 7.473340609356923e-06,
+      "direct_bound": 9.731869677142759e-06,
+      "riesz_bound": 0.0003427747824167129
+    },
+    {
+      "alpha": 0.05,
+      "lambda": 1e-06,
+      "kappa": 1.0,
+      "positive_coupling_bound": 3.7714089879133587e-06,
+      "direct_bound": 4.8659348385713794e-06,
+      "riesz_bound": 0.00017138739120835646
+    },
+    {
+      "alpha": 0.05,
+      "lambda": 1e-05,
+      "kappa": 0.25,
+      "positive_coupling_bound": 0.00016583682459527074,
+      "direct_bound": 0.00033425035113951755,
+      "riesz_bound": 0.004397369808133101
+    },
+    {
+      "alpha": 0.05,
+      "lambda": 1e-05,
+      "kappa": 1.0,
+      "positive_coupling_bound": 0.00010295058736100961,
+      "direct_bound": 0.00016712517556975877,
+      "riesz_bound": 0.0021986849040665506
+    },
+    {
+      "alpha": 0.15,
+      "lambda": 1e-07,
+      "kappa": 0.25,
+      "positive_coupling_bound": 2.04005156648497e-06,
+      "direct_bound": 2.1561144612900938e-06,
+      "riesz_bound": 9.97080972211235e-05
+    },
+    {
+      "alpha": 0.15,
+      "lambda": 1e-07,
+      "kappa": 1.0,
+      "positive_coupling_bound": 1.053182748023941e-06,
+      "direct_bound": 1.0780572306450469e-06,
+      "riesz_bound": 4.985404861056175e-05
+    },
+    {
+      "alpha": 0.15,
+      "lambda": 1e-06,
+      "kappa": 0.25,
+      "positive_coupling_bound": 2.0481589956243857e-05,
+      "direct_bound": 2.3930461156581837e-05,
+      "riesz_bound": 0.0010067771920508947
+    },
+    {
+      "alpha": 0.15,
+      "lambda": 1e-06,
+      "kappa": 1.0,
+      "positive_coupling_bound": 1.059930745648796e-05,
+      "direct_bound": 1.1965230578290919e-05,
+      "riesz_bound": 0.0005033885960254473
+    },
+    {
+      "alpha": 0.15,
+      "lambda": 1e-05,
+      "kappa": 0.25,
+      "positive_coupling_bound": 0.00024059164957696404,
+      "direct_bound": 0.00047623626593390836,
+      "riesz_bound": 0.011037393904474922
+    },
+    {
+      "alpha": 0.15,
+      "lambda": 1e-05,
+      "kappa": 1.0,
+      "positive_coupling_bound": 0.0001399237709228618,
+      "direct_bound": 0.00023811813296695418,
+      "riesz_bound": 0.005518696952237461
+    },
+    {
+      "alpha": 0.3,
+      "lambda": 1e-07,
+      "kappa": 0.25,
+      "positive_coupling_bound": 3.652540996019809e-06,
+      "direct_bound": 4.285903183205955e-06,
+      "riesz_bound": 0.0001993084586662508
+    },
+    {
+      "alpha": 0.3,
+      "lambda": 1e-07,
+      "kappa": 1.0,
+      "positive_coupling_bound": 2.039988606754166e-06,
+      "direct_bound": 2.1429515916029777e-06,
+      "riesz_bound": 9.96542293331254e-05
+    },
+    {
+      "alpha": 0.3,
+      "lambda": 1e-06,
+      "kappa": 0.25,
+      "positive_coupling_bound": 3.651308560100834e-05,
+      "direct_bound": 4.5228348375740454e-05,
+      "riesz_bound": 0.0020027808065021676
+    },
+    {
+      "alpha": 0.3,
+      "lambda": 1e-06,
+      "kappa": 1.0,
+      "positive_coupling_bound": 2.0420576491210317e-05,
+      "direct_bound": 2.2614174187870227e-05,
+      "riesz_bound": 0.0010013904032510838
+    },
+    {
+      "alpha": 0.3,
+      "lambda": 1e-05,
+      "kappa": 0.25,
+      "positive_coupling_bound": 0.00036956917454063134,
+      "direct_bound": 0.0006892151381254945,
+      "riesz_bound": 0.02099743004898765
+    },
+    {
+      "alpha": 0.3,
+      "lambda": 1e-05,
+      "kappa": 1.0,
+      "positive_coupling_bound": 0.0002182286210872635,
+      "direct_bound": 0.00034460756906274726,
+      "riesz_bound": 0.010498715024493826
+    }
+  ]
+}

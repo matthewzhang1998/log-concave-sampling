@@ -1,0 +1,5 @@
+{
+  "status": "passed",
+  "assertions": 516,
+  "scope": "Exact polynomial Price/Riesz/Hermite identities, source-qualified tensor cut diagnostics, exact variance allocations, original derivative placements and scaling; not native compiler execution."
+}

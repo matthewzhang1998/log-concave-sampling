@@ -1,0 +1,99 @@
+{
+  "status": "independently_audited_guarded_law_only_canonical_m3_join",
+  "entry": "/workspace/shared/law-only-variance-join-20261005/README.md",
+  "mean_bound": "C A^(16/5) sqrt(D) + Lambda A^(19/5) sqrt(D) + e_absolute",
+  "completion": "Actual mean/Gram/mixed-K native scales and optional final own-mean LAW proved under imported native radius/clock/gap/precision guards; full native compiler not numerically instantiated.",
+  "cost": "Fixed public-log original VALUE count and Gaussian dimension/D, with all ancestors, private roots and complete replays included.",
+  "scope_limits": [
+    "No zero-buffer endpoint law",
+    "No RAW covariance-matched force promotion",
+    "No all-order recurrence",
+    "No c(P)/P conclusion"
+  ],
+  "author_checks": 5567,
+  "independent_checks": 18374,
+  "files": [
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/LAW-ONLY-SHRINKING-BUFFER-JOIN.md",
+      "sha256": "40891db38221e3b02f2e657a4ef93c3e4fd06c69b29cc03e7db9c5761fe2fc0a",
+      "bytes": 24934
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/README.md",
+      "sha256": "dec852dcb9472ab0ac308e6c2f798aac9aacdf7f3bc8481d8fe3093f44ef5e90",
+      "bytes": 2270
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/check-results.json",
+      "sha256": "987cde3e113b67ee4428708013cb29cc64703bc02f3d1859afc15a74ce314f66",
+      "bytes": 1558
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/check-run.txt",
+      "sha256": "987cde3e113b67ee4428708013cb29cc64703bc02f3d1859afc15a74ce314f66",
+      "bytes": 1558
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/check_law_only_join.py",
+      "sha256": "cf04a69a94a1cefc8320f500067aff40f19df928cc94016197b06c9a88d1b71e",
+      "bytes": 5116
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/independent-audit/INDEPENDENT-LAW-ONLY-JOIN-AUDIT.md",
+      "sha256": "a4650cc27f321fad5ea9e15078f1eb1813d0e7abc1251774ae614237ebd70d35",
+      "bytes": 20720
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/independent-audit/check_law_only_join.py",
+      "sha256": "65142d64078f37d3ad74051dfa39224dbdad0b3f073ce31a5abae1c6f47fe5b1",
+      "bytes": 7561
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/independent-audit/law_only_join_checks.json",
+      "sha256": "e4f771824d8146449a58c31ec26716239898b0787ec1df5284c7b2a76df0b339",
+      "bytes": 536
+    }
+  ],
+  "pinned_inputs": [
+    {
+      "path": "/workspace/shared/collective-nonlinear-redesign-20261005/outer-resolvent/MANIFEST.json",
+      "sha256": "5a70b6d524b11a9e9f44dfda0602a01a677cf3561020dbcf2dba3b6d480e804f",
+      "bytes": 6541
+    },
+    {
+      "path": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "bytes": 680050
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md",
+      "sha256": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced",
+      "bytes": 12612
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/FULL-COVARIANCE-CLOSURE-AND-RESUMMED-MEAN-FRONTIER.md",
+      "sha256": "3b042e921a0cfbe0dc6636bb8b3886c6ae911e31ab3dde877ca31a7db547b6cf",
+      "bytes": 7539
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/RECTANGULAR-FIRST-COEFFICIENT-MEAN-AND-GRAM-RETURN.md",
+      "sha256": "13b0fad9f69355c511c8884ae1e7691066f740dccf387ec453344479193154ea",
+      "bytes": 11640
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md",
+      "sha256": "7476219bacabfacc44030a14710408735d3e31b78103376d57f525a3518726dc",
+      "bytes": 8120
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/mixed-k-current/FINITE-C0-CUBIC-COVARIANCE-RESERVE.md",
+      "sha256": "f31fe71fe96d1ea526fe522b0cc6baecc43bfaa31b6c35e7e79fa50a907f9963",
+      "bytes": 19750
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/mixed-k-current/MIXED-K-CURRENT-FINITE-CLOSURE.md",
+      "sha256": "7d50ce5069e0a12993cc60fd6e59ec558e4d43c6d362244efffb9e6b610eaa7b",
+      "bytes": 6603
+    }
+  ]
+}

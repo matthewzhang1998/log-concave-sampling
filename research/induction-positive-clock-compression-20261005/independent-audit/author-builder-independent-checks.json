@@ -1,0 +1,58 @@
+[
+  {
+    "degree": 1,
+    "positive": true,
+    "node_error": "0",
+    "weight_l1_error": 0.0,
+    "mass_exact": true,
+    "first_exact": true
+  },
+  {
+    "degree": 2,
+    "positive": true,
+    "node_error": "3/2596148429267413814265248164610048",
+    "weight_l1_error": 1.2505403824390123e-32,
+    "mass_exact": true,
+    "first_exact": true
+  },
+  {
+    "degree": 3,
+    "positive": true,
+    "node_error": "3/2596148429267413814265248164610048",
+    "weight_l1_error": 1.6389403884625483e-32,
+    "mass_exact": true,
+    "first_exact": true
+  },
+  {
+    "degree": 5,
+    "positive": true,
+    "node_error": "3/2596148429267413814265248164610048",
+    "weight_l1_error": 4.5929367823922183e-32,
+    "mass_exact": true,
+    "first_exact": true
+  },
+  {
+    "degree": 7,
+    "positive": true,
+    "node_error": "3/2596148429267413814265248164610048",
+    "weight_l1_error": 1.2460771478620018e-31,
+    "mass_exact": true,
+    "first_exact": true
+  },
+  {
+    "degree": 16,
+    "positive": true,
+    "node_error": "3/2596148429267413814265248164610048",
+    "weight_l1_error": 6.617984998668078e-29,
+    "mass_exact": true,
+    "first_exact": true
+  },
+  {
+    "degree": 24,
+    "positive": true,
+    "node_error": "3/2596148429267413814265248164610048",
+    "weight_l1_error": 3.677958599485876e-26,
+    "mass_exact": true,
+    "first_exact": true
+  }
+]

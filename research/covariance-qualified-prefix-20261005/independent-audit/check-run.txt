@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "cosine_cases": 12,
+  "spectral_cases": 36,
+  "martingale_cases": 5,
+  "output": "/workspace/shared/covariance-qualified-prefix-20261005/independent-audit/joint-quadrature-and-martingale-checks.json"
+}

@@ -1,0 +1,52 @@
+{
+  "verdict": "PASS: legal rank-8 sibling history and source-qualified one-node covariance obstruction; no full shared-bank sum no-go.",
+  "rank8_integer_coefficient": 40320,
+  "primitive_indices": [
+    5,
+    5,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "structural_indices": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+  ],
+  "variance_limit": 0.2184556340519386,
+  "persistent_difference_mode_variance": 0.0934556340519386,
+  "persistent_difference_mode_bridge_middle_1_4_to_3_4": 0.023501377273783458,
+  "seeded_full_ast_source_checks": [
+    {
+      "k": 8.0,
+      "variance_over_b4_a12_exp_minus2_k4": 0.2194366347960468,
+      "exact_constant_leaves_value": 0.2184556340519386,
+      "leaf_product_uniform_error_bound": 1.1059582235990776e-05
+    },
+    {
+      "k": 16.0,
+      "variance_over_b4_a12_exp_minus2_k4": 0.2182244562996499,
+      "exact_constant_leaves_value": 0.2184556340519386,
+      "leaf_product_uniform_error_bound": 2.565295348933683e-21
+    },
+    {
+      "k": 32.0,
+      "variance_over_b4_a12_exp_minus2_k4": 0.21843804997313768,
+      "exact_constant_leaves_value": 0.2184556340519386,
+      "leaf_product_uniform_error_bound": 7.425607328307332e-84
+    },
+    {
+      "k": 64.0,
+      "variance_over_b4_a12_exp_minus2_k4": 0.21880304698398817,
+      "exact_constant_leaves_value": 0.2184556340519386,
+      "leaf_product_uniform_error_bound": 0.0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "covariance_redistribution_max_error": 2.220446049250313e-16,
+  "minimum_observed_spectral_ratio": 0.38787167121648053,
+  "proved_spectral_ratio": 0.0625,
+  "ou_identity_error": 3.552713678800501e-15,
+  "status": "Numerical sanity checks only; the accompanying note supplies proofs and lists readout/producer gates."
+}

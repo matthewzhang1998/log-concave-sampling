@@ -1,0 +1,18 @@
+{
+  "D": 6,
+  "packet_count": 4,
+  "primitive_blocks_per_packet": 6,
+  "variance_v": 0.7,
+  "individual_packet_covariance_identity_max_error": 1.1102230246251565e-16,
+  "literal_common_carrier_identity_max_error": 1.1102230246251565e-16,
+  "root_innovation_marked_public_covariance_max_error": 2.7755575615628914e-17,
+  "root_innovation_H_covariance_minus_cI_max_error": 0.0,
+  "exact_restored_endpoint_identity_max_error": 2.220446049250313e-16,
+  "covariance_root_HS_over_sqrtD_opM_squared_max_ratio": 0.27553610684585356,
+  "one_Hilbert_matrix_inequality_max_ratio": 0.3401578437226861,
+  "wrong_independent_completion_cross_covariance_error": 0.0010872757205646622,
+  "triple_cubic_root_grade": "17/2",
+  "root_quadratic_grade": "17",
+  "root_times_child_grade_b24": "10",
+  "root_times_child_grade_b25": "161/16"
+}

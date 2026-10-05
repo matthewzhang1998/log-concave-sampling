@@ -1,0 +1,50 @@
+{
+  "packet": "C2 stage-two transfer by analytical smoothing",
+  "date_utc": "2026-10-05",
+  "status": "PASS: independent review; native own-mean services remain guarded imports",
+  "entry": "C2-STAGE-TWO-SMOOTHING-TRANSFER.md",
+  "provenance": {
+    "stage_two_entry_sha256": "c7275de9261bce2eeaee1ba054351055b1e236590340ee7b1554ff064ffa2f13",
+    "stage_two_manifest_sha256": "cd1111e28dc399643f27bcdd0f97dc735ada196f8a43f220211500bcb45be3ae",
+    "stage_one_entry_sha256": "301ace0ae1a52f1cc62193c716702e0d908affab149ffd147082b23ad4d5637e",
+    "stage_one_manifest_sha256": "5d030acf6f366539239ddfea9dca3e6b5c9b05adc323f2432cf49ecc266c161d"
+  },
+  "scope": {
+    "source": "Anchored convex gradient g=grad U, U in C2, 0<=Dg<=AI; 0<A<=1/36 plus all actual native guards",
+    "bounded_blocks": "Orthogonal blocks d_j<=b, basis not queried; no Hessian modulus; source may vary with A",
+    "target_bias": "<=110 A^(8/3) b^(2/3) sqrt(D) plus original inner-rule errors",
+    "general_dimension": "Take b=D: <=110 A^(8/3)D^(7/6); exact-outer bias also <=5A^2sqrt(D)",
+    "outer_and_completion": "Original finite-outer allowance, Lambda_comp A^4sqrt(D), and unchanged restored absolute floors",
+    "execution": "Unchanged original stage-two graph; smoothing is analysis only",
+    "private_roots": "5D",
+    "raw_residual_values": "(5+3J1+5JL+6JQ)N_out per fully replayed occurrence",
+    "normalized_private_first": "<=9A",
+    "normalized_curl": "<25A^2",
+    "cost": "Same expanded native caller, VALUE, HVP, replay and coefficient bills; zero additional inverse-A VALUE exponent at fixed b and grade",
+    "exclusions": [
+      "No unrestricted dimension-uniform improved sqrt(D) rate",
+      "No order-four general-C2 claim",
+      "No inner/sample-path rate from weak mean bound",
+      "No full endpoint join",
+      "No all-order recurrence",
+      "No new implementation or reproof of native compilers",
+      "No reduced arbitrary numerical-error floors"
+    ]
+  },
+  "checks": {
+    "author_assertions": 14522,
+    "independent_assertions": 23511,
+    "written_independent_audit": "PASS"
+  },
+  "files": {
+    "BASELINE-SMOOTHING-TRANSFER.md": "66554aeeae2b46394f28b95446f7429372bd300db22735366f54f100edb9804f",
+    "C2-STAGE-TWO-SMOOTHING-TRANSFER.md": "245bc253a619452ab3112b8e40efcbcb298089756c7b170a47a4a77a57526498",
+    "FINITE-SMOOTHING-IMPLEMENTATION.md": "098068ea91789266df3e1eae94718c063e2e08e17ee26331c0b107963193704b",
+    "INDEPENDENT-SMOOTHING-AUDIT.md": "c542b9f3d817031ba2c5924090b44d3754b5720bb12dabffbeaec348bbc14793",
+    "README.md": "8c24d2c74ddb792e293a376f68893ce53aee5ad649654df937dd4fad6c1c5478",
+    "check_smoothing_constants.json": "ae153eae0c149b2e727b0c81757fb4359a750767411cfbed75e3c613e7064090",
+    "check_smoothing_constants.py": "a4b58f7af9d92275ba369b56f2b8f268a8614b2e216117f457c97363f19620a4",
+    "independent_smoothing_checks.json": "5371401de09c5d5615b9e215ba64ca6e72f934777577a60847de8f7e6bc5cd37",
+    "independent_smoothing_checks.py": "3ede4f2320dafe764e856d50e87c7d6a668d3be8c3189416ce2db1de3d05a234"
+  }
+}

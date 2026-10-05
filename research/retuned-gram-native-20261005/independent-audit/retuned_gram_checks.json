@@ -1,0 +1,540 @@
+{
+  "status": "passed",
+  "assertions": 839,
+  "scope": "Independent exact algebra and smooth-mixture numerical diagnostics; not native compiler execution or numerical admission.",
+  "max_substitution_relative_error": 1.1102230246251565e-15,
+  "physical_error_exponents": [
+    [
+      "7",
+      "-3",
+      "7",
+      "0",
+      "0",
+      "6"
+    ],
+    [
+      "4",
+      "-1",
+      "3",
+      "1",
+      "0",
+      "0"
+    ],
+    [
+      "4",
+      "-1",
+      "3",
+      "1",
+      "0",
+      "0"
+    ],
+    [
+      "4",
+      "-1/2",
+      "2",
+      "1",
+      "1",
+      "0"
+    ],
+    [
+      "9/2",
+      "-5/4",
+      "7/2",
+      "1",
+      "0",
+      "0"
+    ],
+    [
+      "5",
+      "-3/2",
+      "4",
+      "1",
+      "0",
+      "0"
+    ]
+  ],
+  "exponent_order": [
+    "A",
+    "u",
+    "kappa",
+    "alpha",
+    "beta",
+    "M"
+  ],
+  "concentration_diagnostics": [
+    {
+      "t_times_L": -12.0,
+      "log_mgf": 9.109308842577777,
+      "bound": 72.0
+    },
+    {
+      "t_times_L": -5.0,
+      "log_mgf": 2.911685795413711,
+      "bound": 12.5
+    },
+    {
+      "t_times_L": -1.0,
+      "log_mgf": 0.18892605896986492,
+      "bound": 0.5
+    },
+    {
+      "t_times_L": -0.1,
+      "log_mgf": 0.0019705839676618098,
+      "bound": 0.005000000000000001
+    },
+    {
+      "t_times_L": 0.0,
+      "log_mgf": 0.0,
+      "bound": 0.0
+    },
+    {
+      "t_times_L": 0.1,
+      "log_mgf": 0.0019705839676618098,
+      "bound": 0.005000000000000001
+    },
+    {
+      "t_times_L": 1.0,
+      "log_mgf": 0.18892605896986492,
+      "bound": 0.5
+    },
+    {
+      "t_times_L": 5.0,
+      "log_mgf": 2.911685795413711,
+      "bound": 12.5
+    },
+    {
+      "t_times_L": 12.0,
+      "log_mgf": 9.109308842577777,
+      "bound": 72.0
+    }
+  ],
+  "entropy_diagnostics": [
+    {
+      "A": 0.05,
+      "total_base_variance": 0.30170881682725814,
+      "before_keep": {
+        "A": 0.05,
+        "base_variance": 0.15085440841362907,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 1.28665923002259e-10,
+        "mutual_information": 6.5492103335455875e-06,
+        "component_KL": 6.549338999439505e-06,
+        "posterior_mean_energy": 8.069411857808101e-12,
+        "posterior_entropy_bound": 2.046628229232997e-11
+      },
+      "after_keep": {
+        "A": 0.05,
+        "base_variance": 0.30170881682725814,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 8.309713245890744e-12,
+        "mutual_information": 1.664321921070601e-06,
+        "component_KL": 1.6643302308354727e-06,
+        "posterior_mean_energy": 2.0507066654833944e-12,
+        "posterior_entropy_bound": 5.20100600334563e-12
+      },
+      "final_KL_bound": 4.64695797577245e-10,
+      "dimension_1e9_bound": 0.464695797577245
+    },
+    {
+      "A": 0.05,
+      "total_base_variance": 0.05,
+      "before_keep": {
+        "A": 0.05,
+        "base_variance": 0.025,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 1.2413640356400983e-07,
+        "mutual_information": 0.00020367550806809219,
+        "component_KL": 0.0002037996444717448,
+        "posterior_mean_energy": 2.506452350461873e-10,
+        "posterior_entropy_bound": 6.364859627127884e-10
+      },
+      "after_keep": {
+        "A": 0.05,
+        "base_variance": 0.05,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 9.361705199944475e-09,
+        "mutual_information": 5.588154250792181e-05,
+        "component_KL": 5.589090421304646e-05,
+        "posterior_mean_energy": 6.883155227277617e-11,
+        "posterior_entropy_bound": 1.7462982033725572e-10
+      },
+      "final_KL_bound": 6.160851412483634e-07,
+      "dimension_1e9_bound": 616.0851412483634
+    },
+    {
+      "A": 0.05,
+      "total_base_variance": 0.01118033988749895,
+      "before_keep": {
+        "A": 0.05,
+        "base_variance": 0.005590169943749475,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 1.6188268298740167e-05,
+        "mutual_information": 0.0023552853004621794,
+        "component_KL": 0.002371473568761164,
+        "posterior_mean_energy": 2.86211403673911e-09,
+        "posterior_entropy_bound": 7.360266563944314e-09
+      },
+      "after_keep": {
+        "A": 0.05,
+        "base_variance": 0.01118033988749895,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 2.0125242970834236e-06,
+        "mutual_information": 0.000823176485641711,
+        "component_KL": 0.000825189009938606,
+        "posterior_mean_energy": 1.0091999652633742e-09,
+        "posterior_entropy_bound": 2.572426517630348e-09
+      },
+      "final_KL_bound": 0.00024643405649934526,
+      "dimension_1e9_bound": 246434.05649934526
+    },
+    {
+      "A": 0.05,
+      "total_base_variance": 0.0025000000000000005,
+      "before_keep": {
+        "A": 0.05,
+        "base_variance": 0.0012500000000000002,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 0.00032727483018921323,
+        "mutual_information": 0.011038635021478449,
+        "component_KL": 0.011365909851667438,
+        "posterior_mean_energy": 1.2862329309070436e-08,
+        "posterior_entropy_bound": 3.449573444212017e-08
+      },
+      "after_keep": {
+        "A": 0.05,
+        "base_variance": 0.0025000000000000005,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 0.00010719268743236946,
+        "mutual_information": 0.006181136089433341,
+        "component_KL": 0.006288328776865672,
+        "posterior_mean_energy": 7.363452642561524e-09,
+        "posterior_entropy_bound": 1.93160502794792e-08
+      },
+      "final_KL_bound": 0.09857362259973809,
+      "dimension_1e9_bound": 98573622.59973809
+    },
+    {
+      "A": 0.05,
+      "total_base_variance": 0.0005590169943749475,
+      "before_keep": {
+        "A": 0.05,
+        "base_variance": 0.00027950849718747374,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 0.001034423073580708,
+        "mutual_information": 0.020342030427129433,
+        "component_KL": 0.021376453500709967,
+        "posterior_mean_energy": 2.285416286027841e-08,
+        "posterior_entropy_bound": 6.356884508477951e-08
+      },
+      "after_keep": {
+        "A": 0.05,
+        "base_variance": 0.0005590169943749475,
+        "lip": 0.0012500000000000002,
+        "energy_squared": 6.160851412483633e-07,
+        "mixture_KL": 0.0007164596975761898,
+        "mutual_information": 0.016705290217420617,
+        "component_KL": 0.01742174991499698,
+        "posterior_mean_energy": 1.902409244147495e-08,
+        "posterior_entropy_bound": 5.2204031929439455e-08
+      },
+      "final_KL_bound": 39.42944903989525,
+      "dimension_1e9_bound": 39429449039.895256
+    },
+    {
+      "A": 0.2,
+      "total_base_variance": 0.5253055608807534,
+      "before_keep": {
+        "A": 0.2,
+        "base_variance": 0.2626527804403767,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 5.530679422183363e-07,
+        "mutual_information": 0.00043050987136701726,
+        "component_KL": 0.00043106293930921896,
+        "posterior_mean_energy": 1.3543730940545943e-07,
+        "posterior_entropy_bound": 3.4440789709361397e-07
+      },
+      "after_keep": {
+        "A": 0.2,
+        "base_variance": 0.5253055608807534,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 4.560262062956643e-08,
+        "mutual_information": 0.00012338665164381786,
+        "component_KL": 0.00012343225426444254,
+        "posterior_mean_energy": 3.8890621491867164e-08,
+        "posterior_entropy_bound": 9.870932131505433e-08
+      },
+      "final_KL_bound": 3.3140014148994035e-06,
+      "dimension_1e9_bound": 3314.0014148994037
+    },
+    {
+      "A": 0.2,
+      "total_base_variance": 0.2,
+      "before_keep": {
+        "A": 0.2,
+        "base_variance": 0.1,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 1.1871881123916543e-05,
+        "mutual_information": 0.0020131397704383617,
+        "component_KL": 0.0020250116515623424,
+        "posterior_mean_energy": 6.274687276573591e-07,
+        "posterior_entropy_bound": 1.61051181635069e-06
+      },
+      "after_keep": {
+        "A": 0.2,
+        "base_variance": 0.2,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 1.3945829465923119e-06,
+        "mutual_information": 0.0006846747724856109,
+        "component_KL": 0.0006860693554321786,
+        "posterior_mean_energy": 2.150650389581689e-07,
+        "posterior_entropy_bound": 5.477398179884889e-07
+      },
+      "final_KL_bound": 0.00015771779615958103,
+      "dimension_1e9_bound": 157717.79615958102
+    },
+    {
+      "A": 0.2,
+      "total_base_variance": 0.0894427190999916,
+      "before_keep": {
+        "A": 0.2,
+        "base_variance": 0.0447213595499958,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 8.569422692147338e-05,
+        "mutual_information": 0.005508623272449125,
+        "component_KL": 0.005594317499370545,
+        "posterior_mean_energy": 1.685513649719348e-06,
+        "posterior_entropy_bound": 4.406898617959302e-06
+      },
+      "after_keep": {
+        "A": 0.2,
+        "base_variance": 0.0894427190999916,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 1.6188268299000155e-05,
+        "mutual_information": 0.0023552853004621794,
+        "component_KL": 0.002371473568761164,
+        "posterior_mean_energy": 7.327011934052123e-07,
+        "posterior_entropy_bound": 1.8842282403697443e-06
+      },
+      "final_KL_bound": 0.003942944903989524,
+      "dimension_1e9_bound": 3942944.903989524
+    },
+    {
+      "A": 0.2,
+      "total_base_variance": 0.04000000000000001,
+      "before_keep": {
+        "A": 0.2,
+        "base_variance": 0.020000000000000004,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 0.0003272748301890711,
+        "mutual_information": 0.01103863502147845,
+        "component_KL": 0.011365909851667438,
+        "posterior_mean_energy": 3.2927563031220317e-06,
+        "posterior_entropy_bound": 8.830908017182765e-06
+      },
+      "after_keep": {
+        "A": 0.2,
+        "base_variance": 0.04000000000000001,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 0.00010719268743234159,
+        "mutual_information": 0.006181136089433357,
+        "component_KL": 0.006288328776865672,
+        "posterior_mean_energy": 1.88504387649575e-06,
+        "posterior_entropy_bound": 4.944908871546687e-06
+      },
+      "final_KL_bound": 0.09857362259973809,
+      "dimension_1e9_bound": 98573622.59973809
+    },
+    {
+      "A": 0.2,
+      "total_base_variance": 0.01788854381999832,
+      "before_keep": {
+        "A": 0.2,
+        "base_variance": 0.00894427190999916,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 0.000716459697576397,
+        "mutual_information": 0.016705290217420645,
+        "component_KL": 0.01742174991499698,
+        "posterior_mean_energy": 4.870167665017588e-06,
+        "posterior_entropy_bound": 1.3364232173936522e-05
+      },
+      "after_keep": {
+        "A": 0.2,
+        "base_variance": 0.01788854381999832,
+        "lip": 0.020000000000000004,
+        "energy_squared": 0.000157717796159581,
+        "mixture_KL": 0.0003757750762632548,
+        "mutual_information": 0.011869478776748389,
+        "component_KL": 0.012245253853011735,
+        "posterior_mean_energy": 3.528124010220493e-06,
+        "posterior_entropy_bound": 9.495583021398715e-06
+      },
+      "final_KL_bound": 2.4643405649934533,
+      "dimension_1e9_bound": 2464340564.9934535
+    },
+    {
+      "A": 0.5,
+      "total_base_variance": 0.757858283255199,
+      "before_keep": {
+        "A": 0.5,
+        "base_variance": 0.3789291416275995,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 4.3667360411234766e-05,
+        "mutual_information": 0.0039004935314853905,
+        "component_KL": 0.003944160891896687,
+        "posterior_mean_energy": 4.700392138470603e-05,
+        "posterior_entropy_bound": 0.00012189042285891845
+      },
+      "after_keep": {
+        "A": 0.5,
+        "base_variance": 0.757858283255199,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 6.779884673597553e-06,
+        "mutual_information": 0.0015170483559224532,
+        "component_KL": 0.0015238282405960956,
+        "posterior_mean_energy": 1.8522967281130298e-05,
+        "posterior_entropy_bound": 4.740776112257666e-05
+      },
+      "final_KL_bound": 0.0011672630687138033,
+      "dimension_1e9_bound": 1167263.0687138033
+    },
+    {
+      "A": 0.5,
+      "total_base_variance": 0.5,
+      "before_keep": {
+        "A": 0.5,
+        "base_variance": 0.25,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 0.00010719268743225268,
+        "mutual_information": 0.00618113608943334,
+        "component_KL": 0.0062883287768656735,
+        "posterior_mean_energy": 7.363452642561524e-05,
+        "posterior_entropy_bound": 0.00019316050279479189
+      },
+      "after_keep": {
+        "A": 0.5,
+        "base_variance": 0.5,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 2.1832913308312913e-05,
+        "mutual_information": 0.0027410636329192775,
+        "component_KL": 0.0027628965462275067,
+        "posterior_mean_energy": 3.3238056411996117e-05,
+        "posterior_entropy_bound": 8.565823852872742e-05
+      },
+      "final_KL_bound": 0.006160851412483631,
+      "dimension_1e9_bound": 6160851.412483631
+    },
+    {
+      "A": 0.5,
+      "total_base_variance": 0.3535533905932738,
+      "before_keep": {
+        "A": 0.5,
+        "base_variance": 0.1767766952966369,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 0.00019842988165618555,
+        "mutual_information": 0.008500935472788056,
+        "component_KL": 0.008699365354444304,
+        "posterior_mean_energy": 0.00010017022567133077,
+        "posterior_entropy_bound": 0.00026565423352462676
+      },
+      "after_keep": {
+        "A": 0.5,
+        "base_variance": 0.3535533905932738,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 5.133046892313655e-05,
+        "mutual_information": 0.004236252422386625,
+        "component_KL": 0.004287582891309774,
+        "posterior_mean_energy": 5.096071552291046e-05,
+        "posterior_entropy_bound": 0.00013238288819958203
+      },
+      "final_KL_bound": 0.024643405649934516,
+      "dimension_1e9_bound": 24643405.649934515
+    },
+    {
+      "A": 0.5,
+      "total_base_variance": 0.25,
+      "before_keep": {
+        "A": 0.5,
+        "base_variance": 0.125,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 0.0003272748301890019,
+        "mutual_information": 0.011038635021478463,
+        "component_KL": 0.011365909851667442,
+        "posterior_mean_energy": 0.00012862329309070437,
+        "posterior_entropy_bound": 0.00034495734442120196
+      },
+      "after_keep": {
+        "A": 0.5,
+        "base_variance": 0.25,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 0.00010719268743225268,
+        "mutual_information": 0.00618113608943334,
+        "component_KL": 0.0062883287768656735,
+        "posterior_mean_energy": 7.363452642561524e-05,
+        "posterior_entropy_bound": 0.00019316050279479189
+      },
+      "final_KL_bound": 0.09857362259973809,
+      "dimension_1e9_bound": 98573622.59973809
+    },
+    {
+      "A": 0.5,
+      "total_base_variance": 0.1767766952966369,
+      "before_keep": {
+        "A": 0.5,
+        "base_variance": 0.08838834764831845,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 0.0004862054958139704,
+        "mutual_information": 0.013596546446797104,
+        "component_KL": 0.014082751942611146,
+        "posterior_mean_energy": 0.00015674788505448437,
+        "posterior_entropy_bound": 0.0004248920764624095
+      },
+      "after_keep": {
+        "A": 0.5,
+        "base_variance": 0.1767766952966369,
+        "lip": 0.125,
+        "energy_squared": 0.006160851412483631,
+        "mixture_KL": 0.00019842988165618555,
+        "mutual_information": 0.008500935472788056,
+        "component_KL": 0.008699365354444304,
+        "posterior_mean_energy": 0.00010017022567133077,
+        "posterior_entropy_bound": 0.00026565423352462676
+      },
+      "final_KL_bound": 0.39429449039895226,
+      "dimension_1e9_bound": 394294490.39895225
+    }
+  ],
+  "source_sha256": {
+    "/workspace/shared/law-only-variance-join-20261005/LAW-ONLY-SHRINKING-BUFFER-JOIN.md": "40891db38221e3b02f2e657a4ef93c3e4fd06c69b29cc03e7db9c5761fe2fc0a",
+    "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md": "7476219bacabfacc44030a14710408735d3e31b78103376d57f525a3518726dc",
+    "/workspace/shared/retuned-gram-native-20261005/independent-audit/INDEPENDENT-RETUNED-GRAM-AUDIT.md": "e0402ea6ca8ac840726090b7b2c05dc276e434843dfd257b9a6fffd46ae7fc60",
+    "/workspace/shared/retuned-gram-native-20261005/independent-audit/check_retuned_gram.py": "3e94964fa6f9ff792e051a5f2869664e833c3e11ddecd95a6bc6800e4a14b79b"
+  }
+}

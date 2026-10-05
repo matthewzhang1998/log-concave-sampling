@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-05",
+  "status": "PASS",
+  "scope": "Audited fixed-family cutoff-free positive coefficient quadrature; full native/replay obligations retained",
+  "author_checks": 1356,
+  "independent_checks": 3175,
+  "files": [
+    {
+      "path": "COMPLETE-EXECUTION-BILL.md",
+      "bytes": 6932,
+      "sha256": "ebf6c935dcd14d4091acbf186611b364ae9381d56178a3f9726d5674ef161252"
+    },
+    {
+      "path": "CUTOFF-FREE-SECTOR-GAUSS.md",
+      "bytes": 16774,
+      "sha256": "4a422374bfde930ec8ea5df64cde24c7977d2602283726d0fee1db758343893d"
+    },
+    {
+      "path": "FINAL-STATUS.md",
+      "bytes": 3528,
+      "sha256": "d7e82bad16cad8e79d89f32baf8648016e6e8a193780ca5d4bf6a68fc345dc8e"
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "bytes": 2860,
+      "sha256": "b218ae3b2cfc7c2f9ad7d1c04ee83e224049e16e37488c1342140a5ad2ab5d84"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1981,
+      "sha256": "731be02f58522755dc634d45a63f840baa40cfd681622cf91e4f3832ea3d4d25"
+    },
+    {
+      "path": "SEAL-VERIFICATION.json",
+      "bytes": 5424,
+      "sha256": "f9fe592709ee9253de2d781ca22c7363cb91918763ea05ec00d0bfc8822807ec"
+    },
+    {
+      "path": "check-run.txt",
+      "bytes": 510,
+      "sha256": "1dc4d4bf47c44e660011f6df295dd75952efcba21ccc794bac71c642db58ac16"
+    },
+    {
+      "path": "check_production_callback.py",
+      "bytes": 2253,
+      "sha256": "9686a4f4f614bf32f992362596fe6eb24fc715961d657cc0a2d2f62f6ef1dbbb"
+    },
+    {
+      "path": "checks.json",
+      "bytes": 102083,
+      "sha256": "94ded9384877ff1bb3c99b8a744cf578ad3326507df29624ef391d66b4f90a87"
+    },
+    {
+      "path": "cutoff_free_sector_gauss.py",
+      "bytes": 7729,
+      "sha256": "0247e3ffd5d76a99add43fe1c4b8679c19ca59eb703762c6f8269655642cfe49"
+    },
+    {
+      "path": "gauss_rational_core.py",
+      "bytes": 9950,
+      "sha256": "5646f982f27791a0026aece20f7299f42eb2b4e0fb106bfb0f4ee1b3c26b920c"
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-COMPLEX-OU-CLOCK-AUDIT.md",
+      "bytes": 13788,
+      "sha256": "cb90f4d197af77a2b3cc272651dbfafd15cfe3146a2a9eda6afdef9804047f4f"
+    },
+    {
+      "path": "independent-audit/REVIEW-PIN.json",
+      "bytes": 2772,
+      "sha256": "c2fef5f44e151f7da7134410fa5d22bd14170ca312fb7612d405f4aa200e1487"
+    },
+    {
+      "path": "independent-audit/audit-check-run.txt",
+      "bytes": 1322,
+      "sha256": "66714d878c82116998f3ee01ce502771212d029a02e12002a04da9d28bf5b6a8"
+    },
+    {
+      "path": "independent-audit/check_complex_ou_clock_audit.py",
+      "bytes": 6188,
+      "sha256": "035f1dafb4e0bcbf750779a9d3017fd42a0963b13a704a91a7456acb141a45d9"
+    },
+    {
+      "path": "independent-audit/complex-ou-clock-audit-checks.json",
+      "bytes": 261039,
+      "sha256": "a41e0057bd3806be23fb53b8256bbc7a5ba98f86ec00c5f4f27f9f90b3837341"
+    },
+    {
+      "path": "production-callback-checks.json",
+      "bytes": 912,
+      "sha256": "c6ca76e19a9e2d3e6067992ee2f6885859cccd176f99281168737353ec975a65"
+    },
+    {
+      "path": "production-callback-run.txt",
+      "bytes": 912,
+      "sha256": "c6ca76e19a9e2d3e6067992ee2f6885859cccd176f99281168737353ec975a65"
+    }
+  ]
+}

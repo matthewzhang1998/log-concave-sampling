@@ -1,0 +1,53 @@
+{
+  "scope": "Read-only imported source snapshots; all retained-law scopes and numerical guards preserved",
+  "inputs": [
+    {
+      "path": "/workspace/shared/dyadic-bridge-square-20261005/MANIFEST.json",
+      "sha256": "2365fc791230cd2d73be22964abf45c071825771ca9d6e860b483a7843a67a0a"
+    },
+    {
+      "path": "/workspace/shared/dyadic-bridge-square-20261005/DYADIC-POSITIVE-BRIDGE-COVARIANCE.md",
+      "sha256": "9bc692e910de080b46690bd698e460e386ce6ee1a4de6c6c7d39cddb293ff40e"
+    },
+    {
+      "path": "/workspace/shared/dyadic-bridge-square-20261005/SCALAR-CLOCK-IMPLEMENTATION-ADDENDUM.md",
+      "sha256": "cc4404fe4becbb1c5f4768e043ca4f1a6d0d531bfc10f15d3b5a1f7afd06f89e"
+    },
+    {
+      "path": "/workspace/shared/multilevel-covariance-independent-audit-20261005/INDEPENDENT-AUDIT.md",
+      "sha256": "767a24b61ec85a27e0a304fc3e4647263af3ac9ee2aefdc224e3c540fae0385c"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/MANIFEST.json",
+      "sha256": "dde7c7e3220b18f65d13039587af6cd9690db0264f10f87c00fcbcb6870ccad9"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md",
+      "sha256": "de4a0e0f35b6b453414ab4b3b4569e56bf3243b4353666b6f94d00a3c8ae6c5c"
+    },
+    {
+      "path": "/workspace/shared/quartic-corrected-mean-join-20261005/independent-audit/INDEPENDENT-JOIN-AUDIT.md",
+      "sha256": "8098d62b9136f775eca79d8ea97fa513a418db70dd365b955bb7b74ad63c5485"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md",
+      "sha256": "53748adb366902bc875e5d74871bcd1a9cda74ec22524bba699f38fc4c918f49"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md",
+      "sha256": "cf76b2e851b8c0857fcecebbba226eefecfdba835b26ab57216d8265bb864e9f"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/POSITIVE-CORRECTED-GRAM-MIXTURE.md",
+      "sha256": "cf94de42b101c417e4902eaf90284c06d418f23adadfef3990101b0cb11ed731"
+    },
+    {
+      "path": "/workspace/shared/smoothed-bridge-prefix-20261005/SMOOTHED-BRIDGE-PREFIX.md",
+      "sha256": "c26e44e932f0626cd7101d092d679f7b416d4d1e71adaf09e3cf4a48941e4258"
+    },
+    {
+      "path": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "checks": 2721,
+  "status": "PASS",
+  "worst_spectral_ratio": 0.011246678362743637,
+  "ledger": {
+    "smoothing": "19/5",
+    "smoothing_drift": "23/5",
+    "commutation": "19/5",
+    "bridge_mean": "24/5",
+    "bridge_covariance": "19/5",
+    "two_third_currents": "4",
+    "near_raw": "19/5",
+    "near_raw_w": "21/5",
+    "native_mean_1": "19/5",
+    "native_mean_2": "21/5",
+    "native_mean_3": "41/10",
+    "native_mean_4": "23/5",
+    "native_mean_5": "91/20",
+    "native_mean_6": "24/5",
+    "cubic_prior_bulk": "22/5",
+    "cubic_prior_endpoint": "22/5",
+    "cubic_feedback_bulk": "5",
+    "cubic_feedback_endpoint": "23/5"
+  },
+  "guards": {
+    "mean": "1/5",
+    "self_reserve": "3/20",
+    "mixedK": "7/15",
+    "cubic_gap": "3/5",
+    "covariance_gap": "2/5"
+  },
+  "scope": "Finite source scalar/algebra/PSD diagnostics, not full native numerical execution."
+}

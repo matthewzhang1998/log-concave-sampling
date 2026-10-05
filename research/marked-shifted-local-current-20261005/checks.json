@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "assertions": 970,
+  "checks": {
+    "exact_seven_queries": 72,
+    "original_site_record": 72,
+    "mark_energy": 72,
+    "response_energy": 72,
+    "u_first": 72,
+    "v_first": 72,
+    "mark_first": 72,
+    "response_first": 72,
+    "full_bank_curl": 72,
+    "jacobian_full_replay": 72,
+    "positive_current_identity": 72,
+    "full_row_symmetry": 72,
+    "shifted_ordered_chain": 72,
+    "noncommuting_original_hessians": 1,
+    "linear_exact_response": 9,
+    "linear_exact_mark": 9,
+    "vectorized_pair_five_original_sites": 1,
+    "whole_block_psd": 1,
+    "coherent_block_readout": 4,
+    "native_five_exact_powers": 1,
+    "native_row_domination": 5,
+    "sealed_input_pin": 3
+  },
+  "max_noncommuting_hessian_commutator": 0.0017260385721210635,
+  "scope": "Actual seven-VALUE local source/current diagnostics and exact native scaling; not a true F2/F3 genealogy or native compiler execution."
+}

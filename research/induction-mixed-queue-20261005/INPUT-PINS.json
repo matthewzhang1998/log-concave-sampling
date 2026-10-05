@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-05",
+  "inputs": [
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/MANIFEST.json",
+      "sha256": "875eca039776397c9f711ea71811e4236bcebac6b7411f430de617124592da3c",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md",
+      "sha256": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/EXACT-WHOLE-BANK-TREE-CENSUS.md",
+      "sha256": "7d1c4e516fa002fcb9559488c7e833681402e00b9f493c2af79d1b634ed6db49",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md",
+      "sha256": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/MANIFEST.json",
+      "sha256": "1f5b8bd6d8a06f0acbf4edf7ac1d6333a493e76ca4d213c85f86d277c7d6ac41",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/RANK8-SMOOTHED-NATIVE-RETURN.md",
+      "sha256": "f812083428f7b612cdc90a27a5da2be4aafd034f0d14b7cdc73e9bb5361cca27",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+      "sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/rank-indexed-positive-returns-20261005/ALL-RANK-APPELL-AND-POSITIVE-CONSUMER.md",
+      "sha256": "79ea44960cb3d439496bd90520c3442e6f2519a85201e263c9f27940b8ee4e52",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/cycle-surplus-closure-20261005/SHARED-AUXILIARY-FRAME-AND-REMAINDER.md",
+      "sha256": "077a892351a116b9ef1aca110bc16fe0377d7957dfb7d3aa07442ad62b569ba5",
+      "status": "pinned input"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/THREE-CUBIC-EXACT-HEAT.md",
+      "sha256": "d365907bda2bf9d24cb302410a656f9d6612f637bc286e84a0780487e5db23dc",
+      "status": "working source observed at seal; conditional application only"
+    },
+    {
+      "path": "/workspace/shared/induction-multicopy-heat-20261005/FINITE-CUBATURE-AND-N-COPY-RULE.md",
+      "sha256": "1b4142f838cca1947a2fd38affd8f12ed4e358b65b8d57029ae0ae2a4f7eefd6",
+      "status": "working source observed at seal; conditional application only"
+    },
+    {
+      "path": "/workspace/scratch/e90bd698ae04/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "status": "pinned input"
+    }
+  ]
+}

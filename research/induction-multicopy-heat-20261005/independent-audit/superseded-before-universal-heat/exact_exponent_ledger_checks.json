@@ -1,0 +1,133 @@
+{
+  "status": "PASS",
+  "three_cubic_patterns": [
+    {
+      "d": 0,
+      "ordered_patterns": 1
+    },
+    {
+      "d": 1,
+      "ordered_patterns": 3
+    },
+    {
+      "d": 2,
+      "ordered_patterns": 9
+    },
+    {
+      "d": 3,
+      "ordered_patterns": 27
+    }
+  ],
+  "mixed_patterns": [
+    {
+      "d": 0,
+      "ordered_patterns": 9,
+      "maximum_center_power": 4,
+      "maximum_leaf_power": 2,
+      "maximum_diagonal_eta_loss": "0",
+      "maximum_full_local_eta_loss": "0",
+      "proof_branches": {
+        "center_heat": 0,
+        "unheated_squared_clocks": 9
+      }
+    },
+    {
+      "d": 1,
+      "ordered_patterns": 54,
+      "maximum_center_power": 5,
+      "maximum_leaf_power": 3,
+      "maximum_diagonal_eta_loss": "0",
+      "maximum_full_local_eta_loss": "0",
+      "proof_branches": {
+        "center_heat": 2,
+        "unheated_squared_clocks": 52
+      }
+    },
+    {
+      "d": 2,
+      "ordered_patterns": 324,
+      "maximum_center_power": 6,
+      "maximum_leaf_power": 4,
+      "maximum_diagonal_eta_loss": "0",
+      "maximum_full_local_eta_loss": "0",
+      "proof_branches": {
+        "center_heat": 36,
+        "unheated_squared_clocks": 288
+      }
+    },
+    {
+      "d": 3,
+      "ordered_patterns": 1944,
+      "maximum_center_power": 7,
+      "maximum_leaf_power": 5,
+      "maximum_diagonal_eta_loss": "1/2",
+      "maximum_full_local_eta_loss": "1/2",
+      "proof_branches": {
+        "center_heat": 408,
+        "unheated_squared_clocks": 1536
+      }
+    }
+  ],
+  "mixed_total_patterns": 2331,
+  "weighted_pruefer": [
+    {
+      "force_counts": [
+        3,
+        3,
+        3
+      ],
+      "exact_histories": 243
+    },
+    {
+      "force_counts": [
+        3,
+        3,
+        6
+      ],
+      "exact_histories": 648
+    },
+    {
+      "force_counts": [
+        1,
+        2
+      ],
+      "exact_histories": 2
+    },
+    {
+      "force_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_histories": 2400
+    },
+    {
+      "force_counts": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "exact_histories": 5760000
+    },
+    {
+      "force_counts": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "exact_histories": 140026320
+    }
+  ],
+  "reviewed_sha256": {
+    "THREE-CUBIC-EXACT-HEAT.md": "86d8624af4479c1da9c532bd008ec3d5bdc48da33db18e4fb7febcc14a93959a",
+    "MIXED-THREE-THREE-SIX.md": "873d636d9a64caf7cbd96f242018c3d3c0eeed7546c1a7c8d83f4b02becd0fb6",
+    "FINITE-CUBATURE-AND-N-COPY-RULE.md": "afc63b3e0f1e77f2cc9822af7ceddb8d1120f23a9404c1684c48f655a636d3d0"
+  },
+  "scope": "Exact finite integer/rational exponent checks only. The audit text supplies the mathematical arguments. Native sources were not executed."
+}

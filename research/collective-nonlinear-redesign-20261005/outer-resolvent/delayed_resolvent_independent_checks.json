@@ -1,0 +1,128 @@
+{
+  "status": "passed",
+  "positive_ou_quadrature": [
+    {
+      "delta": 0.2,
+      "nodes": 21,
+      "exact_real_certificate": 0.09375,
+      "sampled_multiplier_max": 0.003674819434721968,
+      "mass_error": 0.0,
+      "first_moment_error": 0.0
+    },
+    {
+      "delta": 0.01,
+      "nodes": 55,
+      "exact_real_certificate": 0.005859375,
+      "sampled_multiplier_max": 0.00022885120095546385,
+      "mass_error": 2.220446049250313e-16,
+      "first_moment_error": 1.1102230246251565e-16
+    },
+    {
+      "delta": 0.0001,
+      "nodes": 145,
+      "exact_real_certificate": 6.103515625e-05,
+      "sampled_multiplier_max": 1.787488357812275e-06,
+      "mass_error": 0.0,
+      "first_moment_error": 0.0
+    },
+    {
+      "delta": 1e-08,
+      "nodes": 465,
+      "exact_real_certificate": 5.587935447692871e-09,
+      "sampled_multiplier_max": 2.1821210556779994e-10,
+      "mass_error": 1.1102230246251565e-16,
+      "first_moment_error": 0.0
+    }
+  ],
+  "radial_C2_row_limit": [
+    {
+      "A": 0.01,
+      "nodes": 36,
+      "outer_first_chaos_defect": -4.037098071791277e-08,
+      "over_A2": -0.0004037098071791277,
+      "over_A3": -0.040370980717912765,
+      "over_A_11_4": 0.012766425044334395
+    },
+    {
+      "A": 0.001,
+      "nodes": 61,
+      "outer_first_chaos_defect": -4.1549863999705214e-11,
+      "over_A2": -4.1549863999705214e-05,
+      "over_A3": -0.041549863999705214,
+      "over_A_11_4": 0.007388726764059326
+    },
+    {
+      "A": 0.0001,
+      "nodes": 85,
+      "outer_first_chaos_defect": -4.1990552135102825e-14,
+      "over_A2": -4.1990552135102825e-06,
+      "over_A3": -0.04199055213510282,
+      "over_A_11_4": 0.0041990552135102825
+    },
+    {
+      "A": 1e-05,
+      "nodes": 136,
+      "outer_first_chaos_defect": -4.213734802705968e-17,
+      "over_A2": -4.2137348027059674e-07,
+      "over_A3": -0.042137348027059665,
+      "over_A_11_4": 0.0023695572129543672
+    },
+    {
+      "A": 1e-06,
+      "nodes": 171,
+      "outer_first_chaos_defect": -4.216635890550314e-20,
+      "over_A2": -4.216635890550314e-08,
+      "over_A3": -0.042166358905503146,
+      "over_A_11_4": 0.0013334173477751459
+    }
+  ],
+  "exact_quadratic_ledger": [
+    {
+      "A": 0.08,
+      "inner_K2_defect": -0.040000000000000036,
+      "inner_K3_defect": -0.17726493526370574,
+      "correction_K2": 0.04,
+      "correction_K3": 0.17726493526370574
+    },
+    {
+      "A": 0.01,
+      "inner_K2_defect": -0.0050000000000000044,
+      "inner_K3_defect": -0.2095,
+      "correction_K2": 0.005000000000000001,
+      "correction_K3": 0.2095
+    },
+    {
+      "A": 0.0001,
+      "inner_K2_defect": -4.999999999999449e-05,
+      "inner_K3_defect": -0.2450995,
+      "correction_K2": 5e-05,
+      "correction_K3": 0.2450995
+    }
+  ],
+  "noncommuting_source_ports": [
+    {
+      "A": 0.08,
+      "inner_nodes": 21,
+      "outer_nodes": 61,
+      "sampled_normalized_first_over_A": 0.03966416459261176,
+      "sampled_normalized_curl_over_A2": 0.40769021972903624,
+      "sampled_uncaptured_caller_over_A": 0.0142680921706069
+    },
+    {
+      "A": 0.01,
+      "inner_nodes": 36,
+      "outer_nodes": 145,
+      "sampled_normalized_first_over_A": 0.005508981177429088,
+      "sampled_normalized_curl_over_A2": 0.4782918587957019,
+      "sampled_uncaptured_caller_over_A": 0.0017139799906864398
+    }
+  ],
+  "delayed_grade_max_sampled_constant": 2.904742633050951,
+  "grade_three_backup_rational_constant": "2823161/368640",
+  "limitations": [
+    "Numerical multiplier checks do not replace the uniform ellipse proof.",
+    "Radial rows test the exact source formula in the Gaussian-row limit, not an infinite-dimensional sampled gradient.",
+    "Ports are analytic in the proof; sampled source checks are diagnostics only.",
+    "No completed native compiler or finite-precision production implementation was executed."
+  ]
+}

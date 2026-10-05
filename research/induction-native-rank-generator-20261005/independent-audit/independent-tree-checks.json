@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "assertions": 17566,
+  "flow_cases": 768,
+  "heterogeneous_dense_tree_networks": 45,
+  "restricted_multigraph_HS_networks": 45,
+  "scope": "Supports Section 8 only. No all-cut theorem for cyclic graphs, self-traces, or native return."
+}

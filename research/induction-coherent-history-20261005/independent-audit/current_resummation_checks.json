@@ -1,0 +1,353 @@
+{
+  "status": "pass",
+  "guard_h": 0.125,
+  "guard_e": 0.265625,
+  "quadrature_nodes_each_coordinate": 96,
+  "likelihood_cases": [
+    {
+      "eigenvalues": [
+        0,
+        0
+      ],
+      "moment_absolute_errors": [
+        4.440892098500626e-16,
+        4.440892098500626e-16,
+        4.440892098500626e-16
+      ],
+      "truncations": [
+        {
+          "degree_half": 0,
+          "tail_squared": 0.0,
+          "original_bound_squared": 0.2822265625,
+          "sharper_bound_squared": 0.07591279222484897
+        },
+        {
+          "degree_half": 1,
+          "tail_squared": 0.0,
+          "original_bound_squared": 0.0398259162902832,
+          "sharper_bound_squared": 0.005356151599848962
+        },
+        {
+          "degree_half": 2,
+          "tail_squared": 0.0,
+          "original_bound_squared": 0.00561996572650969,
+          "sharper_bound_squared": 0.00037791206356356207
+        },
+        {
+          "degree_half": 3,
+          "tail_squared": 0.0,
+          "original_bound_squared": 0.0007930518041803225,
+          "sharper_bound_squared": 2.6664205656706404e-05
+        },
+        {
+          "degree_half": 4,
+          "tail_squared": 0.0,
+          "original_bound_squared": 0.00011191014228911778,
+          "sharper_bound_squared": 1.881336776071326e-06
+        },
+        {
+          "degree_half": 5,
+          "tail_squared": 0.0,
+          "original_bound_squared": 1.5792007383571795e-05,
+          "sharper_bound_squared": 1.3274080280386064e-07
+        },
+        {
+          "degree_half": 6,
+          "tail_squared": 0.0,
+          "original_bound_squared": 2.2284619794200434e-06,
+          "sharper_bound_squared": 9.365745119705987e-09
+        },
+        {
+          "degree_half": 7,
+          "tail_squared": 0.0,
+          "original_bound_squared": 3.144655820568323e-07,
+          "sharper_bound_squared": 6.60815512596443e-10
+        }
+      ]
+    },
+    {
+      "eigenvalues": [
+        0.265625,
+        0.265625
+      ],
+      "moment_absolute_errors": [
+        2.220446049250313e-16,
+        0.0,
+        0.0
+      ],
+      "truncations": [
+        {
+          "degree_half": 0,
+          "tail_squared": 0.07591279222484894,
+          "original_bound_squared": 0.2822265625,
+          "sharper_bound_squared": 0.07591279222484897
+        },
+        {
+          "degree_half": 1,
+          "tail_squared": 0.005356151599848955,
+          "original_bound_squared": 0.0398259162902832,
+          "sharper_bound_squared": 0.005356151599848962
+        },
+        {
+          "degree_half": 2,
+          "tail_squared": 0.000377912063563562,
+          "original_bound_squared": 0.00561996572650969,
+          "sharper_bound_squared": 0.00037791206356356207
+        },
+        {
+          "degree_half": 3,
+          "tail_squared": 2.6664205656706343e-05,
+          "original_bound_squared": 0.0007930518041803225,
+          "sharper_bound_squared": 2.6664205656706404e-05
+        },
+        {
+          "degree_half": 4,
+          "tail_squared": 1.8813367760713182e-06,
+          "original_bound_squared": 0.00011191014228911778,
+          "sharper_bound_squared": 1.881336776071326e-06
+        },
+        {
+          "degree_half": 5,
+          "tail_squared": 1.3274080280386413e-07,
+          "original_bound_squared": 1.5792007383571795e-05,
+          "sharper_bound_squared": 1.3274080280386064e-07
+        },
+        {
+          "degree_half": 6,
+          "tail_squared": 9.36574511970504e-09,
+          "original_bound_squared": 2.2284619794200434e-06,
+          "sharper_bound_squared": 9.365745119705987e-09
+        },
+        {
+          "degree_half": 7,
+          "tail_squared": 6.608155125967826e-10,
+          "original_bound_squared": 3.144655820568323e-07,
+          "sharper_bound_squared": 6.60815512596443e-10
+        }
+      ]
+    },
+    {
+      "eigenvalues": [
+        -0.234375,
+        0.265625
+      ],
+      "moment_absolute_errors": [
+        2.220446049250313e-16,
+        2.220446049250313e-16,
+        4.440892098500626e-16
+      ],
+      "truncations": [
+        {
+          "degree_half": 0,
+          "tail_squared": 0.06698158472018738,
+          "original_bound_squared": 0.2822265625,
+          "sharper_bound_squared": 0.07591279222484897
+        },
+        {
+          "degree_half": 1,
+          "tail_squared": 0.004237444095187383,
+          "original_bound_squared": 0.0398259162902832,
+          "sharper_bound_squared": 0.005356151599848962
+        },
+        {
+          "degree_half": 2,
+          "tail_squared": 0.0002700993342926119,
+          "original_bound_squared": 0.00561996572650969,
+          "sharper_bound_squared": 0.00037791206356356207
+        },
+        {
+          "degree_half": 3,
+          "tail_squared": 1.734209828035425e-05,
+          "original_bound_squared": 0.0007930518041803225,
+          "sharper_bound_squared": 2.6664205656706404e-05
+        },
+        {
+          "degree_half": 4,
+          "tail_squared": 1.1212384428087228e-06,
+          "original_bound_squared": 0.00011191014228911778,
+          "sharper_bound_squared": 1.881336776071326e-06
+        },
+        {
+          "degree_half": 5,
+          "tail_squared": 7.29709875242024e-08,
+          "original_bound_squared": 1.5792007383571795e-05,
+          "sharper_bound_squared": 1.3274080280386064e-07
+        },
+        {
+          "degree_half": 6,
+          "tail_squared": 4.7783790594519785e-09,
+          "original_bound_squared": 2.2284619794200434e-06,
+          "sharper_bound_squared": 9.365745119705987e-09
+        },
+        {
+          "degree_half": 7,
+          "tail_squared": 3.147038984296166e-10,
+          "original_bound_squared": 3.144655820568323e-07,
+          "sharper_bound_squared": 6.60815512596443e-10
+        }
+      ]
+    },
+    {
+      "eigenvalues": [
+        0.0,
+        0.265625
+      ],
+      "moment_absolute_errors": [
+        2.220446049250313e-16,
+        0.0,
+        4.440892098500626e-16
+      ],
+      "truncations": [
+        {
+          "degree_half": 0,
+          "tail_squared": 0.03726216176280573,
+          "original_bound_squared": 0.2822265625,
+          "sharper_bound_squared": 0.07591279222484897
+        },
+        {
+          "degree_half": 1,
+          "tail_squared": 0.001983841450305728,
+          "original_bound_squared": 0.0398259162902832,
+          "sharper_bound_squared": 0.005356151599848962
+        },
+        {
+          "degree_half": 2,
+          "tail_squared": 0.00011700162419870492,
+          "original_bound_squared": 0.00561996572650969,
+          "sharper_bound_squared": 0.00037791206356356207
+        },
+        {
+          "degree_half": 3,
+          "tail_squared": 7.2366686028130635e-06,
+          "original_bound_squared": 0.0007930518041803225,
+          "sharper_bound_squared": 2.6664205656706404e-05
+        },
+        {
+          "degree_half": 4,
+          "tail_squared": 4.6010289326426095e-07,
+          "original_bound_squared": 0.00011191014228911778,
+          "sharper_bound_squared": 1.881336776071326e-06
+        },
+        {
+          "degree_half": 5,
+          "tail_squared": 2.978435296801177e-08,
+          "original_bound_squared": 1.5792007383571795e-05,
+          "sharper_bound_squared": 1.3274080280386064e-07
+        },
+        {
+          "degree_half": 6,
+          "tail_squared": 1.9526749162104826e-09,
+          "original_bound_squared": 2.2284619794200434e-06,
+          "sharper_bound_squared": 9.365745119705987e-09
+        },
+        {
+          "degree_half": 7,
+          "tail_squared": 1.2923018894019975e-10,
+          "original_bound_squared": 3.144655820568323e-07,
+          "sharper_bound_squared": 6.60815512596443e-10
+        }
+      ]
+    },
+    {
+      "eigenvalues": [
+        0.1,
+        -0.13
+      ],
+      "moment_absolute_errors": [
+        2.220446049250313e-16,
+        2.220446049250313e-16,
+        2.220446049250313e-16
+      ],
+      "truncations": [
+        {
+          "degree_half": 0,
+          "tail_squared": 0.013639566857642506,
+          "original_bound_squared": 0.2822265625,
+          "sharper_bound_squared": 0.07591279222484897
+        },
+        {
+          "degree_half": 1,
+          "tail_squared": 0.00018956685764250048,
+          "original_bound_squared": 0.0398259162902832,
+          "sharper_bound_squared": 0.005356151599848962
+        },
+        {
+          "degree_half": 2,
+          "tail_squared": 2.7131076425005434e-06,
+          "original_bound_squared": 0.00561996572650969,
+          "sharper_bound_squared": 0.00037791206356356207
+        },
+        {
+          "degree_half": 3,
+          "tail_squared": 3.983608000054726e-08,
+          "original_bound_squared": 0.0007930518041803225,
+          "sharper_bound_squared": 2.6664205656706404e-05
+        },
+        {
+          "degree_half": 4,
+          "tail_squared": 5.976634107047735e-10,
+          "original_bound_squared": 0.00011191014228911778,
+          "sharper_bound_squared": 1.881336776071326e-06
+        },
+        {
+          "degree_half": 5,
+          "tail_squared": 9.127660314654955e-12,
+          "original_bound_squared": 1.5792007383571795e-05,
+          "sharper_bound_squared": 1.3274080280386064e-07
+        },
+        {
+          "degree_half": 6,
+          "tail_squared": 1.414266060156099e-13,
+          "original_bound_squared": 2.2284619794200434e-06,
+          "sharper_bound_squared": 9.365745119705987e-09
+        },
+        {
+          "degree_half": 7,
+          "tail_squared": 2.2169327208950623e-15,
+          "original_bound_squared": 3.144655820568323e-07,
+          "sharper_bound_squared": 6.60815512596443e-10
+        }
+      ]
+    }
+  ],
+  "retained_mark_same_G_cost": 0.1300132926885364,
+  "retained_mark_bound": 0.1306322047603437,
+  "correlated_mark_polynomial_identity_error": 2.222594087188876e-14,
+  "rotating_range_derivative_counterexample": [
+    {
+      "retained_projection": 1,
+      "transverse": 1,
+      "log_l_derivative": 0.17355371900826455
+    },
+    {
+      "retained_projection": 1,
+      "transverse": 10,
+      "log_l_derivative": 1.7355371900826455
+    },
+    {
+      "retained_projection": 1,
+      "transverse": 100,
+      "log_l_derivative": 17.355371900826455
+    },
+    {
+      "retained_projection": 1,
+      "transverse": 1000,
+      "log_l_derivative": 173.55371900826455
+    }
+  ],
+  "DE_ranks": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "scope": "Deterministic diagnostics support the accompanying proofs; no general native/history admission is inferred."
+}

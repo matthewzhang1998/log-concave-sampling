@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-05",
+  "title": "Interacting dyadic history order-two truncation and finite positive pair port",
+  "scope": "Analytical coherent-block interaction truncation with explicit block-size dependence; finite original-VALUE pair Gram/LAW; fixed-shape Gaussian compression and relative-gap obstruction. No full m4 history compiler.",
+  "files": [
+    {
+      "path": "COHERENT-BLOCK-ORDER-TWO-EXTENSION.md",
+      "sha256": "2641d3fd84968702ab5bfa5857718f817f99a3e31f976cccfc04b5feb16080a6",
+      "bytes": 5424
+    },
+    {
+      "path": "FINITE-ORDER-TWO-C2-TAIL.md",
+      "sha256": "4244e5c00f8bad67f36c11fd90b9b016fd36a2b5cdd68ebb0ba20044cc821400",
+      "bytes": 10557
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "3b45e67c00aebd9ead8f5ad1be66587e07dff9c7d3938a5ad4bc86a46df123eb",
+      "bytes": 850
+    },
+    {
+      "path": "INTEGRATION-AUDIT.md",
+      "sha256": "c83e9351e3b53a350ca65296ee282d4bb6a2034d25b179fa91c4d75c115f223e",
+      "bytes": 5685
+    },
+    {
+      "path": "MULTIINTERVAL-COMPRESSION-AND-GAP-OBSTRUCTION.md",
+      "sha256": "8bf3c9d9bffd06a546f0c9c43275a5c2a41e84b2b1b96a3e751f081674e874ff",
+      "bytes": 14101
+    },
+    {
+      "path": "PAIR-SECANT-POSITIVE-GRAM-PORT.md",
+      "sha256": "213613b99f8640f94a93b06915798b64f0b65c17b7352eeb8ce4e1e9e4b779f6",
+      "bytes": 15599
+    },
+    {
+      "path": "README.md",
+      "sha256": "592515aa93ae1574742c7e6b470d09dd6032fad665cbd731ee31b15762691dd0",
+      "bytes": 3023
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-PAIR-STEIN-AUDIT.md",
+      "sha256": "32655978879335cae52a47249659eb2b7a2e13c7dadf50797249b16cddd37f75",
+      "bytes": 5925
+    }
+  ],
+  "input_pins": "INPUT-PINS.json",
+  "independent_audit": "independent-audit/INDEPENDENT-PAIR-STEIN-AUDIT.md",
+  "no_external_publication": true,
+  "no_executed_history_grid": true
+}

@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "assertions": 23511,
+  "sealed_manifest_sha256": "cd1111e28dc399643f27bcdd0f97dc735ada196f8a43f220211500bcb45be3ae",
+  "entropy": {
+    "maximum_affine_identity_error": 2.2737367544323206e-13,
+    "minimum_upper_bound_slack": 2.3338087018487386e-09,
+    "maximum_tested_nonsymmetry": 1.2447953096944864
+  },
+  "terminal_maps": {
+    "maximum_fraction_of_declared_jacobian_bound": 0.28231404005019717,
+    "maximum_fraction_of_declared_source_displacement_bound": 0.3468443214575619,
+    "maximum_terminal_jacobian_nonsymmetry": 0.0012115266698777202,
+    "maximum_source_Hessian_commutator": 0.001957710652967678,
+    "maximum_finite_difference_error": 1.8347505959632298e-10
+  },
+  "conservative_constants_at_A_1_over_36": {
+    "L_target": 0.01408179012345679,
+    "L_stencil": 0.09741512345679011,
+    "C_target_b1": 3.1527592678917866,
+    "C_stencil_b1": 36.48692087700354,
+    "C_target_b2": 4.032955420888799,
+    "C_stencil_b2": 45.73802585268432,
+    "C_stencil_crude_b1_for_comparison": 49.82415316424775,
+    "exact_rational_stencil_upper_bound": "4647443/127008",
+    "exact_rational_stencil_upper_bound_decimal": 36.591734378936756,
+    "p_A": 1.3119613784444728,
+    "q_A": 2.9788509016579603,
+    "final_main_coefficient_upper_bound": 97.90525710461316
+  },
+  "scope": "Numerical diagnostics only. The proof is in the accompanying independent audit. No native compiler implementation or target-rate experiment is claimed."
+}

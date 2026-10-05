@@ -1,0 +1,10 @@
+{
+  "r": 0.7071067811865475,
+  "k": 0.6123724356957945,
+  "sine_leading_raw_first_chaos": -0.00013471987834405308,
+  "sine_outer_abs_coefficient": 6.735993917202654e-05,
+  "radial_constant_A_max_half": 3.554333045451862,
+  "private_first_over_A_max_half": 1.1985505569228192,
+  "curl_over_A2_max_half": 1.8428770710178255,
+  "sine_remainder_max_half": 3.0312523067017936
+}

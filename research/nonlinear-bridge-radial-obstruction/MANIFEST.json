@@ -1,0 +1,35 @@
+{
+  "title": "General-dimensional C2 radial obstruction to unchanged stage-two graph",
+  "date": "2026-10-05",
+  "status": "independently audited explicit mean-graph lower bound",
+  "theorem": "error >= [c_star - 8A - deltaQ/4] A^2 sqrt(D) - 7A, c_star=(17/sqrt(2)-11)/192",
+  "explicit_sequence": "A=1/n; D=(3000n)^2; n>=10000; deltaQ<=A^2 gives error>=A^2 sqrt(D)/500",
+  "dimension_exponent_floor": "Uniform C A^p D^(1/2+gamma), p>2, requires gamma>=(p-2)/2",
+  "unchanged_graph": true,
+  "new_original_value_queries": 0,
+  "new_private_roots": 0,
+  "scope": "Own-mean graph versus genuine-history m3; no universal algorithm lower bound or unverified completed-law claim",
+  "input_manifests": {
+    "smoothing_manifest": {
+      "path": "/workspace/shared/nonlinear-bridge-smoothing/MANIFEST.json",
+      "sha256": "27eb73bef8e9e3fa7461dda875ecdf4c9d488b1a04ddbcc0765348a16c944417"
+    },
+    "stage_two_manifest": {
+      "path": "/workspace/shared/nonlinear-bridge-stage-two/MANIFEST.json",
+      "sha256": "cd1111e28dc399643f27bcdd0f97dc735ada196f8a43f220211500bcb45be3ae"
+    },
+    "stage_one_manifest": {
+      "path": "/workspace/shared/nonlinear-bridge-repair/MANIFEST.json",
+      "sha256": "5d030acf6f366539239ddfea9dca3e6b5c9b05adc323f2432cf49ecc266c161d"
+    }
+  },
+  "files": {
+    "README.md": "7a6358bd0146cc2a15d6f0da59772b16520ff992530e15096a26a8c969a21a5f",
+    "RADIAL-STAGE-TWO-OBSTRUCTION.md": "266eed0eef805c72f98d41d9a3b066fe29e98616146ace7c8a687ff286cb7cd6",
+    "INDEPENDENT-RADIAL-AUDIT.md": "6eb47ed5b55345b6cdd9412deb11f2fce06b68bf427d0f30e6516d3e8e6b0036",
+    "check_radial_obstruction.py": "34dbfcf3d11a94c653e506c6fffb3a188db751580cc0222c563b720f31a7dd4c",
+    "check_radial_obstruction.json": "04a719360b0cda108a8478274482ed95067884bf6674c3ebf5cf7ea4dead7bef",
+    "check_independent_radial_audit.py": "e712e12ff1684f79b97bd0cc4a9a6457f450581b0c1b7d906180ddcf36d1de0d",
+    "independent_radial_audit_checks.json": "aae6ac5f6a8b4673c60a32e64f6b86c8e7c18ac3cba0d7f5f62695b522c55acd"
+  }
+}

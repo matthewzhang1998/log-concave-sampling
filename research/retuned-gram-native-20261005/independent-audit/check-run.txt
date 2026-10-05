@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "assertions": 839,
+  "scope": "Independent exact algebra and smooth-mixture numerical diagnostics; not native compiler execution or numerical admission.",
+  "max_substitution_relative_error": 1.1102230246251565e-15
+}

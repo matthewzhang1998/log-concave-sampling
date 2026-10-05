@@ -1,0 +1,117 @@
+{
+  "all_pass": true,
+  "assertions": 8819,
+  "exact_examples": [
+    {
+      "powers": [
+        1,
+        1
+      ],
+      "cumulant": "1",
+      "forest_integral": "1"
+    },
+    {
+      "powers": [
+        2,
+        2
+      ],
+      "cumulant": "2",
+      "forest_integral": "2"
+    },
+    {
+      "powers": [
+        3,
+        3
+      ],
+      "cumulant": "15",
+      "forest_integral": "15"
+    },
+    {
+      "powers": [
+        1,
+        1,
+        2
+      ],
+      "cumulant": "2",
+      "forest_integral": "2"
+    },
+    {
+      "powers": [
+        1,
+        2,
+        3
+      ],
+      "cumulant": "12",
+      "forest_integral": "12"
+    },
+    {
+      "powers": [
+        2,
+        2,
+        2
+      ],
+      "cumulant": "8",
+      "forest_integral": "8"
+    },
+    {
+      "powers": [
+        3,
+        3,
+        2
+      ],
+      "cumulant": "90",
+      "forest_integral": "90"
+    },
+    {
+      "powers": [
+        1,
+        1,
+        1,
+        3
+      ],
+      "cumulant": "6",
+      "forest_integral": "6"
+    },
+    {
+      "powers": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "cumulant": "8",
+      "forest_integral": "8"
+    },
+    {
+      "powers": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "cumulant": "48",
+      "forest_integral": "48"
+    },
+    {
+      "powers": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "cumulant": "720",
+      "forest_integral": "720"
+    },
+    {
+      "powers": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "cumulant": "9720",
+      "forest_integral": "9720"
+    }
+  ],
+  "scope": "exact polynomial cumulants and positive replica geometry; not higher heat/clock or finite cubature certification"
+}

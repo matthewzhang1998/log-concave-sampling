@@ -1,0 +1,118 @@
+{
+  "target": "canonical_m3_own_mean",
+  "leaf_types": [
+    "original_g_VALUE",
+    "fully_expanded_native_VALUE_program",
+    "Gaussian_or_scalar_arithmetic"
+  ],
+  "parameters": {
+    "w": "A^(14/15)",
+    "eta": "A^(19/10)",
+    "h": "A^(19/10)",
+    "b_mean": 25,
+    "bridge_epsilon": "<=A^2",
+    "outer_epsilon": "<=A^3"
+  },
+  "law_node": {
+    "condition": "t<=1-eta",
+    "services": [
+      {
+        "name": "retuned_negative_mean",
+        "bank_id": "M",
+        "mean_order": 25,
+        "padding": "full_normalized_radius",
+        "retained_readset": [
+          "Y"
+        ],
+        "tape": "complete_fresh_owned",
+        "source_zero_fraction": "1/10"
+      },
+      {
+        "name": "unheated_corrected_Gram",
+        "bank_id": "H",
+        "mean_order": 25,
+        "path_order": 6,
+        "physical_subfractions": [
+          "1/20",
+          "1/40",
+          "1/40"
+        ],
+        "retained_readset": [
+          "Y"
+        ],
+        "tape": "complete_fresh_owned",
+        "source_zero_fraction": "1/10"
+      },
+      {
+        "name": "balanced_mixed_K",
+        "bank_id": "K",
+        "pair_order": 5,
+        "retained_readset": [
+          "Y"
+        ],
+        "tape": "complete_fresh_owned",
+        "source_zero_fraction": "1/10"
+      },
+      {
+        "name": "negative_skew",
+        "bank_id": "V3",
+        "pair_order": 5,
+        "force_slots": 3,
+        "retained_readset": [
+          "Y"
+        ],
+        "tape": "complete_fresh_owned",
+        "source_zero_fraction": "1/10"
+      },
+      {
+        "name": "positive_fourth",
+        "bank_id": "V4",
+        "pair_order": 5,
+        "force_slots": 4,
+        "coefficient_heat": "qA/sqrt(u_4)",
+        "retained_readset": [
+          "Y"
+        ],
+        "tape": "complete_fresh_owned",
+        "source_zero_fraction": "1/10"
+      }
+    ],
+    "external_keep_fraction": "1/2",
+    "retained_for_comparison": [
+      "z",
+      "Y",
+      "N",
+      "G_h"
+    ],
+    "postprocess": "g(r_h*(u-P_Q(u,Y,N))+h*G_h)",
+    "preterminal": "a(z,Y)+M+qH+qK+V3+V4+sqrt(v/2)G_keep",
+    "H_K_unscaled_buffer": "v/(10q^2)"
+  },
+  "raw_node": {
+    "condition": "1-eta<t<1",
+    "source": "fresh complete qF_Q(Y)",
+    "native_services": [],
+    "postprocess": "same bridge and terminal at X-qF_Q(Y)"
+  },
+  "scope": {
+    "exact_target": "integrated_conditional_W2_standard_Y",
+    "uniform_exact_target_in_Y": false,
+    "Y_marginal": "standard only after integrating z",
+    "packet_pointwise_target": "finite_clock_tensor"
+  },
+  "source_alignment": {
+    "row": "r_h X_t+h G_h",
+    "common_root": "G",
+    "preserve_all_perpendicular_roots": true,
+    "cross_node_independence_required": false,
+    "dimension": "D+sum_LAW(3D+d_M+d_Hcorr+d_K+d_3+d_4)+5D*N_RAW"
+  },
+  "replay": "every changed-source occurrence recreates every full ancestor bank",
+  "analytical_only": [
+    "conditional_expectation",
+    "covariance_matrix",
+    "cumulant_tensor",
+    "Gaussian_covariance_square_root",
+    "Hermite_coefficient_map"
+  ]
+}

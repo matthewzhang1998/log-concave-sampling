@@ -1,0 +1,42 @@
+{
+  "scope": "Local scalar grouped VALUE producer and sharp limitations; not an arbitrary-order native theorem",
+  "files": {
+    "CANCELLATION-AND-FINITE-VALUE-BOUNDARY.md": {
+      "bytes": 21703,
+      "sha256": "6c97361aa9c6f1e7dc1ff03e7de199398170c14df8ba7e838ddcc6b4c5bea730"
+    },
+    "INPUT-PINS.json": {
+      "bytes": 321,
+      "sha256": "779465c1e0529ed3e5f2d79c5de1f888987c8ea40a2803a340401fd467a57b59"
+    },
+    "README.md": {
+      "bytes": 863,
+      "sha256": "758dca8b1d64fd9345475093b61fd364738b212c689b5803f01daa170ea487a8"
+    },
+    "check_sibling_regrouping.py": {
+      "bytes": 6073,
+      "sha256": "9339557aad2fa9c3b39c82734c3557f9a84b8ab3862924bd1082f30a909a2779"
+    },
+    "checks.json": {
+      "bytes": 4561,
+      "sha256": "c60655c99443bd3b7b36301a030676484a73db74a8fd9007d051d4faeec81ecb"
+    },
+    "finite_scalar_value_producer.py": {
+      "bytes": 3694,
+      "sha256": "47b431f886cb36c33426b29450ee7e9069b40472c3435073094b3200e4e4d683"
+    },
+    "producer-run.txt": {
+      "bytes": 4028,
+      "sha256": "6a700a84495ba45d77505556183ae0f77dc8b271aee6eeb0d38f8dda0c1d8dd3"
+    },
+    "producer-runs.json": {
+      "bytes": 4028,
+      "sha256": "6a700a84495ba45d77505556183ae0f77dc8b271aee6eeb0d38f8dda0c1d8dd3"
+    },
+    "rank8_packet.json": {
+      "bytes": 236547,
+      "sha256": "19cc1ddfda37fd47ca0984e18cb74688deeba2b1e49fa519269833a677eefa1d"
+    }
+  },
+  "independent_audit": "/workspace/shared/sibling-regrouping-audit-20261005/"
+}

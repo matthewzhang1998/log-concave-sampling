@@ -1,0 +1,15 @@
+# Final bounded result
+
+The permanent-leaf conditional closure now has a positive retained-external joint ZERO port. It keeps the complete original outer caller, old coefficient bank and pre-existing physical publics as E, and exports a newly grouped readout whose new internal marked/public tapes are owned by that group. Its actual finite original-VALUE law approaches a Gaussian conditionally on E to any fixed requested alpha power by the native surplus queue d'=h d>=2d. The Gaussian comparator is positive; no nonzero polynomial generator is called a probability law.
+
+A concrete three-packet specialization per literal ordered clock/history item is an alpha^14 sqrt(D) conditional Gaussian port, plus explicit numerical floors. Two opposite-root copies of the literal eight-force C2 producer cancel their alpha^8 main and leave an alpha^12 current. One n=4,d=8 counterproducer removes that current, with intrinsic feedback starting at alpha^20. The original pair's next rank-six current is alpha^14. This uses 24 complete C0/C2 source/pair programs, nine cut-edge roots and twelve physical marks per item, plus the untouched keep and all old/replay work. The full old clock/history/permutation multiplicity is still charged.
+
+Because E is unchanged, an old additive physical readout W(E,U_old), even one containing an O(1) B row, may be retained exactly when its tapes are conditionally independent of the new group. This is pointwise conditional ZERO-target cancellation before the bank is averaged. It does not authorize replacing a nonzero random coefficient by its mean.
+
+The broader individually retained-internal-public port is disproved for the proposed fresh-independent-packet/Gaussian-rotation shortcut by a literal admissible original-C2 source. Its unchanged-input conditional W2 lower bound is c|epsilon| sqrt((1+exp(-2))/2); an ordinary joint-W2 order-|epsilon| lower bound also follows under the native fourth-moment guards. With an O(1) bank readout beta B, the exact first log coefficient is -ac epsilon exp(-1/2) theta^2 cosh(beta theta), so higher public-tilt ranks occur at the same grade. Exact Gaussian regression preserves this dependence rather than removing it.
+
+The independent audit passes this bounded construction and obstruction relative to the pinned native contracts. The actual first, canonical terminal first/curl, positive covariance gaps, complete source versions, all roots, readout shares, and full VALUE/replay costs remain explicit. The audit does not execute the imported native samplers.
+
+This does not close all old-sixth decorated public-tilt partners, recursively reuse already averaged internal physical marks, upgrade every alpha^8 term in the original program, remove original target smoothing debt, or prove eventually sublinear cost. It supplies a concrete permissible re-entry type and a source-valid reason the stronger transform needs a genuinely new joint source interface.
+
+No sealed input was modified. No old Picard completion, cold restart, external communication or upload was used.

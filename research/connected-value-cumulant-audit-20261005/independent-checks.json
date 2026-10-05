@@ -1,0 +1,662 @@
+{
+  "status": "PASS_SCOPED",
+  "scope": "Exact finite algebra, source integrity, sharpness examples and an analytic-witness arithmetic certificate. Infinite-dimensional OU identities and nuclear-norm proofs are audited in the companion text; diagnostics alone are not proofs. No active native-source construction or impossibility is certified.",
+  "source_integrity": [
+    {
+      "path": "/workspace/shared/connected-value-cumulant-source-20261005/FINITE-VALUE-CONNECTED-CUMULANT-BOUNDARY.md",
+      "sha256": "7deff8b0096c81789cef695ab361c206d96f5a21d89abcd4ae5dac44b238260e"
+    },
+    {
+      "path": "/workspace/shared/connected-value-cumulant-source-20261005/INPUT-PINS.json",
+      "sha256": "1cb13be5bc651cebb66f25befea2c5a27ddde5e8a36670225d121dcbd2814abc"
+    },
+    {
+      "path": "/workspace/shared/connected-value-cumulant-source-20261005/MANIFEST.json",
+      "sha256": "e435594db1c541da52d23c2193073784f82db4afb9502043e089038df62cc878"
+    },
+    {
+      "path": "/workspace/shared/connected-value-cumulant-source-20261005/check-run.txt",
+      "sha256": "4a29d82ad5ff528842b2ad775070e1fe3279b39e24bf7f6999c5a699099190ef"
+    },
+    {
+      "path": "/workspace/shared/connected-value-cumulant-source-20261005/check_connected_value.py",
+      "sha256": "196c96ba045399faf36dca4b85e745b7538c05dcd37393360486835df9264e57"
+    },
+    {
+      "path": "/workspace/shared/connected-value-cumulant-source-20261005/checks.json",
+      "sha256": "4a29d82ad5ff528842b2ad775070e1fe3279b39e24bf7f6999c5a699099190ef"
+    },
+    {
+      "path": "/workspace/shared/rank-indexed-positive-returns-20261005/ALL-RANK-APPELL-AND-POSITIVE-CONSUMER.md",
+      "sha256": "79ea44960cb3d439496bd90520c3442e6f2519a85201e263c9f27940b8ee4e52"
+    },
+    {
+      "path": "/workspace/shared/arbitrary-ancestry-heat-20261005/FINITE-ANCESTRY-COMPILER-AND-BOUNDARY.md",
+      "sha256": "e758d05d9901093701bd6962477a6ffb967860ca534e7742624e19de6f2c50ef"
+    },
+    {
+      "path": "/workspace/shared/recovery-20261004/cost/endpoint-stein-quadrature-20261004/ENDPOINT-STEIN-PACKET-AND-POLYLOG-QUADRATURE.md",
+      "sha256": "4f0c182c36bf9dfbacc0f189899f689de52a2bb9bc37839e307eb76c4bda519f"
+    }
+  ],
+  "variance": [
+    {
+      "rank": 1,
+      "variance_factor": "1",
+      "terms": [
+        {
+          "occupied_labels": 1,
+          "maps": 1,
+          "coefficient": "1"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "variance_factor": "1",
+      "terms": [
+        {
+          "occupied_labels": 1,
+          "maps": 2,
+          "coefficient": "1/2"
+        },
+        {
+          "occupied_labels": 2,
+          "maps": 2,
+          "coefficient": "-1/2"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "variance_factor": "3/2",
+      "terms": [
+        {
+          "occupied_labels": 1,
+          "maps": 3,
+          "coefficient": "1/3"
+        },
+        {
+          "occupied_labels": 2,
+          "maps": 18,
+          "coefficient": "-1/6"
+        },
+        {
+          "occupied_labels": 3,
+          "maps": 6,
+          "coefficient": "1/3"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "variance_factor": "10/3",
+      "terms": [
+        {
+          "occupied_labels": 1,
+          "maps": 4,
+          "coefficient": "1/4"
+        },
+        {
+          "occupied_labels": 2,
+          "maps": 84,
+          "coefficient": "-1/12"
+        },
+        {
+          "occupied_labels": 3,
+          "maps": 144,
+          "coefficient": "1/12"
+        },
+        {
+          "occupied_labels": 4,
+          "maps": 24,
+          "coefficient": "-1/4"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "variance_factor": "125/12",
+      "terms": [
+        {
+          "occupied_labels": 1,
+          "maps": 5,
+          "coefficient": "1/5"
+        },
+        {
+          "occupied_labels": 2,
+          "maps": 300,
+          "coefficient": "-1/20"
+        },
+        {
+          "occupied_labels": 3,
+          "maps": 1500,
+          "coefficient": "1/30"
+        },
+        {
+          "occupied_labels": 4,
+          "maps": 1200,
+          "coefficient": "-1/20"
+        },
+        {
+          "occupied_labels": 5,
+          "maps": 120,
+          "coefficient": "1/5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "variance_factor": "427/10",
+      "terms": [
+        {
+          "occupied_labels": 1,
+          "maps": 6,
+          "coefficient": "1/6"
+        },
+        {
+          "occupied_labels": 2,
+          "maps": 930,
+          "coefficient": "-1/30"
+        },
+        {
+          "occupied_labels": 3,
+          "maps": 10800,
+          "coefficient": "1/60"
+        },
+        {
+          "occupied_labels": 4,
+          "maps": 23400,
+          "coefficient": "-1/60"
+        },
+        {
+          "occupied_labels": 5,
+          "maps": 10800,
+          "coefficient": "1/30"
+        },
+        {
+          "occupied_labels": 6,
+          "maps": 720,
+          "coefficient": "-1/6"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "variance_factor": "6517/30",
+      "terms": [
+        {
+          "occupied_labels": 1,
+          "maps": 7,
+          "coefficient": "1/7"
+        },
+        {
+          "occupied_labels": 2,
+          "maps": 2646,
+          "coefficient": "-1/42"
+        },
+        {
+          "occupied_labels": 3,
+          "maps": 63210,
+          "coefficient": "1/105"
+        },
+        {
+          "occupied_labels": 4,
+          "maps": 294000,
+          "coefficient": "-1/140"
+        },
+        {
+          "occupied_labels": 5,
+          "maps": 352800,
+          "coefficient": "1/105"
+        },
+        {
+          "occupied_labels": 6,
+          "maps": 105840,
+          "coefficient": "-1/42"
+        },
+        {
+          "occupied_labels": 7,
+          "maps": 5040,
+          "coefficient": "1/7"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "variance_factor": "46212/35",
+      "terms": [
+        {
+          "occupied_labels": 1,
+          "maps": 8,
+          "coefficient": "1/8"
+        },
+        {
+          "occupied_labels": 2,
+          "maps": 7112,
+          "coefficient": "-1/56"
+        },
+        {
+          "occupied_labels": 3,
+          "maps": 324576,
+          "coefficient": "1/168"
+        },
+        {
+          "occupied_labels": 4,
+          "maps": 2857680,
+          "coefficient": "-1/280"
+        },
+        {
+          "occupied_labels": 5,
+          "maps": 7056000,
+          "coefficient": "1/280"
+        },
+        {
+          "occupied_labels": 6,
+          "maps": 5362560,
+          "coefficient": "-1/168"
+        },
+        {
+          "occupied_labels": 7,
+          "maps": 1128960,
+          "coefficient": "1/56"
+        },
+        {
+          "occupied_labels": 8,
+          "maps": 40320,
+          "coefficient": "-1/8"
+        }
+      ]
+    }
+  ],
+  "formal_moment_coefficients": [
+    {
+      "rank": 1,
+      "formal_moment_monomials": 1
+    },
+    {
+      "rank": 2,
+      "formal_moment_monomials": 2
+    },
+    {
+      "rank": 3,
+      "formal_moment_monomials": 3
+    },
+    {
+      "rank": 4,
+      "formal_moment_monomials": 5
+    },
+    {
+      "rank": 5,
+      "formal_moment_monomials": 7
+    },
+    {
+      "rank": 6,
+      "formal_moment_monomials": 11
+    },
+    {
+      "rank": 7,
+      "formal_moment_monomials": 15
+    },
+    {
+      "rank": 8,
+      "formal_moment_monomials": 22
+    }
+  ],
+  "noncentered_exact_cumulants": [
+    {
+      "rank": 1,
+      "cumulant": "3/2"
+    },
+    {
+      "rank": 2,
+      "cumulant": "17/4"
+    },
+    {
+      "rank": 3,
+      "cumulant": "-2"
+    },
+    {
+      "rank": 4,
+      "cumulant": "-129/8"
+    },
+    {
+      "rank": 5,
+      "cumulant": "30"
+    },
+    {
+      "rank": 6,
+      "cumulant": "897/4"
+    },
+    {
+      "rank": 7,
+      "cumulant": "-882"
+    },
+    {
+      "rank": 8,
+      "cumulant": "-96273/16"
+    }
+  ],
+  "centered_rank4_variance_factor": 2,
+  "sharp_rank_examples": [
+    {
+      "D": 2,
+      "M": 1,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "9",
+      "operator_squared": "9"
+    },
+    {
+      "D": 2,
+      "M": 1,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "25/4",
+      "operator_squared": "25/4"
+    },
+    {
+      "D": 2,
+      "M": 2,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "9/2",
+      "operator_squared": "9/4"
+    },
+    {
+      "D": 2,
+      "M": 2,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "25/8",
+      "operator_squared": "25/16"
+    },
+    {
+      "D": 3,
+      "M": 1,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "81/4",
+      "operator_squared": "81/4"
+    },
+    {
+      "D": 3,
+      "M": 1,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "225/16",
+      "operator_squared": "225/16"
+    },
+    {
+      "D": 3,
+      "M": 2,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "81/8",
+      "operator_squared": "81/16"
+    },
+    {
+      "D": 3,
+      "M": 2,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "225/32",
+      "operator_squared": "225/64"
+    },
+    {
+      "D": 3,
+      "M": 3,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "27/4",
+      "operator_squared": "9/4"
+    },
+    {
+      "D": 3,
+      "M": 3,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "75/16",
+      "operator_squared": "25/16"
+    },
+    {
+      "D": 5,
+      "M": 1,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "225/4",
+      "operator_squared": "225/4"
+    },
+    {
+      "D": 5,
+      "M": 1,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "625/16",
+      "operator_squared": "625/16"
+    },
+    {
+      "D": 5,
+      "M": 2,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "225/8",
+      "operator_squared": "225/16"
+    },
+    {
+      "D": 5,
+      "M": 2,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "625/32",
+      "operator_squared": "625/64"
+    },
+    {
+      "D": 5,
+      "M": 3,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "75/4",
+      "operator_squared": "25/4"
+    },
+    {
+      "D": 5,
+      "M": 3,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "625/48",
+      "operator_squared": "625/144"
+    },
+    {
+      "D": 5,
+      "M": 4,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "225/16",
+      "operator_squared": "225/64"
+    },
+    {
+      "D": 5,
+      "M": 4,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "625/64",
+      "operator_squared": "625/256"
+    },
+    {
+      "D": 5,
+      "M": 5,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "45/4",
+      "operator_squared": "9/4"
+    },
+    {
+      "D": 5,
+      "M": 5,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "125/16",
+      "operator_squared": "25/16"
+    },
+    {
+      "D": 8,
+      "M": 1,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "144",
+      "operator_squared": "144"
+    },
+    {
+      "D": 8,
+      "M": 1,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "100",
+      "operator_squared": "100"
+    },
+    {
+      "D": 8,
+      "M": 2,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "72",
+      "operator_squared": "36"
+    },
+    {
+      "D": 8,
+      "M": 2,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "50",
+      "operator_squared": "25"
+    },
+    {
+      "D": 8,
+      "M": 3,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "48",
+      "operator_squared": "16"
+    },
+    {
+      "D": 8,
+      "M": 3,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "100/3",
+      "operator_squared": "100/9"
+    },
+    {
+      "D": 8,
+      "M": 4,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "36",
+      "operator_squared": "9"
+    },
+    {
+      "D": 8,
+      "M": 4,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "25",
+      "operator_squared": "25/4"
+    },
+    {
+      "D": 8,
+      "M": 5,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "144/5",
+      "operator_squared": "144/25"
+    },
+    {
+      "D": 8,
+      "M": 5,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "20",
+      "operator_squared": "4"
+    },
+    {
+      "D": 8,
+      "M": 6,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "24",
+      "operator_squared": "4"
+    },
+    {
+      "D": 8,
+      "M": 6,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "50/3",
+      "operator_squared": "25/9"
+    },
+    {
+      "D": 8,
+      "M": 7,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "144/7",
+      "operator_squared": "144/49"
+    },
+    {
+      "D": 8,
+      "M": 7,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "100/7",
+      "operator_squared": "100/49"
+    },
+    {
+      "D": 8,
+      "M": 8,
+      "c": "3/2",
+      "eta": "0",
+      "HS_squared": "18",
+      "operator_squared": "9/4"
+    },
+    {
+      "D": 8,
+      "M": 8,
+      "c": "3/2",
+      "eta": "1/4",
+      "HS_squared": "25/2",
+      "operator_squared": "25/16"
+    }
+  ],
+  "explicit_witness": [
+    {
+      "rank": 4,
+      "epsilon": "1/1208925819614629174706176",
+      "derivative_magnitude_lower": "3/512",
+      "remainder_coefficient_upper": 1990656,
+      "epsilon_times_remainder_divided_by_derivative_bound": "81/288230376151711744",
+      "kappa_upper_strictly_below": "-3/1237940039285380274899124224"
+    },
+    {
+      "rank": 8,
+      "epsilon": "1/1208925819614629174706176",
+      "derivative_magnitude_lower": "315/33554432",
+      "remainder_coefficient_upper": 142023573362442240,
+      "epsilon_times_remainder_divided_by_derivative_bound": "6561/524288",
+      "kappa_upper_strictly_below": "-315/81129638414606681695789005144064"
+    }
+  ],
+  "finite_ou_covariances": [
+    "27/64",
+    "71/128",
+    "151/256"
+  ],
+  "finite_ou_variance": "1613/3072",
+  "unconditional_bias_counterexample": {
+    "c": "y^2 - 1",
+    "E_c": "0",
+    "E_c_squared": "2",
+    "T": "0",
+    "meaning": "Unconditional averaging does not preserve the m=E|c| bound."
+  }
+}

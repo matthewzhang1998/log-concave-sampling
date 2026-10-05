@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-05",
+  "status": "independent guarded PASS",
+  "target": "canonical m3 mean and optional own-mean Gaussian LAW",
+  "bound": "C A^(37/10) sqrt(D) + Lambda A^(19/5) sqrt(D) + e_absolute",
+  "parameters": {
+    "delay_w": "A^(4/5)",
+    "endpoint_eta": "A^(7/5)",
+    "terminal_h": "A^(17/10)",
+    "raw_split_mu": "A"
+  },
+  "files": {
+    "COMBINED-BRIDGE-SKEW-JOIN.md": "11b9241e22cdac27ceab6c6629b63420358ca0f877cf666f6b61a8de8acf7b1b",
+    "README.md": "fb8d25fc688f7ed8951b389023b1b77f9e65e722356b70b1b9bdb5447ae0bf15",
+    "check_combined_join.py": "79dae5af46a9e5ef12d4985adbdcca8379fc038553b021fa79951c8e13dca7d6",
+    "combined_join_checks.json": "4a9c0da47b8598516d26a484cbd6cf9e05792edea4ff712569dad733a3f78489",
+    "independent-audit/INDEPENDENT-COMBINED-JOIN-AUDIT.md": "607a7d407ec640e077be30c620ff6cdaa134c55fc5f65350f54cb80630ece276",
+    "independent-audit/check-run.txt": "1441430a2092d781c14ace113d64ab3821cd1dd0f5ad2dd3f87eefd3040da0cc",
+    "independent-audit/check_combined_join.py": "33a1ca2899a9798d8f673c90ae46d12a37a3dab83b552320a136c23e0a90037d",
+    "independent-audit/combined-checks.json": "1441430a2092d781c14ace113d64ab3821cd1dd0f5ad2dd3f87eefd3040da0cc"
+  },
+  "inputs": {
+    "/workspace/shared/law-only-variance-join-20261005/MANIFEST.json": "673bdfcc6dc54c00ea380c942039add5ecda9f32686e6af0398243923dc6f3a7",
+    "/workspace/shared/smoothed-bridge-prefix-20261005/MANIFEST.json": "2fc940544e410fc799814f23f71f083486b8c4b543a08ab4fdc8e8f101f93d8e",
+    "/workspace/shared/shrinking-buffer-skew-join-20261005/MANIFEST.json": "4711e1bdde8ab138140e40c44b8f7fb5214eb4d051095a5452eec33fabd62f56",
+    "/workspace/shared/law-only-reentry-ceiling-20261005/MANIFEST.json": "106350c3f20d06f6eaae1fb9b46677e0ccc7bfe8d21ec5f3e62f72ffdbaf515a"
+  },
+  "checks": {
+    "author": 8598,
+    "independent": 2597
+  },
+  "caveats": [
+    "Literal imported native guards at all actual local normalizations are required.",
+    "Public-log Lambda is retained unless Lambda A^(1/10)<=1 is explicitly imposed.",
+    "No full native numerical execution, zero-buffer endpoint sampler, RAW covariance/cumulant promotion, all-order recurrence, or inverse-A replication is claimed.",
+    "No sealed input was modified and no external upload or publication was performed."
+  ]
+}

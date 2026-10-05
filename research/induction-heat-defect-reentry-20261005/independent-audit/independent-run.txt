@@ -1,0 +1,54 @@
+{
+  "status": "PASS_WITH_SCOPED_QUALIFICATIONS",
+  "assertions": 6951,
+  "native_compiler_executed": false,
+  "metrics": {
+    "max_private_curl": 6.071532165918825e-11,
+    "max_z_bound_ratio": 0.026549164567656575,
+    "max_increment_bound_ratio": 0.19672325316561728,
+    "max_response_error": 6.245004513516506e-17,
+    "k0_nonzero_private_mean": 0.008285538586041467,
+    "max_pointwise_telescope_error": 1.0842021724855044e-18,
+    "shared_bank_vs_independent_errors": [
+      2.970190207552542e-06,
+      4.986231326434858e-11,
+      1.833587258551669e-07
+    ],
+    "max_rank8_tensor_telescope_error": 1.2197274440461925e-19,
+    "max_chord_quadrature_error": 1.3877787807814457e-17,
+    "high_frequency_dx_mark": 0.25
+  },
+  "rank8_exact": {
+    "d_old": "187/28",
+    "Psi_old": "179/28",
+    "d_shell": "48/7",
+    "Psi_shell": "46/7",
+    "reserve_gain": "5/28",
+    "root_old": "27/4",
+    "root_shell": "193/28",
+    "root_first_old": "53/8",
+    "root_first_shell": "27/4",
+    "energy": "50/7",
+    "bank_first": "7",
+    "old_join": "57/7",
+    "self_join": "99/7",
+    "native_own": "27/2",
+    "heat": "57/7",
+    "allocation_ceiling": "37/168"
+  },
+  "sealed_inputs": {
+    "induction-native-rank-generator-20261005": {
+      "sha256sum_status": "PASS",
+      "manifest_sha256": "1f5b8bd6d8a06f0acbf4edf7ac1d6333a493e76ca4d213c85f86d277c7d6ac41"
+    },
+    "induction-mixed-queue-20261005": {
+      "sha256sum_status": "PASS",
+      "manifest_sha256": "a1114c54b834d67bce7487d14c649d0ef1cee0754fefa9d303967e470a7abe6b"
+    }
+  },
+  "source_hashes": {
+    "/workspace/shared/induction-heat-defect-reentry-20261005/HEAT-SHELL-REENTRY.md": "aa34c50498fb9d6c38cd7489c87a2660ccac0d9afac48729585d6175a7f46aa4",
+    "/workspace/shared/induction-heat-defect-reentry-20261005/COST-AND-FLOORS.md": "5b7172534ae874125fd013c3805f65cd1976e11b33760703ecba701e7aa2181a",
+    "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d"
+  }
+}

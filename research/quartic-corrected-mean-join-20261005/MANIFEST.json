@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-05",
+  "status": "independent guarded PASS",
+  "target": "canonical m3 own mean and optional own-mean Gaussian LAW",
+  "bound": "C A^(39/10) sqrt(D)+Lambda A^(59/15) sqrt(D)+e_abs",
+  "parameters": {
+    "w": "A^(14/15)",
+    "eta": "A^(19/10)",
+    "h": "A^(19/10)",
+    "native_mean_order": 25,
+    "native_mean_padding": "full normalized radius",
+    "negative_Gram_path_order": 6,
+    "cubic_quartic_pair_order": 5,
+    "final_own_mean_order": 4,
+    "final_padding": "A"
+  },
+  "files": {
+    "ACTUAL-QUARTIC-CORRECTED-MEAN-JOIN.md": "de4a0e0f35b6b453414ab4b3b4569e56bf3243b4353666b6f94d00a3c8ae6c5c",
+    "INPUT-PINS.json": "3ee273ba73b4fef3cad41af3699a399bbebf4938c5e20c9fa891faa287f349d1",
+    "JOIN-GRAPH.json": "f328849d144f89a720290d42207697810bce2e7b7993a104c1833cbe53e6fc82",
+    "README.md": "2b7ab3ab8a823f3ef99cad1ae15a92c1a13a2b43e42eb4082583e7bfee6008cd",
+    "check-run.txt": "af431d347e89e80814b1c8e52b142f6f9b27516f23515ee626993e040bb1e4f2",
+    "check_join.py": "1504e23cfaddef1a75a506ec94f5e087b40221ed9da70052b3f6ab0377bdc9cd",
+    "independent-audit/INDEPENDENT-JOIN-AUDIT.md": "8098d62b9136f775eca79d8ea97fa513a418db70dd365b955bb7b74ad63c5485",
+    "independent-audit/check-run.txt": "0c4e3a131d656756b4c7e38e69b16119ba06414fd19b2d8e3a724e90d55bd51f",
+    "independent-audit/check_join_independent.py": "7f8416285fd847e2dafaba9bbb380fcfbed4ca373bf1938d68c851a15bb802ff",
+    "independent-audit/independent_checks.json": "ed35805d76e5ef4df2735d670c28d599ab1d1c174e25cb013100a606fa0cb048",
+    "independent-audit/input-pin-checks.txt": "55a14e5a588a41b6ddb6447c3e2c413627d32b11e1a7202d410e88e9e0b8fc16",
+    "independent-audit/reviewed-source.json": "c2e6c6bcc120bf272315c72a42c1c082054e59258c7357637551028ce9d42231",
+    "join_checks.json": "af431d347e89e80814b1c8e52b142f6f9b27516f23515ee626993e040bb1e4f2",
+    "seal_manifest.py": "2256d99a79e5e749fb75c97142b7716c72b1a473e7afc04b139d574329eac26c"
+  },
+  "inputs": [
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/MANIFEST.json",
+      "sha256": "c730989b41bd05e663ef3b2ff06901a8a92e5377d69cffaf06ce745439558c11"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/POSITIVE-SMOOTHED-FOURTH-CUMULANT-PACKET.md",
+      "sha256": "48c23f0c8966a28eae3b6849a0c63348e62f971340d2f5016902580aeb46fee4"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/README.md",
+      "sha256": "b076cf57e9f706d4afe8cf4e98e6d7084a2e3d82f3de5b788aad6a27603acc12"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/FOURTH-CONDITIONAL-CUMULANT-COMPARISON.md",
+      "sha256": "976b704bb90ffd9552f82f13ec34a5851a94027f5867522b044d53803d743429"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/comparison/POSITIVE-FOURTH-CUMULANT-BUFFERED-CONSUMER.md",
+      "sha256": "1b4a2d8e38b4acd8c607f25eb263b0d61a5b03cc1de4ec65363f1eed0a8432b0"
+    },
+    {
+      "path": "/workspace/shared/fourth-cumulant-return-20261005/independent-audit/AUDIT.md",
+      "sha256": "02ec661a19bca84b823fd42a2aecfd0f4d57ee662ee83852fe83f92310abb2a3"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/MANIFEST.json",
+      "sha256": "fe55b5bb9d99d61f9f38683e56e0901bf5f260127cabae2c4862152d93958b1a"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/GRAM-NOISE-FOUR-PATH-TARGET-AND-SHARPNESS.md",
+      "sha256": "b10d7f7996a94fc65e96d97ba0309031aa916d625227bfb470bd77432706157b"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/POSITIVE-CORRECTED-GRAM-MIXTURE.md",
+      "sha256": "cf94de42b101c417e4902eaf90284c06d418f23adadfef3990101b0cb11ed731"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/README.md",
+      "sha256": "4be1c654c4fa7f186530704e3c94da9dcf2573f7f43b50bae3fd5d41e784e18a"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md",
+      "sha256": "cf76b2e851b8c0857fcecebbba226eefecfdba835b26ab57216d8265bb864e9f"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/independent-audit/INDEPENDENT-POSITIVE-GRAM-CORRECTION-AUDIT.md",
+      "sha256": "af1395d50efa244c5fbddfa8c7834a7d5adfd9d386e4c19432d03de10476f5f0"
+    },
+    {
+      "path": "/workspace/shared/retuned-gram-native-20261005/independent-audit/INDEPENDENT-RETUNED-GRAM-AUDIT.md",
+      "sha256": "e0402ea6ca8ac840726090b7b2c05dc276e434843dfd257b9a6fffd46ae7fc60"
+    },
+    {
+      "path": "/workspace/shared/combined-bridge-skew-20261005/MANIFEST.json",
+      "sha256": "04b93b69a562f49c0ab1ed2fc49da2208db3204649f84f8a95964f333a71e974"
+    },
+    {
+      "path": "/workspace/shared/combined-bridge-skew-20261005/COMBINED-BRIDGE-SKEW-JOIN.md",
+      "sha256": "11b9241e22cdac27ceab6c6629b63420358ca0f877cf666f6b61a8de8acf7b1b"
+    },
+    {
+      "path": "/workspace/shared/combined-bridge-skew-20261005/README.md",
+      "sha256": "fb8d25fc688f7ed8951b389023b1b77f9e65e722356b70b1b9bdb5447ae0bf15"
+    },
+    {
+      "path": "/workspace/shared/combined-bridge-skew-20261005/independent-audit/INDEPENDENT-COMBINED-JOIN-AUDIT.md",
+      "sha256": "607a7d407ec640e077be30c620ff6cdaa134c55fc5f65350f54cb80630ece276"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/MANIFEST.json",
+      "sha256": "74438e5f6de3ec009b11b2b60f71a4cddaddf6ef0f7450f581370ac0074ec30f"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/APPLICATION-TO-SEALED-COMBINED-SOURCE.md",
+      "sha256": "8275754fbb614d41540061fd244c29474973db06440855b4ddfa19872a80e5d3"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/POST-SYNTHESIS-REENTRY-AND-NEXT-PORT.md",
+      "sha256": "53748adb366902bc875e5d74871bcd1a9cda74ec22524bba699f38fc4c918f49"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/README.md",
+      "sha256": "b6c08e107918e46d0eda9c085b4d4dcd53ec88121c2d94cd15fb282274b25b25"
+    },
+    {
+      "path": "/workspace/shared/combined-mean-reentry-20261005/independent-audit/INDEPENDENT-PADDING-CEILING-AUDIT.md",
+      "sha256": "929e23d4fd354137125239f6686d98cb757c3117c81e22afff8ae1df35932dfb"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/MANIFEST.json",
+      "sha256": "4711e1bdde8ab138140e40c44b8f7fb5214eb4d051095a5452eec33fabd62f56"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/POSITIVE-SKEW-SHRINKING-BUFFER-JOIN.md",
+      "sha256": "3c93c8964ccdb1f1028746aae661b768eacb8870ec616ce95d613110ebcaa708"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/README.md",
+      "sha256": "626cdfca9800968235f143f0cea729bcfdf821512a6b0dd1532738186453c597"
+    },
+    {
+      "path": "/workspace/shared/shrinking-buffer-skew-join-20261005/independent-audit/INDEPENDENT-BUFFERED-SKEW-JOIN-AUDIT.md",
+      "sha256": "36eefc8e585a364a3c5eca5f3cf7ea8fbf1b11e109fe1d4238f819d89785d8a6"
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/MANIFEST.json",
+      "sha256": "673bdfcc6dc54c00ea380c942039add5ecda9f32686e6af0398243923dc6f3a7"
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/LAW-ONLY-SHRINKING-BUFFER-JOIN.md",
+      "sha256": "40891db38221e3b02f2e657a4ef93c3e4fd06c69b29cc03e7db9c5761fe2fc0a"
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/README.md",
+      "sha256": "dec852dcb9472ab0ac308e6c2f798aac9aacdf7f3bc8481d8fe3093f44ef5e90"
+    },
+    {
+      "path": "/workspace/shared/law-only-variance-join-20261005/independent-audit/INDEPENDENT-LAW-ONLY-JOIN-AUDIT.md",
+      "sha256": "a4650cc27f321fad5ea9e15078f1eb1813d0e7abc1251774ae614237ebd70d35"
+    },
+    {
+      "path": "/workspace/shared/smoothed-bridge-prefix-20261005/MANIFEST.json",
+      "sha256": "2fc940544e410fc799814f23f71f083486b8c4b543a08ab4fdc8e8f101f93d8e"
+    },
+    {
+      "path": "/workspace/shared/smoothed-bridge-prefix-20261005/AGGREGATE-PORT-EXTENSION.md",
+      "sha256": "0be5daf191b9618d36350e02458168fd0b1ef14466abb4d10d294d5d3aab971b"
+    },
+    {
+      "path": "/workspace/shared/smoothed-bridge-prefix-20261005/README.md",
+      "sha256": "3eca0318dcd1a6873c7aa8e8375fcd55b433ff812788b109be2d9f9073f4ad3b"
+    },
+    {
+      "path": "/workspace/shared/smoothed-bridge-prefix-20261005/SMOOTHED-BRIDGE-PREFIX.md",
+      "sha256": "c26e44e932f0626cd7101d092d679f7b416d4d1e71adaf09e3cf4a48941e4258"
+    },
+    {
+      "path": "/workspace/shared/smoothed-bridge-prefix-20261005/independent-audit/AGGREGATE-PORT-ADDENDUM.md",
+      "sha256": "e7a8512950f512fc150b0f2e89b41efd3d8e9f414a9157aadd8628efa3687bcd"
+    },
+    {
+      "path": "/workspace/shared/smoothed-bridge-prefix-20261005/independent-audit/AUDIT.md",
+      "sha256": "8acdc8665562077bbaa0e52772cc7badba508843046633e002af2e19801daa62"
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/MANIFEST.json",
+      "sha256": "106350c3f20d06f6eaae1fb9b46677e0ccc7bfe8d21ec5f3e62f72ffdbaf515a"
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/INDEPENDENT-OUTER-CUTOFF-ADDENDUM.md",
+      "sha256": "ddbe52d0ccf04956f0948d8a4429f5aae135185c141026eaa2d54ebd086c63ee"
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/README.md",
+      "sha256": "fed4d3347f7dcbb30b4f38a75b2a2b7b7dd7a2a5d0127b17136a878edd2fb7e1"
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/REUSABLE-PORT-AND-DEPTH-RECURRENCE.md",
+      "sha256": "1de572cbddecd40ed5c990df98638a5551d714f74cbc0d50dfd5200c19a3d58e"
+    },
+    {
+      "path": "/workspace/shared/law-only-reentry-ceiling-20261005/independent-audit/INDEPENDENT-REENTRY-DEPTH-PORT-AUDIT.md",
+      "sha256": "ba0c83824c2b1f6a8680883caf559a12126e105a51d46466600d85204c3889a8"
+    },
+    {
+      "path": "/workspace/shared/v9-curation-work/frozen/prerequisites/research-source/High Acc Ideas/ai-bucket/30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+    }
+  ],
+  "checks": {
+    "author": 23003,
+    "independent": 4357,
+    "native_compiler_executed": false
+  },
+  "scope": [
+    "Exact coefficient target comparisons are integrated conditional-W2 over actual standard Y.",
+    "All actual original-VALUE banks, common carrier, unused/perpendicular roots and readsets remain explicit.",
+    "Every fixed sub-four grade requires its own finite order and native/log window.",
+    "No grade-four endpoint admission or repeatable arbitrary-order recurrence is claimed."
+  ]
+}

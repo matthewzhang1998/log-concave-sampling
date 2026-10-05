@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "assertions": 31702,
+  "scope": "Bridge geometry, complex contraction, positive quadrature low-chaos diagnostics, true bridge covariance, actual minimum buffers, carrier rotations and exact exponent ledger. No full native compiler execution.",
+  "exponents": {
+    "smooth_commutator": "17/5",
+    "smooth_drift": "19/5",
+    "nested_prefix": "18/5",
+    "bridge_noise": "17/5",
+    "gaussianization_bulk": "17/5",
+    "near_sqrt": "7/2",
+    "near_other": "37/10",
+    "mean_bulk": "41/10",
+    "mean_endpoint": "9/2",
+    "K_bulk": "53/10",
+    "K_endpoint": "35/6"
+  }
+}

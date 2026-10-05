@@ -1,0 +1,19 @@
+{
+  "title": "Bounded seven-VALUE shifted current",
+  "date": "2026-10-05",
+  "status": "independent scoped PASS; true m4 join unresolved",
+  "files": {
+    "BOUNDED-SHIFTED-CURRENT.md": "4c4c5047d80cc922bdd8baa3edd5b251377b362e07f2e73e6037781f6ffc0787",
+    "INPUT-PINS.json": "34b53fe17ed2c58afbedcaba34d40c4ad01daab2e75bd19a83e96027934aece0",
+    "README.md": "7a762a5e04a8366e7b6427cbdd0ef0082a02f981ff536c3a8dfe0089bdd1107b",
+    "check_shifted_atom.py": "e002a80c63215a3b1bb0031055d1bdb1d55b00c853805723481f3d346fd7c144",
+    "checks.json": "6008fa98abafefb899010c93d0c4cb1d5a548cc6cb4096717725baaa1eec8e12",
+    "independent-audit/INDEPENDENT-SHIFTED-ATOM-AUDIT.md": "fe081693a36b77090b98dc14330f0649029a9e1c1a3826ce076faea4fd513bed",
+    "independent-audit/check_shifted_atom_independently.py": "6c4a9d399a09fa42031bd7fddc7e814347555e91179ef98cfc4378da2dd6e6e8",
+    "independent-audit/independent_shifted_atom_checks.json": "d50f3bb12e55ef4eb72247342fce5ce017ea17ee218201a38b68aa6edee254dc",
+    "shifted_atom.py": "b94f59738a6a0aaaefd88fec0b603c0efcd966102a81efd3f1be2bad38fcdebc"
+  },
+  "author_assertions": 970,
+  "independent_assertions": 6413,
+  "scope": "Actual finite local shifted VALUE source, exact positive local marked current, and source-qualified imported native mean; no true-history supplier or m4 error/cost theorem."
+}

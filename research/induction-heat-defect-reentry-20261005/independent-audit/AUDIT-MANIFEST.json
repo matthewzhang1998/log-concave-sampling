@@ -1,0 +1,17 @@
+{
+  "status": "PASS_WITH_SCOPED_QUALIFICATIONS",
+  "scope": "Exact coupled marked shell and conditional one-step source reentry, relative to sealed native/grammar and actual ownership/first/floor interfaces; no arbitrary-order restoration or new best rate.",
+  "assertions": 6951,
+  "native_compiler_executed": false,
+  "input_hashes": {
+    "/workspace/shared/induction-heat-defect-reentry-20261005/HEAT-SHELL-REENTRY.md": "aa34c50498fb9d6c38cd7489c87a2660ccac0d9afac48729585d6175a7f46aa4",
+    "/workspace/shared/induction-heat-defect-reentry-20261005/COST-AND-FLOORS.md": "5b7172534ae874125fd013c3805f65cd1976e11b33760703ecba701e7aa2181a",
+    "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d"
+  },
+  "artifacts": {
+    "INDEPENDENT-HEAT-SHELL-AUDIT.md": "809243c7777ced855aecdfade6bed3ca5c05f8fff070ea556e225f923c085edc",
+    "check_independent_shell.py": "8d023b9494b46d60e3f93a5b9c50d5b4fd466e42acaad53c5877204dc7099f0b",
+    "independent-checks.json": "7e9d7da655733db22d8668871d26265db1622dc9dfd62dd21e0b57d2e99a9217",
+    "independent-run.txt": "7e9d7da655733db22d8668871d26265db1622dc9dfd62dd21e0b57d2e99a9217"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Typed common-endpoint residual compiler",
+  "scope": "Finite formal current expansion; executable semantics supplied by separately certified primitive ports",
+  "input": {
+    "finite_program": "Typed syntax with exact occurrence, caller, source-version and clock identity",
+    "current_pairing": "Fixed endpoint X and retained-record contract; sum_r E[C_r:D^r phi(X)], including r=0 until normalization is proved",
+    "target": "Typed finite current family",
+    "source_section": "A filtration-compatible right inverse h of the normalized leading-current map on every emitted admitted type",
+    "primitive_tables": "Exact finite native/current jet identities plus separately certified remainder floors",
+    "old_ports": "Complete finite list of every old typed coefficient or observer port actually hit",
+    "reserve": "Uniform delta>0 for every admitted old and new hit port; actual allocation/width/resource losses included",
+    "cutoff": "Effective coefficient grade G<P, with computed one-energy/native/keep bounds on excluded terms",
+    "local_finiteness": "Separately certified reserve-local finiteness, for example a fixed finite primitive/current-jet and side-occurrence census with finitely branching chosen source realizations; not inferred from Psi alone"
+  },
+  "operations": [
+    "anchored_VALUE_and_signed_probe_difference",
+    "relabel_sum_tensor_product_permute",
+    "complete_bank_product_and_chain_rule",
+    "labeled_Gaussian_Wick_and_physical_tilt",
+    "connected_partition_extraction",
+    "whole_bank_labeled_tree_bridge",
+    "cold_warm_shell_or_explicit_same_vertex_heat_trace",
+    "same_endpoint_native_covariance_readout_current_composition"
+  ],
+  "loop": [
+    "Expand the complete simultaneous family through supplied finite jet order",
+    "Enumerate every conditional, bank, covariance, time, readout and normalization branch",
+    "Cancel only exact complete typed identities at the same endpoint",
+    "Choose the leading-current preimage of each admitted residual",
+    "Recompute actual grade, source allocations, resource ownership, firsts and costs",
+    "Emit all descendants; retain numerical and intrinsic floors separately",
+    "Stop dependent generation at any unfilled port; continue independent admitted branches"
+  ],
+  "escapes": [
+    "HEAT_TRACE",
+    "RETAINED_OBSERVER",
+    "MISSING_CURRENT_PORT",
+    "NONPOSITIVE_RESERVE",
+    "UNPAID_CLOCK",
+    "NONFINITE_ORDER_GROWTH",
+    "UNMET_NATIVE_FLOOR"
+  ],
+  "conditional_recurrence": {
+    "same_root_type": "d'=h*d; Psi'=h*Psi+2*Gamma*(h-1)",
+    "mixed_root_types": "d'=sum_i d_i; Psi'=sum_i Psi_i+2*Gamma*(h-1)"
+  },
+  "bank_recurrence": "Psi_child>=sum_i Psi_i; equality at a common worst width charge",
+  "formal_inverse": "F_o(x)=x+R_o(x); x_(m+1)=t-R_o(x_m), only when R_o difference raises the certified reserve by delta",
+  "excluded_claims": [
+    "No unconditional primitive-table completeness for future native programs",
+    "No norm remainder is promoted to a source",
+    "No infinite original-C2 heat Taylor convergence",
+    "No general self-trace or retained-carrier admission",
+    "No arbitrary-order unsmoothed sampler",
+    "No c(P)=o(P) conclusion from finite generation"
+  ],
+  "trace_reduction": {
+    "identity": "H_ind=H_common-B_cross",
+    "scope": "Full uniform local-trace sum, independent occurrence centers, frozen scalar coefficients",
+    "remaining_ports": [
+      "common_translation_current",
+      "distinct_vertex_same_graph_native_edge"
+    ],
+    "gain": "Formal generating-class reduction only; no automatic reserve or positivity gain"
+  },
+  "effective_grade_stopping": "G>=P residuals are analytically bounded without compiling their correction sources. Because offspring can lower G, this is not a rewrite-stable G quotient or automatically a truncation of the full formal inverse."
+}

@@ -1,0 +1,36 @@
+{
+  "reviewed_sha256": "404c7829fb172cf1ccd95a8ead875f75537b7920259a465c949b222d901bc722",
+  "minimum_Gamma_over_m": 0.3824384603656145,
+  "maximum_covariance_error": 2.220446049250313e-16,
+  "positive_bridge_rules": [
+    {
+      "J": 4,
+      "n": 4,
+      "count": 16,
+      "error": 0.0625,
+      "bridge_mass_envelope": 1.4999996764569845
+    },
+    {
+      "J": 8,
+      "n": 6,
+      "count": 48,
+      "error": 0.00390625,
+      "bridge_mass_envelope": 1.8749999997073272
+    },
+    {
+      "J": 16,
+      "n": 10,
+      "count": 160,
+      "error": 1.52587890625e-05,
+      "bridge_mass_envelope": 1.9921874999999993
+    },
+    {
+      "J": 24,
+      "n": 14,
+      "count": 336,
+      "error": 5.960464455334602e-08,
+      "bridge_mass_envelope": 1.9995117187499951
+    }
+  ],
+  "verdict": "Exact OU/heat/clock and conditional polynomial-current layers only. The full old-law same-endpoint remainder is not certified by this checker."
+}

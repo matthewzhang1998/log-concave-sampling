@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "check_count": 1356,
+  "raw_census": {
+    "triple_cubic": {
+      "histories_including_old_hit_pairs": 243,
+      "raw_main_value_max": 44,
+      "max_order": 3,
+      "degree_values": [
+        7
+      ]
+    },
+    "three_three_six": {
+      "histories_including_old_hit_pairs": 5832,
+      "raw_main_value_max": 72,
+      "max_order": 4,
+      "degree_values": [
+        10
+      ]
+    }
+  },
+  "output": "/workspace/shared/induction-cutoff-clock-compression-20261005/checks.json"
+}

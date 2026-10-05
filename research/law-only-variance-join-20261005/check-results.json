@@ -1,0 +1,65 @@
+{
+  "max_geometry_error": 2.3592239273284576e-16,
+  "max_orientation_reversal_difference": 0.8015390146019792,
+  "error_exponents": {
+    "prefix": "16/5",
+    "prefix_correction": "19/5",
+    "near": "17/5",
+    "bulk_gaussianization": "16/5",
+    "compiler_and_gram_mixture": "19/5",
+    "balanced_pair_b5": "76/15",
+    "mixed_covariance_mixture": "29/5",
+    "covariance_target_restore": "23/5",
+    "final_mean": "4"
+  },
+  "finite_near_branch": [
+    {
+      "w": 0.2,
+      "ratio_to_sqrt_w": 1.5882495658380356
+    },
+    {
+      "w": 0.05,
+      "ratio_to_sqrt_w": 1.6139493396742919
+    },
+    {
+      "w": 0.01,
+      "ratio_to_sqrt_w": 1.6213314074212741
+    },
+    {
+      "w": 0.003,
+      "ratio_to_sqrt_w": 1.6226317524914595
+    },
+    {
+      "w": 0.0001,
+      "ratio_to_sqrt_w": 1.6230483920333487
+    }
+  ],
+  "sqrt_weight_shields": [
+    {
+      "J": 8,
+      "nodes": 41,
+      "one_clock_shield_sum": 10.531535591079388,
+      "four_clock_bound": 5758.17550409752
+    },
+    {
+      "J": 16,
+      "nodes": 81,
+      "one_clock_shield_sum": 20.864526073416,
+      "four_clock_bound": 13794.04348443827
+    },
+    {
+      "J": 24,
+      "nodes": 121,
+      "one_clock_shield_sum": 31.198869848396104,
+      "four_clock_bound": 20864.659511854286
+    },
+    {
+      "J": 32,
+      "nodes": 161,
+      "one_clock_shield_sum": 41.53321889251919,
+      "four_clock_bound": 27795.8035488947
+    }
+  ],
+  "checks": 5567,
+  "status": "PASS: algebra, noncommuting ideal channels, powers, finite singular sums; native compilers not executed"
+}

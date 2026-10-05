@@ -1,0 +1,15 @@
+{
+  "result": "PASS",
+  "compact_square": [
+    0,
+    8
+  ],
+  "compact_gap": "1/10",
+  "global_gap": "1/16",
+  "accepted_rational_boxes": 2792,
+  "bisections": 2791,
+  "maximum_depth": 19,
+  "exponential_precision_absolute": "2^-72",
+  "cached_exp_endpoints": 148,
+  "elapsed_seconds": 0.512
+}

@@ -1,0 +1,21 @@
+{
+  "status": "independent guarded PASS",
+  "date": "2026-10-05",
+  "files": {
+    "AGGREGATE-PORT-EXTENSION.md": "0be5daf191b9618d36350e02458168fd0b1ef14466abb4d10d294d5d3aab971b",
+    "README.md": "3eca0318dcd1a6873c7aa8e8375fcd55b433ff812788b109be2d9f9073f4ad3b",
+    "SMOOTHED-BRIDGE-PREFIX.md": "c26e44e932f0626cd7101d092d679f7b416d4d1e71adaf09e3cf4a48941e4258",
+    "check_smoothed_bridge.py": "c8aed044e1e289b7de54dab1c71f2e020bccd33fd67ccf538a15bbfd5f8dbae2",
+    "independent-audit/AGGREGATE-PORT-ADDENDUM.md": "e7a8512950f512fc150b0f2e89b41efd3d8e9f414a9157aadd8628efa3687bcd",
+    "independent-audit/AUDIT.md": "8acdc8665562077bbaa0e52772cc7badba508843046633e002af2e19801daa62",
+    "independent-audit/bridge-diagnostics.json": "2ed8e70ee372e242bd401df405f440ae808aa192e6f3fc731fbc8d6562754aa6",
+    "independent-audit/check-run.txt": "2ed8e70ee372e242bd401df405f440ae808aa192e6f3fc731fbc8d6562754aa6",
+    "independent-audit/check_bridge.py": "1e4a78f4da4a736e84751932be678f797a130c2c5e27b891722fef82c1d1eeb9",
+    "smoothed_bridge_checks.json": "9599384c077f93c950c1a4088df4684177ec2c2562bb074ab2fc4fbf8df71dbe"
+  },
+  "inputs": {
+    "/workspace/shared/law-only-variance-join-20261005/MANIFEST.json": "673bdfcc6dc54c00ea380c942039add5ecda9f32686e6af0398243923dc6f3a7",
+    "/workspace/shared/delayed-resolvent-cancellation-20261005/DELAYED-CONDITIONAL-NOISE-THEOREM.md": "af90382a8a4842e5c0dea76b76215a96eea4507dbf1273e33cc87e3a946f6d5d"
+  },
+  "scope": "Finite positive smoothed bridge prefix; standalone canonical-m3 grade17/5; aggregate source ports. No full native compiler execution, skew-service certification or all-order theorem."
+}

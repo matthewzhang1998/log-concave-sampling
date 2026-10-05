@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "check_count": 3175,
+  "independent_raw_census": {
+    "triple_cubic": {
+      "histories": 243,
+      "max_raw_VALUES": 44,
+      "max_order": 3,
+      "degrees": [
+        7
+      ],
+      "maximizer_orders": [
+        0,
+        3,
+        0,
+        0,
+        2,
+        0,
+        0,
+        2,
+        0
+      ]
+    },
+    "three_three_six": {
+      "histories": 5832,
+      "max_raw_VALUES": 72,
+      "max_order": 4,
+      "degrees": [
+        10
+      ],
+      "maximizer_orders": [
+        0,
+        2,
+        0,
+        0,
+        2,
+        0,
+        0,
+        4,
+        0,
+        0,
+        2,
+        0
+      ]
+    }
+  },
+  "reviewed_sha256": {
+    "CUTOFF-FREE-SECTOR-GAUSS.md": "4a422374bfde930ec8ea5df64cde24c7977d2602283726d0fee1db758343893d",
+    "COMPLETE-EXECUTION-BILL.md": "ebf6c935dcd14d4091acbf186611b364ae9381d56178a3f9726d5674ef161252",
+    "INPUT-PINS.json": "b218ae3b2cfc7c2f9ad7d1c04ee83e224049e16e37488c1342140a5ad2ab5d84",
+    "cutoff_free_sector_gauss.py": "0247e3ffd5d76a99add43fe1c4b8679c19ca59eb703762c6f8269655642cfe49",
+    "gauss_rational_core.py": "5646f982f27791a0026aece20f7299f42eb2b4e0fb106bfb0f4ee1b3c26b920c"
+  },
+  "output": "/workspace/shared/induction-cutoff-clock-compression-20261005/independent-audit/complex-ou-clock-audit-checks.json"
+}

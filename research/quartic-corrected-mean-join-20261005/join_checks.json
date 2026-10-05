@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "assertions": 23003,
+  "native_compiler_executed": false,
+  "grade": "39/10",
+  "strict_residual_grade": "59/15",
+  "rows": {
+    "prefix_smoothing": "39/10",
+    "prefix_decoupling": "39/10",
+    "prefix_nested": "59/15",
+    "smoothing_drift": "24/5",
+    "bridge_quadrature": "74/15",
+    "outer_target_final": "4",
+    "raw_sqrt_eta": "79/20",
+    "raw_eta_sqrt_w": "133/30",
+    "raw_mean": "59/10",
+    "mean_third_bulk": "61/15",
+    "mean_third_endpoint": "5",
+    "mixed_prior_bulk": "221/45",
+    "mixed_prior_endpoint": "341/60",
+    "quartic_bulk": "62/15",
+    "quartic_endpoint": "41/10",
+    "gram_cubic_feedback_bulk": "14/3",
+    "gram_cubic_feedback_endpoint": "83/20",
+    "fourth_target_bulk": "23/5",
+    "fourth_target_endpoint": "101/20",
+    "mixed_mixture_bulk": "28/5",
+    "mixed_mixture_endpoint": "121/20"
+  },
+  "family_members_checked": 200,
+  "fixed_concrete_mean_order": 25,
+  "guard_scope": "actual imported native/log guards required; bare-power checks are not numeric admission",
+  "families_first_last": [
+    {
+      "epsilon": "1/2",
+      "b_mean": 8,
+      "grade": "7/2"
+    },
+    {
+      "epsilon": "1/201",
+      "b_mean": 406,
+      "grade": "803/201"
+    }
+  ]
+}

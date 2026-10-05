@@ -1,0 +1,89 @@
+{
+  "scope": "Scalar bridge identities, analytic-domain checks, finite matrix contractions and carrier-row norms only. No native compiler execution.",
+  "draft_sha256": "c26e44e932f0626cd7101d092d679f7b416d4d1e71adaf09e3cf4a48941e4258",
+  "bridge": {
+    "max_conditional_mean_identity_error": 3.3306690738754696e-16,
+    "max_marginal_variance_identity_error": 4.440892098500626e-16,
+    "max_complex_norm_identity_error": 5.551115123125783e-16,
+    "max_contraction_wedge_excess": 0.0,
+    "max_rho2_ellipse_wedge_excess": 0.0
+  },
+  "matrices": {
+    "dimension": 7,
+    "trials": 300,
+    "max_prefix_derivative_norm_over_Aw": 0.6346112032009283,
+    "max_I_minus_prefix_derivative_norm": 0.9999999995226413,
+    "max_terminal_jacobian_norm_over_A": 0.9996246518626163,
+    "max_nonzero_hessian_commutator_norm": 0.00017854178013004688,
+    "max_terminal_carrier_row_identity_error": 3.3306690738754696e-16
+  },
+  "narrow_endpoint_dyadic_checks": [
+    {
+      "A": 0.1,
+      "node_count": 254,
+      "bulk_sum_over_stated_bound": {
+        "1": 0.41711689144321207,
+        "1.5": 0.4155235386881087,
+        "1.1666666666666667": 0.4871738069251062
+      },
+      "near_sum_over_stated_bound": 0.9064272728515341,
+      "min_bulk_v_over_eta": 1.531333994468869
+    },
+    {
+      "A": 0.03,
+      "node_count": 326,
+      "bulk_sum_over_stated_bound": {
+        "1": 0.45764956236093807,
+        "1.5": 0.45258628448001786,
+        "1.1666666666666667": 0.5365390848613136
+      },
+      "near_sum_over_stated_bound": 0.9774980975094267,
+      "min_bulk_v_over_eta": 1.65315672423115
+    },
+    {
+      "A": 0.01,
+      "node_count": 386,
+      "bulk_sum_over_stated_bound": {
+        "1": 0.4770405521851951,
+        "1.5": 0.44369490377635906,
+        "1.1666666666666667": 0.5308104302363785
+      },
+      "near_sum_over_stated_bound": 1.0356818912604406,
+      "min_bulk_v_over_eta": 1.7498887190633319
+    },
+    {
+      "A": 0.001,
+      "node_count": 506,
+      "bulk_sum_over_stated_bound": {
+        "1": 0.4938220309171781,
+        "1.5": 0.39968533102417275,
+        "1.1666666666666667": 0.48815663736305437
+      },
+      "near_sum_over_stated_bound": 1.1418465686110193,
+      "min_bulk_v_over_eta": 1.8838469417424533
+    },
+    {
+      "A": 1e-05,
+      "node_count": 758,
+      "bulk_sum_over_stated_bound": {
+        "1": 0.4995963508343131,
+        "1.5": 0.3603529527725131,
+        "1.1666666666666667": 0.45095701636497093
+      },
+      "near_sum_over_stated_bound": 1.2877856316733745,
+      "min_bulk_v_over_eta": 1.9931951659920706
+    },
+    {
+      "A": 1e-08,
+      "node_count": 1118,
+      "bulk_sum_over_stated_bound": {
+        "1": 0.4999936030213597,
+        "1.5": 0.35386521029315243,
+        "1.1666666666666667": 0.4456156478843548
+      },
+      "near_sum_over_stated_bound": 1.379705625107183,
+      "min_bulk_v_over_eta": 2.01349824383374
+    }
+  ],
+  "passed": true
+}

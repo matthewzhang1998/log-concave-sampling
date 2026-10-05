@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/workspace/shared/history-conditional-resummation-20261005/TRUE-PAIR-HISTORY-RESUMMATION.md",
+    "sha256": "ee6d20f4d31e8f96c3ea7a238911c66773e40245558abfa6c6152f9f53efb9de"
+  },
+  {
+    "path": "/workspace/shared/next-history-m4-port-20261005/NEXT-HISTORY-M4-AND-MARKED-CURRENT-PORT.md",
+    "sha256": "b85af0391c9e6064e7acd1386da0e0d7c339d092772ec6064ac1502005c6bf5a"
+  },
+  {
+    "path": "/workspace/shared/dyadic-pair-secant-port-20261005/COHERENT-BLOCK-ORDER-TWO-EXTENSION.md",
+    "sha256": "2641d3fd84968702ab5bfa5857718f817f99a3e31f976cccfc04b5feb16080a6"
+  },
+  {
+    "path": "/workspace/shared/dyadic-pair-secant-port-20261005/FINITE-ORDER-TWO-C2-TAIL.md",
+    "sha256": "4244e5c00f8bad67f36c11fd90b9b016fd36a2b5cdd68ebb0ba20044cc821400"
+  },
+  {
+    "path": "/workspace/shared/dyadic-marked-history-obstruction-20261005/DYADIC-MARKED-HISTORY-NONCLOSURE.md",
+    "sha256": "2007b8a22fdc6ee1bbd954902bdb2d97d04ad41bcfaf48e253799420a486c42f"
+  },
+  {
+    "path": "/workspace/shared/dyadic-prefix-law-join-20261005/ACTUAL-DYADIC-PREFIX-LAW-JOIN.md",
+    "sha256": "48c3a6fa9b0b5e1b242e272dedac882763c5a4e6e3daf5f79c47d502a1f94ed9"
+  },
+  {
+    "path": "/workspace/shared/positive-fourth-order-endpoint-20261005/FOURTH-ORDER-POSITIVE-ENDPOINT.md",
+    "sha256": "1d01456690182cd58565da94109248fd4fc83ddfbcf50429ea1134a41ab05334"
+  },
+  {
+    "path": "/workspace/shared/marked-shifted-local-current-20261005/BOUNDED-SHIFTED-CURRENT.md",
+    "sha256": "4c4c5047d80cc922bdd8baa3edd5b251377b362e07f2e73e6037781f6ffc0787"
+  },
+  {
+    "path": "/workspace/shared/retuned-gram-native-20261005/RETUNED-NATIVE-AND-CONDITIONAL-GRAM-CONTRACT.md",
+    "sha256": "cf76b2e851b8c0857fcecebbba226eefecfdba835b26ab57216d8265bb864e9f"
+  }
+]

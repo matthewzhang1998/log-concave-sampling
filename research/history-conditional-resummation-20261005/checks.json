@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "assertions": 1434,
+  "scope": "Finite source, positive-clock, noncommuting density and exact exponent diagnostics; no history path or native compiler execution.",
+  "clock_normalizations": [
+    {
+      "T": 1.0,
+      "sum_w_12": 0.0021953503351143278
+    },
+    {
+      "T": 2.0,
+      "sum_w_12": 0.01700099219593938
+    },
+    {
+      "T": 4.0,
+      "sum_w_12": 0.042628802472216835
+    },
+    {
+      "T": 8.0,
+      "sum_w_12": 0.046080719912688
+    },
+    {
+      "T": 16.0,
+      "sum_w_12": 0.04608662808774917
+    }
+  ],
+  "replica_diagnostics": [
+    {
+      "A": 0.4,
+      "conditional_gram": 0.00021491472835392846,
+      "nuisance_excess_R1": 2.7345172618993335e-06,
+      "transport_covariance_excess": 1.8948477648050854e-07,
+      "chi2_series": 2.2584010343375217e-12,
+      "sqrt_chi2_over_A8": 0.0022930873652204564
+    },
+    {
+      "A": 0.2,
+      "conditional_gram": 1.3433461199470927e-05,
+      "nuisance_excess_R1": 1.709403486831911e-07,
+      "transport_covariance_excess": 7.403189727916981e-10,
+      "chi2_series": 3.4475154264297336e-17,
+      "sqrt_chi2_over_A8": 0.0022935760436838797
+    },
+    {
+      "A": 0.1,
+      "conditional_gram": 8.396114934053415e-07,
+      "nuisance_excess_R1": 1.0684287802204073e-08,
+      "transport_covariance_excess": 2.8920199568460703e-12,
+      "chi2_series": 5.261027354749057e-22,
+      "sqrt_chi2_over_A8": 0.002293692951279454
+    },
+    {
+      "A": 0.05,
+      "conditional_gram": 5.247603347594701e-08,
+      "nuisance_excess_R1": 6.677760505788167e-10,
+      "transport_covariance_excess": 1.1324274851176597e-14,
+      "chi2_series": 8.030285322456178e-27,
+      "sqrt_chi2_over_A8": 0.002294063597401972
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scope": "Literal anchored VALUE-source and zero-clock square execution; no Monte Carlo calibration inference",
+  "max_relative_private_derivative_error": 1.1811391357687167e-10,
+  "max_energy_to_pointwise_radius_ratio": 0.6816130050290152,
+  "max_scaled_captured_derivative": 0.00929653625304796,
+  "max_absolute_oddness_error": 0.0,
+  "max_relative_linear_matrix_calibration_error": 2.571782457360734e-14,
+  "original_value_calls_per_uncached_bank": [
+    1536
+  ],
+  "inner_nodes": 48,
+  "first_filter_nodes": 6
+}

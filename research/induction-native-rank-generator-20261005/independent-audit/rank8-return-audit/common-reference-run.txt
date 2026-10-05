@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "assertions": 515,
+  "fixed_ranks_checked": [
+    4,
+    40
+  ],
+  "common_reference_fixture": "Two positive polynomial Gaussian groups, with all linear moment currents checked through degree 13, a nonzero cross-group quadratic term, and a cancelling-total-tensor example.",
+  "scope": "Common-reference current algebra and fixed-rank exponent/floor consequences only. Native comparison remains imported; no arbitrary-order queue or complexity theorem."
+}

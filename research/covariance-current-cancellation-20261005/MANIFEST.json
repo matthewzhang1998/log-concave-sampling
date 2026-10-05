@@ -1,0 +1,15 @@
+{
+  "title": "Exact covariance-current reduction",
+  "status": "Analytical PASS; native all-feedback compiler remains open",
+  "checks": 92,
+  "independent_reviewed_source_sha256": "c86de158d9b7a1203c64d0563517a42803d7db4aeef979ac30a9b99adf45f32b",
+  "files": {
+    "EXACT-COVARIANCE-CURRENT-REDUCTION.md": "c86de158d9b7a1203c64d0563517a42803d7db4aeef979ac30a9b99adf45f32b",
+    "FINAL-STATUS.md": "13b914c86b6fade26a147367c424ae631be49fcac966e933bd9294d45f1493b8",
+    "INPUT-PINS.json": "2dde7c6dcec1823fcc10e5d442850bc1962f61c54562d89a0893ca5de8cfe228",
+    "README.md": "af0c8389324e57c575694452de2092c8fc44722bf1295fd81343a3c7a5cb6e5f",
+    "check_covariance_reduction.py": "789814ee91f9ca495821a4301f7e8e82c5cab28588c988e2884229ed16a9678a",
+    "covariance_reduction_checks.json": "ee7c08b052671ba548c20938a1646fee5dc48ec2e7ddb6a5850d46a6ed6bc8f1",
+    "independent-audit.md": "25ac82945362a1da32b1ced05ef97cc71d88f4a46300236582d9237e5fcfcad9"
+  }
+}

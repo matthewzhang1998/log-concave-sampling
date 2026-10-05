@@ -1,0 +1,6 @@
+{
+  "second_riesz_degrees": 7,
+  "same_endpoint_degrees": 7,
+  "multidim_cases": 36,
+  "max_wick_error": 3.694822225952521e-13
+}

@@ -1,0 +1,54 @@
+{
+  "verdict": "PASS within the canonical bounded native-contract scope; see the addendum for exclusions",
+  "reviewed_main_sha256": "9191c93102e9c455ada1027984eae5cf3ded613a7a37869e5b9b5bd37c8ae2c8",
+  "files": [
+    {
+      "path": "INDEPENDENT-OLD-BANK-SIXTH-AUDIT.md",
+      "sha256": "38824e3633c71c6a996aaecefb1a71f73155c34dfde38d10be2180ea27fa23bd"
+    },
+    {
+      "path": "README.md",
+      "sha256": "8d89624e799a4a3e6acfc3e76d6de428ddcce874baacfe92bb8d0155b28f3341"
+    },
+    {
+      "path": "REVIEWED-FULL-RETURN.md",
+      "sha256": "9191c93102e9c455ada1027984eae5cf3ded613a7a37869e5b9b5bd37c8ae2c8"
+    },
+    {
+      "path": "REVIEWED-OU-REVISED.md",
+      "sha256": "36acc99de3596a4a1c392696b6c054fa7271e2fed833708a9cf3af3e1c8f847f"
+    },
+    {
+      "path": "REVIEWED-OU-SNAPSHOT.md",
+      "sha256": "404c7829fb172cf1ccd95a8ead875f75537b7920259a465c949b222d901bc722"
+    },
+    {
+      "path": "SECOND-RIESZ-CLOSURE-ADDENDUM.md",
+      "sha256": "533bcbf47d12406887b732c3f10bc41a1ce1f24e95314c50cbf9c0108d2adfea"
+    },
+    {
+      "path": "SHA256SUMS",
+      "sha256": "98d2bb72e801e95bcd1f5f9b14bbb451cd3df9087ecd0254fb09c8b4f1458c08"
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "ec75db9e398bbe2e7ef2ea04bb11a47a0a2be239e68d3edbda1c8ad8ce85aa6d"
+    },
+    {
+      "path": "check_independent_ou.py",
+      "sha256": "cb4aa8f1af6ec2d3317489d7d30cba425341ac29cd06c13f7591b3d77fdecbca"
+    },
+    {
+      "path": "check_second_riesz.py",
+      "sha256": "2279c6c5de231518f14045be691c50891ace4622ad79f89368d405e8a2c60f57"
+    },
+    {
+      "path": "independent_checks.json",
+      "sha256": "b8eb33f354f47862b296e4892b66e1f65c8e9cccef453495ee99531075914215"
+    },
+    {
+      "path": "second_riesz_checks.json",
+      "sha256": "858b95c72954c90e0c683b9d041b22aadbd82d165cbf0ffcb294b2e33b2354fc"
+    }
+  ]
+}

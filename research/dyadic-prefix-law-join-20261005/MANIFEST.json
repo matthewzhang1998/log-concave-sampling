@@ -1,0 +1,94 @@
+{
+  "title": "Complete positive dyadic-prefix LAW and guarded log-grade four",
+  "date": "2026-10-05",
+  "verdict": "independent scoped PASS",
+  "source_sha256": "48c3a6fa9b0b5e1b242e272dedac882763c5a4e6e3daf5f79c47d502a1f94ed9",
+  "result": "L2 canonical m3 mean and optional own-mean LAW <= Lambda A^4 sqrt(D)+absolute floors",
+  "leading_logs_retained": true,
+  "actual_native_guards_required": true,
+  "complete_native_compiler_numerically_executed": false,
+  "author_assertions": 5034,
+  "input_pins_verified": 12,
+  "scope": "Complete prefix mean/covariance LAW, retained actual caller, original Gaussian endpoint restoration before shifted graph, corrected quartic outer join, direct aggregate/final ports, fixed-order log-cutoff admission, full roots/VALUE counts/floors",
+  "no_claims": [
+    "numerical-constant grade four",
+    "greater than grade four",
+    "RAW force covariance approximation",
+    "arbitrary endpoint covariance restoration",
+    "all-order recurrence",
+    "order-uniform polynomial cost",
+    "certified production scalar Gauss solver"
+  ],
+  "files": [
+    {
+      "path": "ACTUAL-DYADIC-PREFIX-LAW-JOIN.md",
+      "sha256": "48c3a6fa9b0b5e1b242e272dedac882763c5a4e6e3daf5f79c47d502a1f94ed9",
+      "bytes": 27265
+    },
+    {
+      "path": "INPUT-PINS.json",
+      "sha256": "d65e5f4fbd686e048fbea5e46aa12c4cb7f383413d2f068465a1b3b8786161e5",
+      "bytes": 2521
+    },
+    {
+      "path": "README.md",
+      "sha256": "0eb055d4bd1e42a84a4ced2e7bd6c227adbf352d839cf1eac69f3ae13e5ec0a5",
+      "bytes": 2545
+    },
+    {
+      "path": "check-run.txt",
+      "sha256": "b27f67ec6192d8b1a822f9de20cabf8f23802e49ed3bd99b7bfef34d7f4502c7",
+      "bytes": 1959
+    },
+    {
+      "path": "check_join.py",
+      "sha256": "b1caeab094c4cd7314dfc191d6fff2d5590574894cfc5bcc163d3ab8b64cbff4",
+      "bytes": 7975
+    },
+    {
+      "path": "independent-audit/INDEPENDENT-PREFIX-LAW-AUDIT.md",
+      "sha256": "c9e67c126ca0fada37d5c248931719f823e5977f7c3fb07b28f52f024fc13c1f",
+      "bytes": 18646
+    },
+    {
+      "path": "independent-audit/INPUT-PINS.json",
+      "sha256": "6202c0158891d7f0d237c2f0d2a052739efcca1da81ab84a986f9d61d87c8d3f",
+      "bytes": 829
+    },
+    {
+      "path": "independent-audit/REVIEWED-AUTHOR-SNAPSHOT.md",
+      "sha256": "48c3a6fa9b0b5e1b242e272dedac882763c5a4e6e3daf5f79c47d502a1f94ed9",
+      "bytes": 27265
+    },
+    {
+      "path": "independent-audit/check_log_cutoff_ledger.py",
+      "sha256": "11249c895b392d2d21492b6c3016714e6a47f592cd7000e83b28e2c315d66c66",
+      "bytes": 2772
+    },
+    {
+      "path": "independent-audit/check_reflected_prefix_graph.py",
+      "sha256": "c256be8ab64d38cb2844e1b1cbb41689fcd97c7b767cc48cfc6d363341118a27",
+      "bytes": 4316
+    },
+    {
+      "path": "independent-audit/ledger-run.txt",
+      "sha256": "0bce69b2b6b59ee57423097080c3fd3b38f301e6912bf33d3dba3f370aef2f5e",
+      "bytes": 2070
+    },
+    {
+      "path": "independent-audit/log_cutoff_ledger_checks.json",
+      "sha256": "0bce69b2b6b59ee57423097080c3fd3b38f301e6912bf33d3dba3f370aef2f5e",
+      "bytes": 2070
+    },
+    {
+      "path": "independent-audit/reflected_prefix_graph_checks.json",
+      "sha256": "3a82fb35009719af74a96f6d907c616c81eb756d09f25fee41b2e71c69dd7d3d",
+      "bytes": 777
+    },
+    {
+      "path": "join_checks.json",
+      "sha256": "b27f67ec6192d8b1a822f9de20cabf8f23802e49ed3bd99b7bfef34d7f4502c7",
+      "bytes": 1959
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "graph_count": 27,
+  "spine_counts": {
+    "M": {
+      "6": 4,
+      "5": 4,
+      "4": 1
+    },
+    "N": {
+      "6": 4,
+      "5": 12,
+      "4": 2
+    }
+  },
+  "scalar_worst_spine_order_lambda_squared": "alpha^8/2 + alpha^12/2",
+  "scalar_corrected_map_variance": "25*k**4 + 1",
+  "scope": "Finite graph/jet diagnostics; native compilers are imported, not executed."
+}

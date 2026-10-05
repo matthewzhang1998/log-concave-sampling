@@ -1,0 +1,96 @@
+{
+  "assertions": 7001811,
+  "scope": "Marked-tree orientations/live-wire identity and explicit numerical tensor contractions; no native sampler execution.",
+  "exhaustive_tree_census": [
+    {
+      "vertices": 2,
+      "all_labelled_trees": 1,
+      "marked_boundary_cuts": 2
+    },
+    {
+      "vertices": 3,
+      "all_labelled_trees": 3,
+      "marked_boundary_cuts": 24
+    },
+    {
+      "vertices": 4,
+      "all_labelled_trees": 16,
+      "marked_boundary_cuts": 272
+    },
+    {
+      "vertices": 5,
+      "all_labelled_trees": 125,
+      "marked_boundary_cuts": 4300
+    },
+    {
+      "vertices": 6,
+      "all_labelled_trees": 1296,
+      "marked_boundary_cuts": 88512
+    }
+  ],
+  "fixtures": [
+    {
+      "name": "two_parallel_edges",
+      "tested_cuts": 24,
+      "max_circuit_contraction_error": 0.0,
+      "max_global_cut": 0.8771726542914959
+    },
+    {
+      "name": "three_parallel_edges",
+      "tested_cuts": 24,
+      "max_circuit_contraction_error": 0.0,
+      "max_global_cut": 0.5488759772109659
+    },
+    {
+      "name": "triangle_two_marks",
+      "tested_cuts": 24,
+      "max_circuit_contraction_error": 6.904112261803402e-17,
+      "max_global_cut": 0.5904643010360766
+    },
+    {
+      "name": "triangle_three_marks",
+      "tested_cuts": 72,
+      "max_circuit_contraction_error": 1.4258540589919349e-16,
+      "max_global_cut": 0.7393528543536789
+    },
+    {
+      "name": "marked_C1_bridge",
+      "tested_cuts": 168,
+      "max_circuit_contraction_error": 1.1291787353668706e-16,
+      "max_global_cut": 0.6245760525942791
+    },
+    {
+      "name": "triangle_multi_external",
+      "tested_cuts": 168,
+      "max_circuit_contraction_error": 1.3468427029054758e-16,
+      "max_global_cut": 0.5406930563498803
+    }
+  ],
+  "symmetric_unmarked_bubble": [
+    {
+      "D": 2,
+      "global_norm": 1.2649110640673518,
+      "local_cut": 0.9999999999999999
+    },
+    {
+      "D": 3,
+      "global_norm": 1.507556722888818,
+      "local_cut": 1.0
+    },
+    {
+      "D": 4,
+      "global_norm": 1.7320508075688774,
+      "local_cut": 1.0
+    },
+    {
+      "D": 8,
+      "global_norm": 2.5,
+      "local_cut": 1.0
+    },
+    {
+      "D": 16,
+      "global_norm": 3.6742346141747673,
+      "local_cut": 0.9999999999999998
+    }
+  ]
+}

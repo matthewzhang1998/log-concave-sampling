@@ -1,0 +1,22 @@
+[
+  {
+    "name": "dyadic covariance",
+    "path": "/workspace/shared/dyadic-bridge-square-20261005/MANIFEST.json",
+    "sha256": "2365fc791230cd2d73be22964abf45c071825771ca9d6e860b483a7843a67a0a"
+  },
+  {
+    "name": "prefix LAW join",
+    "path": "/workspace/shared/dyadic-prefix-law-join-20261005/MANIFEST.json",
+    "sha256": "130131317183c6f00ea3566c187296912db7850081904322215a3ec9d5eb37f2"
+  },
+  {
+    "name": "next m4 port",
+    "path": "/workspace/shared/next-history-m4-port-20261005/MANIFEST.json",
+    "sha256": "ac9845847d49f85da1ce7cb9728e18c2f0a6ed8f7da4de1befe685878ca7250f"
+  },
+  {
+    "name": "local shifted source",
+    "path": "/workspace/shared/marked-shifted-local-current-20261005/MANIFEST.json",
+    "sha256": "787ddcc7f03de97085e2fcb93d20b631c705950c3d393b43eadd1c6551eabb34"
+  }
+]

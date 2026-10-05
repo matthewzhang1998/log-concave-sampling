@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "assertions": 263,
+  "groups": {
+    "exact_riesz": 32,
+    "exact_keep": 32,
+    "observer_boundary": 2,
+    "hermite": 22,
+    "multivariate_energy": 3,
+    "bounded_join": 82,
+    "caller_boundary": 7,
+    "bank_boundary": 1,
+    "grades": 77,
+    "floors": 5
+  },
+  "rank8_grades": {
+    "root": "27/4",
+    "caller": "53/8",
+    "main_energy": "29/4",
+    "main_first": "57/8",
+    "own": "27/2",
+    "mixed_exact": "33/4",
+    "mixed_conservative": "65/8",
+    "self_bank": "115/8",
+    "heat": "65/8",
+    "response_floor": "7/8",
+    "value_floor": "1"
+  },
+  "H7_second_moment": 5040,
+  "H7_fourth_moment": 6930445536000,
+  "bounded_join_fixture_count": 81,
+  "scope": "Independent first-Riesz and keep-transfer algebra, complete observer terms, conditional moment boundaries, Hermite energy and exact grades/floors. Imported native port remains a theorem assumption; no native compiler was executed."
+}

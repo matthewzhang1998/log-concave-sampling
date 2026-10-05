@@ -1,0 +1,98 @@
+{
+  "historical_pin_resolutions": [
+    {
+      "from": "research/induction-mixed-queue-20261005/independent-audit/common-carrier-input-hashes.json",
+      "path": "research/induction-mixed-queue-20261005/WEIGHTED-MIXED-QUEUE.md",
+      "sha256": "844abe660f791d45765223c32ff3177b3f78cd3d5e2109d608a5bf51d23effcf",
+      "actual_sha256": "c2592c68d70bfeb69ec52d92ec7abeeec22bd4b12759d43be62cb75d594735f0",
+      "disposition": "historical pin; not final-source hash; original bytes not recovered in this review",
+      "resolved_path": null
+    },
+    {
+      "from": "research/induction-mixed-queue-20261005/independent-audit/common-carrier-input-hashes.json",
+      "path": "research/induction-mixed-queue-20261005/SIMULTANEOUS-FAMILY-JOIN.md",
+      "sha256": "40c09d39e00a1a66de4f7a98f47f6322ad3bf967c129a0363b7596d5553e8517",
+      "actual_sha256": "ff7d4511d4691172849a4f1429d20fd1c35e066dcef29f429fc9193b05185c87",
+      "disposition": "historical pin; not final-source hash; original bytes not recovered in this review",
+      "resolved_path": null
+    },
+    {
+      "from": "research/induction-mixed-queue-20261005/independent-audit/common-carrier-input-hashes.json",
+      "path": "research/induction-mixed-queue-20261005/COMMON-CARRIER-AMALGAMATION.md",
+      "sha256": "8617d9575cbea852bdd0dea7a401ee37685ec052e8f3605b1a745ee50b1f6b79",
+      "actual_sha256": "75de84123a2a30996a937cc711ca53eb988197460507fd6aebb1765e5af5a5c8",
+      "disposition": "historical pin; not final-source hash; original bytes not recovered in this review",
+      "resolved_path": null
+    },
+    {
+      "from": "research/induction-mixed-queue-20261005/independent-audit/independent-checks.json",
+      "path": "research/induction-mixed-queue-20261005/WEIGHTED-MIXED-QUEUE.md",
+      "sha256": "0d7d012f48fb2c78bb774bd8f6ee8cd6a79199cc4b8cf7dd86c89eb1bb0f2ccd",
+      "actual_sha256": "c2592c68d70bfeb69ec52d92ec7abeeec22bd4b12759d43be62cb75d594735f0",
+      "disposition": "historical pin; not final-source hash; original bytes not recovered in this review",
+      "resolved_path": null
+    },
+    {
+      "from": "research/induction-mixed-queue-20261005/independent-audit/independent-checks.json",
+      "path": "research/induction-mixed-queue-20261005/SIMULTANEOUS-FAMILY-JOIN.md",
+      "sha256": "26f2ccf69af8199e3be934d49ad0b6fb4af7f0b82c844b1ee5351813cbce9ba1",
+      "actual_sha256": "ff7d4511d4691172849a4f1429d20fd1c35e066dcef29f429fc9193b05185c87",
+      "disposition": "historical pin; not final-source hash; original bytes not recovered in this review",
+      "resolved_path": null
+    },
+    {
+      "from": "research/induction-native-rank-generator-20261005/independent-audit/INITIAL-SOURCE-HASHES-SUPERSEDED.json",
+      "path": "research/induction-native-rank-generator-20261005/ACTIVE-PROBE-GENERATOR.md",
+      "sha256": "4bb51b9c23cb619850750d1c89aef7a617c9f7b9df444a6cbe49fe03a093ea58",
+      "actual_sha256": "3707e549cf3550a8b24c26f54f1dce77ce1469c657309695369403809c58b058",
+      "disposition": "explicitly superseded initial-source pins; final AUDITED-INPUT-SHA256 applies instead",
+      "resolved_path": null
+    },
+    {
+      "from": "research/induction-native-rank-generator-20261005/independent-audit/INITIAL-SOURCE-HASHES-SUPERSEDED.json",
+      "path": "research/induction-native-rank-generator-20261005/active_probe_source.py",
+      "sha256": "2cf122aef27b7d12f2cf5f290c8f6e40d69866fb2baf371efb11c7ee31ac55d1",
+      "actual_sha256": "d321f4256d2ab764b04a87c286bd7500b8e73934a901af9848cff99170448047",
+      "disposition": "explicitly superseded initial-source pins; final AUDITED-INPUT-SHA256 applies instead",
+      "resolved_path": null
+    },
+    {
+      "from": "research/induction-native-rank-generator-20261005/independent-audit/INITIAL-SOURCE-HASHES-SUPERSEDED.json",
+      "path": "research/induction-native-rank-generator-20261005/check_active_generator.py",
+      "sha256": "7dff28e537c84f9a563930a9db7e1c9ad7b0b33c4c94e29c29f8ea7ed1282258",
+      "actual_sha256": "4ada31177ac06f14d9a10b1538671477b28c1cc29161579deb1ace9717025a6b",
+      "disposition": "explicitly superseded initial-source pins; final AUDITED-INPUT-SHA256 applies instead",
+      "resolved_path": null
+    },
+    {
+      "from": "research/induction-shared-variables-20261005/marked-spanning-tree-addendum/INPUT-PINS.json",
+      "path": "research/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md",
+      "sha256": "c54f551585d4f8c0cd5b46bef4eb4f934eee2284a5d7326f84ad23fc03744971",
+      "actual_sha256": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1",
+      "disposition": "resolved to exact preserved reviewed snapshot",
+      "resolved_path": "research/induction-shared-variables-20261005/marked-spanning-tree-addendum/REVIEWED-MARKED-SPANNING-TREE-EXTENSION.md"
+    }
+  ],
+  "known_seal_differences": [
+    {
+      "source": "research/positive-endpoint-mean-join-20261005/SHA256SUMS",
+      "path": "research/positive-endpoint-mean-join-20261005/independent-audit/INDEPENDENT-ENDPOINT-JOIN-AUDIT.md",
+      "expected_sha256": "cc4f5bc8d50672a8da492cef001f498f0c9275c837261d59734470a7354f89ef",
+      "actual_sha256": "962eb398c771a25ee4fa1ddeb4a30123fef46a1ea71ab0269031c8c4664c8b10",
+      "disposition": "preserve historical mismatch; see positive-fourth-order-endpoint PROVENANCE-NOTE"
+    }
+  ],
+  "external_exclusions": [
+    {
+      "source_basename": "30_low_acc.tex",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "action": "exclude full manuscript; optional source verification only; never fabricate matching bytes"
+    },
+    {
+      "source_basename": "13_high_acc.tex",
+      "sha256": "4c371cfca4a9043a263f19efe239a0543ec47e5efbe69f2236391042c913cf62",
+      "action": "exclude full manuscript; optional source verification only; never fabricate matching bytes"
+    }
+  ],
+  "scope": "Historical exceptions preserved honestly; these are not current-source hash equalities."
+}

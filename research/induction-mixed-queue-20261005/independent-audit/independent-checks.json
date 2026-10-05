@@ -1,0 +1,22 @@
+{
+  "recurrence_checks": 3510,
+  "rank8_grades": {
+    "heat": "57/7",
+    "old": "57/7",
+    "self": "99/7",
+    "own": "93/7",
+    "caller": "13/2",
+    "root": "93/14",
+    "gain_over_65_8": "1/56",
+    "weighted_heat_ceiling": "125/14"
+  },
+  "inputs": {
+    "/workspace/shared/induction-mixed-queue-20261005/WEIGHTED-MIXED-QUEUE.md": "0d7d012f48fb2c78bb774bd8f6ee8cd6a79199cc4b8cf7dd86c89eb1bb0f2ccd",
+    "/workspace/shared/induction-mixed-queue-20261005/SIMULTANEOUS-FAMILY-JOIN.md": "26f2ccf69af8199e3be934d49ad0b6fb4af7f0b82c844b1ee5351813cbce9ba1",
+    "/workspace/shared/induction-shared-variables-20261005/MANIFEST.json": "875eca039776397c9f711ea71811e4236bcebac6b7411f430de617124592da3c",
+    "/workspace/shared/induction-shared-variables-20261005/MARKED-SPANNING-TREE-EXTENSION.md": "1e3be28b6ca842f1f1ec5c346fd0b228e4435dd776f01bbbafefc0384de2cbd1",
+    "/workspace/shared/induction-shared-variables-20261005/EXACT-WHOLE-BANK-TREE-CENSUS.md": "7d1c4e516fa002fcb9559488c7e833681402e00b9f493c2af79d1b634ed6db49",
+    "/workspace/shared/induction-shared-variables-20261005/marked-spanning-tree-addendum/FROZEN-COEFFICIENT-WIDTH-ZERO-PORT.md": "d72fcf89f340e7429253151d496eb5cf52f6d300647fb1d84a9157f346f65a4d",
+    "/workspace/shared/induction-native-rank-generator-20261005/RANK8-SMOOTHED-NATIVE-RETURN.md": "f812083428f7b612cdc90a27a5da2be4aafd034f0d14b7cdc73e9bb5361cca27"
+  }
+}

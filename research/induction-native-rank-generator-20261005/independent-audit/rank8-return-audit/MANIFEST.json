@@ -1,0 +1,14 @@
+{
+  "status": "PASS_UNDER_EXPLICIT_IMPORTED_PORT_AND_ADMISSION_HYPOTHESES",
+  "report": "RANK8-RETURN-COMPOSITION-AUDIT.md",
+  "rank8_join_independent_assertions": 263,
+  "common_reference_and_fixed_rank_assertions": 515,
+  "supplied_checker_assertions": 125,
+  "previous_audited_inputs_unchanged": true,
+  "native_compiler_executed": false,
+  "imported_native_port_reproved_here": false,
+  "fixed_rank_parameterization_valid_under_same_hypotheses": true,
+  "arbitrary_order_queue_proved": false,
+  "sublinear_complexity_proved": false,
+  "input_hashes": "AUDITED-INPUT-SHA256.json"
+}

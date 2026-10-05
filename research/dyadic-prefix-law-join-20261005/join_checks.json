@@ -1,0 +1,81 @@
+{
+  "prefix_exact_powers": {
+    "mean_native": "5",
+    "action_calibration": "9/2",
+    "centered_action": "19/4",
+    "quadratic_feedback": "5",
+    "mean_quadrature": "5",
+    "covariance_clock": "5",
+    "true_third": "9/2",
+    "mean_caller_shift": "4",
+    "covariance_caller_shift": "17/4",
+    "smoothing": "4",
+    "smoothing_drift": "5",
+    "private_mean": "5/2",
+    "private_covariance": "11/4",
+    "endpoint_mean": "2",
+    "endpoint_covariance": "9/4"
+  },
+  "tail_rows": {
+    "native_prior": {
+      "bulk": "9/2",
+      "endpoint": "4",
+      "K_power": "-3"
+    },
+    "mean": {
+      "bulk": "4",
+      "endpoint": "5",
+      "K_power": "0"
+    },
+    "mean_sqrt": {
+      "bulk": "9/2",
+      "endpoint": "5",
+      "K_power": "0"
+    },
+    "mean_reserve": {
+      "bulk": "17/4",
+      "endpoint": "5",
+      "K_power": "-1/2"
+    },
+    "mean_last": {
+      "bulk": "9/2",
+      "endpoint": "5",
+      "K_power": "-1"
+    },
+    "mixed": {
+      "bulk": "29/6",
+      "endpoint": "17/3",
+      "K_power": "-1/3"
+    },
+    "quartic": {
+      "bulk": "4",
+      "endpoint": "4",
+      "K_power": "-2"
+    },
+    "sixth": {
+      "bulk": "9/2",
+      "endpoint": "4",
+      "K_power": "-3"
+    },
+    "fourth_target": {
+      "bulk": "9/2",
+      "endpoint": "5",
+      "K_power": "-1"
+    },
+    "mixed_mixture": {
+      "bulk": "11/2",
+      "endpoint": "6",
+      "K_power": "-1"
+    }
+  },
+  "max_finite_sum_envelope_ratio": 0.7073894673494265,
+  "max_geometry_error": 1.3322676295501878e-15,
+  "literal_prefix": {
+    "max_endpoint_fd_error": 1.1214546807061093e-14,
+    "max_endpoint_first_over_Aw": 0.08528639326077518,
+    "values_per_uncached_source": 26
+  },
+  "assertions": 5034,
+  "native_compiler_executed": false,
+  "scope": "Exact scalar ledgers, literal prefix original-VALUE source, endpoint Gaussian rows, positive finite outer sums, variance and complete-root accounting. Imported native proofs remain necessary."
+}

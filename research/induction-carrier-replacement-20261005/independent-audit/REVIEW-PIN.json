@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-05",
+  "verdict": "PASS under stated imported fixed-order native and product-bank hypotheses; finite-D guard only; variance-partition admission conditional on complete share/census guards",
+  "source_sha256": {
+    "FINAL-STATUS.md": "78974e6b82f4a21f25fcb7934cecd71bf454101022ea5b0da8b9166c98ad04e3",
+    "VARIANCE-PARTITION-NATIVE-REPLACEMENT.md": "535e4c6475b94ac9b930c1d6467d5909c68715f0dfc52a14bac8b83e7d99c5d5",
+    "README.md": "d86bc92a1fe126d28bf8462af1cd37ad1ad6545ec0adc9a88b323fc37fc9dd48",
+    "FINITE-DIMENSION-CARRIER-HYBRID.md": "071a978861d63cd80c7fbca125e76e6c721df14a2afae54e93453c722203beb2"
+  },
+  "low30_sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+  "report": "CARRIER-REPLACEMENT-AUDIT.md",
+  "checks": "check_independent_carrier_audit.py",
+  "check_results": "independent-check-results.json",
+  "primary_files_edited_by_auditor": false
+}

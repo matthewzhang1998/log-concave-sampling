@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "assertions": 3667,
+  "loopless_multigraphs": 20,
+  "physical_cut_circuits": 112,
+  "live_wire_steps": 484,
+  "maximum_circuit_einsum_error": 6.245004513516506e-17,
+  "missing_mark_hypothesis_counterexamples": 3,
+  "scope": "All-cut coefficient tensor theorem for a loopless multigraph admitting a marked-leaf spanning tree. No native nonlinear program, derivative-frame, self-trace, or return theorem."
+}

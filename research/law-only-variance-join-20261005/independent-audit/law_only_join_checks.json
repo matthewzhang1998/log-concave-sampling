@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "assertions": 18374,
+  "scope": "Finite algebra/geometry/quadrature/native-scale checks. The proof is in the independent audit; no native compiler execution or universal guard admission is claimed.",
+  "low30_sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+  "draft_sha256_at_run": "40891db38221e3b02f2e657a4ef93c3e4fd06c69b29cc03e7db9c5761fe2fc0a",
+  "maxima": {
+    "near_discrete_over_sqrt_w": 1.6395439442943442,
+    "one_clock_shield_sum_over_Jsqrt_n": 0.5729428434067078
+  }
+}

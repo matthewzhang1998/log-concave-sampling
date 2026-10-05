@@ -1,0 +1,61 @@
+{
+  "assertions": 32,
+  "c_star": 0.005316746250892225,
+  "inner_signed_coefficient": -0.01063349250178445,
+  "explicit_lower_ratio_n10000": 0.002183410417558891,
+  "claimed_lower_ratio": 0.002,
+  "legendre_diagnostic_nodes_per_axis": 384,
+  "mean_field_diagnostics": [
+    {
+      "A": 0.01,
+      "inner_defect_over_A2": -0.010538567199740341,
+      "outer_witness_over_A2": 0.0052692835998701705,
+      "base": 0.0024963408473484415,
+      "single": -3.895453463024384e-06,
+      "linear": 3.578133016118346e-08,
+      "quadratic": 2.3255437309443452e-07,
+      "target": 0.002493767586308647
+    },
+    {
+      "A": 0.003,
+      "inner_defect_over_A2": -0.010604989210362056,
+      "outer_witness_over_A2": 0.005302494605181028,
+      "base": 0.0007496705494314676,
+      "single": -3.4982227157788105e-07,
+      "linear": 9.665151830111394e-10,
+      "quadratic": 2.083609798109523e-08,
+      "target": 0.0007494379746759471
+    },
+    {
+      "A": 0.001,
+      "inner_defect_over_A2": -0.010623989584498516,
+      "outer_witness_over_A2": 0.005311994792249258,
+      "base": 0.00024996339035846427,
+      "single": -3.88447302177841e-08,
+      "linear": 3.5801280322225097e-11,
+      "quadratic": 2.3121598366666624e-09,
+      "target": 0.00024993751757894795
+    },
+    {
+      "A": 0.0003,
+      "inner_defect_over_A2": -0.010630641474348366,
+      "outer_witness_over_A2": 0.005315320737174183,
+      "base": 7.499670500557666e-05,
+      "single": -3.4952565888677325e-09,
+      "linear": 9.666763042244865e-13,
+      "quadratic": 2.0800121925376497e-10,
+      "target": 7.499437547461605e-05
+    },
+    {
+      "A": 0.0001,
+      "inner_defect_over_A2": -0.01063254215981314,
+      "outer_witness_over_A2": 0.00531627107990657,
+      "base": 2.4999633885487126e-05,
+      "single": -3.883374244315064e-10,
+      "linear": 3.580326727597275e-14,
+      "quadratic": 2.3108290651700417e-11,
+      "target": 2.499937501757821e-05
+    }
+  ],
+  "scope": "Diagnostics of constants and deterministic reference rows only; not the native compiler, sealed rule implementation, or a stochastic finite-D validation."
+}

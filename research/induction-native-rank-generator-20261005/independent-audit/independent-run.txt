@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "assertions": 2819,
+  "groups": {
+    "fourier": 180,
+    "call_count": 180,
+    "origin": 180,
+    "energy": 180,
+    "parity": 324,
+    "width_first": 42,
+    "gaussian_response": 99,
+    "conditional_means": 2,
+    "tensor_energy": 12,
+    "cut_constants": 54,
+    "tensor_cuts": 42,
+    "firsts": 192,
+    "caller_rows": 96,
+    "radial": 864,
+    "smoothed_constants": 80,
+    "grades": 186,
+    "cost_floors": 74,
+    "census": 18,
+    "value_precision": 3,
+    "linear_storage": 2,
+    "input_hashes": 9
+  },
+  "extrema": {
+    "fourier_source_absolute_error": 7.634782292053471e-15,
+    "gaussian_response_absolute_error": 2.220446049250313e-16,
+    "private_curl_fd_error": 3.431695643331264e-11,
+    "radial_second_scaled_fd_error": 1.4029403376575435e-05
+  },
+  "rank8": {
+    "n": 8,
+    "tau": "1/8",
+    "beta": "1/14",
+    "root": "27/4",
+    "root_caller": "53/8",
+    "nonroot_caller": "375/56",
+    "conditional_quadratic_extra_width_ell_zero": "27/2",
+    "conditional_target": "65/8",
+    "main_response_floor_exponent": "7/8",
+    "main_value_floor_exponent": "1"
+  },
+  "rank8_raw_VALUE_census": 27020800,
+  "rank8_degree_multisets": 11,
+  "scope": "Source formulas and bounds diagnosed independently. No marked-tree native return, full sampler, or cost exponent is proved by these tests."
+}
