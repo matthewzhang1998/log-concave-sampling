@@ -45,6 +45,8 @@ def run_one(script):
     with tempfile.TemporaryDirectory(prefix='sampling-diagnostic-') as directory:
         work = Path(directory) / 'research'
         shutil.copytree(RESEARCH, work)
+        for helper in ('INVENTORY.json', 'publication_sources.py'):
+            shutil.copyfile(ROOT/helper, Path(directory)/helper)
         before = {str(p.relative_to(work)): digest(p) for p in work.rglob('*.json')}
         saved_json = {str(p.relative_to(work)): json.loads(p.read_text()) for p in work.rglob('*.json')}
         env = dict(os.environ)

@@ -1,8 +1,16 @@
 # Log-concave sampling: mathematical research snapshot
 
-Snapshot version: 2026-10-04-public-v10-full-nonlinear-third-order-endpoint, updated 4 October 2026. This is a curated research archive of proofs, scoped audits, source certificates, and diagnostic code. Inclusion is not an assertion that every proposed construction is proved.
+Snapshot version: 2026-10-05-public-v11-bounded-covariance-and-connected-current-packages, updated 5 October 2026. This is a curated research archive of proofs, scoped audits, source certificates and diagnostic code. Inclusion is not an assertion that every proposed construction is proved.
 
-## Progress in brief
+## V11: bounded covariance and connected-current packages
+
+V11 adds the finite full same-carrier covariance service and the bounded auxiliary-public cycle producer, with source pins, independent audits and portable diagnostics. It also preserves the scoped force-mean re-entry, analytical cumulant/Stein recurrences, positive rank-three packet, grouped-law response, and bounded raw mean-current audits completed since V10.
+
+The same-carrier m3 mean and full fourth-order endpoint remain OPEN. No unshifted covariance expansion is admitted as a proved m3 reduction. Higher physical-R tilt source admission, generic chunk/current closure and eventual-sublinear complete cost also remain open. Conditional typed closure/cost contracts are hypotheses, not a completed finite induction.
+
+See [the current V11 status and reproduction notes](STATUS-V11.md) for the exact scopes, critical source pins, historical-status qualifications and 135-file frozen selection. The full archive contains 599 research files and 131 diagnostic scripts. LOW30 remains external; the original baseline manuscript is unchanged. Later active drafts and private preparation material are excluded.
+
+## Historical V10 progress in brief
 
 The source-relative exact **1/32** baseline remains the best end-to-end reference in this collection. V10 adds an independently audited full nonlinear fixed-order endpoint gain: standardized W2 error **ΛA³√D**, or physical error **ΛA^(7/2)√D**, with complete public-logarithmic original-gradient VALUE work under the stated imported guards. This closes one full nonlinear order gain, including the higher private cumulants, while leaving repeatable order raising and a sublinear complete-cost recurrence open. V9's bounded components and the earlier source-relative results remain available below.
 

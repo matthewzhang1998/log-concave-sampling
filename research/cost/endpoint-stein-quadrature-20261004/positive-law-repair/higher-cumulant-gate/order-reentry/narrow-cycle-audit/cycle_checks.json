@@ -1,0 +1,4 @@
+{
+  "assertions_passed": 2796,
+  "scope": "Exact scalar reverse-symbol and finite grouped-cut diagnostics only; no positive cycle producer or all-order closure."
+}

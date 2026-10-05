@@ -1,0 +1,46 @@
+{
+  "status": "PASS, bounded guarded force-mean composition only",
+  "date": "2026-10-04",
+  "assertions": 2435,
+  "source_sha256": "e1231f72136283b978895dc8763c08eddd35f73fc1aa3955a1e1b7fbb9888d85",
+  "inputs": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/FOURTH-ORDER-FORCE-MEAN-REENTRY.md": "e1231f72136283b978895dc8763c08eddd35f73fc1aa3955a1e1b7fbb9888d85",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-FULL-REVERSE-OU-LAW-AND-ENDPOINT.md": "e83d737da13d05054ff0dda129a05e72d350c6e3e33b019d548cc517b816e702",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/EXACT-TWO-CLOCK-CURRENT-AND-UNIFORM-C2-REFERENCE.md": "0a966fbd6076dff94d2b928ec1a4a05aa6d33c9bc8222eff051b221ee9881477",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/CUBIC-GAUSSIANIZATION-AND-POSITIVE-BUFFERED-LAW-RETURN.md": "f347c88a3987e50542dbb97e1e9d2cb1d8eb684cb6327509e89154d75efbb9aa",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/clock-compression/POSITIVE-SQUARE-CLOCK-COVARIANCE-SERVICE.md": "108af2124e3da0e2a04af92e9f0403bfce2f82f7e2912ba6b7e1975ef1c8b18b",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/nested-mean-independent-audit/INDEPENDENT-NESTED-FORCE-MEAN-AUDIT.md": "c2fbd8b02e1d225226ef5cf822fafda31f3dfa05e505d747d0b8772cb9d2daf7",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/gaussianization-independent-audit/INDEPENDENT-GAUSSIANIZATION-AUDIT.md": "b6aebdd5f7adb06823afd34edaca0d61426de2bde2848f56eb6e3420ddd93fac",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/clock-compression/independent-audit/INDEPENDENT-SQUARE-CLOCK-SERVICE-AUDIT.md": "a6c3ae0174c383294d60312f39566a366b40ce794d1dac9e6d581259898ddc5c",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/variance-gluing/EXACT-REVERSE-OU-BRIDGE-AND-BUFFER-LEDGER.md": "6846e7e565181a0d8acdc25d8d011b1155a4d350a2b2ca516f6d7cab24eea01a",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/conditional-ou-velocity/THIRD-ORDER-CONDITIONAL-OU-VELOCITY-LAW-SERVICE.md": "44294f14c4713882e656fbb835e03f90db61dfed224260a28d9501e39cf529c5",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/POSITIVE-SECOND-ORDER-LAW-AND-QUADRATIC-AMPLIFIER.md": "a085dfdef3f66f69208612034c17e4e18045fc00a21be3aed64ccfcb5e9b7085",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/full-bridge-independent-audit/INDEPENDENT-FULL-THIRD-ORDER-BRIDGE-AUDIT.md": "e5b84fbcda78a5581437417c6f76d27587cfaf341a235d5a55da21996b03672d",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/full-bridge-independent-audit/check_full_bridge_independent.py": "a771d46792dd6f1a5d0150eacf690c28253577ac3c67e20f20426c158ee79b6b",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/full-bridge-independent-audit/full_bridge_independent_checks.json": "fdcd6600f4acbdcc0db63eccc57cfa5f6eea3c9442243a2560f37064820f9d1f",
+    "external:LOW30": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "research/p-weak-mean/WEAK-29-ACTUAL-REMAINDER-AND-RETAINED-MEAN-RECONSTRUCTION.md": "e1cc994a8325c586e54511a959de57102911bf2f269c4e688090ecd107070d2f",
+    "research/COMPONENTWISE-OLD-R7-HIDDEN-MEAN.md": "38cf61f69f80371e0e0607446189213841a404fa9a89082b95fabdd1ca74a521",
+    "research/exact-slack/cw7/01_retained_hidden_force_certificate.md": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+    "research/exact-slack/cw7/02_same_version_batch_and_numerical_census.md": "cff71ce50596264c93b81b88dc8daf9426bbb438f1773e211e00b741f3912ce9",
+    "research/no-copy-rank-20261004/endpoint-next/cache-partition/WEAK-29-CAPTURED-CALLER-AND-COMPLETE-PRIVATE-CACHE-PARTITION.md": "8ebdc3fc1688787ea11d076c918345cc02188ced46d0c605aa2dd51298b3ac90",
+    "research/no-copy-rank-20261004/host-observer-audit/INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+    "research/no-copy-rank-20261004/host-observer-audit/COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+    "research/no-copy-rank-20261004/host-observer-audit/host_separator_checks.json": "636cf00fbc7199782a66d77defa2cb121c1db59fc2b036d82bb0b05a5a3c7a50",
+    "research/no-copy-rank-20261004/host-observer-audit/ACTUAL-CW7-WEAK-E-HOST-SEPARATOR-AND-COMPARISON-ORDER.md": "d944429de8eeede42e5a97c3e01e34f52b21f23f8e7ac9eda16dc38e02c451da",
+    "research/no-copy-rank-20261004/host-observer-audit/check_host_separator.py": "b839914851c29468b6c740e76c112a0bd531c41692734ccbd9518d19997d607c"
+  },
+  "outputs": {
+    "check_fourth_force_reentry.py": "3d17ce14ecbf24d84a953c0055dd8627bd2f9614ca2be9da355c76649e808e6f",
+    "fourth_force_reentry_checks.json": "8c740b0af19cf8d67dc0ba8051749927e6e44c2971fbc69b28b3ef21518b7f96",
+    "INDEPENDENT-FOURTH-ORDER-FORCE-MEAN-REENTRY-AUDIT.md": "1d3b118e5b8a72e4758c072e3a275066c63238ab74ef88762ed4213d47c958ff"
+  },
+  "limits": [
+    "No exact actual output covariance claim",
+    "No fourth-order posterior endpoint",
+    "No retained/protected/proxy return",
+    "No all-order recurrence or eventual-sublinear exponent conclusion",
+    "Imported compilers are not executed by the diagnostics"
+  ]
+}

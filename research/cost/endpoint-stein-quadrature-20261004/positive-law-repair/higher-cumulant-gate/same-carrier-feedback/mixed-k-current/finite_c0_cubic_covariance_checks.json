@@ -1,0 +1,48 @@
+{
+  "status": "PASS algebraic and finite-clock diagnostics",
+  "scope": "Does not instantiate the imported fixed-order native pair compiler or prove its numerical implementation.",
+  "shield_trials": 2000,
+  "min_shield_gap_div_sigma2": 2.2657369288031566,
+  "max_normalized_shield_bound_failure": 0.0,
+  "channel_covariance_error": 1.6653345369377348e-16,
+  "noncommuting_wrong_middle_order_gap": 3.45570230737017e-07,
+  "clock_checks": [
+    {
+      "panels": 1,
+      "nodes": 5,
+      "weight_mass": 0.06249999999999999,
+      "sum_w_over_sigma": 0.2975597415091188,
+      "sum_w_over_sigma2": 1.4182479411828584
+    },
+    {
+      "panels": 2,
+      "nodes": 9,
+      "weight_mass": 0.062499999999999986,
+      "sum_w_over_sigma": 0.38235322019911877,
+      "sum_w_over_sigma2": 2.3901816870585435
+    },
+    {
+      "panels": 4,
+      "nodes": 17,
+      "weight_mass": 0.0625,
+      "sum_w_over_sigma": 0.5075654070638099,
+      "sum_w_over_sigma2": 4.846165639866738
+    },
+    {
+      "panels": 8,
+      "nodes": 33,
+      "weight_mass": 0.0625,
+      "sum_w_over_sigma": 0.6015284144531902,
+      "sum_w_over_sigma2": 10.03268059684087
+    },
+    {
+      "panels": 12,
+      "nodes": 49,
+      "weight_mass": 0.06249999999999999,
+      "sum_w_over_sigma": 0.6245909276939294,
+      "sum_w_over_sigma2": 15.231187291478935
+    }
+  ],
+  "quadratic_covariance_error": 6.776263578034403e-21,
+  "artifact_sha256": "f31fe71fe96d1ea526fe522b0cc6baecc43bfaa31b6c35e7e79fa50a907f9963"
+}

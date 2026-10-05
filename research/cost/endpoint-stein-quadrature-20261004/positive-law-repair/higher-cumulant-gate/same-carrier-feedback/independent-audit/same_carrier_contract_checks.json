@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "assertions": 36,
+  "source_sha256": "a63c38f14206ec278f7c12a56542968a7d1675af6f550610e4539e500a653eca",
+  "illustrative_gaussian_quadrature": {
+    "E_logcosh_normal": 0.37456720749145683,
+    "collective_shift_d": 0.046820900936432104,
+    "E_hprime_normal": -0.0003983991358344559,
+    "J_innovation_inner_product_a_half": -0.00013807461887058587,
+    "conservative_asymptotic_variance_constant": 3.971791745053656e-10
+  },
+  "scope": "Exact target/moment identities and counterexample scaling, with numerical illustration only for its nonzero constant. The dimension-free asymptotic lower bound is proved in the written audit, not inferred from finite-dimensional simulation."
+}

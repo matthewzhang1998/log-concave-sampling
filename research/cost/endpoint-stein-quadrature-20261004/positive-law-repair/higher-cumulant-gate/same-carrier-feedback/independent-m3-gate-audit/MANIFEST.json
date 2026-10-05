@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-05",
+  "reviewer": "independent m3-current reviewer",
+  "status": "PASS bounded components; exact m3 target bias and native consumer OPEN",
+  "assertions": 1993,
+  "source_pins": {
+    "P3-MEAN-RAW-SOURCE-AND-SECOND-DECOUPLING-GATE.md": "87b61a6a4ca03f81f7d910cdaa83b3783cd4792b3a428b89c8f0f629062e4467",
+    "SINGLE-HISTORY-EXACT-CENTERED-RESUMMED-CURRENT.md": "276d5873cc7d3f5ca8650955c08abe128cec7eda96680319f5c2a00b45118e9a",
+    "COHERENT-SHIFT-SEPARATES-UNSHIFTED-M3-FEEDBACK.md": "cb04bb4e1cd3886ed378bb45593ea855b800e1cd1e532916c5f238cd3141e285",
+    "GRADIENT-PORTS-DO-NOT-CONTROL-A-CONTRACTED-TRACE.md": "e6050915d148b7248e97bd26647f5948f14ef50d47dbd365d9c668b18790faa1",
+    "independent-mean-separator-audit/INDEPENDENT-ANALYTICAL-AUDIT.md": "072f1672c7591305cb6d72fb78746ab5ee11e99733c011a40a4e0cbf0de73024"
+  },
+  "qualifications": [
+    "Section 4 imported A3 mean comparison needs actual nested-mean clock tolerances; mass and first moment alone are insufficient.",
+    "Generic Riesz formula is admitted for Gaussian Sobolev firsts; actual IH/IQ satisfy this."
+  ],
+  "open": [
+    "P3 raw equation (9)",
+    "Uniform A4 one-energy trace remainder",
+    "Finite original-VALUE mean-current consumer",
+    "Full order-four endpoint and all-order closure"
+  ],
+  "files": {
+    "INDEPENDENT-M3-RAW-SOURCE-AND-EXACT-CURRENT-AUDIT.md": "abb77d6c7bd425d254beb2d7465eb072ccc40a0be7c11851da05de0fa49767cf",
+    "check_m3_gate_independent.py": "7d4462bad33efc41964a0cf39765bb09f72911d3b590e0069f6985143bcc188a",
+    "m3_gate_independent_checks.json": "871a63c93864a2fc316c30cd53e1bd7b011790855369acbdcf7ce51ac3f10276"
+  }
+}

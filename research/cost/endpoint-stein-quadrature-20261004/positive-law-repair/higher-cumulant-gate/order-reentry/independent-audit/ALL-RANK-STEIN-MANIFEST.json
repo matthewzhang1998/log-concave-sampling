@@ -1,0 +1,14 @@
+{
+  "status": "PASS within stated analytical scope; finite endpoint closure not supplied",
+  "date": "2026-10-04",
+  "assertions": 60,
+  "inputs": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/ALL-RANK-CENTERED-STEIN-CURRENT-RECURRENCE.md": "d09db0fa283512de36bc910f1d3f828257121699832c0897943d9a252f59dd0e",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/ONE-MARKED-THIRD-CUMULANT-REPLACEMENT.md": "5581eb0e592d2997504ac0c69c9f577e46306b6ca85718feb6e0a4a852524a19"
+  },
+  "outputs": {
+    "check_all_rank_stein.py": "1d3e1f55cbe7b435212b9d7072ba5cdb4c490123b44e38e9fc9692226ba94b16",
+    "INDEPENDENT-ALL-RANK-STEIN-AND-ONE-MARKED-AUDIT.md": "b278b4288f1198bbaa992ec373fde4e342d454fd160a4df1aff383a893fb8d86",
+    "all_rank_stein_checks.json": "895ccd22be6c34aba30aed0defd1e19358c3104be08699db2409eae71ecc48d7"
+  }
+}

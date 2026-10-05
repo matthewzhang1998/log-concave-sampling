@@ -1,0 +1,7 @@
+{
+  "status": "PASS: exact algebra and source-contract diagnostics",
+  "assertions": 1596,
+  "exact_shield_cases": 81,
+  "source_sha256": "f31fe71fe96d1ea526fe522b0cc6baecc43bfaa31b6c35e7e79fa50a907f9963",
+  "scope": "Positive finite reduced mixed-covariance specialization under pinned LOW30 guards; no full endpoint claim"
+}

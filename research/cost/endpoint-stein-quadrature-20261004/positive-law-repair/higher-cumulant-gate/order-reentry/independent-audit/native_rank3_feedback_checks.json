@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "assertions": 787,
+  "pins": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/THIRD-CUMULANT-POSITIVE-CLOCK-COMPRESSION.md": "c3ed7cdf2145707391c0e16bfe675f9f154beedf795ef1ab7b49dc1116737e53",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-RANK3-PACKET-FEEDBACK-LEMMA.md": "c689f0a947bcf6358f38bc6470ede05f564dcec11ff5e4171df8250e4af78193",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-QUADRATIC-REFERENCE-FOR-SKEW-GAUSSIANIZATION.md": "a797723ef51ae41a28bdd47c99bb7d5fccee49de6599d07ec8b085578c907c41",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26"
+  },
+  "max_root_feedback_to_operator_times_HS_ratio": 0.5000000136646393,
+  "max_dilated_moment_times_degree_plus_two": 1.9999999667871449,
+  "wrong_inner_symmetrization_difference": "2*(-3*l1**3*x*y + 3*l1**2*l2*x**2 + 18*l1**2*l2*x*y - 15*l1**2*l2*y**2 - 8*l1**2*l2 - 18*l1*l2**2*x**2 + 18*l1*l2**2*x*y - 12*l1*l2**2 - 3*l2**3*x**2 - 2*l2**3)/2187",
+  "scope": "Independent exact native regression/current identities, coupled-gradient five-clock ordering, amplitude normalization, and noncommuting Gaussian-channel/root diagnostics. Actual imported pair compilers are not run."
+}

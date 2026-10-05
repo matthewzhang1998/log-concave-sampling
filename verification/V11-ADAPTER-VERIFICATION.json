@@ -1,0 +1,72 @@
+{
+  "all_pass": true,
+  "tests": [
+    {
+      "test": "exact mathematical body unchanged",
+      "script": "order-reentry/independent-audit/check_fourth_force_reentry.py",
+      "passed": true
+    },
+    {
+      "test": "exact mathematical body unchanged",
+      "script": "order-reentry/typed-contract-audit/check_typed_contract.py",
+      "passed": true
+    },
+    {
+      "test": "exact mathematical body unchanged",
+      "script": "rank3-continuation/grouped-kernel-response/independent-audit/check_grouped_law_response.py",
+      "passed": true
+    },
+    {
+      "test": "all function and assertion ASTs unchanged",
+      "script": "order-reentry/independent-audit/check_all_rank_stein.py",
+      "passed": true
+    },
+    {
+      "test": "all function and assertion ASTs unchanged",
+      "script": "order-reentry/independent-audit/check_discounted_ou_cumulants.py",
+      "passed": true
+    },
+    {
+      "test": "all function and assertion ASTs unchanged",
+      "script": "order-reentry/independent-audit/check_native_rank3_feedback.py",
+      "passed": true
+    },
+    {
+      "test": "all function and assertion ASTs unchanged",
+      "script": "order-reentry/independent-audit/check_odd_cancellation_and_fourth_current.py",
+      "passed": true
+    },
+    {
+      "test": "all function and assertion ASTs unchanged",
+      "script": "same-carrier-feedback/independent-localization-audit/check_localization_independent.py",
+      "passed": true
+    },
+    {
+      "test": "optional correct LOW30 mode",
+      "script": "order-reentry/independent-audit/check_fourth_force_reentry.py",
+      "passed": true
+    },
+    {
+      "test": "optional correct LOW30 mode",
+      "script": "order-reentry/typed-contract-audit/check_typed_contract.py",
+      "passed": true
+    },
+    {
+      "test": "optional correct LOW30 mode",
+      "script": "rank3-continuation/grouped-kernel-response/independent-audit/check_grouped_law_response.py",
+      "passed": true
+    },
+    {
+      "test": "wrong LOW30 bytes rejected",
+      "passed": true
+    },
+    {
+      "test": "changed public source bytes rejected",
+      "passed": true
+    },
+    {
+      "test": "wrong original mapping rejected",
+      "passed": true
+    }
+  ]
+}

@@ -60,6 +60,17 @@ def main():
             if 'sha256' in item and item['sha256'] != entry['original_sha256']:
                 raise RuntimeError('V10 original source mapping mismatch: '+str(local))
             expected.add(str(local))
+    # V11 selection is explicit, separate from the preserved V9/V10 freezes.
+    admission = json.loads((ARCHIVE/'verification/V11-FROZEN-SELECTION.json').read_text())
+    for item in admission['files']:
+        path = ARCHIVE/item['path']
+        entry = entries[item['path']]
+        if sha(path) != entry['sha256'] or path.stat().st_size != entry['bytes']:
+            raise RuntimeError('V11 publication integrity mismatch: '+item['path'])
+        if entry['original_sha256'] != item['original_sha256']:
+            raise RuntimeError('V11 original source mapping mismatch: '+item['path'])
+        if ROOT in path.parents:
+            expected.add(str(path.relative_to(ROOT)))
     if actual != expected:
         raise RuntimeError('Frozen package file-set mismatch')
     dependencies = []

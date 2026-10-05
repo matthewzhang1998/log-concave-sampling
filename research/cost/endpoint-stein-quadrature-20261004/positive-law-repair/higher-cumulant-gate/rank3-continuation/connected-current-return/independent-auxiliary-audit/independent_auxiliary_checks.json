@@ -1,0 +1,79 @@
+{
+  "status": "PASS_BOUNDED_FIXED_NODE_WITH_IMPORTED_NATIVE_GUARDS",
+  "assertions": 1823,
+  "categories": {
+    "exact_symbol": 720,
+    "normalization": 40,
+    "offspring": 144,
+    "geometry": 10,
+    "source_ports": 16,
+    "chunk_ports": 4,
+    "wick_graphs": 482,
+    "wick_cumulants": 61,
+    "tensor_cuts": 20,
+    "hermite_energy": 20,
+    "negative_control": 6,
+    "same_node_clocks": 300
+  },
+  "formal_force_cutoff": 40,
+  "root_sign_series": {
+    "-1": {
+      "(8, 4, 0)": "-1",
+      "(12, 4, 0)": "3/2",
+      "(14, 6, 0)": "3",
+      "(16, 8, 0)": "1",
+      "(20, 8, 0)": "-21",
+      "(22, 10, 0)": "-12",
+      "(24, 8, 0)": "153/4",
+      "(24, 12, 0)": "-4/3",
+      "(26, 10, 0)": "153",
+      "(28, 12, 0)": "156",
+      "(30, 14, 0)": "36",
+      "(32, 12, 0)": "-1701",
+      "(32, 16, 0)": "2",
+      "(34, 14, 0)": "-2124",
+      "(36, 12, 0)": "6381/2",
+      "(36, 16, 0)": "-792",
+      "(38, 14, 0)": "19143",
+      "(38, 18, 0)": "-96",
+      "(40, 16, 0)": "33021",
+      "(40, 20, 0)": "-16/5"
+    },
+    "1": {
+      "(8, 4, 0)": "1",
+      "(12, 4, 0)": "3/2",
+      "(14, 6, 0)": "3",
+      "(16, 8, 0)": "1",
+      "(20, 8, 0)": "21",
+      "(22, 10, 0)": "12",
+      "(24, 8, 0)": "153/4",
+      "(24, 12, 0)": "4/3",
+      "(26, 10, 0)": "153",
+      "(28, 12, 0)": "156",
+      "(30, 14, 0)": "36",
+      "(32, 12, 0)": "1701",
+      "(32, 16, 0)": "2",
+      "(34, 14, 0)": "2124",
+      "(36, 12, 0)": "6381/2",
+      "(36, 16, 0)": "792",
+      "(38, 14, 0)": "19143",
+      "(38, 18, 0)": "96",
+      "(40, 16, 0)": "33021",
+      "(40, 20, 0)": "16/5"
+    }
+  },
+  "connected_G_pairing_counts": {
+    "2": 2,
+    "3": 8,
+    "4": 48
+  },
+  "negative_controls": [
+    "Bounded proper cuts do not control an initial tensor with two self-traces; norm becomes D.",
+    "Same-node aggregate clock margin does not certify distinct-clock star-hit histories."
+  ],
+  "not_certified": [
+    "Numerical instantiation of native selected-pair programs for an unspecified original g.",
+    "General all-order current closure or cross-node shared-bank closure.",
+    "Promotion of a completed law kernel to an original gradient source."
+  ]
+}

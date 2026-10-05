@@ -1,0 +1,157 @@
+{
+  "status": "PASS, conditional integration theorem only",
+  "assertions": 3965,
+  "input_pin_count": 42,
+  "contract_sha256": "f63de706baf0e3612247048a4139c581dc68da98b3940bd1c27b44ef63f495e5",
+  "guarded_endpoint_sha256": "e83d737da13d05054ff0dda129a05e72d350c6e3e33b019d548cc517b816e702",
+  "enumerated_nontrivial_trees": 145,
+  "common_heat_conditional_variance": "a*(a + 3*u)/(a + 2*u)",
+  "endpoint_heat_exponent": "q_p=(2p+1)/5",
+  "schedule_checks": [
+    {
+      "p": 2,
+      "A": "1e-1",
+      "J": 0,
+      "q_p": "1"
+    },
+    {
+      "p": 2,
+      "A": "1e-2",
+      "J": 0,
+      "q_p": "1"
+    },
+    {
+      "p": 2,
+      "A": "1e-8",
+      "J": 0,
+      "q_p": "1"
+    },
+    {
+      "p": 2,
+      "A": "1e-40",
+      "J": 0,
+      "q_p": "1"
+    },
+    {
+      "p": 3,
+      "A": "1e-1",
+      "J": 4,
+      "q_p": "7/5"
+    },
+    {
+      "p": 3,
+      "A": "1e-2",
+      "J": 7,
+      "q_p": "7/5"
+    },
+    {
+      "p": 3,
+      "A": "1e-8",
+      "J": 26,
+      "q_p": "7/5"
+    },
+    {
+      "p": 3,
+      "A": "1e-40",
+      "J": 129,
+      "q_p": "7/5"
+    },
+    {
+      "p": 4,
+      "A": "1e-1",
+      "J": 7,
+      "q_p": "9/5"
+    },
+    {
+      "p": 4,
+      "A": "1e-2",
+      "J": 13,
+      "q_p": "9/5"
+    },
+    {
+      "p": 4,
+      "A": "1e-8",
+      "J": 52,
+      "q_p": "9/5"
+    },
+    {
+      "p": 4,
+      "A": "1e-40",
+      "J": 257,
+      "q_p": "9/5"
+    },
+    {
+      "p": 8,
+      "A": "1e-1",
+      "J": 20,
+      "q_p": "17/5"
+    },
+    {
+      "p": 8,
+      "A": "1e-2",
+      "J": 39,
+      "q_p": "17/5"
+    },
+    {
+      "p": 8,
+      "A": "1e-8",
+      "J": 154,
+      "q_p": "17/5"
+    },
+    {
+      "p": 8,
+      "A": "1e-40",
+      "J": 769,
+      "q_p": "17/5"
+    },
+    {
+      "p": 16,
+      "A": "1e-1",
+      "J": 45,
+      "q_p": "33/5"
+    },
+    {
+      "p": 16,
+      "A": "1e-2",
+      "J": 90,
+      "q_p": "33/5"
+    },
+    {
+      "p": 16,
+      "A": "1e-8",
+      "J": 359,
+      "q_p": "33/5"
+    },
+    {
+      "p": 16,
+      "A": "1e-40",
+      "J": 1793,
+      "q_p": "33/5"
+    },
+    {
+      "p": 32,
+      "A": "1e-1",
+      "J": 97,
+      "q_p": "13"
+    },
+    {
+      "p": 32,
+      "A": "1e-2",
+      "J": 193,
+      "q_p": "13"
+    },
+    {
+      "p": 32,
+      "A": "1e-8",
+      "J": 769,
+      "q_p": "13"
+    },
+    {
+      "p": 32,
+      "A": "1e-40",
+      "J": 3842,
+      "q_p": "13"
+    }
+  ],
+  "scope": "Independent exact Gram, history-specific tree and heat-count algebra, imported pin validation, endpoint and cost-recursion diagnostics. No positive-current port or all-order finite producer is instantiated or certified."
+}

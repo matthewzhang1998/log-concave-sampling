@@ -1,0 +1,10 @@
+{
+  "scope": "Narrow independent symbol/normalization/cut audit; no cycle producer or all-order closure.",
+  "files": {
+    "check_cycle.py": "1217092246805c13ecff434988fa0d4183b119f2f56e5f877a535bcfcbe5b7de",
+    "INDEPENDENT-SIX-VERTEX-SYMBOL-AND-GROUPED-CUT-AUDIT.md": "3b45856bcd90f3a993aa2afdc5b692a13c6199eca3bec110f449ef7661251e67",
+    "cycle_checks.json": "a344411dac6f68b63235c3557f7e69a61375978eff5167e665caaf8257e596b9",
+    "REVIEWED-QUARTIC-CYCLE-SOURCE.md": "c141da487632f523ac9aafdca0ba66a99233476a2c4cb8abbfb31309229c7eac"
+  },
+  "source_sha256": "c141da487632f523ac9aafdca0ba66a99233476a2c4cb8abbfb31309229c7eac"
+}

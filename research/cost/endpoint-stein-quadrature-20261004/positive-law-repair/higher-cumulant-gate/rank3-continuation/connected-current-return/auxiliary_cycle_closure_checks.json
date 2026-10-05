@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "checks": 375,
+  "symbol_through_grade_20": "21*A**20*t**8 + A**16*t**8 + 3*A**14*t**6 + 3*A**12*t**4/2 + A**8*t**4",
+  "wick_pairing_counts": {
+    "2": 1,
+    "4": 3,
+    "6": 15,
+    "8": 105
+  },
+  "literal_cut_tree": {
+    "vertices": [
+      "L",
+      "C",
+      "Cp",
+      "Lp",
+      "M",
+      "D",
+      "Dp",
+      "Mp"
+    ],
+    "edges": [
+      [
+        "L",
+        "C"
+      ],
+      [
+        "C",
+        "Cp"
+      ],
+      [
+        "Cp",
+        "Lp"
+      ],
+      [
+        "M",
+        "D"
+      ],
+      [
+        "D",
+        "Dp"
+      ],
+      [
+        "Dp",
+        "Mp"
+      ],
+      [
+        "Cp",
+        "Dp"
+      ]
+    ],
+    "physical_marks": [
+      "L",
+      "Lp",
+      "M",
+      "Mp"
+    ],
+    "auxiliary_G_probes": [
+      "C",
+      "D"
+    ],
+    "root_spine": [
+      "L",
+      "C",
+      "Cp",
+      "Dp",
+      "D",
+      "M"
+    ],
+    "open_chunks": [
+      [
+        "L",
+        "C",
+        "Cp"
+      ],
+      [
+        "M",
+        "D",
+        "Dp"
+      ]
+    ]
+  },
+  "scope": "Bounded auxiliary-public cycle source and finite coefficient diagnostics. Does not prove generic all-order closure or the tight whole-coarse bridge port."
+}

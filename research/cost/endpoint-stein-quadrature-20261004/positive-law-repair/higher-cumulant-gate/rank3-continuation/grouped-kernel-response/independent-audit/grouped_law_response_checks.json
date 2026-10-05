@@ -1,0 +1,738 @@
+{
+  "status": "PASS_FINITE_FIXTURES_ONLY",
+  "scope": "Conditional leading-law marking and stated interface counterexamples; not a native pair compiler or generic bridge proof.",
+  "versions": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "sympy": "1.14.0"
+  },
+  "check_count": 130,
+  "checks": [
+    {
+      "name": "scalar_tilt_monomial_0_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_0_sign_1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_1_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_1_sign_1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_2_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_2_sign_1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_3_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_3_sign_1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_4_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_4_sign_1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_5_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_5_sign_1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_6_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_6_sign_1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_7_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_7_sign_1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_8_sign_-1",
+      "pass": true
+    },
+    {
+      "name": "scalar_tilt_monomial_8_sign_1",
+      "pass": true
+    },
+    {
+      "name": "non_diagonal_public_projection_1_1_-1",
+      "pass": true
+    },
+    {
+      "name": "non_diagonal_public_projection_1_1_1",
+      "pass": true
+    },
+    {
+      "name": "non_diagonal_public_projection_2_1_-1",
+      "pass": true
+    },
+    {
+      "name": "non_diagonal_public_projection_2_1_1",
+      "pass": true
+    },
+    {
+      "name": "non_diagonal_public_projection_1_3_-1",
+      "pass": true
+    },
+    {
+      "name": "non_diagonal_public_projection_1_3_1",
+      "pass": true
+    },
+    {
+      "name": "non_diagonal_public_projection_2_2_-1",
+      "pass": true
+    },
+    {
+      "name": "non_diagonal_public_projection_2_2_1",
+      "pass": true
+    },
+    {
+      "name": "public_tilt_normalizer",
+      "pass": true
+    },
+    {
+      "name": "odd_mark_rank_4",
+      "pass": true
+    },
+    {
+      "name": "odd_mark_rank_6",
+      "pass": true
+    },
+    {
+      "name": "odd_mark_rank_8",
+      "pass": true
+    },
+    {
+      "name": "odd_mark_rank_10",
+      "pass": true
+    },
+    {
+      "name": "absent_even_mark_rank_3",
+      "pass": true
+    },
+    {
+      "name": "absent_even_mark_rank_5",
+      "pass": true
+    },
+    {
+      "name": "absent_even_mark_rank_7",
+      "pass": true
+    },
+    {
+      "name": "absent_even_mark_rank_9",
+      "pass": true
+    },
+    {
+      "name": "grade_four_first_mark",
+      "pass": true
+    },
+    {
+      "name": "grade_six_third_mark",
+      "pass": true
+    },
+    {
+      "name": "grade_eight_product_of_two_unrenormalized_marks",
+      "pass": true
+    },
+    {
+      "name": "grade_six_inherited_epsilon_squared",
+      "pass": true
+    },
+    {
+      "name": "connected_second_coefficient",
+      "pass": true
+    },
+    {
+      "name": "whole_signed_cubic_variance",
+      "pass": true
+    },
+    {
+      "name": "whole_signed_cubic_variance_zero_at_delta_zero",
+      "pass": true
+    },
+    {
+      "name": "signed_variance_leading_delta_squared",
+      "pass": true
+    },
+    {
+      "name": "signed_variance_not_sum_of_self_variances",
+      "pass": true
+    },
+    {
+      "name": "bounded_sine_signed_variance_zero",
+      "pass": true
+    },
+    {
+      "name": "bounded_sine_signed_variance_leading_delta_squared",
+      "pass": true
+    },
+    {
+      "name": "tilted_rank_four_can_feed_rank_six",
+      "pass": true
+    },
+    {
+      "name": "restricted_signed_variance_is_psd",
+      "pass": true
+    },
+    {
+      "name": "negative_cross_keeps_self_terms",
+      "pass": true
+    },
+    {
+      "name": "source_zero_physical_covariance",
+      "pass": true
+    },
+    {
+      "name": "joint_rotation_injection_bounded",
+      "pass": true
+    },
+    {
+      "name": "declared_complete_copy_bill_arithmetic",
+      "pass": true,
+      "detail": "Arithmetic only; full occurrence/anchor lineage is a manual audit, not a compiler fixture."
+    },
+    {
+      "name": "root_bank_concatenation",
+      "pass": true,
+      "detail": "Seven independent five-clock nodes in D=11 own 385 coarse coordinates."
+    },
+    {
+      "name": "higher_odd_vandermonde_invertible_1",
+      "pass": true
+    },
+    {
+      "name": "higher_odd_vandermonde_invertible_2",
+      "pass": true
+    },
+    {
+      "name": "higher_odd_vandermonde_invertible_3",
+      "pass": true
+    },
+    {
+      "name": "higher_odd_vandermonde_invertible_4",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_residual_root_first_0.1",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_caller_first_0.1",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_joint_complete_first_0.1",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_volume_and_radius_0.1",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_residual_root_first_0.03",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_caller_first_0.03",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_joint_complete_first_0.03",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_volume_and_radius_0.03",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_residual_root_first_0.01",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_caller_first_0.01",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_joint_complete_first_0.01",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_volume_and_radius_0.01",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_residual_root_first_0.003",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_caller_first_0.003",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_joint_complete_first_0.003",
+      "pass": true
+    },
+    {
+      "name": "compact_twist_volume_and_radius_0.003",
+      "pass": true
+    },
+    {
+      "name": "twist_nonzero_carrier_retained_linear_response",
+      "pass": true,
+      "detail": {
+        "limit": 0.4802367499798443,
+        "at_a_0_003": 0.48023651911429976
+      }
+    },
+    {
+      "name": "twist_response_is_order_a",
+      "pass": true
+    },
+    {
+      "name": "coefficient_all_proper_cuts_1",
+      "pass": true
+    },
+    {
+      "name": "root_versus_all_physical_cut_1",
+      "pass": true
+    },
+    {
+      "name": "covariance_three_versus_three_cut_1",
+      "pass": true
+    },
+    {
+      "name": "coefficient_all_proper_cuts_2",
+      "pass": true
+    },
+    {
+      "name": "root_versus_all_physical_cut_2",
+      "pass": true
+    },
+    {
+      "name": "covariance_three_versus_three_cut_2",
+      "pass": true
+    },
+    {
+      "name": "coefficient_all_proper_cuts_4",
+      "pass": true
+    },
+    {
+      "name": "root_versus_all_physical_cut_4",
+      "pass": true
+    },
+    {
+      "name": "covariance_three_versus_three_cut_4",
+      "pass": true
+    },
+    {
+      "name": "coefficient_all_proper_cuts_8",
+      "pass": true
+    },
+    {
+      "name": "root_versus_all_physical_cut_8",
+      "pass": true
+    },
+    {
+      "name": "covariance_three_versus_three_cut_8",
+      "pass": true
+    },
+    {
+      "name": "coefficient_all_proper_cuts_16",
+      "pass": true
+    },
+    {
+      "name": "root_versus_all_physical_cut_16",
+      "pass": true
+    },
+    {
+      "name": "covariance_three_versus_three_cut_16",
+      "pass": true
+    },
+    {
+      "name": "common_heat_conditional_vertex_variance",
+      "pass": true
+    },
+    {
+      "name": "common_heat_preserves_transverse_variance",
+      "pass": true
+    },
+    {
+      "name": "oriented_gaussian_pair_tilt_0",
+      "pass": true
+    },
+    {
+      "name": "oriented_gaussian_pair_tilt_1",
+      "pass": true
+    },
+    {
+      "name": "oriented_gaussian_pair_tilt_2",
+      "pass": true
+    },
+    {
+      "name": "oriented_gaussian_pair_tilt_3",
+      "pass": true
+    },
+    {
+      "name": "oriented_gaussian_pair_tilt_4",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_exact_shift",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_pair_residual_path",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_gaussian_path",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_pair_order_target_4",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_pair_order_target_5",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_pair_order_target_6",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_pair_order_target_7",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_pair_order_target_8",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_pair_order_target_9",
+      "pass": true
+    },
+    {
+      "name": "fractional_B_pair_order_target_10",
+      "pass": true
+    },
+    {
+      "name": "Price_identity_shifted_cubic",
+      "pass": true
+    },
+    {
+      "name": "Price_difference_tensor_constant_and_interval",
+      "pass": true
+    },
+    {
+      "name": "Price_interval_length",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_all_62_cuts_0",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_one_HS_factor_0",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_all_62_cuts_1",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_one_HS_factor_1",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_all_62_cuts_2",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_one_HS_factor_2",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_all_62_cuts_3",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_one_HS_factor_3",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_all_62_cuts_4",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_one_HS_factor_4",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_all_62_cuts_5",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_one_HS_factor_5",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_saturates_all_cut_bound",
+      "pass": true
+    },
+    {
+      "name": "two_tensor_contraction_saturates_HS_bound",
+      "pass": true
+    },
+    {
+      "name": "squared_clock_derivative_envelope_2",
+      "pass": true
+    },
+    {
+      "name": "squared_clock_derivative_envelope_4",
+      "pass": true
+    },
+    {
+      "name": "squared_clock_derivative_envelope_8",
+      "pass": true
+    },
+    {
+      "name": "squared_clock_derivative_envelope_16",
+      "pass": true
+    },
+    {
+      "name": "squared_clock_derivative_envelope_32",
+      "pass": true
+    },
+    {
+      "name": "squared_clock_derivative_envelope_64",
+      "pass": true
+    }
+  ],
+  "radial_twist": [
+    {
+      "a": 0.1,
+      "root_first_over_a": 10.91822589498395,
+      "caller_first_over_a": 1.0550375771244074,
+      "complete_first_over_a": 10.91822589498395,
+      "determinant_error": 2.220446049250313e-16
+    },
+    {
+      "a": 0.03,
+      "root_first_over_a": 10.9182233740996,
+      "caller_first_over_a": 1.0550375771244072,
+      "complete_first_over_a": 10.918223374099606,
+      "determinant_error": 3.3306690738754696e-16
+    },
+    {
+      "a": 0.01,
+      "root_first_over_a": 10.918223152481811,
+      "caller_first_over_a": 1.0550375771244072,
+      "complete_first_over_a": 10.918223152481811,
+      "determinant_error": 2.220446049250313e-16
+    },
+    {
+      "a": 0.003,
+      "root_first_over_a": 10.918223127272789,
+      "caller_first_over_a": 1.0550375771244072,
+      "complete_first_over_a": 10.918223127272785,
+      "determinant_error": 2.220446049250313e-16
+    }
+  ],
+  "derivative_cuts": [
+    {
+      "D": 1,
+      "proper_cut": 0.361615431964962,
+      "derivative_grouped_cut": 0.9323273456060345,
+      "covariance_cut": 0.43233235838169365
+    },
+    {
+      "D": 2,
+      "proper_cut": 0.361615431964962,
+      "derivative_grouped_cut": 1.3185099767273618,
+      "covariance_cut": 0.8646647167633873
+    },
+    {
+      "D": 4,
+      "proper_cut": 0.361615431964962,
+      "derivative_grouped_cut": 1.8646546912120687,
+      "covariance_cut": 1.7293294335267746
+    },
+    {
+      "D": 8,
+      "proper_cut": 0.361615431964962,
+      "derivative_grouped_cut": 2.6370199534547236,
+      "covariance_cut": 3.458658867053549
+    },
+    {
+      "D": 16,
+      "proper_cut": 0.361615431964962,
+      "derivative_grouped_cut": 3.7293093824241375,
+      "covariance_cut": 6.917317734107098
+    }
+  ],
+  "tensor_contractions": [
+    {
+      "case": 0,
+      "max_cut": 0.7213505036894049,
+      "HS": 0.7893576329827011
+    },
+    {
+      "case": 1,
+      "max_cut": 0.590687699190937,
+      "HS": 0.6727062184658322
+    },
+    {
+      "case": 2,
+      "max_cut": 0.6712976438692283,
+      "HS": 0.7294782189037987
+    },
+    {
+      "case": 3,
+      "max_cut": 0.7989005653306797,
+      "HS": 0.8770326061945859
+    },
+    {
+      "case": 4,
+      "max_cut": 0.640209135828148,
+      "HS": 0.7593884202537088
+    },
+    {
+      "case": 5,
+      "max_cut": 0.7405925832986232,
+      "HS": 0.8818463725126459
+    }
+  ],
+  "dyadic_clock_envelopes": [
+    {
+      "panels": 2,
+      "envelope": 2.5785404975272552,
+      "envelope_per_panel": 1.2892702487636276
+    },
+    {
+      "panels": 4,
+      "envelope": 4.183281921273355,
+      "envelope_per_panel": 1.0458204803183389
+    },
+    {
+      "panels": 8,
+      "envelope": 5.211978213254366,
+      "envelope_per_panel": 0.6514972766567958
+    },
+    {
+      "panels": 16,
+      "envelope": 6.226993325871064,
+      "envelope_per_panel": 0.3891870828669415
+    },
+    {
+      "panels": 32,
+      "envelope": 8.012474358290952,
+      "envelope_per_panel": 0.25038982369659224
+    },
+    {
+      "panels": 64,
+      "envelope": 11.568059973559194,
+      "envelope_per_panel": 0.1807509370868624
+    }
+  ],
+  "strict_spine_hit_pairs": [
+    {
+      "left_hit": 0,
+      "right_hit": 0,
+      "joined_diameter": 5,
+      "left_B": 3,
+      "right_B": 3
+    },
+    {
+      "left_hit": 0,
+      "right_hit": 1,
+      "joined_diameter": 4,
+      "left_B": 3,
+      "right_B": 2
+    },
+    {
+      "left_hit": 0,
+      "right_hit": 2,
+      "joined_diameter": 5,
+      "left_B": 3,
+      "right_B": 3
+    },
+    {
+      "left_hit": 1,
+      "right_hit": 0,
+      "joined_diameter": 4,
+      "left_B": 2,
+      "right_B": 3
+    },
+    {
+      "left_hit": 1,
+      "right_hit": 1,
+      "joined_diameter": 3,
+      "left_B": 2,
+      "right_B": 2
+    },
+    {
+      "left_hit": 1,
+      "right_hit": 2,
+      "joined_diameter": 4,
+      "left_B": 2,
+      "right_B": 3
+    },
+    {
+      "left_hit": 2,
+      "right_hit": 0,
+      "joined_diameter": 5,
+      "left_B": 3,
+      "right_B": 3
+    },
+    {
+      "left_hit": 2,
+      "right_hit": 1,
+      "joined_diameter": 4,
+      "left_B": 3,
+      "right_B": 2
+    },
+    {
+      "left_hit": 2,
+      "right_hit": 2,
+      "joined_diameter": 5,
+      "left_B": 3,
+      "right_B": 3
+    }
+  ],
+  "source_sha256": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/WHOLE-KERNEL-GAUSSIAN-LAW-RESPONSE-AND-FAILED-BRIDGE-GATE.md": "d485c98016f8192669ac72757b6bdaa555c27b42098a79e0b4e506e4f705fab2",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/POSITIVE-RANK3-PACKET-FEEDBACK-LEMMA.md": "c689f0a947bcf6358f38bc6470ede05f564dcec11ff5e4171df8250e4af78193",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/independent-audit/INDEPENDENT-NATIVE-RANK3-PACKET-AUDIT.md": "e6fc3a2290c2a1c8ed494cb6cec86a781827687c2bdfa706d8f5cb66896936e1",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/INTERMEDIATE-SCALE-B-MARK-COROLLARY.md": "070cac5569e9c6a1386bc26c5f98146bc8e25b5e00850cd146950c769e2235c7",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/grouped-kernel-response/PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668",
+    "external:LOW30": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8"
+  }
+}

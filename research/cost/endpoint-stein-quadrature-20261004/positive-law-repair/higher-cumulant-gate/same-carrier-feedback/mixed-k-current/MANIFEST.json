@@ -1,0 +1,52 @@
+{
+  "date_utc": "2026-10-05",
+  "status": "PASS: guarded finite mixed-K covariance LAW service; independent analytical, finite and synthesis reviews",
+  "entrypoint": "MIXED-K-CURRENT-FINITE-CLOSURE.md",
+  "target": "N(0,v_K I+2 Sym R2 K(Z)), K(x)=Cov(I_x,g(x-I_x)|X0=x), genuine conditional OU I",
+  "error": "L2(standard Z) conditional W2 <= C A^4 sqrt(D)+Lambda A^5 sqrt(D)+C A^6 sqrt(D)+absolute floors; positive clocks delta<=A",
+  "actual_first": "carrier-subtracted complete private and captured-Z first <=Lambda A; exterior callers use actual chain-rule rows",
+  "producer": "Original g VALUES only. HVP first/adjoints at recorded original VALUE sites, no differentiated saved HVP.",
+  "program": "Four positive clocks; exact coherent 3-site Gaussian shield; three chronological C0 selected-pair calls at fixed b=5 per node; independent complete node banks; fixed global positive Gaussian buffer.",
+  "work": "3N+sum_nodes(Q_P,5(U)+Q_P,5(V)+Q_P,5(Y))+Q_external; N=N_clock^4, N_clock=O(log^2(1/delta)); fully expanded pinned pair counts",
+  "root_dimension": "D(4N+1)+sum_nodes(d_P,5(U)+d_P,5(V)+d_P,5(Y))",
+  "independent_checks": {
+    "analytical_assertions": 771,
+    "finite_assertions": 1596,
+    "total_assertions": 2367
+  },
+  "author_extra_diagnostics": {
+    "coherent_shield_cases": 2000,
+    "tests": "dyadic shield sums, exact covariance chain, noncommuting wrong-middle negative control, full matrix quadratic target"
+  },
+  "required_guards": [
+    "Pinned LOW30 original partial-gradient source and fixed-order pair interfaces",
+    "Actual normalized radii and public-log small-A guard",
+    "Fixed positive covariance gap and explicit variance allocations",
+    "Owned-root chronology, private origins and sourcezero carrier",
+    "Frozen source/clock/coefficient/mode/tolerance versions",
+    "Actual caller, first/adjoint and complete replay profiles",
+    "Absolute original VALUE, known arithmetic, numerical and mode restoration floors"
+  ],
+  "exclusions": [
+    "same-carrier m3 mean",
+    "final full endpoint-law join and global mode/caller/floor/cost restoration",
+    "generic new-source all-order compiler",
+    "strong matrix/conditional-expectation/Hessian producer",
+    "executed ordinary unsmoothed history grid"
+  ],
+  "files_sha256": {
+    "AUGMENTED-SCORE-REMOVES-THE-NONLINEAR-K-HISTORY.md": "66aa022a4eac38187d1f277b3eae7a899502fc397f769a6d07e57aaba82e5833",
+    "FINITE-C0-CUBIC-COVARIANCE-RESERVE.md": "f31fe71fe96d1ea526fe522b0cc6baecc43bfaa31b6c35e7e79fa50a907f9963",
+    "INDEPENDENT-AUGMENTED-SCORE-REGROUPING-AUDIT.md": "345e4feefb1dd5a3505e5681ab86150942e692f156f20579205bde0c5f37cd5e",
+    "INDEPENDENT-FINITE-C0-CUBIC-RESERVE-AUDIT.md": "4a3abd930c125bface0afa54cf0b28da8da5e3277e04728d6cf5bc1aa9659945",
+    "INDEPENDENT-SHA256SUMS": "7abc44e600bfc8fff94b7e811f4226f6b8f1848dfc0b3a3690c842d6bf03b1bd",
+    "MIXED-K-CURRENT-FINITE-CLOSURE.md": "7d50ce5069e0a12993cc60fd6e59ec558e4d43c6d362244efffb9e6b610eaa7b",
+    "README.md": "b301a19acfb5078be668709e95e443c7bd0a271bc2fd08aea26b6d72386f10e8",
+    "augmented_score_independent_checks.json": "8c90e9ea03918680b8578d75c4bb76c26b9d74a823589ae84d8edc777f556b6b",
+    "check_augmented_score_independent.py": "bed8e52b518a4cc3d0c679615b9aeab9611cd513a014fbf7f4e53585ef56cd87",
+    "check_cubic_reserve_independent.py": "0ac77bc109b56d93fa7b9fefdaf9610874effe63a14d3ab8ef5ae5e15a030948",
+    "check_finite_c0_cubic_covariance.py": "fc80ee7b89cf9386fe2c31e6e333a92cafe7950e57532a33b2e00f95b15cc4f8",
+    "cubic_reserve_independent_checks.json": "bad2ecbfb463350522c03012e0c4261dfa42c7be16a859d775b473cbe8d85a29",
+    "finite_c0_cubic_covariance_checks.json": "3fcaca61049622a80f7a7148c688f025a75fb5d454fddf4ee075c5443eb6d6d2"
+  }
+}

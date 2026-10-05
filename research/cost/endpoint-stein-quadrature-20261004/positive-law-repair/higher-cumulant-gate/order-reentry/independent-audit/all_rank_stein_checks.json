@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "assertions": 60,
+  "pins": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/ALL-RANK-CENTERED-STEIN-CURRENT-RECURRENCE.md": "d09db0fa283512de36bc910f1d3f828257121699832c0897943d9a252f59dd0e",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/ONE-MARKED-THIRD-CUMULANT-REPLACEMENT.md": "5581eb0e592d2997504ac0c69c9f577e46306b6ca85718feb6e0a4a852524a19"
+  },
+  "scope": "Exact scalar connected constants through rank nine and same-endpoint current identities through rank seven. Polynomial source tests algebra, not global Lipschitz hypotheses; one-marked bound is proved in the written audit."
+}

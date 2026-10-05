@@ -1,0 +1,73 @@
+{
+  "status": "PASS independent analytical-calibration checks; finite producer remains OPEN",
+  "input_sha256": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/CHEAP-SHARED-ROOT-COVARIANCE-SEPARATOR.md": "a336ca9e1b8e9923c70c6cbb3d88706f3e393803b5a9f4f87f0c85040d414ddd",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/CONDITIONAL-INNOVATION-LOCALIZES-THE-COVARIANCE-GATE.md": "186ccd57441273d5cdef1cb953bc0ba6f17fef3dc9c6dd2189a8dde91b965e63",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/same-carrier-feedback/SAME-CARRIER-P3-MEAN-AND-FULL-COVARIANCE-GATE.md": "a63c38f14206ec278f7c12a56542968a7d1675af6f550610e4539e500a653eca",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced"
+  },
+  "brownian_kernel_H0": "sqrt(2)*exp(-s)/2",
+  "brownian_kernel_J0": "sqrt(2)*(2*s + 1)*exp(-s)/4",
+  "brownian_kernel_S": "-sqrt(2)*a**2*s*exp(-s)/2",
+  "innovation_variance": "a**4/8",
+  "mixed_Hg_S": "-a**3/8",
+  "K": "-a**3/4",
+  "F2_variance": "5*a**4/16 - a**3/2 + a**2/4",
+  "localized_F2": "a**4/16 - a**3/2 + a**2/4",
+  "order4_remainder": "a**4/4",
+  "nonnormal_field_correct_covariance": "Matrix([[5/4, -1/2], [-1/2, 37/16]])",
+  "nonnormal_field_wrong_no_transpose_square": "Matrix([[-5/4, 3/4], [-9/8, -23/16]])",
+  "mean_logcosh": 0.37456720749143413,
+  "d": 0.046820900936429266,
+  "E_hprime": -0.00039839913814523984,
+  "hermite_first_coefficient": -0.00039839913814522206,
+  "first_chaos_variance_gap_lower_bound": 5.822716287020773e-08,
+  "covariance_gap_A2_coefficient_lower_bound": 3.639197679387983e-09,
+  "common_minus_markov_correlation_integral_exact": 0.3668502750680849,
+  "common_minus_markov_correlation_integral_numeric": 0.3668502915097347,
+  "variance_gap_hermite_partial_sums": {
+    "1": 5.822716547985199e-08,
+    "8": 9.34817025902779e-05,
+    "16": 9.525966681761746e-05,
+    "32": 9.535974130488727e-05,
+    "48": 9.53607989683963e-05
+  },
+  "finite_positive_outer_rule_diagnostics": {
+    "2": {
+      "mass": 1.0,
+      "first_moment": 0.5,
+      "integrated_conditional_variance_gap_48_chaoses": 9.917829733446444e-05
+    },
+    "4": {
+      "mass": 1.0,
+      "first_moment": 0.49999999999999994,
+      "integrated_conditional_variance_gap_48_chaoses": 9.581346024597043e-05
+    },
+    "8": {
+      "mass": 1.0,
+      "first_moment": 0.5,
+      "integrated_conditional_variance_gap_48_chaoses": 9.542388810635916e-05
+    },
+    "16": {
+      "mass": 1.0,
+      "first_moment": 0.5,
+      "integrated_conditional_variance_gap_48_chaoses": 9.536929922912499e-05
+    },
+    "32": {
+      "mass": 1.0,
+      "first_moment": 0.5,
+      "integrated_conditional_variance_gap_48_chaoses": 9.536190479527081e-05
+    },
+    "64": {
+      "mass": 1.0000000000000002,
+      "first_moment": 0.49999999999999994,
+      "integrated_conditional_variance_gap_48_chaoses": 9.536093791874072e-05
+    }
+  },
+  "limitations": [
+    "Numerics do not establish the full conditional covariance at any fixed endpoint.",
+    "Hermite sums are truncated and reported solely as calibration.",
+    "No finite VALUE source for j, K, same-carrier m3, or C2 is supplied.",
+    "No browser, external source, or network action was used."
+  ]
+}

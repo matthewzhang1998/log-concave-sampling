@@ -1,3 +1,23 @@
+# V11 publication verification
+
+Verified 2026-10-05T00:48:04.424146+00:00. The local candidate contains 599 research files, including the 135-file explicit addition (134 bounded-package files and one host dependency manifest), with 131 diagnostic scripts. All 131 public checks pass in disposable copies; no archived research bytes were execution outputs.
+
+All 24 new originals also pass. One original typed-contract checker assumes its original absolute source location, so relocation alone caused a path-key failure. Its unchanged source then passed with only the single known output write intercepted into memory; the original saved result matched byte-for-byte. This location limitation and initial failure are retained in V11-ORIGINAL-DIAGNOSTIC-RERUN.json. The public adapter removes the location dependency using verified public-byte/original-pin mappings.
+
+Every new mathematical assertion is retained. Default force-reentry assertions are 2,434 versus the original 2,435 solely because the absent external LOW30 hash is explicitly not verified. Optional correct-source mode passes, wrong-source mode rejects. The typed-contract checker preserves all 3,965 checks. The grouped-response external read was report-only and is now optional with explicit status. Adapter checks verify identical mathematical bodies and reject changed public bytes and wrong original pins. No imported finite compiler is executed.
+
+The four new saved-result comparisons that differ comprise three explicit report/external-pin metadata changes and one floating-point current fixture, whose maximum absolute difference is 3.39e-19. All other new saved results reproduce byte-for-byte. Five inherited differences remain as recorded by V10. Historical saved evidence has not been silently rewritten to match reruns.
+
+All 257 new structured source records match the exact reviewed originals. Main mixed-K closure, auxiliary closure and auxiliary audit retain their exact bytes. Original/public mappings, original byte counts, and edit explanations cover every research file. New edits only sanitize machine locators/internal reviewer identifiers or make diagnostic source/report handling portable; no failed-check or mathematical scope warning is removed. The five-file narrow mathematical audit is relocated with explicit original mapping. Its former parent preparation is not published.
+
+All 463 inherited nonutility research files match V10 byte-for-byte. The sole inherited research edit extends the publication-manifest validator to verify the new explicit scope. Root runner changes copy its mapping support into each disposable execution. Root integrity verification covers nested historical checksum files as ordinary payload while preserving their original-pin meaning. The single baseline manuscript is unchanged; no new TeX/PDF build is claimed.
+
+Current mathematical scope is stated in ../STATUS-V11.md. Full same-carrier covariance is boundedly closed; m3 and the complete fourth-order endpoint remain open. Analytical recurrences and typed conditional-cost hypotheses are not a finite executable induction. Higher physical-R tilt/source admission and generic shared-clock/chunk closure are unproved. Later mean-bias and tight-bridge work is outside this fixed selection. No all-order or eventual-sublinear complete-cost claim is added.
+
+The curation checks are reproduction, provenance, scope and deterministic privacy scans; they are not a new independent mathematical audit or a universal secret-detection guarantee. All original input sources and the V10 snapshot were preserved. Nothing was published by this preparation task.
+
+# Historical V10 and earlier verification
+
 # V10 publication snapshot verification
 
 Verified 4 October 2026 (UTC). Snapshot: `2026-10-04-public-v10-full-nonlinear-third-order-endpoint`.

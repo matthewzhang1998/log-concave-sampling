@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "assertions": 133,
+  "pins": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/ODD-CUMULANT-CANCELLATION-AND-TARGET-IDENTITY.md": "ce0d7e8e262a8168aac8818a7830fdb720443fc75b8ad4b1c64343287ef0d9c9",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/rank3-continuation/FOURTH-ORDER-GAUSSIANIZATION-WHEN-THIRD-CUMULANT-VANISHES.md": "06ab222f8f739490c0142582a565ebaf3c9605a7ef0963385502bab32105c880"
+  },
+  "finite_odd_patterns": [
+    {
+      "odd_ranks_through": 3,
+      "distinct_magnitudes": 2,
+      "complete_copies": 9
+    },
+    {
+      "odd_ranks_through": 5,
+      "distinct_magnitudes": 3,
+      "complete_copies": 55
+    },
+    {
+      "odd_ranks_through": 7,
+      "distinct_magnitudes": 4,
+      "complete_copies": 875
+    },
+    {
+      "odd_ranks_through": 9,
+      "distinct_magnitudes": 5,
+      "complete_copies": 2877
+    },
+    {
+      "odd_ranks_through": 11,
+      "distinct_magnitudes": 6,
+      "complete_copies": 33957
+    },
+    {
+      "odd_ranks_through": 13,
+      "distinct_magnitudes": 7,
+      "complete_copies": 467181
+    },
+    {
+      "odd_ranks_through": 15,
+      "distinct_magnitudes": 8,
+      "complete_copies": 979407
+    }
+  ],
+  "markov_third_cumulant_lower_bound": "20/27783",
+  "buffer_constant": "sqrt(6)/(4 sigma^3)",
+  "scope": "Exact coefficient and Markov identities; independent finite-polynomial Riesz/Stein identity tests and Hermite isometry. Polynomial fixtures test algebra only, not the globally Lipschitz theorem."
+}

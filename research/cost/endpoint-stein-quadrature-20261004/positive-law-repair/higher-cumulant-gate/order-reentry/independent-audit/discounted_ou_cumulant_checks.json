@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "assertions": 5024,
+  "pins": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/DISCOUNTED-OU-CONNECTED-CUMULANT-RECURRENCE.md": "cd37a782bbcef3cdf5ec39a33be4874df56ff06af75170485b182c04b361d05e",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/FIRST-RESOLVENT-CLOCK-QUADRATURE.md": "56968a4ff1880fee1dff80cb6b8f0044c27ee8108dca4c0d8a3ec8c45ee08926"
+  },
+  "quadratic_conditional_cumulants": {
+    "kappa_1": "(z^2-1)/3",
+    "kappa_2": "2(z^2+1)/9",
+    "kappa_3": "16(3z^2+2)/135"
+  },
+  "scope": "Independent finite polynomial checks of raw-moment versus connected recurrence, tensor symmetrization factors, actual conditional-Markov Wick integrals, and Hermite resolvents. Polynomial fixtures test identities, not global Lipschitz bounds.",
+  "max_positive_moment_times_degree_plus_one": 1.0,
+  "max_tested_derivative_interpolation_ratio": 0.10987657367848026,
+  "display_correction_verified": "The initial unilateral Sym error in section 3 was removed at the audited pin; the exact covariance identity is now unsymmetrized."
+}

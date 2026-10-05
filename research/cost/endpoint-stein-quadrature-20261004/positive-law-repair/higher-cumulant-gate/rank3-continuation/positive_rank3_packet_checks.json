@@ -1,0 +1,43 @@
+{
+  "assertions": 19,
+  "checks": [
+    {
+      "q": 0.12,
+      "pair_variance": 1.0,
+      "pair_third_moment": 0.013500000000000003,
+      "target_third": 0.0135,
+      "W2_to_positive_reference": 1.0957502308242977e-05,
+      "W2_over_q2_h": 0.0046794406945306
+    },
+    {
+      "q": 0.08,
+      "pair_variance": 1.0,
+      "pair_third_moment": 0.00899999999999999,
+      "target_third": 0.009,
+      "W2_to_positive_reference": 4.86763092136087e-06,
+      "W2_over_q2_h": 0.0046771633308287965
+    },
+    {
+      "q": 0.05,
+      "pair_variance": 1.0,
+      "pair_third_moment": 0.005624999999999996,
+      "target_third": 0.005625000000000001,
+      "W2_to_positive_reference": 1.9009671577565345e-06,
+      "W2_over_q2_h": 0.004676053527710843
+    },
+    {
+      "q": 0.03,
+      "pair_variance": 1.0,
+      "pair_third_moment": 0.00337499999999999,
+      "target_third": 0.003375,
+      "W2_to_positive_reference": 6.84281548454139e-07,
+      "W2_over_q2_h": 0.00467559826577472
+    }
+  ],
+  "hierarchy_fixture": {
+    "g": "x^2",
+    "kappa3_x2_coefficient": "16/45",
+    "kappa3_constant": "32/135"
+  },
+  "scope": "Scalar positive Gaussian-pair CDF diagnostics, including retained-center-public dependence and owned coarse-Q averaging. Not a numerical execution of the imported finite native VALUE compiler."
+}

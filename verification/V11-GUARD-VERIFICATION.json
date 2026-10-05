@@ -1,0 +1,21 @@
+{
+  "all_pass": true,
+  "tests": [
+    {
+      "test": "run_diagnostics.py refuses internal output overwrite",
+      "passed": true
+    },
+    {
+      "test": "regenerate_package_manifest.py refuses internal output overwrite",
+      "passed": true
+    },
+    {
+      "test": "manifest utility rejects unlisted payload",
+      "passed": true
+    },
+    {
+      "test": "manifest utility rejects altered V11 payload",
+      "passed": true
+    }
+  ]
+}

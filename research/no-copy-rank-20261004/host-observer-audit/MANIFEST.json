@@ -1,0 +1,24 @@
+{
+  "created_utc": "2026-10-04",
+  "status": "source-qualified external host gate removed; internal packet law remains required",
+  "files": {
+    "INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md": "d9b4d45c276e72adc4b2590c1c17140bed2fe94dd2a6de5d8f7cc1b3a0a7d21a",
+    "COMPLETE-MEAN-FIRST-ORDERING-AND-REENTRY-RECIPE.md": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+    "host_separator_checks.json": "636cf00fbc7199782a66d77defa2cb121c1db59fc2b036d82bb0b05a5a3c7a50",
+    "ACTUAL-CW7-WEAK-E-HOST-SEPARATOR-AND-COMPARISON-ORDER.md": "d944429de8eeede42e5a97c3e01e34f52b21f23f8e7ac9eda16dc38e02c451da",
+    "check_host_separator.py": "b839914851c29468b6c740e76c112a0bd531c41692734ccbd9518d19997d607c"
+  },
+  "sources": {
+    "external:LOW30": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+    "research/p-weak-mean/WEAK-29-ACTUAL-REMAINDER-AND-RETAINED-MEAN-RECONSTRUCTION.md": "e1cc994a8325c586e54511a959de57102911bf2f269c4e688090ecd107070d2f",
+    "research/COMPONENTWISE-OLD-R7-HIDDEN-MEAN.md": "38cf61f69f80371e0e0607446189213841a404fa9a89082b95fabdd1ca74a521",
+    "research/exact-slack/cw7/01_retained_hidden_force_certificate.md": "38c3a9c1c5a0ce6211aaa5b7461465dc06ed8103e88bbe579fb1739064625c6e",
+    "research/exact-slack/cw7/02_same_version_batch_and_numerical_census.md": "cff71ce50596264c93b81b88dc8daf9426bbb438f1773e211e00b741f3912ce9",
+    "research/no-copy-rank-20261004/endpoint-next/cache-partition/WEAK-29-CAPTURED-CALLER-AND-COMPLETE-PRIVATE-CACHE-PARTITION.md": "8ebdc3fc1688787ea11d076c918345cc02188ced46d0c605aa2dd51298b3ac90"
+  },
+  "independent_recipe_audit": {
+    "status": "PASS within stated source-qualified scope",
+    "audited_sha256": "a7cde258f1c86defbfdc681f473076293cfe65253479493c6ef5baa8b08a88a0",
+    "audit_file": "INDEPENDENT-COMPLETE-MEAN-REENTRY-AUDIT.md"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "scope": "Finite scalar smooth C2-class Gaussian quadrature checks only; no continuous-path execution or A4 remainder certificate.",
+  "g_hessian_bounds": [
+    0.04,
+    0.12
+  ],
+  "same_clock": [
+    {
+      "x": -2.0,
+      "mean_gap": -2.7755575615628914e-17,
+      "force_gap": -1.228276739442813e-06,
+      "current": -1.2282767396257693e-06,
+      "force_identity_error": 1.829563637498503e-16,
+      "covariance_gap": -0.0008135915404634657,
+      "covariance_current": -0.0008135915407591648,
+      "covariance_identity_error": 2.956991205713133e-13
+    },
+    {
+      "x": -0.5,
+      "mean_gap": -4.3368086899420177e-16,
+      "force_gap": -2.1299075130001843e-05,
+      "current": -2.1299075164325014e-05,
+      "force_identity_error": 3.4323170933041325e-14,
+      "covariance_gap": -0.0013817047043241768,
+      "covariance_current": -0.0013817047062989888,
+      "covariance_identity_error": 1.9748120239776457e-12
+    },
+    {
+      "x": 0.0,
+      "mean_gap": -5.169475958410885e-16,
+      "force_gap": -3.295219658004428e-05,
+      "current": -3.295219659968426e-05,
+      "force_identity_error": 1.9639976765132433e-14,
+      "covariance_gap": -0.001656218029449259,
+      "covariance_current": -0.0016562180303948484,
+      "covariance_identity_error": 9.455893099780122e-13
+    },
+    {
+      "x": 1.0,
+      "mean_gap": -2.3592239273284576e-16,
+      "force_gap": -2.0832768456130468e-05,
+      "current": -2.0832768448415723e-05,
+      "force_identity_error": -7.714745590406066e-15,
+      "covariance_gap": -0.002198491079445008,
+      "covariance_current": -0.002198491078997855,
+      "covariance_identity_error": -4.4715316518950665e-13
+    },
+    {
+      "x": 2.0,
+      "mean_gap": -1.3877787807814457e-17,
+      "force_gap": -4.718800047459615e-06,
+      "current": -4.718800048348135e-06,
+      "force_identity_error": 8.88520621010816e-16,
+      "covariance_gap": -0.002600304273235623,
+      "covariance_current": -0.0026003042731830997,
+      "covariance_identity_error": -5.2523090043887777e-14
+    }
+  ],
+  "centered_actual_law_homotopy": [
+    {
+      "x": -1.0,
+      "force_gap": -9.57393247117807e-06,
+      "derivative_free_current": -9.573932471181327e-06,
+      "identity_error": 3.257688715140039e-18
+    },
+    {
+      "x": 0.0,
+      "force_gap": -3.29521918536409e-05,
+      "derivative_free_current": -3.295219185364182e-05,
+      "identity_error": 9.215718466126788e-19
+    },
+    {
+      "x": 1.0,
+      "force_gap": -2.0832772717089252e-05,
+      "derivative_free_current": -2.0832772717088696e-05,
+      "identity_error": -5.55653613398821e-19
+    }
+  ],
+  "status": "PASS",
+  "assertions": 21
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS: analytical diagnostics only",
+  "assertions": 771,
+  "exact_conditional_covariance_cases": 108,
+  "weight": "0.25",
+  "weighted_bridge_shield": "0.2300377961276525287386757220622890087224646386718151773580616972073998",
+  "R2_error_constant": "0.4900188980638262643693378610311445043612323193359075886790308486036999",
+  "pins": {
+    "AUGMENTED-SCORE-REMOVES-THE-NONLINEAR-K-HISTORY.md": "66aa022a4eac38187d1f277b3eae7a899502fc397f769a6d07e57aaba82e5833",
+    "INDEPENDENT-AUGMENTED-SCORE-REGROUPING-AUDIT.md": "345e4feefb1dd5a3505e5681ab86150942e692f156f20579205bde0c5f37cd5e"
+  },
+  "finite_VALUE_producer": "NOT CLAIMED"
+}

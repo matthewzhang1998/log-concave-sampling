@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-04",
+  "verdict": "PASS scoped resolvent/kernel, corrected mixture theorem, and guarded finite positive true-Gram service",
+  "total_distinct_assertions": 2207,
+  "sources": {
+    "../RESOLVENT-COVARIANCE-STABILITY-AND-FINITE-J-KERNEL.md": "359cdfffa1ce4b7467d24ed24d6b8efdedb85a16c5de0b650d3b4ea37aa52cfd",
+    "../GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md": "7476219bacabfacc44030a14710408735d3e31b78103376d57f525a3518726dc",
+    "../../order-reentry/RECTANGULAR-FIRST-COEFFICIENT-MEAN-AND-GRAM-RETURN.md": "13b0fad9f69355c511c8884ae1e7691066f740dccf387ec453344479193154ea",
+    "../../THIRD-ORDER-NESTED-FORCE-MEAN-WITH-C2-DECOUPLING.md": "b056e213ac28c60869727589d3ee6d1b2c53d6666908cdbe1961fa3121161ced"
+  },
+  "files": {
+    "INDEPENDENT-GAUSSIAN-COVARIANCE-MIXTURE-AUDIT.md": "834cf6a8f215ca70fd9015319b8709468d62874c2acd09daacaba5795bf0fd13",
+    "INDEPENDENT-RECTANGULAR-FILTER-AND-GRAM-RETURN-AUDIT.md": "d68d33d0111961b2291303ae619e2bb61c5fb8ef7732bd79e5526881c4345d98",
+    "INDEPENDENT-RESOLVENT-COVARIANCE-AND-VALUE-KERNEL-AUDIT.md": "69ba9e6ebeebfbe6c541937104c28f1d2c65f98dc6269fa550e7904b2c237d70",
+    "SHA256SUMS": "b3c29a939ff8be6c23db13adcceaf21001a1aa780197709784f7567eb58a8aef",
+    "check_mixture_and_gram_independent.py": "a5fc829cbafd496fff2f886126a638c9098d3af6b012aff2fcc355b19ceb3b60",
+    "check_resolvent_kernel_independent.py": "e3ee6156e3e62a4bf5b9e108bc8744884c4f191ef065aa8dd17a58601d168a8c",
+    "mixture_and_gram_independent_checks.json": "979b3dc19f72906cb91f157f432b877d0e1078dfebfc9febd80842543759f0df",
+    "resolvent_kernel_independent_checks.json": "8fb8d6c838a8692ba851c8c10360f0a1b6308afb3e57039026ea5e9d8205aee6"
+  },
+  "open_gates": [
+    "mixed K current",
+    "same-carrier m3 mean",
+    "original restoration floors and full order-four endpoint join"
+  ],
+  "qualifications": [
+    "actual imported C K A/C K A^2 radius/curl, finite-clock, active-dimension and precision guards",
+    "fixed positive variance buffer",
+    "L2 standard-Z scope of final resolvent/clock restoration",
+    "no numerical instantiation or re-proof of the imported high-order mean programs"
+  ]
+}

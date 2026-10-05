@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-10-04T23:18:00Z",
+  "scope": "Frozen proposed conditional-current extra-mark port and exact first-descendant source gate. Not a proved repeatable closure theorem.",
+  "files": [
+    {
+      "path": "rank3-continuation/next-current/EXTRA-MARK-PORT-AND-FIRST-DESCENDANT-SOURCE-GATE.md",
+      "sha256": "85031d24cfe1a338cbf7345d30dc1cfc2078ca4d1b8b9dfed783cd68c57f0ce1",
+      "bytes": 11005
+    }
+  ],
+  "prerequisite_audit": "order-reentry/independent-audit/INDEPENDENT-NATIVE-RANK3-PACKET-AUDIT.md",
+  "prerequisite_audit_sha256": "e6fc3a2290c2a1c8ed494cb6cec86a781827687c2bdfa706d8f5cb66896936e1"
+}

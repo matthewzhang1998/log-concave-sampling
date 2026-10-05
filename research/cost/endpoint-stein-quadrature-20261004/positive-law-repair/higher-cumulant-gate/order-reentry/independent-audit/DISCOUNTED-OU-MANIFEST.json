@@ -1,0 +1,15 @@
+{
+  "status": "PASS after verified covariance-display correction",
+  "date": "2026-10-04",
+  "assertions": 5024,
+  "scope": "Analytical discounted-OU connected hierarchy and one-derivative positive quadrature; no VALUE coefficient oracle, nonlinear posterior feedback closure, or all-order law.",
+  "inputs": {
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/DISCOUNTED-OU-CONNECTED-CUMULANT-RECURRENCE.md": "cd37a782bbcef3cdf5ec39a33be4874df56ff06af75170485b182c04b361d05e",
+    "research/cost/endpoint-stein-quadrature-20261004/positive-law-repair/higher-cumulant-gate/order-reentry/FIRST-RESOLVENT-CLOCK-QUADRATURE.md": "56968a4ff1880fee1dff80cb6b8f0044c27ee8108dca4c0d8a3ec8c45ee08926"
+  },
+  "outputs": {
+    "INDEPENDENT-DISCOUNTED-OU-CUMULANT-AND-CLOCK-AUDIT.md": "d309ae22f33a104dd5f15a2d436503958181e6927361ac18d128f9aebc7a9b74",
+    "check_discounted_ou_cumulants.py": "501239a7618d687ab73dcf378aaecbec8cdbc57b36820432146a03d603c1331d",
+    "discounted_ou_cumulant_checks.json": "50fe3539d59417229a3342bedafd763150fb7c18e760b291b3e273e9d66eecfd"
+  }
+}

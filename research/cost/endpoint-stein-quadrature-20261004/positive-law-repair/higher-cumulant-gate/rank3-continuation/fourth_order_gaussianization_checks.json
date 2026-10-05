@@ -1,0 +1,123 @@
+{
+  "assertions": 26,
+  "scalar_laws": [
+    {
+      "amplitude": 0.4,
+      "skew_raw_W2": 0.003619624342585971,
+      "skew_W2_over_a3": 0.056556630352905785,
+      "symmetric_W2": 0.0005102574643133796,
+      "symmetric_W2_over_a4": 0.019931932199741386,
+      "symmetric_bound": 0.009843871898809612,
+      "ratio_to_bound": 0.05183503702187382
+    },
+    {
+      "amplitude": 0.3,
+      "skew_raw_W2": 0.0015833489045258067,
+      "skew_W2_over_a3": 0.05864255201947433,
+      "symmetric_W2": 0.0001676119716681462,
+      "symmetric_W2_over_a4": 0.02069283600841311,
+      "symmetric_bound": 0.003114662592982728,
+      "ratio_to_bound": 0.05381384553362942
+    },
+    {
+      "amplitude": 0.2,
+      "skew_raw_W2": 0.00048172450374672846,
+      "skew_W2_over_a3": 0.060215562968341046,
+      "symmetric_W2": 3.4048603800602964e-05,
+      "symmetric_W2_over_a4": 0.021280377375376847,
+      "symmetric_bound": 0.0006152419936756008,
+      "ratio_to_bound": 0.05534180720855639
+    },
+    {
+      "amplitude": 0.15,
+      "skew_raw_W2": 0.00020514222809379953,
+      "skew_W2_over_a3": 0.06078288239816283,
+      "symmetric_W2": 1.0882240606250066e-05,
+      "symmetric_W2_over_a4": 0.02149578391358038,
+      "symmetric_bound": 0.0001946664120614205,
+      "ratio_to_bound": 0.05590199403694017
+    },
+    {
+      "amplitude": 0.1,
+      "skew_raw_W2": 6.119348523832587e-05,
+      "skew_W2_over_a3": 0.06119348523832586,
+      "symmetric_W2": 2.1652986561218673e-06,
+      "symmetric_W2_over_a4": 0.021652986561218668,
+      "symmetric_bound": 3.845262460472505e-05,
+      "ratio_to_bound": 0.056310815669414566
+    },
+    {
+      "amplitude": 0.075,
+      "skew_raw_W2": 2.5877077392451517e-05,
+      "skew_W2_over_a3": 0.06133825752284805,
+      "symmetric_W2": 6.868763644860107e-07,
+      "symmetric_W2_over_a4": 0.021708685099804784,
+      "symmetric_bound": 1.216665075383878e-05,
+      "ratio_to_bound": 0.056455665440161486
+    },
+    {
+      "amplitude": 0.05,
+      "skew_raw_W2": 7.680250461879954e-06,
+      "skew_W2_over_a3": 0.06144200369503962,
+      "symmetric_W2": 1.3592940167297072e-07,
+      "symmetric_W2_over_a4": 0.02174870426767531,
+      "symmetric_bound": 2.4032890377953155e-06,
+      "ratio_to_bound": 0.05655973939683389
+    }
+  ],
+  "third_hermite": [
+    {
+      "dimension": 1,
+      "squared_contraction": 0.38636032408379284,
+      "six_times_tensor_HS2": 0.38636032408379284
+    },
+    {
+      "dimension": 2,
+      "squared_contraction": 27.776708592549095,
+      "six_times_tensor_HS2": 27.776708592549095
+    },
+    {
+      "dimension": 3,
+      "squared_contraction": 57.12672696690966,
+      "six_times_tensor_HS2": 57.12672696690965
+    },
+    {
+      "dimension": 5,
+      "squared_contraction": 129.7016884033211,
+      "six_times_tensor_HS2": 129.70168840332104
+    }
+  ],
+  "independent_copy_coefficients": [
+    {
+      "coefficients": [
+        0.7071067811865475,
+        -0.7071067811865475
+      ],
+      "second": 0.9999999999999998,
+      "third": 0.0,
+      "fourth": 0.49999999999999983
+    },
+    {
+      "coefficients": [
+        0.35355339059327373,
+        0.35355339059327373,
+        0.35355339059327373,
+        0.35355339059327373,
+        -0.35355339059327373,
+        -0.35355339059327373,
+        -0.35355339059327373,
+        -0.35355339059327373
+      ],
+      "second": 0.9999999999999998,
+      "third": 0.0,
+      "fourth": 0.12499999999999996
+    }
+  ],
+  "source": {
+    "Lipschitz_bound": 1,
+    "energy_at_amplitude_1": 0.7493010964038019,
+    "third_cumulant": 0.2610297323219021,
+    "fourth_cumulant": 0.12042442054210101
+  },
+  "scope": "Scalar quadrature diagnostics and finite identities; the theorem is proved analytically in the companion note. No finite mean/covariance circuit is instantiated."
+}

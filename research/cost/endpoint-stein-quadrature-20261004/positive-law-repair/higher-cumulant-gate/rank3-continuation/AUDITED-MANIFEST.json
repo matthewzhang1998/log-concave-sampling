@@ -1,0 +1,31 @@
+{
+  "timestamp_utc": "2026-10-04T23:14:00Z",
+  "scope": "Final independent audit supplement; original component pins and earlier frozen manifest are preserved.",
+  "files": [
+    {
+      "path": "rank3-continuation/README.md",
+      "sha256": "765105755ada1dc212b569b5460d2e4b71d5c1c0aa3cb7b8e0fa4559be632f88",
+      "bytes": 4726
+    },
+    {
+      "path": "rank3-continuation/MANIFEST.json",
+      "sha256": "d2b9cace68b142310d6fdf230d7914d142562f71e7b9cce3953596bc4db48059",
+      "bytes": 3353
+    },
+    {
+      "path": "rank3-continuation/AUDIT-STATUS.md",
+      "sha256": "790616d9284f9255369be13da12ce9c98ceb936a9598f8126d819d3f88febd8c",
+      "bytes": 1086
+    },
+    {
+      "path": "order-reentry/independent-audit/INDEPENDENT-NATIVE-RANK3-PACKET-AUDIT.md",
+      "sha256": "e6fc3a2290c2a1c8ed494cb6cec86a781827687c2bdfa706d8f5cb66896936e1",
+      "bytes": 14653
+    },
+    {
+      "path": "order-reentry/independent-audit/NATIVE-RANK3-MANIFEST.json",
+      "sha256": "916d3084abf10a4e0a4bc83663ac92a587acec96b13874bdd84b0494f54edeb1",
+      "bytes": 1767
+    }
+  ]
+}

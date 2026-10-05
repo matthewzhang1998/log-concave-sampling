@@ -53,7 +53,7 @@ for line in (ROOT / 'SHA256SUMS').read_text().splitlines():
     check(relative, wanted)
 if len(listed) != len(set(listed)):
     errors.append('Duplicate checksum path')
-actual = {str(p.relative_to(ROOT)) for p in ROOT.rglob('*') if included(p) and p.name != 'SHA256SUMS'}
+actual = {str(p.relative_to(ROOT)) for p in ROOT.rglob('*') if included(p) and p != ROOT / 'SHA256SUMS'}
 if actual != set(listed):
     errors.append('Bundle file-set mismatch: '+str(sorted(actual.symmetric_difference(listed))))
 if errors:

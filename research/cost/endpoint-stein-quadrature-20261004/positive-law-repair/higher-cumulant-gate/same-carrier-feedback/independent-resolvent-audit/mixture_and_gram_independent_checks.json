@@ -1,0 +1,94 @@
+{
+  "status": "PASS supplementary mixture and rectangular-Gram checks",
+  "new_assertions": 277,
+  "rerun_resolvent_assertions": 1930,
+  "seed": 202610042345,
+  "pins": {
+    "same-carrier-feedback/GAUSSIAN-COVARIANCE-MIXTURE-ONE-ENERGY-LAW.md": "7476219bacabfacc44030a14710408735d3e31b78103376d57f525a3518726dc",
+    "order-reentry/RECTANGULAR-FIRST-COEFFICIENT-MEAN-AND-GRAM-RETURN.md": "13b0fad9f69355c511c8884ae1e7691066f740dccf387ec453344479193154ea"
+  },
+  "scope": "Finite mean programs imported under their actual guards, not numerically instantiated. K-current, m3 and full endpoint remain open.",
+  "metrics": {
+    "Stein_orientation_lhs": [
+      2.000000000000002,
+      1.1102230246251565e-16
+    ],
+    "Stein_orientation_wrong_rhs": [
+      1.000000000000001,
+      2.42861286636753e-16
+    ],
+    "mixture_quantile_diagnostics": [
+      {
+        "nu": 0.5,
+        "epsilon": 0.03,
+        "W2_quantile_diagnostic": 0.00028007046182001386,
+        "theorem_bound": 0.0011302717146376914
+      },
+      {
+        "nu": 0.5,
+        "epsilon": 0.1,
+        "W2_quantile_diagnostic": 0.002560539069560508,
+        "theorem_bound": 0.012558574607085463
+      },
+      {
+        "nu": 0.5,
+        "epsilon": 0.3,
+        "W2_quantile_diagnostic": 0.01449186299142897,
+        "theorem_bound": 0.11302717146376914
+      },
+      {
+        "nu": 1.0,
+        "epsilon": 0.03,
+        "W2_quantile_diagnostic": 0.00010347017556708086,
+        "theorem_bound": 0.00039961139700182905
+      },
+      {
+        "nu": 1.0,
+        "epsilon": 0.1,
+        "W2_quantile_diagnostic": 0.0010387777218681098,
+        "theorem_bound": 0.004440126633353657
+      },
+      {
+        "nu": 1.0,
+        "epsilon": 0.3,
+        "W2_quantile_diagnostic": 0.007164895166015609,
+        "theorem_bound": 0.039961139700182904
+      },
+      {
+        "nu": 2.0,
+        "epsilon": 0.03,
+        "W2_quantile_diagnostic": 3.7405181676810726e-05,
+        "theorem_bound": 0.00014128396432971143
+      },
+      {
+        "nu": 2.0,
+        "epsilon": 0.1,
+        "W2_quantile_diagnostic": 0.00039469741265178476,
+        "theorem_bound": 0.0015698218258856829
+      },
+      {
+        "nu": 2.0,
+        "epsilon": 0.3,
+        "W2_quantile_diagnostic": 0.003082244105968515,
+        "theorem_bound": 0.014128396432971143
+      }
+    ],
+    "partial_filter_checks": [
+      {
+        "K": 2,
+        "partial_filter_error": 0.00014855262101572196,
+        "shrinking_H_changes_finite_target": 0.003144023827396738
+      },
+      {
+        "K": 3,
+        "partial_filter_error": 4.4250946997899765e-06,
+        "shrinking_H_changes_finite_target": 0.0020239408861671363
+      },
+      {
+        "K": 5,
+        "partial_filter_error": 4.539753846163237e-09,
+        "shrinking_H_changes_finite_target": 0.0004781681513335609
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "timestamp_utc": "2026-10-04T23:11:00Z",
+  "scope": "Frozen bounded positive rank-three packet and its separate analytical consumers. Does not certify a complete P3 mean/covariance join or repeatable all-order recurrence.",
+  "files": [
+    {
+      "path": "rank3-continuation/EXACT-FIVE-CLOCK-NATIVE-SOURCE-ADAPTER.md",
+      "sha256": "dd6707cae6dabe52f2172202ce0cbcd087c7a069ba1dd47800a9c89300216c26",
+      "bytes": 8712
+    },
+    {
+      "path": "rank3-continuation/FOURTH-ORDER-GAUSSIANIZATION-WHEN-THIRD-CUMULANT-VANISHES.md",
+      "sha256": "06ab222f8f739490c0142582a565ebaf3c9605a7ef0963385502bab32105c880",
+      "bytes": 10061
+    },
+    {
+      "path": "rank3-continuation/NATIVE-THREE-MARKED-PATH-AND-EXACT-SKEW-TARGET.md",
+      "sha256": "f4ddc406c1d1f9e13d1e4a73cecf80fb1f8ccf048b91574e9937f5015d4441aa",
+      "bytes": 15490
+    },
+    {
+      "path": "rank3-continuation/POSITIVE-QUADRATIC-REFERENCE-FOR-SKEW-GAUSSIANIZATION.md",
+      "sha256": "a797723ef51ae41a28bdd47c99bb7d5fccee49de6599d07ec8b085578c907c41",
+      "bytes": 5042
+    },
+    {
+      "path": "rank3-continuation/POSITIVE-RANK3-PACKET-FEEDBACK-LEMMA.md",
+      "sha256": "c689f0a947bcf6358f38bc6470ede05f564dcec11ff5e4171df8250e4af78193",
+      "bytes": 9869
+    },
+    {
+      "path": "rank3-continuation/README.md",
+      "sha256": "765105755ada1dc212b569b5460d2e4b71d5c1c0aa3cb7b8e0fa4559be632f88",
+      "bytes": 4726
+    },
+    {
+      "path": "rank3-continuation/check_fourth_order_gaussianization.py",
+      "sha256": "6094cf63ff5c0e54d46bef587777e33256ba4364aeb168a6c93d30d642ac2dfb",
+      "bytes": 4247
+    },
+    {
+      "path": "rank3-continuation/check_positive_rank3_packet.py",
+      "sha256": "375cc6084d9ff80ffb716844a121296b08ccf6cd4f2294e71410d90363b681f2",
+      "bytes": 2576
+    },
+    {
+      "path": "rank3-continuation/check_positive_skew_reference.py",
+      "sha256": "d951d6653e036e0cf028eb0e307dba11895e7b3255974dfc1bb455cda7f684da",
+      "bytes": 1557
+    },
+    {
+      "path": "rank3-continuation/fourth_order_gaussianization_checks.json",
+      "sha256": "5de3fa6e18bca6632f9c02fc6dd1257944862728921855d0f77fb9f68153ece1",
+      "bytes": 3787
+    },
+    {
+      "path": "rank3-continuation/positive_rank3_packet_checks.json",
+      "sha256": "4d6ad9ded99fe0b29a61bbeb28948e14f4d1070ca5ee063bbe9137199a3e44e4",
+      "bytes": 1323
+    },
+    {
+      "path": "rank3-continuation/positive_skew_reference_checks.json",
+      "sha256": "02f516311d1d56a3d290bc8884e612b7d3c220b0aac11fe51a0e5ff17d12d2df",
+      "bytes": 2127
+    }
+  ],
+  "external_sources": [
+    {
+      "path": "order-reentry/THIRD-CUMULANT-POSITIVE-CLOCK-COMPRESSION.md",
+      "sha256": "c3ed7cdf2145707391c0e16bfe675f9f154beedf795ef1ab7b49dc1116737e53",
+      "bytes": 7249
+    },
+    {
+      "path": "order-reentry/FIRST-RESOLVENT-CLOCK-QUADRATURE.md",
+      "sha256": "56968a4ff1880fee1dff80cb6b8f0044c27ee8108dca4c0d8a3ec8c45ee08926",
+      "bytes": 3168
+    },
+    {
+      "path": "external:LOW30",
+      "sha256": "7767ac389d6b677eb9517b2585f7a24cb9f85ede47d099a653c635b7be750fb8",
+      "bytes": 680050
+    }
+  ],
+  "historical_note": "NATIVE-THREE-MARKED-PATH-AND-EXACT-SKEW-TARGET.md Section 6 is superseded by the separately pinned feedback lemma; its bytes remain unchanged."
+}

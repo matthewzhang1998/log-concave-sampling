@@ -1,0 +1,13 @@
+{
+  "status": "PASS within stated analytical scope; finite endpoint closure not supplied",
+  "date": "2026-10-04",
+  "assertions": 36,
+  "inputs": {
+    "../SAME-CARRIER-P3-MEAN-AND-FULL-COVARIANCE-GATE.md": "a63c38f14206ec278f7c12a56542968a7d1675af6f550610e4539e500a653eca"
+  },
+  "outputs": {
+    "INDEPENDENT-SAME-CARRIER-CONTRACT-AND-COUNTEREXAMPLE-AUDIT.md": "8000a2dbe0a204be565a53e51cd2089d5bbd4b79d8d923761dcc3f1477887581",
+    "check_same_carrier_contract.py": "0968d1d30f672b5af494b3a44397711ce255d87564d5e3ec043ed6529e68af64",
+    "same_carrier_contract_checks.json": "fc91e6b96e9127883ba15963810f74577dd604bd0ca9a81d248bfe0aa0256cfb"
+  }
+}

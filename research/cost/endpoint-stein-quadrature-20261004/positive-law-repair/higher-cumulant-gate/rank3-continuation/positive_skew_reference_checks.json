@@ -1,0 +1,61 @@
+{
+  "rows": [
+    {
+      "A": 0.4,
+      "W2": 0.00022511647726609213,
+      "W2_over_A4": 0.008793612393206722,
+      "one_energy_ratio_W2_over_A3e": 0.011735752737331913,
+      "reference_variance_extra": 4.456667515701314e-05,
+      "reference_third_extra": 8.415120639416001e-07
+    },
+    {
+      "A": 0.3,
+      "W2": 8.176760443600193e-05,
+      "W2_over_A4": 0.010094765979753326,
+      "one_energy_ratio_W2_over_A3e": 0.013472242371193873,
+      "reference_variance_extra": 9.10483139017329e-06,
+      "reference_third_extra": 7.770569603930785e-08
+    },
+    {
+      "A": 0.2,
+      "W2": 1.7968915421903744e-05,
+      "W2_over_A4": 0.011230572138689839,
+      "one_energy_ratio_W2_over_A3e": 0.014988063133218252,
+      "reference_variance_extra": 8.875330123859095e-07,
+      "reference_third_extra": 2.364948933085774e-09
+    },
+    {
+      "A": 0.15,
+      "W2": 5.911094205644925e-06,
+      "W2_over_A4": 0.011676235467940593,
+      "one_energy_ratio_W2_over_A3e": 0.015582835156627364,
+      "reference_variance_extra": 1.6407501011328439e-07,
+      "reference_third_extra": 1.879787048511431e-10
+    },
+    {
+      "A": 0.1,
+      "W2": 1.2011447113654379e-06,
+      "W2_over_A4": 0.012011447113654377,
+      "one_energy_ratio_W2_over_A3e": 0.016030200904952833,
+      "reference_variance_extra": 1.4807044241898476e-08,
+      "reference_third_extra": 5.096212802286452e-12
+    },
+    {
+      "A": 0.075,
+      "W2": 3.838717142898151e-07,
+      "W2_over_A4": 0.012132241834344774,
+      "one_energy_ratio_W2_over_A3e": 0.01619141075940272,
+      "reference_variance_extra": 2.661129298457652e-09,
+      "reference_third_extra": 3.882790498695993e-13
+    },
+    {
+      "A": 0.05,
+      "W2": 7.637283878396514e-08,
+      "W2_over_A4": 0.01221965420543442,
+      "one_energy_ratio_W2_over_A3e": 0.016308069298285384,
+      "reference_variance_extra": 2.352624030871338e-10,
+      "reference_third_extra": 1.0206428245991543e-14
+    }
+  ],
+  "scope": "Numerical scalar quantile diagnostic only. Positive reference includes its true extra covariance and higher cumulants; these are not silently set to zero."
+}

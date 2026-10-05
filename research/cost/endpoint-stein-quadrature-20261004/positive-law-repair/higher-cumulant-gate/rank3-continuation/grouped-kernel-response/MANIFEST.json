@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-04",
+  "scope": "Bounded conditional whole-kernel law mark, fractional B mark, source-qualified A7 covariance and uniform finite provider floors; not full connected-current closure",
+  "all_independent_pins_verified": true,
+  "files": {
+    "INTERMEDIATE-SCALE-B-MARK-COROLLARY.md": "070cac5569e9c6a1386bc26c5f98146bc8e25b5e00850cd146950c769e2235c7",
+    "PAIRED-ROTATION-COVARIANCE-ALL-CUT-LEMMA.md": "b8383590bdea35e5783c4fe86fdd68551d3d817a1ce81ee1c9004de8964ca668",
+    "README.md": "8a2e13453c9013bcd2719a3a13cb05372e4d0033ed1a5c54218b991829de3d01",
+    "WHOLE-KERNEL-GAUSSIAN-LAW-RESPONSE-AND-FAILED-BRIDGE-GATE.md": "d485c98016f8192669ac72757b6bdaa555c27b42098a79e0b4e506e4f705fab2",
+    "independent-audit/INDEPENDENT-FRACTIONAL-B-PRICE-AUDIT.md": "7fcb52d0fe1a21c0fe1d21420aeb00b5f711509c640c6807b8f78c95f80673e4",
+    "independent-audit/INDEPENDENT-GROUPED-LAW-MANIFEST.json": "c4d6d1bc547d5a29e78a46bf8dd5fc733a5b579c9ee560db96218e4300ffb39f",
+    "independent-audit/INDEPENDENT-GROUPED-LAW-RESPONSE-AUDIT.md": "e0896af140675d501d802153b3b2d991eee26659dc970e44f9b2e0aea822da8f",
+    "independent-audit/check_grouped_law_response.py": "550958567cc35fb80e3379ebd8c1280608958025ea2e6f422acaa775cbb6c4fa",
+    "independent-audit/grouped_law_response_checks.json": "c22573413e00fed5c727627132009e6431048fc3608c401c601a920aff54d46d"
+  }
+}
